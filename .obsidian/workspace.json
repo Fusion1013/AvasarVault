@@ -18,7 +18,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Templates/City Template.md",
+                    "file": "Templates Overview.md",
                     "mode": "source",
                     "source": false
                   }
@@ -41,7 +41,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Templates/City Template.md",
+                        "file": "Templates Overview.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -97,7 +97,7 @@
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "Templates/City Template.md",
+                        "file": "Templates Overview.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -196,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/City Template.md",
+                "file": "Templates Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,7 +219,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/City Template.md"
+                "file": "Templates Overview.md"
               }
             }
           }
@@ -245,24 +245,24 @@
   },
   "active": "b2b6f4b160606a68",
   "lastOpenFiles": [
-    "Building Avasar/Creatures/Worldbeasts/Hiosu, the Wandering Kingdom.md",
     "Templates/City Template.md",
-    "D&D/Building Avasar/Creatures/Worldbeasts/Name.md",
+    "Building Avasar/Major Locations/Elisus/Saxum Sovereignty/Cities/Gulstad, City of Gold.md",
+    "Building Avasar/Major Locations/Elisus/Saxum Sovereignty/Saxum Sovereignty Overview.md",
     "Templates/Worldbeast Template.md",
+    "Templates Overview.md",
+    "Building Avasar/Creatures/Worldbeasts/Hiosu, the Wandering Kingdom.md",
+    "D&D/Building Avasar/Creatures/Worldbeasts/Name.md",
     "Templates/Creature Template.md",
     "Templates/Formatted Image Template.md",
     "Templates/Plane Template.md",
     "Building Avasar/Major Locations/Elisus/Elisus Overview.md",
     "Building Avasar/Cosmology/Cosmology Overview.md",
     "Building Avasar/Cosmology/Planes Overview.md",
-    "Building Avasar/Major Locations/Elisus/Saxum Sovereignty/Saxum Sovereignty Overview.md",
-    "Building Avasar/Major Locations/Elisus/Saxum Sovereignty/Cities/Gulstad, City of Gold.md",
     "Building Avasar/Major Locations/Elisus/Saxum Sovereignty/Landmarks/Dragonback Mountains.md",
     "Building Avasar/Cosmology/Planes, Gods & Lunar Phases.md",
     "Building Avasar/Creatures/Worldbeasts/Worldbeasts Overview.md",
     "Building Avasar/Creatures/Worldbeasts/Aonus, the Wandering Giant.md",
     "Building Avasar/Creatures/Worldbeasts/Thalassa, the Abyssal Maw.md",
-    "Templates Overview.md",
     "2023-06-04.md",
     "Building Avasar/Languages/Languages Overview.md",
     "Attachements/InsectCreatures.jpg",

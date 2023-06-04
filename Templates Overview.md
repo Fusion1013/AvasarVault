@@ -2,3 +2,4 @@
 [[Plane Template]]
 [[Creature Template]]
 [[Worldbeast Template]]
+[[City Template]]
