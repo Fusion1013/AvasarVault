@@ -18,7 +18,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Building Avasar/Creatures/Worldbeasts/Hiosu, the Wandering Kingdom.md",
+                    "file": "Templates/City Template.md",
                     "mode": "source",
                     "source": false
                   }
@@ -41,7 +41,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Building Avasar/Creatures/Worldbeasts/Hiosu, the Wandering Kingdom.md",
+                        "file": "Templates/City Template.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -97,7 +97,7 @@
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "Building Avasar/Creatures/Worldbeasts/Hiosu, the Wandering Kingdom.md",
+                        "file": "Templates/City Template.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -196,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Building Avasar/Creatures/Worldbeasts/Hiosu, the Wandering Kingdom.md",
+                "file": "Templates/City Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,7 +219,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Building Avasar/Creatures/Worldbeasts/Hiosu, the Wandering Kingdom.md"
+                "file": "Templates/City Template.md"
               }
             }
           }
@@ -243,10 +243,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "16744e13985ce8b2",
+  "active": "b2b6f4b160606a68",
   "lastOpenFiles": [
-    "D&D/Building Avasar/Creatures/Worldbeasts/Name.md",
     "Building Avasar/Creatures/Worldbeasts/Hiosu, the Wandering Kingdom.md",
+    "Templates/City Template.md",
+    "D&D/Building Avasar/Creatures/Worldbeasts/Name.md",
     "Templates/Worldbeast Template.md",
     "Templates/Creature Template.md",
     "Templates/Formatted Image Template.md",
@@ -277,7 +278,6 @@
     "Building Avasar/Cosmology/Inner Planes/The Dark Beyond.md",
     "Building Avasar/Cosmology/Inner Planes/Tenebris.md",
     "Building Avasar/Cosmology/Inner Planes/Aurora Ortus.md",
-    "Building Avasar/Cosmology/Inner Planes/Elemental Plane of Chaos.md",
     "Attachements/MushroomCave.png",
     "Attachements/KnowledgeSpire.png",
     "Templates",
