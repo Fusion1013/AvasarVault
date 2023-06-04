@@ -23,7 +23,6 @@ FROM #city
 WHERE nation = "Saxum"
 ```
 ## Major People
-
 ### Archmage Igorim Ovras
 Male elf, around 500 years old. He is one of the original founders of the capital and has been on the council since then. He now oversees a lot of the magical research that is being conducted at the bottom of the Myriad.
 
