@@ -17,6 +17,20 @@
     "pageCountType": "ByWords"
   },
   "cachedCounts": {
+    "Building Avasar/Major Locations/Separi/The City-State of Drufali/City-State of Drufali Overview.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1685918186824,
+      "modifiedDate": 1685918186824,
+      "sizeInBytes": 0
+    },
     "Building Avasar/Major Locations/Elisus/Saxum Sovereignty/Saxum Sovereignty Overview.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -53,14 +67,14 @@
       "noteCount": 1,
       "wordCount": 1468,
       "pageCount": 4.8933333333333335,
-      "characterCount": 8866,
+      "characterCount": 8847,
       "nonWhitespaceCharacterCount": 7367,
       "linkCount": 13,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1685830602817,
-      "modifiedDate": 1685892643854,
-      "sizeInBytes": 8884
+      "modifiedDate": 1685917202756,
+      "sizeInBytes": 8865
     },
     "Building Avasar/Major Locations/Elisus/Saxum Sovereignty/Cities/Havdal, City of Pearls.md": {
       "isDirectory": false,
@@ -692,30 +706,30 @@
     "Templates Overview.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 9,
-      "pageCount": 0.03,
-      "characterCount": 94,
-      "nonWhitespaceCharacterCount": 85,
-      "linkCount": 4,
+      "wordCount": 11,
+      "pageCount": 0.03666666666666667,
+      "characterCount": 112,
+      "nonWhitespaceCharacterCount": 101,
+      "linkCount": 5,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1685912196810,
-      "modifiedDate": 1685914638775,
-      "sizeInBytes": 94
+      "modifiedDate": 1685916546234,
+      "sizeInBytes": 112
     },
     "Templates/City Template.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
+      "wordCount": 21,
+      "pageCount": 0.07,
+      "characterCount": 188,
+      "nonWhitespaceCharacterCount": 164,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1685916350073,
-      "modifiedDate": 1685916350073,
-      "sizeInBytes": 0
+      "modifiedDate": 1685916525700,
+      "sizeInBytes": 188
     },
     "Templates/Worldbeast Template.md": {
       "isDirectory": false,
@@ -762,16 +776,16 @@
     "Templates/Creature Template.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 5,
-      "pageCount": 0.016666666666666666,
-      "characterCount": 24,
-      "nonWhitespaceCharacterCount": 20,
+      "wordCount": 7,
+      "pageCount": 0.023333333333333334,
+      "characterCount": 36,
+      "nonWhitespaceCharacterCount": 30,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1685913517212,
-      "modifiedDate": 1685913531409,
-      "sizeInBytes": 24
+      "modifiedDate": 1685916784602,
+      "sizeInBytes": 36
     },
     "Style Viewer.md": {
       "isDirectory": false,
