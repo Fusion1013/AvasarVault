@@ -11,7 +11,7 @@ essence:
 plane: ![["Vertae, Plane of Truth"]]
 ---
 ## Overview
-One of the major [[Pantheon Overview|Gods]].
+One of the major [[Pantheon Overview|Gods]], attuned to [[Vertae, Plane of Truth]].
 ## Domain
 
 ## Symbology

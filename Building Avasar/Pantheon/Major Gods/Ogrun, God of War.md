@@ -13,7 +13,7 @@ essence:
 plane: ![["Stratosia, Plane of War"]]
 ---
 ## Overview
-One of the major [[Pantheon Overview|Gods]].
+One of the major [[Pantheon Overview|Gods]], attuned to [[Stratosia, Plane of War]].
 ## Domain
 
 ## Symbology

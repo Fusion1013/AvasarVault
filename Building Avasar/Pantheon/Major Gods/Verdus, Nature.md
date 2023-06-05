@@ -13,7 +13,7 @@ essence:
 plane: ![["Feralia, Plane of Nature"]]
 ---
 ## Overview
-One of the major [[Pantheon Overview|Gods]].
+One of the major [[Pantheon Overview|Gods]], attuned to [[Verdus, Nature]].
 ## Domain
 
 ## Symbology

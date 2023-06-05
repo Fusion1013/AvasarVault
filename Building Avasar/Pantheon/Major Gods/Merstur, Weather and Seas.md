@@ -13,7 +13,7 @@ essence:
 plane: ![["Terozin, Plane of Weather & Seas"]]
 ---
 ## Overview
-One of the major [[Pantheon Overview|Gods]].
+One of the major [[Pantheon Overview|Gods]], attuned to [[Terozin, Plane of Weather & Seas]].
 ## Domain
 
 ## Symbology

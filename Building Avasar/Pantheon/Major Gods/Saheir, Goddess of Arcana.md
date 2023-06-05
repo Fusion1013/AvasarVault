@@ -11,7 +11,7 @@ essence:
 plane: ![["Aurora Ortus"]]
 ---
 ## Overview
-One of the major [[Pantheon Overview|Gods]].
+One of the major [[Pantheon Overview|Gods]], attuned to [[Aurora Ortus]].
 ## Domain
 
 ## Symbology

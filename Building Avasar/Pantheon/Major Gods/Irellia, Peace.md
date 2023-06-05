@@ -12,7 +12,7 @@ essence:
 plane: ![["Kalament, Plane of Peace"]]
 ---
 ## Overview
-One of the major [[Pantheon Overview|Gods]].
+One of the major [[Pantheon Overview|Gods]], attuned to [[Kalament, Plane of Peace]].
 ## Domain
 
 ## Symbology

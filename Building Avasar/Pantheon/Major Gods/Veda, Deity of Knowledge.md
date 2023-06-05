@@ -11,7 +11,7 @@ essence:
 plane: ![["Gnosis, Plane of Knowledge"]]
 ---
 ## Overview
-One of the major [[Pantheon Overview|Gods]].
+One of the major [[Pantheon Overview|Gods]], attuned to [[Gnosis, Plane of Knowledge]].
 ## Domain
 Veda’s domain contains all aspects of finding, preserving, and distributing knowledge.
 ## Symbology

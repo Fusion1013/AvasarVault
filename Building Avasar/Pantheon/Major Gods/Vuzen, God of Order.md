@@ -13,7 +13,7 @@ essence:
 plane: ![["Orthosia, Plane of Order"]]
 ---
 ## Overview
-One of the major [[Pantheon Overview|Gods]].
+One of the major [[Pantheon Overview|Gods]], attuned to [[Orthosia, Plane of Order]].
 ## Domain
 Vuzen embodies all aspects of order and control. This can include structure within someone's life up to the stability of a region. His domain also includes forms of absolute control, such as tyranny.
 ## Symbology

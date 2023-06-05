@@ -12,7 +12,7 @@ essence:
 plane: ![["Sutya, Plane of Artisans"]]
 ---
 ## Overview
-One of the major [[Pantheon Overview|Gods]].
+One of the major [[Pantheon Overview|Gods]], attuned to [[Sutya, Plane of Artisans]].
 ## Domain
 
 ## Symbology

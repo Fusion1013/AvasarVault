@@ -11,7 +11,7 @@ essence:
 plane: ![["Tenebris"]], ![["Luminaria, Plane of Light"]]
 ---
 ## Overview
-One of the major [[Pantheon Overview|Gods]].
+One of the major [[Pantheon Overview|Gods]], attuned to [[Tenebris]] and [[Luminaria]].
 ## Domain
 
 ## Symbology

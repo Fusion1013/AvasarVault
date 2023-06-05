@@ -10,7 +10,7 @@ essence:
 plane: ![["Elemental Plane of Chaos"]]
 ---
 ## Overview
-One of the major [[Pantheon Overview|Gods]].
+One of the major [[Pantheon Overview|Gods]], attuned to the [[Elemental Plane of Chaos]].
 ## Domain
 
 ## Symbology

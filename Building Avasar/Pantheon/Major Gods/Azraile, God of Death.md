@@ -12,7 +12,7 @@ essence:
 plane: ![["The Dark Beyond"]]
 ---
 ## Overview
-One of the major [[Pantheon Overview|Gods]].
+One of the major [[Pantheon Overview|Gods]], attuned to [[The Dark Beyond]].
 ## Domain
 Azraile represents all aspects of death. He acts as a foil to the domain of Anvarra. He acts to ensure the inevitable end of every mortal life and guides their spirits to wherever they may reside. His domain also includes ways of causing death, such as murder.
 ## Symbology

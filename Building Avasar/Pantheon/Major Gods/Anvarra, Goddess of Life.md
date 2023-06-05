@@ -10,7 +10,7 @@ essence:
 plane: ![["Vylmat, Plane of Life"]]
 ---
 ## Overview
-One of the major [[Pantheon Overview|Gods]].
+One of the major [[Pantheon Overview|Gods]], attuned to [[Vylmat, Plane of Life]].
 ## Domain
 Anvarra acts as a representation of life as a whole. Anything which is considered to be alive, besides what falls under the domain of [[Verdus, Nature|Verdus]], is what she resides over. This includes anything which would be seen as a warped or corrupted version of life, such as undeath.
 ## Symbology
