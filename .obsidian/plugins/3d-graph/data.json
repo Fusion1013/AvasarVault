@@ -1,0 +1,27 @@
+{
+  "filters": {
+    "doShowOrphans": true
+  },
+  "groups": {
+    "groups": [
+      {
+        "query": "Building Avasar/Languages",
+        "color": "#0f97ff"
+      },
+      {
+        "query": "Building Avasar/Major Locations",
+        "color": "#fff700"
+      },
+      {
+        "query": "Building Avasar/Cosmology",
+        "color": "#1eff00"
+      }
+    ]
+  },
+  "display": {
+    "nodeSize": 4,
+    "linkThickness": 5,
+    "particleSize": 6,
+    "particleCount": 4
+  }
+}

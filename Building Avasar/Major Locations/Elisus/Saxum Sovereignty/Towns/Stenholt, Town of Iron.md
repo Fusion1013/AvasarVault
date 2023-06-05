@@ -1,6 +1,6 @@
 ---
 tags:
-- city
+- town
 nation: Saxum
 description:
 ---
