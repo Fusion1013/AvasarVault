@@ -18,6 +18,7 @@ The Saxum Sovereignty was founded in 1185 APC, not long after the cataclysm that
 
 Relations with the Turochan Kingdom are still tense, but have significantly calmed since the earlier days. Trade has started to open up more and more over the last 20 years, as Turochan has started to relax their anti-magic policies. The construction of a major trade route through the mountains has significantly aided in these efforts. Information of magical nature is still being kept behind closed doors however.
 ## Major Cities
+There are only four major cities in Saxum.
 ```dataview
 TABLE description AS "Description"
 FROM #city

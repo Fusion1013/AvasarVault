@@ -9,5 +9,5 @@ age:
 description: Served on the Saxum Triumvirate for 20 years before being expelled for attempting to overthrow it.
 ---
 ## Overview
-Served on the Saxum Triumvirate for 20 years before being expelled for attempting to overthrow it.
+Served on [[The Saxum Triumvirate]] for 20 years before being expelled for attempting to overthrow it.
 ## Appearance

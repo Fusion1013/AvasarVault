@@ -9,5 +9,5 @@ age:
 description: Served the Saxum Triumvirate for 30 years before passing away due to illness.
 ---
 ## Overview
-Served the Saxum Triumvirate for 30 years before passing away due to illness.
+Served [[The Saxum Triumvirate]] for 30 years before passing away due to illness.
 ## Appearance

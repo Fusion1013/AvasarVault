@@ -9,5 +9,5 @@ age:
 description: Served the Saxum Triumvirate for 31 years before stepping down to focus on personal research.
 ---
 ## Overview
-Served the Saxum Triumvirate for 31 years before stepping down to focus on personal research.
+Served [[The Saxum Triumvirate]] for 31 years before stepping down to focus on personal research.
 ## Appearance

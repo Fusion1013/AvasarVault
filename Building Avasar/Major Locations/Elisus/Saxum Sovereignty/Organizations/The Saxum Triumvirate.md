@@ -28,29 +28,9 @@ The Council of the [[Saxum Sovereignty Overview|Saxum Sovereignty]] is made up o
 
 Each member of the council is expected to represent the interests of their region and its people, but they must also work together for the good of the entire nation. The council members are respected leaders within their communities, known for their wisdom, experience, and dedication to the betterment of the [[Saxum Sovereignty Overview|Saxum Sovereignty]].
 ### Council Members
-#### Lady Althea Sylvielle
-A noblewoman from the city of ???, known for her diplomatic skills and expertise in economics.
-#### Lord Cedric Blackwood
-A lord from the region of ???, known for his military prowess and experience in strategy.
-#### Lady Elara Nightraven
-A mage from the town of ???, known for her knowledge of arcane magic and spellcraft.
-#### Sir Marcus Goldenhelm
-A knight from the region of ???, known for his martial prowess and skill with a sword.
-#### Master Balthazar Stonefist
-A dwarven craftsman from the city of Gulstad, known for his expertise in metallurgy and engineering.
-#### Lady Lyanna Wildwood
-A ranger from the forests of ???, known for her knowledge of nature and survival skills.
-#### Gertrude Eriksdottir
-A gruff woman from [[Stenholt, Town of Iron|Stenholt]], a town on the edge of the [[Morgenfryd Fields]]. She is a stern but fair leader.
-#### Lord Galen Stormborn
-A nobleman from the region of ???, known for his expertise in naval affairs and seafaring.
-#### Moria Stonehammer
-A dwarf from the Fracrish Mountains, expert in mining and resource management.
-#### Elwin Merriweather:
-A halfling from the town of ???, Elwin is a skilled farmer and expert in agriculture.
-#### Arturo D’Angelo:
-A human from the coastal town of [[Havdal, City of Pearls|Havdal]], Arturo is an expert in maritime affairs and naval strategy.
-#### Eira Grimsson:
-A half-elf from the ???, Eira is an expert in survival, hunting, and wilderness tactics.
-#### Lucian Blackwood:
-A human from the town of ???, Lucian is a skilled blacksmith and expert in metalworking.
+```dataview
+TABLE
+description AS "Description"
+FROM #saxum_council AND #alive 
+SORT file.name ASC
+```

@@ -9,5 +9,5 @@ age:
 description: Served on the Saxum Triumvirate for 45 years before retiring due to old age.
 ---
 ## Overview
-Served on the Saxum Triumvirate for 45 years before retiring due to old age.
+Served on [[The Saxum Triumvirate]] for 45 years before retiring due to old age.
 ## Appearance
