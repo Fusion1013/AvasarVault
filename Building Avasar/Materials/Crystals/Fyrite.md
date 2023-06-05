@@ -6,7 +6,7 @@ tags:
 description: A translucent green material with flecks of fiery red within. Touching this manterial causes for it to burn your skin.
 
 properties:
-- Acid
+- [[Acid]]
 rarity: Rare
 cost_kg_uncut: 45.36gp
 cost_lb_uncut: 100.00gp
