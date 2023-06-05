@@ -9,7 +9,7 @@ aliases:
 *"Where Craftsmanship meets Prosperity"*
 
 **Population:** 96.110 (41% humans, 26% dwarves, 15% halflings, 18% other races)
-**Government:** A [[The Triumviate|Triumvirate]] of three mages, along with a council of 13 representatives.
+**Government:** A [[The Saxum Triumvirate|Triumvirate]] of three mages, along with a council of 13 representatives.
 **Defense:** The city is heavily defended by ringed walls, arcane cannons, etc.
 **Commerce:** Gulstad is the center of trade for this nation.
 **Organizations:** The main seat of power for the Saxum Council, rulers of the nation.
@@ -46,34 +46,25 @@ While attempting some of these experiments they accidentally created the [[Hikse
 <span class="rightimg"><span class="smallimg"> ![[KingsCrypt.jpg|180]] </span></span>*"Forget what must be remembered"*
 
 Far beneath the bustling streets and towering spires of the city lies a somber place of remembrance known as the King’s Grave. This macabre monument serves as a testament to the harrowing history of the Saxum, who endured the hatred of their old people in the aftermath of the cataclysm that shattered their homeland. Here, the past is interred in the deepest, darkest depths, never to be seen or spoken of again, a symbol of the Saxum’s seething anger and resentment towards the new king and his nation. For the Saxum, the King’s Grave is a place of mourning and bitter acceptance, a stark reminder of all they have lost and all that is now forever dead and buried.
-
 ### Dragon Port
 The main headquarters of [[Gulstad, City of Gold#Skywing Transport|Skywing Transport]]. It provides transportation to the other side of the Dragonback Mountains and up to [[Odverg, City of Metal|Odverg]].
-
 ## Defenses
 There are three layers of ringed walls surrounding the city. There are eight smaller towers spread along the outermost wall with arcane cannons stationed on top. The inner walls have towers of their own with catapults on top of them. There are two armored gates that lead into the inner rings, one on each side of the city.
 
-Since most of the city is located underground it is well protected from airborne attacks. A significant amount of time has been spent trying to protect the [[Gulstad, City of Gold#The Twilight District|Twilight District]] from underground attacks, such as large worms or similar creatures. While the outermost tunnels have been reinforced with steel, they are still vulnerable to attacks by a persistent foe. To aid in the defenses of these tunnels, most of them have [[Shadow Lanterns]] attached to the walls that can be activated either in sections or all at once by the guard captains.
+Since most of the city is located underground it is well protected from airborne attacks. A significant amount of time has been spent trying to protect the [[Gulstad, City of Gold#The Twilight District|Twilight District]] from underground attacks, such as large worms or similar creatures. While the outermost tunnels have been reinforced with steel, they are still vulnerable to attacks by a persistent foe. To aid in the defenses of these tunnels, most of them have [[Shadow Lantern|Shadow Lanterns]]' attached to the walls that can be activated either in sections or all at once by the guard captains.
 
 The city guards can be recognized by their black plate mail, with high rank being indicated by strips of gold filigree on their helmets. Most of the city guards have some knowledge of the arcane, but there are a few groups that specialize in different kinds of magic.
-
 ## Organizations
-
 ### The Saxum Triumvirate
-The [[The Triumviate|Saxum Triumvirate]] is composed of three powerful mages who rule over the Saxum Sovereignty from within the Myriad. They are [[Igorim Ovras]], [[Master Leo Umbras]], and [[Ezorah von Abendroth]]. As the ruling body of the nation, they hold ultimate power over all aspects of governance and policy, though they are advised by a council of 13 representatives from different regions of the country. [[The Triumviate|The Triumvirate]] is known for their formidable magical abilities and their unwavering commitment to Saxum and its prosperity.
-
+[[The Saxum Triumvirate]] is composed of three powerful mages who rule over the Saxum Sovereignty from within the Myriad. They are [[Archmage Igorim Ovras]], [[Master Leo Umbras]], and [[Ezorah von Abendroth]]. As the ruling body of the nation, they hold ultimate power over all aspects of governance and policy, though they are advised by a council of 13 representatives from different regions of the country. [[The Saxum Triumvirate|The Triumvirate]] is known for their formidable magical abilities and their unwavering commitment to Saxum and its prosperity.
 ### Skywing Transport
 *"Trust your cargo to the strength of our dragons"*
 
 Skywing Transport was created to be a solution to the difficult problem of transporting goods across the [[Dragonback Mountains]]. Since dragons are intelligent creatures they do not need riders, though they sometimes take passengers through the use of specially constructed carrier vessels.
-
 ## Major People
-
 ### Archmage Igorim Ovras
-Male elf, around 500 years old. Archmage Igorim Ovras is one of the original founders of the [[The Triumviate|Saxum Triumvirate]], and is regarded as one of the most powerful mages in the history of the Saxum Sovereignty. As one of the founding members of the [[The Triumviate|Triumvirate]], Ovras was instrumental in shaping the early years of the nation. He now oversees a lot of the magical research that is being conducted at the bottom of the [[Gulstad, City of Gold#The Myriad|Myriad]].
-
+Male elf, around 500 years old. Archmage Igorim Ovras is one of the original founders of [[The Saxum Triumvirate|The Triumvirate]], and is regarded as one of the most powerful mages in the history of the Saxum Sovereignty. As one of the founding members of [[The Saxum Triumvirate|The Triumvirate]], Ovras was instrumental in shaping the early years of the nation. He now oversees a lot of the magical research that is being conducted at the bottom of the [[Gulstad, City of Gold#The Myriad|Myriad]].
 ### Master Leo Umbras
-Human male in his late 60’s. A skilled mage who joined the [[The Triumviate|Triumvirate]] around 25 years ago, Master Leo Umbras is known for his expertise in illusion magic and his sharp wit. He serves as the Triumvirate’s chief advisor on matters of foreign policy and diplomacy.
-
+Human male in his late 60’s. A skilled mage who joined [[The Saxum Triumvirate|The Triumvirate]] around 25 years ago, Master Leo Umbras is known for his expertise in illusion magic and his sharp wit. He serves as the Triumvirate’s chief advisor on matters of foreign policy and diplomacy.
 ### Ezorah von Abendroth
-Human female in her early 40’s. The newest member of the [[The Triumviate|Triumvirate]], Ezorah was appointed as the head of defense following the disappearance of her predecessor in the tunnels under the city. She is a skilled mage who specializes in elemental magic, and is known for her fierce determination and unwavering loyalty to the [[The Triumviate|Triumvirate]].
+Human female in her early 40’s. The newest member of [[The Saxum Triumvirate|The Triumvirate]], Ezorah was appointed as the head of defense following the disappearance of her predecessor in the tunnels under the city. She is a skilled mage who specializes in elemental magic, and is known for her fierce determination and unwavering loyalty to [[The Saxum Triumvirate|The Triumvirate]].

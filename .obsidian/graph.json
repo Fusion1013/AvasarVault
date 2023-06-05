@@ -48,6 +48,13 @@
         "a": 1,
         "rgb": 19713
       }
+    },
+    {
+      "query": "tag:#god",
+      "color": {
+        "a": 1,
+        "rgb": 16711914
+      }
     }
   ],
   "collapse-display": true,
@@ -55,11 +62,11 @@
   "textFadeMultiplier": -1,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": true,
+  "collapse-forces": false,
   "centerStrength": 0.518713248970312,
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.13873223932666107,
+  "scale": 0.09895430218637265,
   "close": true
 }

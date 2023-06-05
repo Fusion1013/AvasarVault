@@ -2,7 +2,8 @@
   "accentColor": "",
   "cssTheme": "Minimal",
   "enabledCssSnippets": [
-    "img"
+    "img",
+    "table_warp"
   ],
   "showViewHeader": true,
   "translucency": false

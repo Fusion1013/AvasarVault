@@ -1,14 +1,14 @@
 *"Through our leadership, Saxum will thrive and endure"*
 ## Overview
-The Saxum Triumvirate is composed of three powerful mages who rule over the Saxum Sovereignty from within the Myriad, located in the capital of [[Gulstad, City of Gold|Gulstad]]. They are [[Igorim Ovras]], [[Master Leo Umbras]], and [[Ezorah von Abendroth]]. As the ruling body of the nation, they hold ultimate power over all aspects of governance and policy, though they are advised by a council of 13 representatives from different regions of the country. The Triumvirate is known for their formidable magical abilities and their unwavering commitment to Saxum and its prosperity.
+The Saxum Triumvirate is composed of three powerful mages who rule over the Saxum Sovereignty from within the Myriad, located in the capital of [[Gulstad, City of Gold|Gulstad]]. They are [[Archmage Igorim Ovras|Igorim Ovras]], [[Master Leo Umbras]], and [[Ezorah von Abendroth]]. As the ruling body of the nation, they hold ultimate power over all aspects of governance and policy, though they are advised by a council of 13 representatives from different regions of the country. The Triumvirate is known for their formidable magical abilities and their unwavering commitment to Saxum and its prosperity.
 ## History
-The [[Saxum Sovereignty Overview|Saxum Sovereignty]] owes its existence to the founding of the Triumvirat, in the year of 1185 APC. The Triumvirate was formed by a group of mages who had fled the newly-formed [[Turochan Kingdom]], which had banned the use of magic. These mages did not want to be persecuted, and so they created the Triumvirate as a ruling body for a new nation where magic would be accepted and celebrated. Over time, the Triumvirate would become the de facto rulers of this new nation, which became known as the [[Saxum Sovereignty Overview|Saxum Sovereignty]].
+The [[Saxum Sovereignty Overview|Saxum Sovereignty]] owes its existence to the founding of the Triumvirat, in the year of 1185 APC. The Triumvirate was formed by a group of mages who had fled the newly-formed [[Turochan Kingdom Overview|Turochan Kingdom]], which had banned the use of magic. These mages did not want to be persecuted, and so they created the Triumvirate as a ruling body for a new nation where magic would be accepted and celebrated. Over time, the Triumvirate would become the de facto rulers of this new nation, which became known as the [[Saxum Sovereignty Overview|Saxum Sovereignty]].
 
-The Triumvirate was founded by the mages [[Igorim Ovras]], [[Yosif Halstrom]], and [[Celeste Krystof]]. These three mages worked together to establish a new government structure in the aftermath of the cataclysm that destroyed Taundor. Over the years, the membership of the Triumvirate has changed, with new members being appointed as old ones passed away or retired. See the [[Members]] section below for a complete list of all previous and current members.
+The Triumvirate was founded by the mages [[Archmage Igorim Ovras|Igorim Ovras]], [[The Saxum Triumvirate#Yosif Halstrom|Yosif Halstrom]], and [[The Saxum Triumvirate#Celeste Krystof|Celeste Krystof]]. These three mages worked together to establish a new government structure in the aftermath of the cataclysm that destroyed Taundor. Over the years, the membership of the Triumvirate has changed, with new members being appointed as old ones passed away or retired. See the [[The Saxum Triumvirate#Members|Members]] section below for a complete list of all previous and current members.
 
 Throughout its history, the Saxum Triumvirate has faced numerous challenges and crises, including rebellions, and external threats from neighboring nations. However, the Triumvirate has always managed to overcome these challenges and emerge stronger and more united than before.
 ## Members
-All members are listed in [[this]] document, along with information on when they joined and left the Triumvirate. Below follows a list of the most notable members of the Triumvirate, with a short description for each. For more information about the current members, see the attached links to their separate pages.
+Below follows a list of the most notable members of the Triumvirate, with a short description for each. For more information about the current members, see the attached links to their separate pages.
 ### Previous Members
 #### Celeste Krystof
 One of the original members of the Triumvirate, Celeste was a skilled healer and diplomat who played a key role in establishing the new government structure. She served on the Triumvirate for over 50 years before passing away peacefully in her sleep.
@@ -56,3 +56,17 @@ A knight from the region of ???, known for his martial prowess and skill with a 
 A dwarven craftsman from the city of Gulstad, known for his expertise in metallurgy and engineering.
 #### Lady Lyanna Wildwood
 A ranger from the forests of ???, known for her knowledge of nature and survival skills.
+#### Gertrude Eriksdottir
+A gruff woman from [[Stenholt, Town of Iron|Stenholt]], a town on the edge of the [[Morgenfryd Fields]]. She is a stern but fair leader.
+#### Lord Galen Stormborn
+A nobleman from the region of ???, known for his expertise in naval affairs and seafaring.
+#### Moria Stonehammer
+A dwarf from the Fracrish Mountains, expert in mining and resource management.
+#### Elwin Merriweather:
+A halfling from the town of ???, Elwin is a skilled farmer and expert in agriculture.
+#### Arturo D’Angelo:
+A human from the coastal town of [[Havdal, City of Pearls|Havdal]], Arturo is an expert in maritime affairs and naval strategy.
+#### Eira Grimsson:
+A half-elf from the ???, Eira is an expert in survival, hunting, and wilderness tactics.
+#### Lucian Blackwood:
+A human from the town of ???, Lucian is a skilled blacksmith and expert in metalworking.
