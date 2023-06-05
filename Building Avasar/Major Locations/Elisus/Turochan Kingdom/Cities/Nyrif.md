@@ -20,7 +20,7 @@ Nyrif is a major port city on the northern coast of the [[Turochan Kingdom Overv
 
 ## Crime Families
 ### [[The Bloodmoon Brotherhood]]
-Led by a group of vampires. Practitioners of blood magic that steal people's body parts to make effigies, or figurines, that they use to hold power over people. Members of the [[Scarlet Hand]], a sect of followers of [[Saheir, Goddess of Arcana]].
+Led by a group of vampires. Practitioners of blood magic that steal people's body parts to make effigies, or figurines, that they use to hold power over people. Members of [[The Scarlet Hand]], a sect of followers of [[Saheir, Goddess of Arcana]].
 ### The Golden Scales Syndicate
 Specializes in smuggling illegal magic items. Has ties to the [[Occultum]]. Currently controls the docks of Nyrif and runs their operations from there.
 ### The Silvervein Syndicate
