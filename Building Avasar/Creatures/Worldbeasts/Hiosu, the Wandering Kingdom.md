@@ -1,4 +1,6 @@
 ---
+banner: "![[MovingTheKingdom.jpg]]"
+
 tags:
 - creature
 - worldbeast
@@ -9,7 +11,6 @@ environment: Material Plane, Ocean
 ---
 *"What manner of beast carries a city upon its back, and what twisted beings dwell within?"*
 ## Overview
-![[MovingTheKingdom.jpg]]
 This [[Worldbeasts Overview|Worldbeast]] appears as a massive insectoid creature with a body that’s covered in a complex network of veins and tentacles. It has tens of legs that allow it to traverse the ocean with ease, and on its back it carries a sprawling city of twisted spires and monoliths. Two spines rise up from its body, looming over the city spires. It wanders the oceans of the material plane, on the planet Avasar.
 
 According to legends, the origins of Hiosu are tied to an unfathomable, nameless horror that lurks deep within the ocean, though a physical form has never been observed. As a result, Hiosu is imbued with an eldritch power that allows it to traverse the ocean and maintain its city in ways that defy conventional logic.
