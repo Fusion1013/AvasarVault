@@ -4,6 +4,8 @@ alias:
 - Saxum
 tags:
 - nation
+
+todo: Flesh out the organizations section
 ---
 *"Leave those shattered plains behind"*
 
@@ -16,19 +18,23 @@ The Saxum Sovereignty was founded in 1185 APC, not long after the cataclysm that
 
 Relations with the Turochan Kingdom are still tense, but have significantly calmed since the earlier days. Trade has started to open up more and more over the last 20 years, as Turochan has started to relax their anti-magic policies. The construction of a major trade route through the mountains has significantly aided in these efforts. Information of magical nature is still being kept behind closed doors however.
 ## Major Cities
+There are only four major cities in Saxum.
 ```dataview
 TABLE description AS "Description"
 FROM #city
 WHERE nation = "Saxum"
 ```
 ## Major People
-### Archmage Igorim Ovras
-Male elf, around 500 years old. He is one of the original founders of the capital and has been on the council since then. He now oversees a lot of the magical research that is being conducted at the bottom of the Myriad.
-### Master Leo Umbras
-Human male in his late 60’s. Handles business with foreign nations.
-### Ezorah von Abendroth
-Human female in her early 40’s. Ezorah is the new head of defense for the Saxum Sovereignty, since the last one disappeared in the tunnels under the capital.
+```dataview
+TABLE
+description AS "Description",
+race AS "Race",
+(age + " years") AS "Age"
+FROM #major_person AND #saxum AND #alive
+```
 ## Major Organizations
+### [[The Saxum Triumvirate]]
+The ruling body of the nation.
 ## Magical Society
 Even though this nation was founded on the idea of allowing free use of magic, there is no magic academy within this nation. Instead, magical knowledge has been passed down from generation to generation. Now, almost everyone living within the nation knows at least some magic. While mundane magic is commonly used for everyday activities, there are only a few hundred practitioners of high level magic. These individuals are often nobles living in the capital of Gulstad, or people in other positions of power.
 ## Economy
