@@ -22,8 +22,9 @@ A noble dwarven family that followed House Drufali out of Ohkyr Dominion after t
 ![[Dragon Banner.jpg]]
 
 #### House Linway
-
+A noble family of Humans, Elfs, and Half-Elfs. A poor house but has had many talented mages have come from there halls. The name Linway in know by many a mages. There banner is a complicated magic formula that runs along Fibonacci spiral.  
 #### House Drufali
+The Head house of the City-state of Drufali and was once the head of house Drufali was knight commander of the Ohkyr Dominion. House Drufali is a noble family of Half-Giant. They are known to be very strong and they house has held many upper positions in the army than any other house. There banner is a sword sheathed in a Stone  
 ## Major Organizations
 
 ### The Roundtable
