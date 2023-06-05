@@ -4,4 +4,4 @@ tags:
 creature_type: "Cave Vermin"
 environment: Caves
 ---
-"Natural" predator of the shrooms
+"Natural" predator of the shrooms. A type of [[Creatures Overview|Creature]].
