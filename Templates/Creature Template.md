@@ -1,5 +1,6 @@
 ---
 tags:
 - creature
+- template
 ---
 ## Overview

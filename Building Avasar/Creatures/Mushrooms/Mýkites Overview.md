@@ -1,6 +1,7 @@
 ---
 tags:
 - creature
+creature_type: Mushroom
 ---
 ## Overview
 
