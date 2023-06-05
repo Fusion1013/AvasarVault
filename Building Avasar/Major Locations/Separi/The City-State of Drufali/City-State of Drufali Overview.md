@@ -18,7 +18,7 @@ todo: Need to finish filling out the notes on Drufali
 ### Noble Families
 The Noble Family run the interactions with other diplomates that reach out to the city-state they also outside of the structure of the government and owns most of the citys land. They have private estates inside and even some outside or in different nations altogether. 
 #### House Thunderstep
-A noble dwarven family that followed the Ohkyr Dominion with House Drufali. 
+A noble dwarven family that followed House Drufali out of Ohkyr Dominion after the civil war. 
 #### House Linway
 #### House Drufali
 ## Major Organizations
