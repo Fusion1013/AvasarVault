@@ -1,5 +1,6 @@
 ## Creatures
 [[Creature Template]]
+[[Person Template]]
 [[Worldbeast Template]]
 ## Materials
 [[Crystal Template]]
