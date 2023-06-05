@@ -17,6 +17,20 @@
     "pageCountType": "ByWords"
   },
   "cachedCounts": {
+    "Private/test.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1685924667803,
+      "modifiedDate": 1685924667803,
+      "sizeInBytes": 0
+    },
     "Private/Private Stuff.md": {
       "isDirectory": false,
       "noteCount": 1,
