@@ -17,6 +17,20 @@
     "pageCountType": "ByWords"
   },
   "cachedCounts": {
+    "Private/Private Stuff.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1685924535049,
+      "modifiedDate": 1685924535049,
+      "sizeInBytes": 0
+    },
     "Building Avasar/Major Locations/Separi/The City-State of Drufali/City-State of Drufali Overview.md": {
       "isDirectory": false,
       "noteCount": 1,
