@@ -1,3 +1,7 @@
+---
+banner: "https://cdn.discordapp.com/attachments/1079292650173239356/1112232647050150058/Separi_and_Elisus.jpg"
+banner_y: 0.464
+---
 ## Overview
 A continent shattered by conflict, both ancient and new. The Fracrish Mountains offer shelter to the kingdom of Turochan, a realm torn asunder in a conflict with the gods. The Saxum Sovereignty, hidden in their impenetrable cities, are divided from neighboring nations by the Dragonback Mountains, a natural barrier of stone and metal. In the south, tensions rise between the So’Dar Empire and the Holy Kingdom of Maulik. A war is brewing. Meanwhile, to the north, the Kerdion Hoard prowls the plains, guarding their territory with an iron fist.
 ## Nations

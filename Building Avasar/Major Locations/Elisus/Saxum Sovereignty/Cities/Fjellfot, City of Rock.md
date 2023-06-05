@@ -11,15 +11,11 @@ description: A small city nestled between the Fracrish Mountains, guarding the p
 **Defense:** One of the most well defended cities in the Saxum Sovereignty.
 **Commerce:** The state run [[Fjellfot, City of Rock#Fjellgruve|Fjellgruve]] has a big part in the city’s exports.
 **Organizations:** Most organizations are of military purpose, though one notable exception is the mining organization that operates [[Fjellfot, City of Rock#Fjellgruve|Fjellgruve]].
-
 ## Overview
 A small city nestled between the Fracrish Mountains, guarding the only traversable pass from the [[Saxum Sovereignty Overview|Saxum Sovereignty]] to the Turochan Kingdom. It was built in 1197 APC, but did not officially become a city until 1213 APC. Fjellfot boasts a formidable army and a near-impenetrable perimeter that expands into a series of defensible weapon posts along the sides of the pass to further dissuade any force from attempting an invasion. The city has held strong for generations without being breached.
-
 ## History
 The city was originally a small fort meant to protect the borders of [[Saxum Sovereignty Overview|Saxum]] from the then hostile Turochan Kingdom, only letting people attempting to escape the kingdom pass. It has since grown into a smaller city, though it still maintains its original purpose to an extent.
-
 ## Landmarks
-
 ### Fjellgruve
 Above the city is an entrance to a deep tunnel city, leading far below the nearby mountains. There, miners extract various rare metals, such as Fevrus and Adamantite, that form under extreme pressure conditions. Excavations in the area were first started in 1251 APC, but didn’t bear fruit until around 4 years later when they discovered the large Fevrus and Adamantite deposits.
 

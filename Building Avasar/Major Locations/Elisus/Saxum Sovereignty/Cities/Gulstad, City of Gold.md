@@ -3,6 +3,8 @@ tags:
 - city
 nation: Saxum
 description: Gulstad is the capital of the Saxum Sovereignty. It is the center of the metal trade. It is home to a number of successful trading organizations, such as Skywing Transport.
+aliases:
+- Gulstad
 ---
 *"Where Craftsmanship meets Prosperity"*
 
@@ -11,46 +13,35 @@ description: Gulstad is the capital of the Saxum Sovereignty. It is the center o
 **Defense:** The city is heavily defended by ringed walls, arcane cannons, etc.
 **Commerce:** Gulstad is the center of trade for this nation.
 **Organizations:** The main seat of power for the Saxum Council, rulers of the nation.
-
 ## Overview
 <span class="leftimg"><span class="smallimg"> ![[TowerGulstad.png|175]] </span></span>Gulstad is the capital of the [[Saxum Sovereignty Overview|Saxum Sovereignty]]. It is the nation's center of trade, hence the nickname “City of Gold”. Its main exports are various goods made from rare metals, extracted from the nearby mountains. The city is known for its skilled artisans, and their wares are highly sought after across the continents.
 
 The city holds a circular shape, with three layers of ringed walls protecting the inner spire that make up the bulk upper part of the city. The entire city is not visible however, as a large portion of it extends far underground, through a series of large tunnels.
-
 ## History
 Gulstad was the first city to be founded within Saxum and later became the official capital of the nation. It was founded as the first safe haven for practitioners of magic that were seeking to escape the Turochan Kingdom.
-
 ## Landmarks
-
 ### The Everstar
 Hovering above the city is a massive crystal, referred to by the locals as The Everstar, held aloft by arcane means. The machine that is holding the crystal in its position in the sky is located at the top of [[Gulstad, City of Gold#The Myriad|The Myriad]], within the [[Gulstad, City of Gold#Crystal Chamber|Crystal Chamber]]. The crystal emits a constant bright, yellow light, observed from afar as a distant star. It is said that this crystal keeps undead from breaching the city.
 
 The crystal has another purpose however. It was originally created as a final line of defense in the event of a hostile incursion. Upon activation a dark field would envelop the city for a second, before transporting the entire city to the vibrant plane. The city stays there until the device is activated again. However, the crystal has never been activated. While the arcane theory behind it is sound and has been tested to some extent, it has not been used on this scale before. Nobody knows what ramifications activating the crystal could have.
-
 ### The Myriad
 The Myriad refers to the large, central spire that stretches above and below the city. It forms the main parts of the city.
-
 #### Hidden City
 The Myriad does not just tower above the surrounding landscape. The spire extends even further down below ground. Stretching into subterranean tunnels that form a vast underground network. This lower district is where most common folk in the city live. This lower part of the city is known as the [[Gulstad, City of Gold#The Twilight District|Twilight District]].
-
 #### Crystal Chamber
 At the top of the spire is a small-ish circular chamber. It is brightly lit at all times due to the window in the ceiling, exposing the chamber to the light of the crystal hovering above. Three pillars hold up the roof of this chamber, all marked with different colored glowing glyphs. The middle of the chamber rises slightly, with a few steps leading up to the tall pedestal placed in the middle of the room.
 
 Hovering a few centimeters above the pedestal is an identical, but smaller, crystal to the massive one hovering above the tower. The pedestal symbolizes The Myriad, and manipulating the small crystal will mirror the effects on the larger one. A large machine has been constructed around the small crystal in order to protect it. Four thick pillars hold up spinning metal discs that generate a sort of force field around the crystal. There is a small interface at the base of one of the pillars, with a number of levers and buttons. These controls are used to activate [[Gulstad, City of Gold#The Everstar|The Everstar]].
-
 ### The Twilight District
 *"Welcome to the playground"*
 
 The Twilight District is located deep beneath the city. It is where most of the common population of the city resides.
-
 #### Magical Light
 The Twilight District is lit up primarily by magical light sources that have been affixed to the walls and ceilings.
-
 #### Mushroom Farming
 As most of the city’s food is gathered from surrounding farms, the city could easily be starved by above ground attacks cutting off the city’s supply of food. To protect against this there are currently experiments being conducted focused on growing food from underground mushrooms. There are a few mushroom caves set up deep within the city. The main focus of the experiments is how to grow the mushrooms efficiently, and how to create food out of it that would cover the basic needs of a living creature.
 
 While attempting some of these experiments they accidentally created the [[Hikseta]], a new type of sentient mushroom race. They attempted to discard these failed experiments, but instead the [[Hikseta]] thrived, forming a mushroom society deep below the city.
-
 #### The King's Grave
 <span class="rightimg"><span class="smallimg"> ![[KingsCrypt.jpg|180]] </span></span>*"Forget what must be remembered"*
 

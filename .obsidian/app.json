@@ -3,5 +3,6 @@
   "spellcheckLanguages": [
     "sv",
     "en"
-  ]
+  ],
+  "showInlineTitle": false
 }

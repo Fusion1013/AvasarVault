@@ -1,4 +1,4 @@
----
+--- 
 alias: 
 - Saxum Sovereignty
 - Saxum
@@ -9,7 +9,6 @@ tags:
 
 **Government:** A Triumvirate of three mages, along with a council of 13 representatives.
 **Languages:** Old Taundorian
-
 ## Overview
 Sheltered from the rest of the world by the towering [[Dragonback Mountains]] and Fracrish Mountains, the Saxum Sovereignty is a small but prosperous nation. This landscape of towering mountains and flowing hills is known for its gray skies, fits of cold rain, and occasional snowfall. The [[Dragonback Mountains]] and Fracrish Mountains shield the people from most of the threates that loom beyond the boundaries of the nation.
 ## History
