@@ -1,16 +1,18 @@
 ## Creatures
-[[Creature Template]]
-[[Person Template]]
-[[Worldbeast Template]]
+[[Creature]]
+[[Person]]
+[[Worldbeast]]
+## Events
+[[Event]]
 ## Materials
-[[Crystal Template]]
-[[Gas Template]]
-[[Metal Template]]
+[[Crystal]]
+[[Gas]]
+[[Metal]]
 ## Pantheon
-[[God Template]]
+[[God]]
 ## Regions
-[[City Template]]
-[[Nation Template]]
+[[City]]
+[[Nation]]
 ## Other
-[[Formatted Image Template]]
-[[Plane Template]]
+[[Formatted Image]]
+[[Plane]]

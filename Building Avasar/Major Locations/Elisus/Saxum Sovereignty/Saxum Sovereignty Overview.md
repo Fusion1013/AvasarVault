@@ -44,3 +44,16 @@ The coins have the current members of the Saxum Triumvirate on the front of them
 - Gold: Leo Umbras
 - Silver: Ezorah von Abendroth
 The backs of the coins feature the symbol of the goddess of peace, Irellia, engulfed in flames. Surrounding it are 8 symbols representing the different schools of magic.
+## Timeline
+```dataview
+TABLE WITHOUT ID
+date + " - " + title 
++ choice(contains(file.etags, "#city_founding"), " `far:Flag`", "") 
++ choice(contains(file.etags, "#discovery"), " `far:Lightbulb`", "") 
++ choice(contains(file.etags, "#nation_founding"), " `ris:Flag`", "") 
+AS "Event",
+description AS "Description"
+FROM #timeline_event 
+WHERE nation = "Saxum Sovereignty"
+SORT date DESC
+```
