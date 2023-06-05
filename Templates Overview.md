@@ -1,3 +1,6 @@
+## Creatures
+[[Creature Template]]
+[[Worldbeast Template]]
 ## Materials
 [[Crystal Template]]
 [[Gas Template]]
@@ -6,8 +9,6 @@
 [[God Template]]
 ## Other
 [[City Template]]
-[[Creature Template]]
 [[Formatted Image Template]]
 [[Nation Template]]
 [[Plane Template]]
-[[Worldbeast Template]]

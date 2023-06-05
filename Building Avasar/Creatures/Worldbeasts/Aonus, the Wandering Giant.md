@@ -3,6 +3,9 @@ tags:
 - creature
 - worldbeast
 plane: Aurora Ortus
+
+creature_type: Worldbeast
+environment: Aurora Ortus
 ---
 *""*
 ## Overview

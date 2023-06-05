@@ -1,7 +1,9 @@
 ---
 tags:
 - creature
+
 creature_type: Mushroom
+environment: Caves
 ---
 ## Overview
 

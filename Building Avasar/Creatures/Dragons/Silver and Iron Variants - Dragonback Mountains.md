@@ -1,6 +1,7 @@
 ---
 tags:
 - creature
+creature_type: Dragon
 ---
 ## Ideas
 - Silver dragons would be more charismatic, Iron dragons would be closer to the workhorses.
