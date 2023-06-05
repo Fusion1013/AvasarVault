@@ -7,8 +7,9 @@
 [[Metal Template]]
 ## Pantheon
 [[God Template]]
-## Other
+## Regions
 [[City Template]]
-[[Formatted Image Template]]
 [[Nation Template]]
+## Other
+[[Formatted Image Template]]
 [[Plane Template]]

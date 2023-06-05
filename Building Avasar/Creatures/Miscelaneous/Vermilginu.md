@@ -4,4 +4,6 @@ tags:
 
 creature_type: "Cave Vermin"
 environment: Caves
+
+todo: Add the images from the google doc
 ---

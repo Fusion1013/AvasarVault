@@ -4,6 +4,8 @@ tags:
 
 creature_type: Mushroom
 environment: Caves
+
+todo: Split into different files for the different mushrooms, and have this as an overview doc for all of them
 ---
 ## Overview
 
