@@ -5,16 +5,28 @@
   "groups": {
     "groups": [
       {
-        "query": "Building Avasar/Languages",
-        "color": "#0f97ff"
+        "query": "00 - Building Avasar/Major Locations",
+        "color": "#ff0000"
       },
       {
-        "query": "Building Avasar/Major Locations",
-        "color": "#fff700"
+        "query": "00 - Building Avasar/Languages",
+        "color": "#2e62ff"
       },
       {
-        "query": "Building Avasar/Cosmology",
-        "color": "#1eff00"
+        "query": "00 - Building Avasar/Creatures",
+        "color": "#05ff37"
+      },
+      {
+        "query": "00 - Building Avasar/Cosmology",
+        "color": "#9900ff"
+      },
+      {
+        "query": "00 - Building Avasar/Materials",
+        "color": "#fbff00"
+      },
+      {
+        "query": "00 - Building Avasar/Pantheon",
+        "color": "#ffffff"
       }
     ]
   },
