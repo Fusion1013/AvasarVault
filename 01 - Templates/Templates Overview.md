@@ -7,6 +7,7 @@
 ## Materials
 [[Crystal]]
 [[Gas]]
+[[Material Property]]
 [[Metal]]
 ## Pantheon
 [[God]]

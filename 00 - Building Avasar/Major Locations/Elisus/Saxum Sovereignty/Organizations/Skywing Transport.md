@@ -1,6 +1,6 @@
 *"Trust your cargo to the strenght of our dragons"*
 ## Overview
-Skywing Transport was created to be a solution to the difficult problem of transporting goods across the [[Dragonback mountains]]. Since dragons are intelligent creatures they do not need riders, though they sometimes take passengers through the use of specially constructed carrier vessels.
+Skywing Transport was created to be a solution to the difficult problem of transporting goods across the [[Dragonback Mountains]]. Since dragons are intelligent creatures they do not need riders, though they sometimes take passengers through the use of specially constructed carrier vessels.
 
 Skywing Transport has a large variety of dragons that perform a number of different tasks. For example, smaller dragon employees can be used to transport letters, or smaller packages. Employees with larger carrying capacity might be used for big packages, or even for people in rare cases.
 ## Locations

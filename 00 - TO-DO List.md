@@ -2,7 +2,6 @@
 ```dataview
 TABLE
 todo AS "Message"
-FROM "Building Avasar"
 WHERE todo != null
 SORT file.name ASC
 ```
