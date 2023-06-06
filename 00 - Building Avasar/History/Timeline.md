@@ -5,7 +5,7 @@ TABLE WITHOUT ID
 date + " - " + title AS "Event",
 nation AS "Nation",
 description AS "Description"
-FROM #timeline_event AND #major_event 
+FROM #timeline_event AND (#major_event OR #world_event) 
 WHERE title != ""
 SORT data DESC
 ```
