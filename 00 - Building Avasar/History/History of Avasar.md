@@ -1,4 +1,6 @@
 *"It was and so it came to be"*
+## Introduction
+For a full list of events, refer to the [[Timeline]].
 ## Origins of the World
 Somehow the planes came to be. Nobody, not even the gods themselves, understand exactly how the original planes were created. They simply were there.
 ## Let There Be Life
