@@ -1,7 +1,6 @@
 ---
 tags:
 - material_overview
-todo: Make all properties into links
 ---
 ## Overview
 This documents contain a variety of different plants, which is a type of [[Materials Overview|Material]].
@@ -12,8 +11,7 @@ file.link AS "Material",
 description AS "Description",
 properties AS "Properties",
 rarity AS "Rarity",
-cost_kg AS "Cost/kg",
-cost_lb AS "Cost/lb"
+cost_plant AS "Cost/Plant"
 FROM #material AND #plant
 WHERE description != null
 SORT file.link ASC
