@@ -9,6 +9,7 @@
 [[Gas]]
 [[Material Property]]
 [[Metal]]
+[[Plant]]
 ## Pantheon
 [[God]]
 ## Regions
