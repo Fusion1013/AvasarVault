@@ -1,8 +1,3 @@
----
-tag: 
-- overview
-- creature
----
 ## List of Creatures
 ```dataview
 TABLE

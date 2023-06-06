@@ -1,7 +1,6 @@
 ---
 tags:
 - material_overview
-- material_property
 ---
 ## Overview
 This documents contain a variety of properties, that are used by different [[Materials Overview|Materials]].

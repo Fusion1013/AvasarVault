@@ -1,6 +1,5 @@
 ---
 tags:
-- template
 - god
 - major_god
 

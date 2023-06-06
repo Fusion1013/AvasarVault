@@ -1,6 +1,5 @@
 ---
 tags:
-- template
 - creature
 - worldbeast
 

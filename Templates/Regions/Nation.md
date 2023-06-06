@@ -1,6 +1,5 @@
 ---
 tags:
-- template
 - nation
 ---
 *"QUOTE"*

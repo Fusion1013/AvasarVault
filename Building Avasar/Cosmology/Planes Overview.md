@@ -1,7 +1,3 @@
----
-tags:
-- plane
----
 ## Preword & Definitions
 Before we get into the planar layout of Avasar, we have to define what kinds of different planes there are.
 ### Major & Minor Planes

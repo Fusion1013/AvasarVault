@@ -1,7 +1,6 @@
 ---
 # Consider adding some of the following tags: ["major_person","alive","dead"]
 tags:
-- template
 - person
 aliases:
 
