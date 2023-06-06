@@ -5,4 +5,4 @@ regions:
 - Osirion Emirate
 ---
 ## Overview
-A [[Languages Overview|Language]] spoken mainly within the [[Osirion Emirate Overview|Osirion Emirate]]. Part of the [[Khra|Khra Languages]].
+A [[Khra|Khra Language]] spoken mainly within the [[Osirion Emirate Overview|Osirion Emirate]].

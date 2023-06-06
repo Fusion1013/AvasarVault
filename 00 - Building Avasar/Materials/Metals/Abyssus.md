@@ -6,7 +6,7 @@ tags:
 description: A living metal that has the appearance of gold. Mends itself when broken. Can be found in thin veins within the cave walls of Tenebris. Commonly used in the creation of tools.
 
 properties:
-- Cold
+- "[[Cold]]"
 - Fire
 - Lightning
 - Fiendish

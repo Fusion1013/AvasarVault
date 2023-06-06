@@ -7,4 +7,4 @@ regions:
 - Belleros
 ---
 ## Overview
-Naiwa is a large [[Languages Overview|Language]] that is spoken across most of [[Elisus Overview|Elisus]], Separi and Belleros. It is a remnant from the Naividian Empire, which spanned a large part of the continents. It is one of the [[International Languages]].
+Naiwa is a large [[International Languages|International Language]] that is spoken across most of [[Elisus Overview|Elisus]], Separi and Belleros. It is a remnant from the Naividian Empire, which spanned a large part of the continents.

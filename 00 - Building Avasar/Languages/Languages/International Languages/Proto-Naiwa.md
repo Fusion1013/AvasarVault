@@ -5,4 +5,4 @@ regions:
 - Belleros, Elisus, Separi
 ---
 ## Overview
-A [[International Languages|Large Language]] that was spoken long ago. The precursor to the modern day [[Languages Overview|Language]] [[Naiwa]].
+An [[International Languages|International Language]] that was spoken long ago. The precursor to the modern day language [[Naiwa]]. Evolved from [[Proto-Belleros-Elisiparian]].
