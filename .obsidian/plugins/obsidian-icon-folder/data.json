@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "IbLocation",
+      "RiUserVoiceLine",
+      "IbUser",
       "RiStackFill",
-      "SiDatabricks",
-      "SiStylelint",
-      "RiListCheck",
-      "FarImage"
+      "SiDatabricks"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -37,5 +37,8 @@
   "01 - Templates": "RiNewspaperFill",
   "02 - Attachements": "FarImage",
   "01 - Style Viewer.md": "SiStylelint",
-  "00 - Building Avasar": "RiStackFill"
+  "00 - Building Avasar": "RiStackFill",
+  "Private/Campaigns/Drufali Campaign/02 - Locations.md": "IbLocation",
+  "Private/Campaigns/Drufali Campaign/00 - Player Characters": "IbUser",
+  "Private/Campaigns/Drufali Campaign/01 - NPC's.md": "RiUserVoiceLine"
 }
