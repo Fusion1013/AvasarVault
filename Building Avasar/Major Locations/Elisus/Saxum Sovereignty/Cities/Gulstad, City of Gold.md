@@ -41,7 +41,7 @@ The Twilight District is lit up primarily by magical light sources that have bee
 #### Mushroom Farming
 As most of the city’s food is gathered from surrounding farms, the city could easily be starved by above ground attacks cutting off the city’s supply of food. To protect against this there are currently experiments being conducted focused on growing food from underground mushrooms. There are a few mushroom caves set up deep within the city. The main focus of the experiments is how to grow the mushrooms efficiently, and how to create food out of it that would cover the basic needs of a living creature.
 
-While attempting some of these experiments they accidentally created the [[Hikseta]], a new type of sentient mushroom race. They attempted to discard these failed experiments, but instead the [[Hikseta]] thrived, forming a mushroom society deep below the city.
+While attempting some of these experiments they accidentally created the [[Mýkites Overview#Hikseta|Hikseta]], a new type of sentient mushroom race. They attempted to discard these failed experiments, but instead the [[Mýkites Overview#Hikseta|Hikseta]] thrived, forming a mushroom society deep below the city.
 #### The King's Grave
 <span class="rightimg"><span class="smallimg"> ![[KingsCrypt.jpg|180]] </span></span>*"Forget what must be remembered"*
 
