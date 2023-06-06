@@ -4,5 +4,6 @@
     "sv",
     "en"
   ],
-  "showInlineTitle": false
+  "showInlineTitle": false,
+  "alwaysUpdateLinks": true
 }

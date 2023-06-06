@@ -3,7 +3,8 @@
   "cssTheme": "Minimal",
   "enabledCssSnippets": [
     "img",
-    "table_warp"
+    "table_warp",
+    "icons"
   ],
   "showViewHeader": true,
   "translucency": false
