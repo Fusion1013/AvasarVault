@@ -4,9 +4,9 @@ tags:
 - nation
 todo: Need to finish filling out the notes on Drufali
 ---
-*"QUOTE"*
+*"We Stand Alone Against the Raging Storm"*
 
-**Government:** 
+**Government:** **Aristocracy**
 **Languages:** [[Thüma]]
 ## Overview
 
