@@ -10,9 +10,9 @@ todo: Need to finish filling out the notes on Drufali
 **Languages:** [[Thüma]]
 ## Overview
 
-## History
-
-
+## [[History of the City-state of Drufali|History]]
+___
+The City-state of Drufali was originally part of the Ohkyr Dominion until the civil war happened. The civil war started due to the previous king did not name a successor, so his sons and other factions started to fight for the crown. The province was split into three factions. One faction was the Kings eldest son, the second faction was the kings third son, and the last faction was the knight Commander Duke Ferdinand Don Drufali. As the war waged on the Duke Ferdinand decided to side with the third son of the king which cost the eldest son the war. After the civil war the new king was still worried about conflicts that can brew in the dominion and decided to expel the Duke but let him secede his land, the now City-state of Drufali. In order to same himself from being crushed between two major powers. To do this the Duke hired many mages to create a passage between [[Separi Overview|Separi]] and [[Elisus Overview|Elisus]] creating the greatest trading hub even to this day.
 ## Major Houses
 
 ### Noble Families
@@ -34,8 +34,6 @@ The Roundtable is made up of the [[Guild Masters|guildmasters]] of the [[City-St
 Each of these four guilds have many subguilds that are more specialized. They join together a larger entity to hold more power within the city. The leaders of the major Guilds come together every Five years to elect candidates for the Governor position.
 #### [[Highstrider's Guild]]
 
-The Highstrider's Guild is a prestigious organization that encompasses warriors, knights, and mercenaries. Known for their exceptional combat skills and unwavering loyalty, members of the Highstrider's Guild are often sought after as protectors and enforcers. They uphold a strict code of honor and justice, ensuring the safety of the city-state and its inhabitants.
-The Highstrider's Guild is a prestigious organization that encompasses warriors, knights, and mercenaries. Known for their exceptional combat skills and unwavering loyalty, members of the Highstrider's Guild are often sought after as protectors and enforcers. They uphold a strict code of honor and justice, ensuring the safety of the city-state and its inhabitants.
 The Highstrider's Guild is a prestigious organization that encompasses warriors, knights, and mercenaries. Known for their exceptional combat skills and unwavering loyalty, members of the Highstrider's Guild are often sought after as protectors and enforcers. They uphold a strict code of honor and justice, ensuring the safety of the city-state and its inhabitants.
 #### [[Stoneswords' Guild]]
 The Stoneswords' Guild consists of skilled craftsmen, stonemasons, and architects who specialize in construction and the creation of impressive structures. They are renowned for their ability to carve intricate designs into stone and their expertise in building fortifications, grand monuments, and magnificent buildings that shape the city's skyline.
