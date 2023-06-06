@@ -13,7 +13,7 @@ todo: Need to finish filling out the notes on Drufali
 ## History
 
 
-## Major People
+## Major Houses
 
 ### Noble Families
 The Noble Family run the interactions with other diplomates that reach out to the city-state they also outside of the structure of the government and owns most of the citys land. They have private estates inside and even some outside or in different nations altogether. 
@@ -34,7 +34,14 @@ The Roundtable is made up of the [[Guild Masters|guildmasters]] of the [[City-St
 Each of these four guilds have many subguilds that are more specialized. They join together a larger entity to hold more power within the city. The leaders of the major Guilds come together every Five years to elect candidates for the Governor position.
 #### [[Highstrider's Guild]]
 
+The Highstrider's Guild is a prestigious organization that encompasses warriors, knights, and mercenaries. Known for their exceptional combat skills and unwavering loyalty, members of the Highstrider's Guild are often sought after as protectors and enforcers. They uphold a strict code of honor and justice, ensuring the safety of the city-state and its inhabitants.
+The Highstrider's Guild is a prestigious organization that encompasses warriors, knights, and mercenaries. Known for their exceptional combat skills and unwavering loyalty, members of the Highstrider's Guild are often sought after as protectors and enforcers. They uphold a strict code of honor and justice, ensuring the safety of the city-state and its inhabitants.
+The Highstrider's Guild is a prestigious organization that encompasses warriors, knights, and mercenaries. Known for their exceptional combat skills and unwavering loyalty, members of the Highstrider's Guild are often sought after as protectors and enforcers. They uphold a strict code of honor and justice, ensuring the safety of the city-state and its inhabitants.
 #### [[Stoneswords' Guild]]
+The Stoneswords' Guild consists of skilled craftsmen, stonemasons, and architects who specialize in construction and the creation of impressive structures. They are renowned for their ability to carve intricate designs into stone and their expertise in building fortifications, grand monuments, and magnificent buildings that shape the city's skyline.
 #### [[Fabricators' Guild]]
+The Fabricators' Guild is a collective of artisans, engineers, and inventors who excel in the fields of machinery, clockwork, and magical constructs. They are responsible for the creation of intricate devices, enchanted artifacts, and automatons that serve various purposes. The guild's members push the boundaries of innovation and technology, contributing to the advancement of the city's industries and infrastructure.
 #### [[The Navigators' Guild]]
-
+The Navigators' Guild comprises skilled sailors, cartographers, and explorers who possess unparalleled knowledge of navigation, trade routes, and maritime lore. They are responsible for overseeing and organizing the city's maritime activities, including oceanic trade, sea exploration, and naval defense. The guild's members are adept at charting unknown territories, braving treacherous waters, and establishing valuable trade connections with distant lands.
+#### [[The Shadow Guild]]
+The Shadow Guild is a clandestine organization specializing in gathering information and intelligence from surrounding countries and beyond. Composed of skilled spies, infiltrators, and information brokers, the members of the Shadow Guild operate in the shadows, navigating the complex web of politics, secrets, and intrigue. They are adept at espionage, surveillance, and discreet manipulation, providing valuable insights and leverage to the city-state's leaders and decision-makers. With their vast network of informants and their ability to uncover hidden truths, the Shadow Guild is a powerful force in the realms of espionage and covert operations.
