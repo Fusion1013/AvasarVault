@@ -1,5 +1,12 @@
 ---
 banner: "![[PolyphemusGasGiant.jpg]]"
+tag:
+- creature
+- overview
+- worldbeast
+---
+---
+banner: "![[PolyphemusGasGiant.jpg]]"
 
 aliases:
 - Worldbeast

@@ -1,6 +1,8 @@
 ---
 # Add one of the following tags if appropriate: ["discovery", "city_founding", "nation_founding"]
-tags: timeline_event
+tags:
+- template
+- timeline_event
 
 # Event Information
 date: ""

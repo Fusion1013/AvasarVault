@@ -1,8 +1,9 @@
 ---
 tags:
+- template
 - creature
 - worldbeast
-- template
+
 plane: PLANE
 
 creature_type: TEMPLATE

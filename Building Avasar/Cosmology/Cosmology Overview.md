@@ -1,3 +1,7 @@
+---
+tags:
+- plane
+---
 *"Infinite horizons, within grasp"*
 ## Overview
 The cosmos is vast and complex, home to a multitude of planes and existence beyond the moral realm. These planes are connected by the mysterious fabric of the cosmos, and each is governed by its own unique laws and characteristics. Most planes are ruled by gods, some by other powerful beings. Mortals may journey these planes, but doing so often comes with great risk. The planes and the cosmos that bind them together are full of wonder, danger, and mystery, waiting to be explored by those brave enough to venture beyond the boundaries of the known world.

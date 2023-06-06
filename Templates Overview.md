@@ -1,3 +1,9 @@
+---
+tags:
+- template
+
+---
+
 ## Creatures
 [[Creature]]
 [[Person]]

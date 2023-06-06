@@ -1,3 +1,7 @@
+---
+tag:
+- timeline_event
+---
 ## Major Events
 Below follows a list of only the major events that have taken place throughout the history of Avasar.
 ```dataview

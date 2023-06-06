@@ -1,5 +1,6 @@
 ---
 tags:
+- template
 - city
 nation: NATION
 description: DESCRIPTION

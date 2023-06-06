@@ -1,7 +1,9 @@
 ---
 tags:
+- template
 - plane
 - PLANE_TYPE [example: inner_plane]
+
 ---
 *"QUOTE"*
 

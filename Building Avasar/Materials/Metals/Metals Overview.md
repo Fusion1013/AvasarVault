@@ -1,6 +1,7 @@
 ---
 tags:
 - material_overview
+- metal
 ---
 ## Overview
 This documents contain a variety of different metals, which is a type of [[Materials Overview|Material]].

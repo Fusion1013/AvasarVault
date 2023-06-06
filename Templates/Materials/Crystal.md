@@ -1,5 +1,6 @@
 ---
 tags:
+- template
 - material
 - crystal
 

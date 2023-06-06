@@ -1,6 +1,8 @@
 ---
 # Consider adding some of the following tags: ["major_person","alive","dead"]
-tags: person
+tags:
+- template
+- person
 aliases:
 
 # Content Generation
