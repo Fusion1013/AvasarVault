@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "RiFolderHistoryLine",
       "IbLocation",
       "RiUserVoiceLine",
       "IbUser",
-      "RiStackFill",
-      "SiDatabricks"
+      "RiStackFill"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -25,14 +25,12 @@
   "Private": "RiGitRepositoryPrivateFill",
   "00 - Building Avasar/Cosmology": "IbEarth",
   "00 - Building Avasar/Creatures": "IbClarusTheDogcow",
-  "00 - Building Avasar/History of Avasar.md": "RiHistoryLine",
   "00 - Building Avasar/Home Page.md": "IbHouse",
   "00 - Building Avasar/Languages": "IbMessageBubble",
   "00 - Building Avasar/Magic Items": "IbShoppingCartEmpty",
   "00 - Building Avasar/Major Locations": "RiGlobalLine",
   "00 - Building Avasar/Materials": "SiMaterialdesignicons",
   "00 - Building Avasar/Pantheon": "FarHandPointUp",
-  "00 - Building Avasar/Timeline.md": "RiTimeLine",
   "00 - TO-DO List.md": "RiListCheck",
   "01 - Templates": "RiNewspaperFill",
   "02 - Attachements": "FarImage",
@@ -40,5 +38,8 @@
   "00 - Building Avasar": "RiStackFill",
   "Private/Campaigns/Drufali Campaign/00 - Player Characters": "IbUser",
   "Private/Campaigns/Drufali Campaign/01 - NPC's": "RiUserVoiceLine",
-  "Private/Campaigns/Drufali Campaign/02 - Locations": "IbLocation"
+  "Private/Campaigns/Drufali Campaign/02 - Locations": "IbLocation",
+  "00 - Building Avasar/History/History of Avasar.md": "RiHistoryLine",
+  "00 - Building Avasar/History/Timeline.md": "RiTimeLine",
+  "00 - Building Avasar/History": "RiFolderHistoryLine"
 }
