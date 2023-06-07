@@ -1,9 +1,12 @@
 ---
+banner: "![[TurochanSaxum.jpg]]"
+
 aliases:
 - Turochan
 - Turochan Kingdom
 tags:
 - nation
+banner_y: 0.68
 ---
 *"Progressus sine Arcano"*
 

@@ -1,6 +1,6 @@
 *"Beware the Whistler’s mournful song, for it calls to the lost and forgotten"*
 ## Overview
-Whistlers are spirits, usually described as lost souls, that frequently appear in the folklore of coastal areas in the [[Saxum Sovereignty Overview|Saxum Sovereignty]]. Whistlers are usually associated with local legends of tragedy; most versions include a widow who lost a partner at sea; either killing themselves in grief, or dying alone and heartbroken.
+<span class="rightimg"><span class="smallimg"> ![[Whistlers.jpg]] </span></span>Whistlers are spirits, usually described as lost souls, that frequently appear in the folklore of coastal areas in the [[Saxum Sovereignty Overview|Saxum Sovereignty]]. Whistlers are usually associated with local legends of tragedy; most versions include a widow who lost a partner at sea; either killing themselves in grief, or dying alone and heartbroken.
 
 These spirits are said to wander the coastline obsessively in search of their dear departed; emitting a ‘heartbreaking’ whistle in an attempt to call their lost one. It is strongly believed you should never approach a Whistler, nor make any noise in one’s presence. Most important of all; you should never look directly at one.
 
