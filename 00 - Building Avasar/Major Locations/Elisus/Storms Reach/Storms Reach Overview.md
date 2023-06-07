@@ -1,19 +1,21 @@
 ---
-banner: "![[StormReach.jpg]]"
 tags:
 - nation
-banner_y: 0.356
 ---
 *"We wander in fear, in fear of the storm"*
 
 **Government:** 
 **Languages:** 
 ## Overview
-Storms Reach is a large area of plains that stretches between the western mountains, the eastern sea, and the southernmost nations on the continent. The area is sparsely populated by wandering hoards, with no permanent structures in sight. There are ruins from failed attempts at constructing permanent shelter though they are few and far between, with most of them covered by layers of dust and sand.
+Storms Reach is a large area of plains that stretches between the western mountains, the eastern sea, and the southernmost nations on the continent. The area is sparsely populated by wandering hoards, with no permanent structures in sight. There are ruins from failed attempts at constructing permanent shelter though they are few and far between, covered by plant life.
 ## History
-There was once a large kingdom that had its center within the Storms Reach. It is said that the capital was among the greatest ever constructed. For some unknown reason the capital now lays in ruin, its remains covered over by layers of sand and dust. Some time later, three immortal dragons emerged from the ruins. Soon a storm began to emerge around them, following them wherever they went. It is unknown if these dragons were what caused the capital's downfall. Many have speculated that this was the case, though no conclusive evidence exists to point one way or the other. Whatever the cause, the loss of the capital eventually led to the kingdom's downfall.
+There was once a large kingdom that had its center within the Storms Reach. It is said that the capital was among the greatest ever constructed. For some unknown reason the capital now lays in ruin, its remains covered over by plant life. Some time later, three immortal dragons emerged from the ruins. Soon a storm began to emerge around them, following them wherever they went. It is unknown if these dragons were what caused the capital's downfall. Many have speculated that this was the case, though no conclusive evidence exists to point one way or the other. Whatever the cause, the loss of the capital eventually led to the kingdom's downfall.
 ## Environment
-The environment of Storms Reach is warm and dusty. The lack of mountains or forests give way for nearly constant winds that howl across the plains, with a never ending storm at its center. The landscape is dotted with ruins from failed attempts at setting up any kind of permanent shelter.
+The environment of Storms Reach is temperate and humid. The lack of mountains or forests give way for nearly constant winds that howl across the plains, with a never ending storm at its center. The landscape is dotted with ruins from failed attempts at setting up any kind of permanent shelter.
+### Plant Life
+There are a few forests, with most of the ground covered in lower, hardy, fast-growing plants with deep root systems. Plants with [Tubers](https://sv.wikipedia.org/wiki/Tuber) are common, as they allow the plant to stay in the ground despite the violent winds. A lot of plants in the area are able to be ripped up by the winds, carried to a new location, and keep growing from there.
+
+Since a lot of plants in the area grow quickly, people in the area have been able to survive mostly by foraging the plants.
 ### The Wandering Storm
 An eternal storm plagues the area, wandering around in patterns unpredictable to the uneducated eyes. At its center are three immortal dragons, who seem to be the source of the storm. Sightings of the dragons are sparse, with most inexperienced people that venture into the storm never returning, or never wanting to speak of what they saw inside. There are groups of people that are able to navigate inside of the storm, though they are reluctant to reveal their secrets.
 

@@ -15,6 +15,10 @@ The original capital was [[Zhᴎmchug]], and was located on the north-western co
 
 The nation is now only known as Preia and is run by an oligarchy of nobles.
 ## Major Cities
-
+```dataview
+TABLE description AS "Description"
+FROM #city
+WHERE nation = "Preia"
+```
 ## Languages
 Main language is [[Korinari]]. They use the letters ᴎ[i] and ᴙ[ja] in their alphabet. (Take inspiration from Russian when naming things)

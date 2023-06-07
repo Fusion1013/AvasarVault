@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "RiLeafLine",
+      "SiLeaflet",
+      "IbLightBulb",
       "RiFolderHistoryLine",
-      "IbLocation",
-      "RiUserVoiceLine",
-      "IbUser",
-      "RiStackFill"
+      "IbLocation"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -34,12 +34,14 @@
   "00 - TO-DO List.md": "RiListCheck",
   "01 - Templates": "RiNewspaperFill",
   "02 - Attachements": "FarImage",
-  "01 - Style Viewer.md": "SiStylelint",
   "00 - Building Avasar": "RiStackFill",
   "Private/Campaigns/Drufali Campaign/00 - Player Characters": "IbUser",
   "Private/Campaigns/Drufali Campaign/01 - NPC's": "RiUserVoiceLine",
   "Private/Campaigns/Drufali Campaign/02 - Locations": "IbLocation",
   "00 - Building Avasar/History/History of Avasar.md": "RiHistoryLine",
   "00 - Building Avasar/History/Timeline.md": "RiTimeLine",
-  "00 - Building Avasar/History": "RiFolderHistoryLine"
+  "00 - Building Avasar/History": "RiFolderHistoryLine",
+  "02 - Style Viewer.md": "SiStylelint",
+  "01 - Ideas.md": "IbLightBulb",
+  "00 - Building Avasar/Environment": "RiLeafLine"
 }
