@@ -1,4 +1,7 @@
 ---
+aliases:
+- Ohkyr
+- Ohkyr Dominion
 tags:
 - nation
 ---

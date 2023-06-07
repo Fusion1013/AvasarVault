@@ -1,6 +1,6 @@
 ---
 tags: Language/Avi_Languages
-language_group: Avi_Languages
+language_group: Avi Languages
 regions:
 - Avi Islands
 ---
