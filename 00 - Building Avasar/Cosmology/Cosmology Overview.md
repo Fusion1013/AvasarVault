@@ -149,7 +149,7 @@ The second closest moon of Epistos. The thick clouds that swirl around the pale 
 **Appearance:** A mostly grayish moon which seems to shimmer in a gradient of vibrant colors. The moon is covered in bright craters.
 
 ##### Verax (Truth)
-**Corresponding Plane:** [[Verae, Plane of Truth]]
+**Corresponding Plane:** [[Vertae, Plane of Truth]]
 **Appearance:** Palesh blue icy surface covered in red-orange patches of salts.
 
 This moon is in orbital resonance with Xarev, causing its icy core to become liquid.
