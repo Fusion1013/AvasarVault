@@ -4,7 +4,7 @@ banner_y: 0.464
 aliases:
 - Elisus
 
-todo: Fill out overview section for the Turochan Kingdom, Storms Reach & Preia
+todo: Fill out overview section for the [[Turochan Kingdom Overview|Turochan Kingdom]], [[Storms Reach Overview|Storms Reach]] & [[Preᴙ Overview|Preᴙ]]
 ---
 ## Overview
 A continent shattered by conflict, both ancient and new. The [[Fracrish Mountains]] offer shelter to the kingdom of [[Turochan Kingdom Overview|Turochan]], a realm torn asunder in a conflict with the gods. The [[Saxum Sovereignty Overview|Saxum Sovereignty]], hidden in their impenetrable cities, are divided from neighboring nations by the [[Dragonback Mountains]], a natural barrier of stone and metal. In the south, tensions rise between the [[So'Dar Empire Overview|So'Dar Empire]] and the [[The Holy Kingdom of Maulik Overview|Holy Kingdom of Maulik]]. A war is brewing. Meanwhile, to the north, [[The Wandering Hoards]] prowls the plains, guarding their territory with an iron fist.

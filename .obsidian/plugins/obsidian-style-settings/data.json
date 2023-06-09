@@ -19,5 +19,5 @@
   "minimal-style@@link-color-hover@@dark": "#0082FF",
   "minimal-style@@tx3@@dark": "#E1E1E1",
   "minimal-style@@row-lines": true,
-  "minimal-style@@file-header-visibility": "minimal-tab-title-hover"
+  "minimal-style@@file-header-visibility": "minimal-tab-title-visible"
 }

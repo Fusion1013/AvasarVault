@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FarStar",
       "RiLeafLine",
       "SiLeaflet",
       "IbLightBulb",
-      "RiFolderHistoryLine",
-      "IbLocation"
+      "RiFolderHistoryLine"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -43,5 +43,6 @@
   "00 - Building Avasar/History": "RiFolderHistoryLine",
   "02 - Style Viewer.md": "SiStylelint",
   "01 - Ideas.md": "IbLightBulb",
-  "00 - Building Avasar/Environment": "RiLeafLine"
+  "00 - Building Avasar/Environment": "RiLeafLine",
+  "Private/Campaigns/Drufali Campaign/00 - Player Characters/00 - Damien Brinir.md": "FarStar"
 }

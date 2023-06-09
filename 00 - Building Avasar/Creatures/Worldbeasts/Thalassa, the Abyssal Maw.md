@@ -4,10 +4,11 @@ banner: "![[ThalassiaAbyssalMaw.jpg]]"
 tags:
 - creature
 - worldbeast
-plane: Terozin, Plane of Weather & Seas
+plane: "[[Terozin, Plane of Weather & Seas]]"
 
 creature_type: Worldbeast
-environment: Terozin, Ocean
+environment: Ocean, [[Terozin, Plane of Weather & Seas|Terozin]]
+image: "![[ThalassiaAbyssalMaw.jpg|100]]"
 banner_y: 0.22667
 ---
 ## Overview

@@ -18,3 +18,5 @@
 ## Other
 [[Formatted Image]]
 [[Plane]]
+[[Subscript]]
+[[Superscript]]

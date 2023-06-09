@@ -3,8 +3,6 @@ aliases:
 - Language
 - Languages
 - Language Group
-
-todo: The language map looks kinda stupid, maybe redo it later
 ---
 ## Languages & Groups
 ```dataview

@@ -8,6 +8,7 @@ plane: Material Plane
 
 creature_type: Worldbeast
 environment: Material Plane, Ocean
+image: "![[MovingTheKingdom.jpg|100]]"
 ---
 *"What manner of beast carries a city upon its back, and what twisted beings dwell within?"*
 ## Overview

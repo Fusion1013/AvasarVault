@@ -6,7 +6,8 @@ Worldbeasts are giant beasts, forever cursed to wander their designated plane. O
 ## Beasts
 ```dataview
 TABLE
-plane AS "Plane"
+plane AS "Plane",
+image AS Image
 FROM #worldbeast 
 WHERE plane != "PLANE"
 ```

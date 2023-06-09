@@ -4,11 +4,12 @@ banner: "![[AonusHead.png]]"
 tags:
 - creature
 - worldbeast
-plane: Aurora Ortus
+plane: "[[Aurora Ortus]]"
 
 creature_type: Worldbeast
-environment: Aurora Ortus
+environment: "[[Aurora Ortus]]"
 banner_y: 0.37667
+image: "![[AonusHead.png|100]]"
 ---
 *""*
 ## Overview

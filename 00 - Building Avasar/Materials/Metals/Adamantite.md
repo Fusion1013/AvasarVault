@@ -6,7 +6,7 @@ tags:
 description: Found in rare mineral veins deep within the earth.
 
 properties:
-- Forceful
+- "[[Forceful]]"
 rarity: Uncommon
 cost_kg: 11.34gp
 cost_lb: 25.00gp

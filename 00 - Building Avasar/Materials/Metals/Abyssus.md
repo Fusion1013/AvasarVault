@@ -7,9 +7,9 @@ description: A living metal that has the appearance of gold. Mends itself when b
 
 properties:
 - "[[Cold]]"
-- Fire
-- Lightning
-- Fiendish
+- "[[Fire]]"
+- "[[Lightning]]"
+- "[[Fiendish]]"
 rarity: Rare
 cost_kg: 113.40gp
 cost_lb: 250.00gp

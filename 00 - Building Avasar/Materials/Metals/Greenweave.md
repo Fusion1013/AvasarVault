@@ -6,7 +6,7 @@ tags:
 description: A greenish-purple metal that can be found deep underneath ancient forests.
 
 properties:
-- Psychic
+- "[[Psychic]]"
 rarity: Uncommon
 cost_kg: 6.80gp
 cost_lb: 15.00gp
