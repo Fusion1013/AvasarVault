@@ -5,7 +5,7 @@ tags:
 ---
 *"Light, Radiance... I.. Remember you"*
 
-**Attuned God:** Lu'Syl, Light Twin
+**Attuned God:** [[Lu'Syl, Light and Dark|Lu'Syl, Light Twin]]
 **Attuned Body:** [[Cosmology Overview#Aurius (Light)|Aurius]]
 **Alternative Names:** 
 ## Overview

@@ -5,7 +5,7 @@ tags:
 ---
 *""*
 
-**Attuned God:** Mau'Sari, God of Elements
+**Attuned God:** [[Mau'Sari, Elements]]
 **Celestial Body:** [[Cosmology Overview#Taiya|Taiya]]
 **Alternative Names:** The Crucible
 ## Overview

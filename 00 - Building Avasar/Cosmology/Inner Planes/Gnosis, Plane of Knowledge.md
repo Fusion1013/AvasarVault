@@ -5,7 +5,7 @@ tags:
 ---
 *"QUOTE"*
 
-**Attuned God:** Veda, Knowledge
+**Attuned God:** [[Veda, Deity of Knowledge]]
 **Attuned Body:** [[Cosmology Overview#Epistos (Knowledge, 7.69 AU)|Epistos]]
 **Alternative Names:** 
 ## Overview

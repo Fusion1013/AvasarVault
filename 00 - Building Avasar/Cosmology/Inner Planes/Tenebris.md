@@ -5,7 +5,7 @@ tags:
 ---
 *"QUOTE"*
 
-**Attuned God:** Lu'Syl, Dark Twin
+**Attuned God:** [[Lu'Syl, Light and Dark|Lu'Syl, Dark Twin]]
 **Attuned Body:** [[Cosmology Overview#Sahti (Dark)|Sahti]]
 **Alternative Names:** Nox, Dark Cavern, Night, Plane of Absolute Darkness
 ## Overview

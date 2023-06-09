@@ -5,7 +5,7 @@ tags:
 ---
 *"Some say death is unwelcoming, but I welcome all"*
 
-**Attuned God:** Azraile, God of Death
+**Attuned God:** [[Azraile, God of Death]]
 **Attuned Body:** [[Cosmology Overview#Yomi (Death, 28.33 AU)|Yomi]]
 **Alternative Names:** Plane of Death, Eternal Darkness
 ## Overview

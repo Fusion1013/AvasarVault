@@ -5,7 +5,7 @@ tags:
 ---
 *"Life is too short to understand what life is"*
 
-**Attuned God:** Anvarra, Godess of Life
+**Attuned God:** [[Anvarra, Goddess of Life]]
 **Attuned Body:** [[Cosmology Overview#Gaia (1.2 AU)|Gaia]]
 **Alternative Names:** 
 ## Overview

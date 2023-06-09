@@ -5,7 +5,7 @@ tags:
 ---
 *""*
 
-**Attuned God:** Saheir, Arcana
+**Attuned God:** [[Saheir, Goddess of Arcana]]
 **Celestial Body:** [[Cosmology Overview#Ortuvis (Arcana)|Ortuvis]]
 **Alternative Names:** Dawn Rise, Dawn Taiga, Boreal Woods
 
