@@ -35,6 +35,9 @@ Big greenhouses with artificial light (magical) sources down in caves. Needs to 
 ### Storms Reach
 A lot of wild growth. The thunderstorms increase nitrogen in the air (??), meaning plants can grow more (??). This is how a lot of the wandering hoards are able to survive, by foraging wild plants.
 ## Soil
-Different metals in the soil. Aluminum sulfate, magnesium sulfate, sulfate in general decreases PH. Lime brings it up. Plants typically needs 6.5-7.5ph.
+Different metals in the soil. Aluminum sulfate, magnesium sulfate, sulfate in general decreases PH. Lime brings it up. Plants typically needs 6.5-7.5ph. Farmers use plants to get nitrogen into the soil (plants want nitrogen rich soil) (legumes).
+> The list of nitrogen-fixing plants for agriculture is quite versatile and includes, among others: Beans: fava (aka faba, broad), alfalfa, green (aka French), runner, field, sweet, peanuts (aka groundnuts), soybeans, cream, black-eyed, or purple-hulled beans, lupins, lentils, cowpeas, chickpeas.
+
+> Notable among cover crops (many of which are nitrogen-fixing legumes), buckwheat extracts phosphorus and calcium from the soil. When the buckwheat plants die and decompose, those nutrients are released in plant-friendly forms that can be used by subsequent crops.
 ## Agriculture & Magic
 Magic can be used to accelerate prop growth and increase yields. Magical objects could be used in areas to help with this. Magic can also be used for preservation.

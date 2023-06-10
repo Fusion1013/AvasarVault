@@ -1,6 +1,8 @@
 ---
 tags:
 - material_overview
+todo: Make properties into links
+editors: Fusion
 ---
 ## Overview
 This documents contain a variety of different crystals, which is a type of [[Materials Overview|Material]].
@@ -10,9 +12,7 @@ TABLE WITHOUT ID
 file.link AS "Material",
 description AS "Description",
 properties AS "Properties",
-rarity AS "Rarity",
-cost_lb_uncut AS "Cost/lb (Uncut)",
-cost_lb_cut AS "Cost/lb (Cut)"
+rarity AS "Rarity"
 FROM #material AND #crystal
 WHERE description != null
 SORT file.link ASC

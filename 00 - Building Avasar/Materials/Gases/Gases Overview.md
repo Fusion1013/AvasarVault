@@ -10,9 +10,7 @@ TABLE WITHOUT ID
 file.link AS "Material",
 description AS "Description",
 properties AS "Properties",
-rarity AS "Rarity",
-cost_kg AS "Cost/kg",
-cost_lb AS "Cost/lb"
+rarity AS "Rarity"
 FROM #material AND #gas
 WHERE description != null
 SORT file.link ASC
