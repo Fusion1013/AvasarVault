@@ -13,7 +13,7 @@ description: DESCRIPTION
 **Organizations:**
 
 ## Overview
-Velus is the capital of Turochin Kingdom
+Velus is the capital of the GLORIOUS Turochan Kingdom
 ## History
 
 ## Landmarks
