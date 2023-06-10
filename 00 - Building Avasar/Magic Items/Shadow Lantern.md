@@ -1,5 +1,8 @@
 ---
 banner: "![[PurpleLantern.jpg]]"
+---
+---
+banner: "![[PurpleLantern.jpg]]"
 banner_y: 0.248
 ---
 ## Usage

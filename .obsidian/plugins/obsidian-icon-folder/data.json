@@ -6,11 +6,25 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+<<<<<<< Updated upstream
+=======
+<<<<<<< HEAD
+      "RiFolderHistoryLine",
+      "IbLocation",
+      "RiUserVoiceLine",
+      "IbUser",
+      "RiStackFill"
+=======
+>>>>>>> Stashed changes
       "FarStar",
       "RiLeafLine",
       "SiLeaflet",
       "IbLightBulb",
       "RiFolderHistoryLine"
+<<<<<<< Updated upstream
+=======
+>>>>>>> ab7d909f8979ec159bdc6ea878ad7f27c5799d95
+>>>>>>> Stashed changes
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -38,10 +52,16 @@
   "Private/Campaigns/Drufali Campaign/00 - Player Characters": "IbUser",
   "Private/Campaigns/Drufali Campaign/01 - NPC's": "RiUserVoiceLine",
   "Private/Campaigns/Drufali Campaign/02 - Locations": "IbLocation",
-  "00 - Building Avasar/History/History of Avasar.md": "RiHistoryLine",
   "00 - Building Avasar/History/Timeline.md": "RiTimeLine",
+<<<<<<< HEAD
+  "00 - Building Avasar/History": "RiFolderHistoryLine"
+=======
   "00 - Building Avasar/History": "RiFolderHistoryLine",
   "01 - Ideas.md": "IbLightBulb",
   "00 - Building Avasar/Environment": "RiLeafLine",
   "Private/Campaigns/Drufali Campaign/00 - Player Characters/00 - Damien Brinir.md": "FarStar"
+<<<<<<< Updated upstream
+=======
+>>>>>>> ab7d909f8979ec159bdc6ea878ad7f27c5799d95
+>>>>>>> Stashed changes
 }
