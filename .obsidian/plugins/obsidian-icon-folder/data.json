@@ -5,27 +5,7 @@
     "fontSize": 16,
     "emojiStyle": "none",
     "iconColor": null,
-    "recentlyUsedIcons": [
-<<<<<<< Updated upstream
-=======
-<<<<<<< HEAD
-      "RiFolderHistoryLine",
-      "IbLocation",
-      "RiUserVoiceLine",
-      "IbUser",
-      "RiStackFill"
-=======
->>>>>>> Stashed changes
-      "FarStar",
-      "RiLeafLine",
-      "SiLeaflet",
-      "IbLightBulb",
-      "RiFolderHistoryLine"
-<<<<<<< Updated upstream
-=======
->>>>>>> ab7d909f8979ec159bdc6ea878ad7f27c5799d95
->>>>>>> Stashed changes
-    ],
+    "recentlyUsedIcons": [],
     "recentlyUsedIconsSize": 5,
     "rules": [],
     "extraMargin": {
@@ -35,33 +15,5 @@
       "left": 0
     },
     "iconInTabsEnabled": false
-  },
-  "Private": "RiGitRepositoryPrivateFill",
-  "00 - Building Avasar/Cosmology": "IbEarth",
-  "00 - Building Avasar/Creatures": "IbClarusTheDogcow",
-  "00 - Building Avasar/Home Page.md": "IbHouse",
-  "00 - Building Avasar/Languages": "IbMessageBubble",
-  "00 - Building Avasar/Magic Items": "IbShoppingCartEmpty",
-  "00 - Building Avasar/Major Locations": "RiGlobalLine",
-  "00 - Building Avasar/Materials": "SiMaterialdesignicons",
-  "00 - Building Avasar/Pantheon": "FarHandPointUp",
-  "00 - TO-DO List.md": "RiListCheck",
-  "01 - Templates": "RiNewspaperFill",
-  "02 - Attachements": "FarImage",
-  "00 - Building Avasar": "RiStackFill",
-  "Private/Campaigns/Drufali Campaign/00 - Player Characters": "IbUser",
-  "Private/Campaigns/Drufali Campaign/01 - NPC's": "RiUserVoiceLine",
-  "Private/Campaigns/Drufali Campaign/02 - Locations": "IbLocation",
-  "00 - Building Avasar/History/Timeline.md": "RiTimeLine",
-<<<<<<< HEAD
-  "00 - Building Avasar/History": "RiFolderHistoryLine"
-=======
-  "00 - Building Avasar/History": "RiFolderHistoryLine",
-  "01 - Ideas.md": "IbLightBulb",
-  "00 - Building Avasar/Environment": "RiLeafLine",
-  "Private/Campaigns/Drufali Campaign/00 - Player Characters/00 - Damien Brinir.md": "FarStar"
-<<<<<<< Updated upstream
-=======
->>>>>>> ab7d909f8979ec159bdc6ea878ad7f27c5799d95
->>>>>>> Stashed changes
+  }
 }
