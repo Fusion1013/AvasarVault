@@ -1,5 +1,8 @@
 ---
 banner: "![[AonusHead.png]]"
+---
+---
+banner: "![[AonusHead.png]]"
 
 tags:
 - creature

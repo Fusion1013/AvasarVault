@@ -3,6 +3,8 @@ tags:
 - city
 - nation
 todo: Need to finish filling out the notes on Drufali
+editors:
+- Daniel
 ---
 *"We Stand Alone Against the Raging Storm"*
 
