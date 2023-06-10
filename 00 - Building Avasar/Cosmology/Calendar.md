@@ -2,6 +2,9 @@
 todo:
 - Restructure
 - Names for months/days/weeks??
+editors:
+- Fusion
+- Daniel
 ---
 
 Year: 653 days (653.169d)

@@ -1,5 +1,5 @@
 ---
-todo: Incorporte some history
+todo: Incorporate some history
 ---
 # Aberrations
 ## Overview
