@@ -3,7 +3,7 @@ tags:
 - creature
 
 creature_type: Mýkite
-environment: Caves
+environment: "[[Caves]]"
 image: "![[UndeadMushroomfolk.png|100]]"
 
 todo: Add information about [[Myconid Colonizers#Colonizer Types|Colonizer Types]]

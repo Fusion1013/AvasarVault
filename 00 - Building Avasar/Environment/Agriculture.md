@@ -1,3 +1,7 @@
+---
+todo: Populate using content from the [[Agriculture Design Document]]
+editors: Fusion
+---
 # Agriculture
 ## Introduction
 Due to the long year, agriculture on Avasar has had to adopt to the harsh environments. While long summers create ample opportunities for growing crops, the harsh and long winters can cause severe famine if not prepared for properly.

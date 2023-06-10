@@ -2,6 +2,11 @@
 tags:
 - plane
 - inner_plane
+
+todo: 
+- Section about the denizens of the plane
+- More environmental points of interest
+- Integrate the different metals that can be found here ([[Targath]] and [[Aururum]])
 ---
 *"QUOTE"*
 

@@ -4,6 +4,7 @@ tags:
 - metal
 
 todo: Rework
+editors: Fusion
 
 description: This metal is formed at the heart of trees that die and decay in the feywild. It is an impossibly pale, almost luminous material.
 

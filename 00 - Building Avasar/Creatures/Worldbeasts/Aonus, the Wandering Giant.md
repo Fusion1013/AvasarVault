@@ -10,6 +10,9 @@ creature_type: Worldbeast
 environment: "[[Aurora Ortus]]"
 banner_y: 0.37667
 image: "![[AonusHead.png|100]]"
+
+todo: Populate
+editors: Fusion
 ---
 *""*
 ## Overview

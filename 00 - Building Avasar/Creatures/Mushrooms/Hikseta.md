@@ -3,7 +3,7 @@ tags:
 - creature
 
 creature_type: Mýkite
-environment: Caves
+environment: "[[Caves]]"
 image: "![[MushroomWithCrossbow.png|100]]"
 ---
 # Hikseta

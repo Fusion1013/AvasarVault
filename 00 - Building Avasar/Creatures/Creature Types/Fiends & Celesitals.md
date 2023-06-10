@@ -1,3 +1,4 @@
+# Fiends & Celestials
 ## Overview
 Fiends & Celestials are positive and negative reflections of each of the [[Planes Overview|Major Planes]] that have a god associated with them, given physical form in the form of [[Creatures Overview|creatures]]. As such, the Material plane does not have any native Fiends or Celestials. As they can originate from wildly different planes, they can have wildly different appearances. Their appearances are often influenced by the plane they originate from.
 

@@ -3,6 +3,9 @@ tags:
 - plane
 - inner_plane
 
+todo: 
+- Populate
+- Link to [[Thalassa, the Abyssal Maw]]
 ---
 *"QUOTE"*
 

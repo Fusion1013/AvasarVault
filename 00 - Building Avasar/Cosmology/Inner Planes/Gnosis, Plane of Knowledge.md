@@ -2,6 +2,10 @@
 tags:
 - plane
 - inner_plane
+
+todo:
+- More tower sections
+- More information about the plane in general
 ---
 *"QUOTE"*
 

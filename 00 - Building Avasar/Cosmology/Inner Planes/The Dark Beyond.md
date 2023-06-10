@@ -2,6 +2,10 @@
 tags:
 - plane
 - inner_plane
+
+todo: 
+- Rework how it is linked to the plane of dreams
+- Remove mentions of upper/lower planes
 ---
 *"Some say death is unwelcoming, but I welcome all"*
 

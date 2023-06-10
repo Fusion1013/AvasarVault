@@ -2,6 +2,10 @@
 tags:
 - plane
 - inner_plane
+
+todo: 
+- Populate
+- Integrate notes into document
 ---
 *"QUOTE"*
 

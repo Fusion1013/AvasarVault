@@ -3,8 +3,10 @@ tags:
 - creature
 
 creature_type: Mýkite
-environment: Caves
+environment: "[[Caves]]"
 image: "![[ExplodingMushroom.png|100]]"
+
+todo: Populate
 ---
 # Puffshroom
 ## Overview

@@ -2,6 +2,9 @@
 tags:
 - plane
 - inner_plane
+
+todo: Section about beings that wander the plane
+editors: Fusion
 ---
 *"Madness doesn't favour fools"*
 

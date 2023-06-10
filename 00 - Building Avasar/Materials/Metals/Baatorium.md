@@ -4,6 +4,7 @@ tags:
 - metal
 
 todo: Rework
+editors: Fusion
 
 description: A metal native to Hell. It has the same but slightly stringer properties as steel. Sometimes tiny amounts seep into the material plane. Seems to shift and move on its own.
 

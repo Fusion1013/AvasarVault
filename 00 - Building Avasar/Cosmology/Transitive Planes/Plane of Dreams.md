@@ -2,6 +2,10 @@
 tags:
 - plane
 - transitive_plane
+
+todo:
+- Clarify how the plane of dreams works and how it links to the other planes
+editors: Fusion
 ---
 *"Dream, little shadow. Dream for me"*
 

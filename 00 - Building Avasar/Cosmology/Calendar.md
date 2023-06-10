@@ -1,3 +1,9 @@
+---
+todo:
+- Restructure
+- Names for months/days/weeks??
+---
+
 Year: 653 days (653.169d)
 Months:
 - 8 months/year

@@ -1,3 +1,7 @@
+---
+todo: Create more different groups of elementals
+---
+# Elementals
 ## Overview
 There are a few different elemental [[Creatures Overview|creature]] types, that were created in a few different ways.
 ### Elemental Types
