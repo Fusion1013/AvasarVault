@@ -10,6 +10,7 @@ No singular prime deity is good or evil. Instead, they are pure representations 
 TABLE WITHOUT ID
 file.link AS "God",
 title AS "Title",
+secondary_titles AS "Secondary Titles",
 essence AS "Essence",
 link(plane) AS "Plane"
 FROM #god AND #major_god

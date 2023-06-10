@@ -8,7 +8,9 @@ secondary_titles:
 essence:
 - Light
 - Darkness
-plane: ![["Tenebris"]], ![["Luminaria, Plane of Light"]]
+plane: 
+- ![["Tenebris"]]
+- ![["Luminaria, Plane of Light"]]
 ---
 ## Overview
 One of the major [[Pantheon Overview|Gods]], attuned to [[Tenebris]] and [[Luminaria]].
