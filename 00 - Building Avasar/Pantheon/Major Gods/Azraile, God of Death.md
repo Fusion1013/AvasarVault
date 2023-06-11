@@ -10,6 +10,8 @@ essence:
 - Murder
 - Guide of Passed Souls
 plane: ![["The Dark Beyond"]]
+
+todo: Populate symbology section
 ---
 ## Overview
 One of the major [[Pantheon Overview|Gods]], attuned to [[The Dark Beyond]].

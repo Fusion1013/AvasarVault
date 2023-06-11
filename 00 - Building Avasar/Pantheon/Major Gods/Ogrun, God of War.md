@@ -11,6 +11,8 @@ essence:
 - Honor
 - Bloodshed
 plane: ![["Stratosia, Plane of War"]]
+
+todo: Populate sections for domain and symbology
 ---
 ## Overview
 One of the major [[Pantheon Overview|Gods]], attuned to [[Stratosia, Plane of War]].

@@ -8,6 +8,8 @@ essence:
 - Living
 - Undeath
 plane: ![["Vylmat, Plane of Life"]]
+
+todo: Populate symbology section
 ---
 ## Overview
 One of the major [[Pantheon Overview|Gods]], attuned to [[Vylmat, Plane of Life]].

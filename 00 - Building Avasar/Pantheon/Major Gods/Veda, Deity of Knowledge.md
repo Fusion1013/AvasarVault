@@ -9,6 +9,8 @@ essence:
 - Intellect
 - Hubris
 plane: ![["Gnosis, Plane of Knowledge"]]
+
+todo: Populate sections for domain and symbology
 ---
 ## Overview
 One of the major [[Pantheon Overview|Gods]], attuned to [[Gnosis, Plane of Knowledge]].

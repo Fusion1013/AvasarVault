@@ -9,6 +9,8 @@ essence:
 - Trickery
 - Deception
 plane: ![["Eatrev, Plane of Lies"]]
+
+todo: Populate sections for domain, symbology and worship
 ---
 ## Overview
 One of the major [[Pantheon Overview|Gods]], attuned to [[Eatrev, Plane of Lies]].

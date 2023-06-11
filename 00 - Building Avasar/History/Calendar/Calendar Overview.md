@@ -19,6 +19,3 @@ god AS "God"
 FROM #month 
 SORT order ASC
 ```
-
-
-

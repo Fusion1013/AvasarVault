@@ -11,6 +11,8 @@ essence:
 - Tyranny
 - Stability
 plane: ![["Orthosia, Plane of Order"]]
+
+todo: Populate sections for symbology
 ---
 ## Overview
 One of the major [[Pantheon Overview|Gods]], attuned to [[Orthosia, Plane of Order]].

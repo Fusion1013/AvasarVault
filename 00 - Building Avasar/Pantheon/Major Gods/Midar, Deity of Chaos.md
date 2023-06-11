@@ -10,6 +10,8 @@ essence:
 - Pandemonium
 - Flexibility
 plane: ![["Kaos"]]
+
+todo: Populate section for symbology
 ---
 ## Overview
 One of the major [[Pantheon Overview|Gods]], attuned to [[Kaos]].

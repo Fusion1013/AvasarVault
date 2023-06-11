@@ -9,6 +9,8 @@ essence:
 - Honesty
 - Truth Seeking
 plane: ![["Vertae, Plane of Truth"]]
+
+todo: Populate sections for domain and symbology
 ---
 ## Overview
 One of the major [[Pantheon Overview|Gods]], attuned to [[Vertae, Plane of Truth]].

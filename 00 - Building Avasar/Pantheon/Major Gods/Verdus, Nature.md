@@ -11,6 +11,8 @@ essence:
 - Stagnation of Progress
 - Growth
 plane: ![["Feralia, Plane of Nature"]]
+
+todo: Populate sections for domain and symbology
 ---
 ## Overview
 One of the major [[Pantheon Overview|Gods]], attuned to [[Verdus, Nature]].
