@@ -1,10 +1,4 @@
 ---
-banner: "https://cdn.discordapp.com/attachments/1079292650173239356/1112232647050150058/Separi_and_Elisus.jpg"
-banner_y: 0.5
----
----
-banner: "https://cdn.discordapp.com/attachments/1079292650173239356/1112232647050150058/Separi_and_Elisus.jpg"
-banner_y: 0.464
 aliases:
 - Elisus
 

@@ -1,5 +1,15 @@
+---
+tags:
+- organization/major
+- turochan
+description: "An order of elite knights within the kingdom used to protect the royal family and carry out precarious tasks. Specialized in techniques for taking down magic users, whether it be to kill or capture them. The organization is currently led by Sir Marc Valerrus, a loyal servant of the Crown."
+---
+# The Registran
+## Overview
+An order of elite knights within the kingdom used to protect the royal family and carry out precarious tasks. Specialized in techniques for taking down magic users, whether it be to kill or capture them. The organization is currently led by Sir Marc Valerrus, a loyal servant of the Crown.
 ## History
 Not long after the Kingdom’s creation, it began to face its largest threat: the remnants of the mages who had previously occupied Taundor were attempting to regain control of the region. It was during this time that the Registran was officially formed. Under the leadership of Turot, the first leader of the Kingdom, the organization became an elite group of knights that specialized in combating magic users. Their training and equipment were specially designed to counter the abilities of these dangerous individuals, and they were chosen for their exceptional skills in combat and their unwavering loyalty to the Kingdom.
+
 As the years passed, the number of magic users in the Kingdom dwindled, and the Registran found themselves with less to do. To adapt to these changing circumstances, the organization expanded its duties to include the protection of the Royal Family.  They soon became a familiar sight in the capital city of Velus, where they could be seen guarding the palace and accompanying members of the Royal Family on official business.
 Even with their expanded role in recent years, the Registran has not forgotten its roots. Despite rules continuing to relax against the use of the arcane and divine, the Registran continues to maintain their exceptional skills to be used against magic users. Many of their calls to arms have been in combating the resurgence of the Occultum, which was thought to have been previously neutralized. Additionally, they continue to serve in ceremonial capacities, such as during parades and special holidays. The Registran has remained a vital part of the Turochan Kingdom, and its members are revered as some of the finest warriors on the continent.
 ## Organization Leaders
