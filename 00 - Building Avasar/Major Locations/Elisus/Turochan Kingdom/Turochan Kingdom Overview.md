@@ -1,12 +1,9 @@
 ---
-banner: "![[TurochanSaxum.jpg]]"
-
 aliases:
 - Turochan
 - Turochan Kingdom
 tags:
 - nation
-banner_y: 0.68
 ---
 *"Progressus sine Arcano"*
 
@@ -37,26 +34,14 @@ This region is a spot in the center of the Kingdom which was most damaged by the
 ### [[Fracrish Mountains|The Fracrish Mountains]]
 These mountains were caused when the island of Taundor was smashed into the continent of [[Elisus Overview|Elisus]]. It contains some of the tallest mountains in the entire world, such as Aithr Peak. The mountain range acts as the nation’s southern border.
 ## Major People
-### King Aulus Turochan II
-Current head of state for the Turochan Kingdom. Ruled for around 30 years and began relaxing laws against magic users 20 years ago. Seen as a divisive figure by the populace.
-
-An older human gentleman in his late 50s with darker skin and short, graying hair. Stands at around 6 ft 3 (1.9 meters) and has piercing green eyes. Generally wears pristine robes of yellow and a large crown atop his head.
-### Prince Cassius Turochan
-The only son of Aulus and next in line to rule the Kingdom.
-
-Human in his mid 20s with darker skin and short, jet black hair. Stands around 6 ft (1.8 meters) tall and has green eyes like his father.
-### Sir Marc Valerrus
-Head Knight of [[The Registran]].
-
-Elven male in his mid to late 30s with light skin and long, curly red hair. Stands around 5 ft 8 (1.7 meters) tall and has brown eyes. Wears polished, silver platemail painted in colors of yellow.
-### Valerian Cortoun
-Leader of the [[Custode Populi]].
-### Lady Sortelle Amon
-Leader of the [[Ordo Magi]].
-### Ennius Caiphon
-Leader of [[The Anubit Society]].
-### Casius Mercelle
-Leader of [[The Steel Conductors]].
+```dataview
+TABLE
+description AS Description,
+race AS Race,
+age AS Age
+FROM #person/major AND #turochan
+SORT file.name ASC
+```
 ## Major Organizations
 ```dataview
 TABLE
