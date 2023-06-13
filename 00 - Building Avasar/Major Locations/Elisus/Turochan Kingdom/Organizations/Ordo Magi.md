@@ -1,5 +1,13 @@
+---
+tags:
+- organization/major
+- turochan
+description: "A group of arcane magic users created after the relaxation of rules against magic. Works on stigmatizing the use of magic and properly training a new generation of mages in the Kingdom. Operates the only legal magical academy within the Kingdom. Many people within the Kingdom, especially those that are older and lived through the war, heavily oppose this faction. Admission into the faction along with their magic school is heavily regulated by the Crown. Members are also closely watched by agents of the Crown to ensure they follow the new regulations. Founded and led by Lady Sortelle Armon."
+---
 # Ordo Magi
 *"Imperium Magicae"*
+## Overview
+A group of arcane magic users created after the relaxation of rules against magic. Works on stigmatizing the use of magic and properly training a new generation of mages in the Kingdom. Operates the only legal magical academy within the Kingdom. Many people within the Kingdom, especially those that are older and lived through the war, heavily oppose this faction. Admission into the faction along with their magic school is heavily regulated by the Crown. Members are also closely watched by agents of the Crown to ensure they follow the new regulations. Founded and led by Lady Sortelle Armon.
 ## History
 The Ordo Magi was created by Lady Sortelle Armon 35 years ago in her youth. For part of the organization’s history, it acted in secret. During this time period, they would assist those born with innate magical abilities in the [[Turochan Kingdom Overview|Turochan Kingdom]] on how to safely control their powers. Since their members only included a few trusted individuals at the time, they did not largely impact the rest of the Kingdom. Many of the members during this time, including its former leaders, were caught and executed by the Crown. However, after King Aulus II began to loosen restrictions on having magic users within the [[Turochan Kingdom Overview|Kingdom]], they were able to make themselves known. The group began to focus on convincing others to become less hostile against magic users and show the benefits it could bring to a society. They also were allowed to open the only school dedicated to the learning of magic, though less than 30 people have ever attended. Although restrictions are continuing to loosen, membership into this organization and their school is heavily regulated, with members having reported themselves being under constant surveillance.
 ## Organization Leaders
