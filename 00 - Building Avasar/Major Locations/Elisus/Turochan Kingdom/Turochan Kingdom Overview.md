@@ -58,17 +58,17 @@ Leader of the Anubit Society
 ### Casius Mercelle
 Leader of the Steel Conductors
 ## Major Organizations
-### Custode Populi
+### [[Custode Populi]]
 More commonly known as The People’s Guard. The organized force of guards and soldiers used within the Turochan Kingdom. Carry out tasks such as keeping order within the many cities and towns within their borders and ensuring safety for travelers across the kingdom. Currently led by Valeriana Cortoun.
 ### [[The Registran]]
 An order of elite knights within the kingdom used to protect the royal family and carry out precarious tasks. Specialized in techniques for taking down magic users, whether it be to kill or capture them. The organization is currently led by Sir Marc Valerrus, a loyal servant of the Crown.
-### The Steel Conductors
+### [[The Steel Conductors]]
 A faction endorsed by the kingdom for finding legal mercenary and adventuring work. Holds posts in all major cities in the Kingdom and at least one representative in most towns. Currently led by Casius Mercelle, an experienced but retired mercenary.
-### The Occultum
+### [[The Occultum]]
 Extreme group of magic users who stand against the crown. Illegal organization which uses hit-and-run tactics to cause chaos in the Kingdom. Led by a mysterious, unknown figure only known as The Masked Arcanist. Previously thought to have been dismantled 100 years ago, but have recently come back into prominence in the past 15 years. Organization’s name was given to it by the Kingdom.
 ### [[Ordo Magi|The Ordo Magi]]
 A group of arcane magic users created after the relaxation of rules against magic. Works on stigmatizing the use of magic and properly training a new generation of mages in the Kingdom. Operates the only legal magical academy within the Kingdom. Many people within the Kingdom, especially those that are older and lived through the war, heavily oppose this faction. Admission into the faction along with their magic school is heavily regulated by the Crown. Members are also closely watched by agents of the Crown to ensure they follow the new regulations. Founded and led by Lady Sortelle Armon.
-### The Anubit Society
+### [[The Anubit Society]]
 A group of nobles and wealthy merchants opposed to the reintegration of magic into Turochan society. Currently led by Ennius Caiphon, the head of the Caiphon family.
-### The Scelus
+### [[The Scelus]]
 The most well-known criminal organization within the Kingdom. Largely active in the city of Virston and focuses on smuggling out gunpowder and firearms. The leader of this organization is only known by some members of their faction.
