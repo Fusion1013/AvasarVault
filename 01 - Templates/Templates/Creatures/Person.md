@@ -12,8 +12,5 @@ description:
 ---
 # <% tp.file.title %>
 ## Overview
-```dataviewjs
-let group = dv.page("<% tp.file.path(true) %>")
-dv.span(group.description)
-```
+
 ## Appearance

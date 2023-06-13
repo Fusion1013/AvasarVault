@@ -12,9 +12,6 @@ description: "Current head of state for the [[Turochan Kingdom Overview|Turochan
 ---
 # King Aulus Turochan II
 ## Overview
-```dataviewjs
-let group = dv.page("00 - Building Avasar/Major Locations/Elisus/Turochan Kingdom/People/King Aulus Turochan II.md")
-dv.span(group.description)
-```
+Current head of state for the [[Turochan Kingdom Overview|Turochan Kingdom]]. Ruled for around 30 years and began relaxing laws against magic users 20 years ago. Seen as a divisive figure by the populace.
 ## Appearance
 An older human gentleman in his late 50s with darker skin and short, graying hair. Stands at around 6 ft 3 (1.9 meters) and has piercing green eyes. Generally wears pristine robes of yellow and a large crown atop his head.
