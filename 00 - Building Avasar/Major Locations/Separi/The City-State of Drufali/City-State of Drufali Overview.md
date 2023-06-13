@@ -62,3 +62,4 @@ The Shadow Guild is a clandestine organization specializing in gathering informa
 #### Star-point District
 #### The Narrow Walkway
 #### Downtown Nup
+#### High Tower District

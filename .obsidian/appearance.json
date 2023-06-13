@@ -7,5 +7,6 @@
     "icons"
   ],
   "showViewHeader": true,
-  "translucency": false
+  "translucency": false,
+  "baseFontSize": 15
 }
