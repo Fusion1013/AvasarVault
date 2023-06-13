@@ -1,6 +1,7 @@
 ---
 banner: "![[SakharOutpost.png]]"
 ---
+# Sakhar Outpost (Saak-har)
 ## Overview
 A city / township in the south south-west region of Raazhan, close to the mountain range on the left hand side of the region. The Sakhar Outpost is mostly known for its guarded path to the quarries in the mountains, which are mainly used to gain high value building rocks like marble and granite.
 

@@ -6,6 +6,12 @@ tags:
 
 **Government:** 
 **Languages:** 
+```leaflet
+id: raazhan-dominion
+image: [[SepariMap.jpg]]
+defaultZoom: 7
+zoomDelta: .5
+```
 ## Overview
 
 ## History
