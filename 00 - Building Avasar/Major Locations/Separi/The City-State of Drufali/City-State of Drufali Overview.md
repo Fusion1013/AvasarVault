@@ -17,7 +17,7 @@ ___
 The City-state of Drufali was originally part of the Ohkyr Dominion until the civil war happened. The civil war started due to the previous king did not name a successor, so his sons and other factions started to fight for the crown. The province was split into three factions. One faction was the Kings eldest son, the second faction was the kings third son, and the last faction was the knight Commander Duke Ferdinand Don Drufali. As the war waged on the Duke Ferdinand decided to side with the third son of the king which cost the eldest son the war. After the civil war the new king was still worried about conflicts that can brew in the dominion and decided to expel the Duke but let him secede his land, the now City-state of Drufali. In order to same himself from being crushed between two major powers. To do this the Duke hired many mages to create a passage between [[Separi Overview|Separi]] and [[Elisus Overview|Elisus]] creating the greatest trading hub even to this day.
 ## Major Houses
 
-### Noble Families
+### Major Noble Families
 The Noble Family run the interactions with other diplomates that reach out to the city-state they also outside of the structure of the government and owns most of the citys land. They have private estates inside and even some outside or in different nations altogether. 
 #### [[House Thunderstep]]
 A noble dwarven family that followed House Drufali out of Ohkyr Dominion after the civil war. There banner is tan with a red dragon sleeping on a pile of gold. 
@@ -46,3 +46,19 @@ The Navigators' Guild comprises skilled sailors, cartographers, and explorers wh
 ___
 #### [[The Shadow Guild]]
 The Shadow Guild is a clandestine organization specializing in gathering information and intelligence from surrounding countries and beyond. Composed of skilled spies, infiltrators, and information brokers, the members of the Shadow Guild operate in the shadows, navigating the complex web of politics, secrets, and intrigue. They are adept at espionage, surveillance, and discreet manipulation, providing valuable insights and leverage to the city-state's leaders and decision-makers. With their vast network of informants and their ability to uncover hidden truths, the Shadow Guild is a powerful force in the realms of espionage and covert operations.
+
+
+## Map of Drufali
+![[The City-State of Drufali (wide).jpg]]
+
+### Major Locations in the City
+
+#### The Court of Kingdoms 
+#### The BlueTop District
+#### The Color Ward
+##### The Flowing Tarps
+
+#### Hilltop District
+#### Star-point District
+#### The Narrow Walkway
+#### Downtown Nup
