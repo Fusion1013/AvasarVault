@@ -13,5 +13,5 @@ description: "Leader of the Sentinels. Grown up from poverty."
 ---
 # Dame Bellatrix von Treir
 ## Overview
-Leader of the Sentinels. Grown up from poverty.
+Leader of the [[The Registran#Bracchium Sentinel|Sentinels]]. Grown up from poverty.
 ## Appearance

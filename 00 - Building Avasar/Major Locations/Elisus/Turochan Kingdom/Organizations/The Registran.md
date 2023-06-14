@@ -63,6 +63,6 @@ Of the knights of the Registran, this branch contains around 1⁄3 of them. In t
 ## Image Inspiration
 Yellow as main color
 ```img-gallery
-path: Attachements/Galleries/Registran
+path: 02 - Attachements/Galleries/Registran
 type: vertical
 ```
