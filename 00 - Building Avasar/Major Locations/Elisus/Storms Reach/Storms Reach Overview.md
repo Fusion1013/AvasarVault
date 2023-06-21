@@ -1,10 +1,8 @@
 ---
-banner: "![[StormsReachOldCapital.jpg]]"
-
 tags:
 - nation
-banner_y: 0.65143
 ---
+![[StormsReachOldCapital.jpg]]
 *"We wander in fear, in fear of the storm"*
 
 **Government:** 
