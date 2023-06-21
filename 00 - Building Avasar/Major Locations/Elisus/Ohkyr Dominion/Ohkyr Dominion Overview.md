@@ -14,7 +14,7 @@ editors: Fusion
 **Government:** 
 **Languages:** [[Thüma]]
 ## Overview
-Ohkyr is a coastal nation occupying the northern coasts of [[Elisus Overview|Elisus]] and borders the [[City-State of Drufali Overview|City-State of Drufali]], as well as [[Storms Reach Overview|Storms Reach]].
+Ohkyr is a coastal nation occupying the northern coasts of [[Elisus Overview|Elisus]], bordering the [[City-State of Drufali Overview|City-State of Drufali]] as well as [[Storms Reach Overview|Storms Reach]].
 ## History
 
 ## Major Cities
