@@ -1,7 +1,7 @@
 ---
 tags:
 - plane
-- inner_plane
+- inner_plane 
 ---
 *""*
 
