@@ -25,7 +25,10 @@ Ohkyr is a coastal nation occupying the northern coasts of [[Elisus Overview|Eli
 ### Placeholder
 
 
-## 
+## Minor Cities
+### Placeholder
+
+### Placeholder
 
 ## Language
 Main language is called [[Thüma]]. Use Turkish references when naming things.
