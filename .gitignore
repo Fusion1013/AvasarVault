@@ -4,3 +4,9 @@ Private/
 .obsidian/plugins/novel-word-count/data.json
 .obsidian/graph.json
 .obsidian/plugins/obsidian-icon-folder/data.json
+
+.obsidian/app.json
+.obsidian/appearance.json
+.obsidian/community-plugins.json
+.obsidian/core-plugins-migration.json
+.obsidian/plugins
