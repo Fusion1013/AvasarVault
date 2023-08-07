@@ -1,8 +1,8 @@
 ---
 tags:
-- city
-nation: NATION
-description: DESCRIPTION
+- city/major
+nation: Ohkyr
+description: "The capital of Ohkyr"
 ---
 *"QUOTE"*
 
