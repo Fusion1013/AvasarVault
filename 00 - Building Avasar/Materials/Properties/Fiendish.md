@@ -1,8 +1,7 @@
 ---
 tags: material_property
-description: Associated with fiends, the lower planes, evil effects, and the warlock fiend pact.
+description: Associated with fiends and fiendish magic.
 
-todo: Rework this one to fit with the lore
 editors: Fusion
 ---
 [[Properties Overview]]
