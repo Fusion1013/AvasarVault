@@ -1,6 +1,4 @@
 ---
-todo:
-- Update description of Avasar's moons
 editors: Fusion
 ---
 
@@ -112,12 +110,12 @@ A small satellite of ice and rock. Remnants of an asteroid that collided with Sy
 **Corresponding Plane:** The Shadow Plane
 **Appearance:** Pure Black
 
-The first moon of Avasar, closest to the planet. The Dark Moon is seen only by the absence of stars in the night sky where it rests, or when it passes in front of Junon. It is said to drive people to madness with its endless mysteries.
+The first moon of Avasar, closest to the planet. The Dark Moon is seen only by the absence of stars in the night sky where it rests, or when it passes in front of its larger twin Junon. It is said to drive people to madness with its endless mysteries.
 ##### Junon (Vibrant)
 **Corresponding Plane:** The Vibrant Plane
 **Appearance:** White
 
-The second moon of Avasar, furthest from the planet. The White Moon which maintains steady tides.
+The second moon of Avasar, furthest from the planet. The White Moon which maintains steady tides. It is the largest of the two moons.
 ### Outer Planets
 #### Epistos (Knowledge, 7.69 AU)
 **Corresponding Plane:** [[Gnosis, Plane of Knowledge]]
@@ -356,7 +354,7 @@ Brudash is the closest satellite to Avasar.
 ##### Formation
 The formation of Brudash is a mystery that has eluded scholars for millenia.
 ##### Physical Characteristics
-The Dark Moon is seen only by the absence of stars in the night sky where it rests. It is said to drive people to madness with its endless mysteries.
+The Dark Moon is seen only by the absence of stars in the night sky where it rests, or when it passes in front of its larger twin Junon. It is said to drive people to madness with its endless mysteries.
 #### Junon
 Junon is the furthest satellite to Avasar.
 ##### Formation
