@@ -3,10 +3,9 @@ tags:
 - material
 - metal
 
-todo: Rework
 editors: Fusion
 
-description: This metal is formed at the heart of trees that die and decay in the feywild. It is an impossibly pale, almost luminous material.
+description: This metal is formed at the heart of trees that die and decay in the [[Vibrant Plane]]. It is an impossibly pale, almost luminous material.
 
 properties:
 - "[[Radiant]]"
