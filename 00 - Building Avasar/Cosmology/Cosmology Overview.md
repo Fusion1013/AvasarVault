@@ -1,6 +1,5 @@
 ---
 todo:
-- Finish list of stellar populations
 - Update description of Avasar's moons
 editors: Fusion
 ---
@@ -231,29 +230,29 @@ Of the 21 systems that make up the Cardosian neighborhood, 15 contain at least o
 
 Taiya is unusual in that it is the only F-class star in the Cardosian neighborhood, making it the largest. Most other stars are either low mass M-type stars or brown dwarfs.
 #### List of Stellar Populations
-| Name  | Coordinates (ly) (x, y, z) | System Type | Constituent Stars    | Distance to Taiya | Notes          |
-| ----- | -------------------------- | ----------- | -------------------- | ----------------- | -------------- |
-| Taiya | (0,0,0)                    | Single      | F8.2V                | NA                |                |
-| SS01  | (-2.64, -1.95, 4.13)       | Binary      | MV - D (White Dwarf) | 5.28 ly           | Closest System |
-| SS02  | (4.39, 11.02, 0.36)        |             |                      |                   |                |
-| SS03  | (-0.62, 7.68, 4.3)         |             |                      |                   |                |
-| SS04  | (-4.92, -1.96, 0.88)       |             |                      |                   |                |
-| SS05  | (-9.37, -6.1, 0.26)        |             |                      |                   |                |
-| SS06  |                            |             |                      |                   |                |
-| SS07  |                            |             |                      |                   |                |
-| SS08  |                            |             |                      |                   |                |
-| SS09  |                            |             |                      |                   |                |
-| SS10  |                            |             |                      |                   |                |
-| SS11  |                            |             |                      |                   |                |
-| SS12  |                            |             |                      |                   |                |
-| SS13  |                            |             |                      |                   |                |
-| SS14  |                            |             |                      |                   |                |
-| SS15  |                            |             |                      |                   |                |
-| SS16  |                            |             |                      |                   |                |
-| SS17  |                            |             |                      |                   |                |
-| SS18  |                            |             |                      |                   |                |
-| SS19  |                            |             |                      |                   |                |
-| SS20  |                            |             |                      |                   |                |
+| Name  | Coordinates (ly) (x, y, z) | System Type | Constituent Stars                 | Distance to Taiya | Notes          |
+| ----- | -------------------------- | ----------- | --------------------------------- | ----------------- | -------------- |
+| Taiya | (0,0,0)                    | Single      | F8.2V                             | NA                |                |
+| SS01  | (-2.64, -1.95, 4.13)       | Binary      | MV - D (White Dwarf)              | 5.28 ly           | Closest System |
+| SS02  | (4.39, 11.02, 0.36)        | Single      | Y (Brown Dwarf) - Y (Brown Dwarf) | 11.87 ly          | Furthest System|
+| SS03  | (-0.62, 7.68, 4.3)         | Binary      | GV - KV                           | 8.83 ly           |                |
+| SS04  | (-4.92, -1.96, 0.88)       | Triple      | L (Brown Dwarf) - MV - MV         | 5.37 ly           |                |
+| SS05  | (-9.37, -6.1, 0.26)        | Single      | MV                                | 11.18 ly          |                |
+| SS06  | (10.24, -0.32, 5.2)        | Single      | Y (Brown Dwarf) - T (Brown Dwarf) | 11.48 ly          |                |
+| SS07  | (-3.42, 11.22, -1.75)      | Single      | MV                                | 11.86 ly          |                |
+| SS08  | (-3.95, -5.66, 9.3)        | Single      | T (Brown Dwarf) - T (Brown Dwarf) | 11.58 ly          |                |
+| SS09  | (4.22, 7.11, 8.48)         | Binary      | MV - MV                           | 11.84 ly          |                |
+| SS10  | (-1.55, 5.46, 10.13)       | Binary      | MV - L (Brown Dwarf)              | 11.62 ly          |                |
+| SS11  | (-3.21, 8.35, 0.27)        | Single      | MV                                | 8.95 ly           |                |
+| SS12  | (2.02, -7.9, 3.33)         | Single      | KV                                | 8.81 ly           |                |
+| SS13  | (-4.77, -3.13, -7.96)      | Binary      | D (White Dwarf) - L (Brown Dwarf) | 9.80 ly           |                |
+| SS14  | (-9.08, 4.12, 2.03)        | Quadruple   | MV - MV - MV - MV                 | 10.17 ly          |                |
+| SS15  | (-9.5, 0.45, 6.19)         | Single      | KV                                | 11.34 ly          |                |
+| SS16  | (1.48, 3.88, -2.76)        | Binary      | MV - MV                           | 4.98 ly           |                |
+| SS17  | (7.36, 4.29, -7.04)        | Single      | MV                                | 11.05 ly          |                |
+| SS18  | (-7.88, -4.28, 4.89)       | Single      | GV                                | 10.21 ly          |                |
+| SS19  | (-7.44, 3.01, -1.44)       | Binary      | T (Brown Dwarf) - Y (Brown Dwarf) | 8.16 ly           |                |
+| SS20  | (11.47, -0.56, 1.79)       | Binary      | MV - MV                           | 11.62 ly          |                |
 ## Avasar
 Avasar occupies the third orbit from Taiya and is the second planet in the Avasar System that harbors life, and is also the planet that has given the planetary system its name.
 ### Physical Characteristics
