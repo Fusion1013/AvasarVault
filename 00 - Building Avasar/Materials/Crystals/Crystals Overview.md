@@ -1,7 +1,6 @@
 ---
 tags:
 - material_overview
-todo: Make properties into links
 editors: Fusion
 ---
 ## Overview

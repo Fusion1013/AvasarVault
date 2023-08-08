@@ -6,7 +6,7 @@ tags:
 description: Quartz blended with common gemstones. Comes in any color and opacity.
 
 properties:
-- [[Mercurial]]
+- "[[Mercurial]]"
 - Other depending on color
 rarity: Uncommon
 cost_kg_uncut: 22.68gp
