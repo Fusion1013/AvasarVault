@@ -39,5 +39,23 @@ Different metals in the soil. Aluminum sulfate, magnesium sulfate, sulfate in ge
 > The list of nitrogen-fixing plants for agriculture is quite versatile and includes, among others: Beans: fava (aka faba, broad), alfalfa, green (aka French), runner, field, sweet, peanuts (aka groundnuts), soybeans, cream, black-eyed, or purple-hulled beans, lupins, lentils, cowpeas, chickpeas.
 
 > Notable among cover crops (many of which are nitrogen-fixing legumes), buckwheat extracts phosphorus and calcium from the soil. When the buckwheat plants die and decompose, those nutrients are released in plant-friendly forms that can be used by subsequent crops.
+
+### Soil types
+#### Clay Soils
+Have over 25% clay. Also known as heavy soils, these are potentially fertile as they hold nutrients bound to the clay minerals in the soil. But they also hold a high proportion of water due to the capillary attraction of the tiny spaces between the numerous clay particles. They drain slowly and take longer to warm up in spring than sandy soils.
+#### Peat Soils
+Mainly organic matter and are usually very fertile and hold much moisture. Seldom found in gardens.
+
+There are three different soil types:
+- Clay
+- Silt
+- Sand
+- Stones
+- Chalky Soils
+- Peat
 ## Agriculture & Magic
 Magic can be used to accelerate prop growth and increase yields. Magical objects could be used in areas to help with this. Magic can also be used for preservation.
+## Resources
+- Other Peoples Work: https://www.reddit.com/r/worldbuilding/comments/48v3ae/what_is_agriculture_like_in_your_world/
+- Unique Agriculture Systems: https://www.great-group-activities.com/fantasy-writing-research-ag.html
+- Guide to food & Farming: https://www.projectmultiplexer.com/2019/08/13/a-guide-to-food-farming-and-conflict-in-worldbuilding/
