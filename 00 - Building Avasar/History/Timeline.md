@@ -7,7 +7,7 @@ nation AS "Nation",
 description AS "Description"
 FROM #timeline_event AND (#major_event OR #world_event) 
 WHERE title != ""
-SORT data DESC
+SORT date DESC
 ```
 ## Events
 Below follows a list of all events, minor and major, that have taken place throughout the history of Avasar.
@@ -18,5 +18,5 @@ nation AS "Nation",
 description AS "Description"
 FROM #timeline_event 
 WHERE title != ""
-SORT data DESC
+SORT date DESC
 ```

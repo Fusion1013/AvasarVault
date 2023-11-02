@@ -1,3 +1,9 @@
+---
+tags:
+  - organization/major
+nation: Saxum
+---
+
 *"Trust your cargo to the strenght of our dragons"*
 ## Overview
 Skywing Transport was created to be a solution to the difficult problem of transporting goods across the [[Dragonback Mountains]]. Since dragons are intelligent creatures they do not need riders, though they sometimes take passengers through the use of specially constructed carrier vessels.

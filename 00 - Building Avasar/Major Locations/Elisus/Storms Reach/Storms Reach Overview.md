@@ -1,6 +1,8 @@
 ---
 tags:
-- nation
+  - nation
+aliases:
+  - Storms Reach
 ---
 ![[StormsReachOldCapital.jpg]]
 *"We wander in fear, in fear of the storm"*

@@ -4,6 +4,7 @@
     "cssclasses": "multitext",
     "tags": "tags",
     "todo": "multitext",
-    "editors": "multitext"
+    "editors": "multitext",
+    "research_areas": "multitext"
   }
 }

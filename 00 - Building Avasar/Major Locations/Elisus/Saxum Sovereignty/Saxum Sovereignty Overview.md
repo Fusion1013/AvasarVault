@@ -34,6 +34,11 @@ race AS "Race",
 FROM #major_person AND #saxum AND #alive
 ```
 ## Major Organizations
+```dataview
+TABLE
+FROM #organization/major
+WHERE nation = "Saxum"
+```
 ### [[The Saxum Triumvirate]]
 The ruling body of the nation.
 ## Magical Society
