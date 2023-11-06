@@ -1,11 +1,12 @@
 ---
 tags:
   - organization/minor
+  - erudisamfund
 nation: Saxum
 ---
 
 ## Overview
-The Agronomi Foundation, or Agronomiframgångsförbundet, is an organization focused on developing new agricultural techniques that [[Saxum Sovereignty Overview|Saxum]] can utilize.
+The Agronomi Foundation, or Agronomiframgångsförbundet, is an organization focused on developing new agricultural techniques that [[Saxum Sovereignty Overview|Saxum]] can utilize. It was founded in 1364 APC as a response to the rising tensions in surrounding nations and the fear of war breaking out.
 ## Experimental Farming Techniques
 The Agronomi have been working on a number of different experimental farming techniques that can be utilized to ensure the nations survival during moments of crisis, such as at times of war.
 ### Mushroom & Lichen Farming

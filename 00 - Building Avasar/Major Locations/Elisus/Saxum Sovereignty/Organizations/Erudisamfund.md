@@ -3,7 +3,6 @@ tags:
   - organization/major
 nation: Saxum
 ---
-
 ## Overview
 The Erudisamfund, most commonly referred to as the Erudi, are a researching guild based in [[Saxum Sovereignty Overview|Saxum]]. They oversee a number of smaller researching organizations operating in and around the nation. Their mission is to conduct research and gather knowledge that might aid in furthering the goals of the nation, and aid in protecting it. A large portion of their research has gone into developing new ways to produce food in the harsh environments of [[Saxum Sovereignty Overview|Saxum]].
 ## History

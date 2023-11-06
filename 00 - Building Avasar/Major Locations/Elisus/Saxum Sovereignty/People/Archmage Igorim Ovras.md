@@ -1,15 +1,22 @@
 ---
-tags: person, major_person, saxum, saxum_triumvirate, alive, saxum_triumvirate_current_member
+tags:
+  - person
+  - major_person
+  - saxum
+  - saxum_triumvirate
+  - alive
+  - saxum_triumvirate_current_member
 aliases:
-- Igorim Ovras
-
-# Content Generation
+  - Igorim Ovras
 race: Elf
 age: 500
-description: Male elf, around 500 years old. He is one of the original founders of the capital and has been on the council since then. He now oversees a lot of the magical research that is being conducted at the bottom of the Myriad.
+description: Male elf, around 500 years old. Archmage Igorim Ovras is one of the original founders of [[The Saxum Triumvirate]], and is regarded as one of the most powerful mages in the history of the [[Saxum Sovereignty Overview|Saxum Sovereignty]]. As one of the founding members of the [[The Saxum Triumvirate]], Ovras was instrumental in shaping the early years of the nation. He now oversees a lot of the magical research that is being conducted at the bottom of the [[Gulstad, City of Gold#The Myriad|Myriad]].
 ---
 ## Overview
-Male elf, around 500 years old. Archmage Igorim Ovras is one of the original founders of [[The Saxum Triumvirate]], and is regarded as one of the most powerful mages in the history of the [[Saxum Sovereignty Overview|Saxum Sovereignty]]. As one of the founding members of the [[The Saxum Triumvirate]], Ovras was instrumental in shaping the early years of the nation. He now oversees a lot of the magical research that is being conducted at the bottom of the [[Gulstad, City of Gold#The Myriad|Myriad]].
+```dataviewjs
+var p = dv.current();
+dv.span(p.description)
+```
 ## History
 Ovras was born in a small village on the Taundor islands. He quickly displayed an aptitude for magic and was taken in by a mage mentor at a young age. As he grew older, Ovras began to take an interest in the politics of mages and their place in society. He felt that mages were often marginalized and feared by non-mages, and that this needed to change.
 

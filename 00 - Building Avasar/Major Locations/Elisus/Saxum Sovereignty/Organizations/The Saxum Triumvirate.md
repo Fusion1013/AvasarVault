@@ -22,6 +22,11 @@ description AS "Description",
 choice(contains(file.etags, "#alive"), "Alive", "Dead") AS "Status"
 FROM #major_person AND #saxum_triumvirate AND -#saxum_triumvirate_current_member 
 ```
+```dataview
+TABLE Overview
+FROM #major_person AND #saxum_triumvirate AND -#saxum_triumvirate_current_member 
+WHERE (Overview)
+```
 ### Current Members
 ```dataview
 TABLE

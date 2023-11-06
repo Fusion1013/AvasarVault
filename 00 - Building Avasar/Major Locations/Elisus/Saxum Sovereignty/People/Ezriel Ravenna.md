@@ -1,13 +1,18 @@
 ---
-# Consider adding some of the following tags: ["major_person","alive","dead"]
-tags: person, major_person, dead, saxum, saxum_triumvirate
-aliases:
-
-# Content Generation
-race:
-age:
-description: Served on the Saxum Triumvirate for 20 years before being expelled for attempting to overthrow it.
+tags:
+  - person
+  - major_person
+  - dead
+  - saxum
+  - saxum_triumvirate
+aliases: 
+race: 
+age: 
+description: Served on [[The Saxum Triumvirate]] for 20 years before being expelled for attempting to overthrow it.
 ---
 ## Overview
-Served on [[The Saxum Triumvirate]] for 20 years before being expelled for attempting to overthrow it.
+```dataviewjs
+var p = dv.current();
+dv.paragraph(p.description)
+```
 ## Appearance

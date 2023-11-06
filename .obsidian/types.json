@@ -5,6 +5,7 @@
     "tags": "tags",
     "todo": "multitext",
     "editors": "multitext",
-    "research_areas": "multitext"
+    "research_areas": "multitext",
+    "age": "number"
   }
 }
