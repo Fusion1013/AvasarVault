@@ -1,16 +1,17 @@
 ---
 tags:
-- god
-- major_god
+  - god
+  - major_god
 title: The Unmasked Goddess
 secondary_titles:
-- Torchbearer
+  - Torchbearer
 essence:
-- Honesty
-- Truth Seeking
-plane: ![["Vertae, Plane of Truth"]]
-
-todo: Populate sections for domain and symbology
+  - Honesty
+  - Truth Seeking
+todo:
+  - Populate sections for domain and symbology
+plane:
+  - "[[Vertae, Plane of Truth]]"
 ---
 ## Overview
 One of the major [[Pantheon Overview|Gods]], attuned to [[Vertae, Plane of Truth]].

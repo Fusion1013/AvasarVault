@@ -1,18 +1,18 @@
 ---
 tags:
-- god
-- major_god
+  - god
+  - major_god
 title: The Scarlet Champion
-secondary_titles:
-- 
+secondary_titles: 
 essence:
-- Glory
-- Violence
-- Honor
-- Bloodshed
-plane: ![["Stratosia, Plane of War"]]
-
-todo: Populate sections for domain and symbology
+  - Glory
+  - Violence
+  - Honor
+  - Bloodshed
+todo:
+  - Populate sections for domain and symbology
+plane:
+  - "[[Stratosia, Plane of War]]"
 ---
 ## Overview
 One of the major [[Pantheon Overview|Gods]], attuned to [[Stratosia, Plane of War]].

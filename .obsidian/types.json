@@ -6,6 +6,7 @@
     "todo": "multitext",
     "editors": "multitext",
     "research_areas": "multitext",
-    "age": "number"
+    "age": "number",
+    "plane": "multitext"
   }
 }

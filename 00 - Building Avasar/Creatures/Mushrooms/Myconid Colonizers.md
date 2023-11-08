@@ -1,12 +1,13 @@
 ---
 tags:
-- creature
-
+  - creature
 creature_type: Mýkite
 environment: "[[Caves]]"
 image: "![[UndeadMushroomfolk.png|100]]"
-
-todo: Add information about [[Myconid Colonizers#Colonizer Types|Colonizer Types]]
+todo:
+  - Add information about [[Myconid Colonizers#Colonizer Types|Colonizer Types]]
+editors:
+  - Fusion
 ---
 # Myconid Colonizers
 ## Overview

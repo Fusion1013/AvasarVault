@@ -1,18 +1,17 @@
 ---
 tags:
-- god
-- major_god
+  - god
+  - major_god
 title: The Twilight Twins
-secondary_titles:
-- 
+secondary_titles: 
 essence:
-- Light
-- Darkness
-plane: 
-- ![["Tenebris"]]
-- ![["Luminaria, Plane of Light"]]
-
-todo: Populate sections for domain, symbology and worship
+  - Light
+  - Darkness
+todo:
+  - Populate sections for domain, symbology and worship
+plane:
+  - "[[Tenebris]]"
+  - "[[Luminaria]]"
 ---
 ## Overview
 One of the major [[Pantheon Overview|Gods]], attuned to [[Tenebris]] and [[Luminaria]].

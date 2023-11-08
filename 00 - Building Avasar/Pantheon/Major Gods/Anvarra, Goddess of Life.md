@@ -1,15 +1,15 @@
 ---
 tags:
-- god
-- major_god
+  - god
+  - major_god
 title: The Golden Maiden
-secondary_titles:
+secondary_titles: 
 essence:
-- Living
-- Undeath
-plane: ![["Vylmat, Plane of Life"]]
-
-todo: Populate symbology section
+  - Living
+  - Undeath
+todo:
+  - Populate symbology section
+plane: "[[Vylmat, Plane of Life]]"
 ---
 ## Overview
 One of the major [[Pantheon Overview|Gods]], attuned to [[Vylmat, Plane of Life]].

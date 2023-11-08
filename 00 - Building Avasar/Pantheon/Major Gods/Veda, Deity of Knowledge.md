@@ -1,16 +1,16 @@
 ---
 tags:
-- god
-- major_god
+  - god
+  - major_god
 title: The Elder Scribe
-secondary_titles:
-- 
+secondary_titles: 
 essence:
-- Intellect
-- Hubris
-plane: ![["Gnosis, Plane of Knowledge"]]
-
-todo: Populate sections for domain and symbology
+  - Intellect
+  - Hubris
+todo:
+  - Populate sections for domain and symbology
+plane:
+  - "[[Gnosis, Plane of Knowledge]]"
 ---
 ## Overview
 One of the major [[Pantheon Overview|Gods]], attuned to [[Gnosis, Plane of Knowledge]].

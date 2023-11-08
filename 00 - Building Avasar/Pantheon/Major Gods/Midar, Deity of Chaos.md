@@ -1,17 +1,17 @@
 ---
 tags:
-- god
-- major_god
+  - god
+  - major_god
 title: The Unshackled
-secondary_titles:
-- 
+secondary_titles: 
 essence:
-- Freedom
-- Pandemonium
-- Flexibility
-plane: ![["Kaos"]]
-
-todo: Populate section for symbology
+  - Freedom
+  - Pandemonium
+  - Flexibility
+todo:
+  - Populate section for symbology
+plane:
+  - "[[Kaos]]"
 ---
 ## Overview
 One of the major [[Pantheon Overview|Gods]], attuned to [[Kaos]].

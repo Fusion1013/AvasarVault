@@ -48,11 +48,11 @@ In the nation of Saxum, a staunchly secular society prevails, where the very men
 The worship of certain gods, those deemed unsafe by the ruling [[The Saxum Triumvirate|Saxum Triumvirate]], has been forcefully outlawed. Among these deities, the figure of [[Irellia, Peace|Irellia, the Godess of Peace]], stands as a forbidden symbol of devotion. The consequences of defying these religious proscriptions are severe, with punishment ranging from imprisonment to banishment. In a land where faith is tightly controlled, even the prayerful whisper of her name can carry profound consequences, leading devotees of [[Irellia, Peace|Irellia]] to practice their faith in secret, hidden away from the scrutinizing gaze of [[The Saxum Triumvirate|The Triumvirate]] and the city guards.
 ## Economy
 ### Coin Designs
-The coins have the current members of the Saxum Triumvirate on the front of them, surrounded by their names and the date the individual coin was printed, two numbers on each side. The individual that has been on the council the longest is on the platinum, the second longest on the gold, and the last on the silver coin. The current coins have the following names on them:
-- Platinum: Igorim Ovras
-- Gold: Leo Umbras
-- Silver: Ezorah von Abendroth
-The backs of the coins feature the symbol of the goddess of peace, Irellia, engulfed in flames. Surrounding it are 8 symbols representing the different schools of magic.
+The coins have the current members of [[The Saxum Triumvirate]] on the front of them, surrounded by their names and the date the individual coin was printed, two numbers on each side. The individual that has been on the council the longest is on the platinum, the second longest on the gold, and the last on the silver coin. The current coins have the following names on them:
+- Platinum: [[Archmage Igorim Ovras|Igorim Ovras]]
+- Gold: [[Master Leo Umbras|Leo Umbras]]
+- Silver: [[Ezorah von Abendroth]]
+The backs of the coins feature the symbol of the [[Irellia, Peace|Goddess of Peace, Irellia]], engulfed in flames. Surrounding it are 8 symbols representing the different schools of magic.
 ## Timeline
 ```dataview
 TABLE WITHOUT ID
@@ -60,6 +60,7 @@ TABLE WITHOUT ID
 + choice(contains(file.etags, "#city_founding"), " `far:Flag`", "") 
 + choice(contains(file.etags, "#discovery"), " `far:Lightbulb`", "") 
 + choice(contains(file.etags, "#nation_founding"), " `ris:Flag`", "") 
++ choice(contains(file.etags, "#law"), " `ris:Book2`", "")
 AS "Event",
 description AS "Description"
 FROM #timeline_event 

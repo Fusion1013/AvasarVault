@@ -1,15 +1,15 @@
 ---
 tags:
-- god
-- major_god
+  - god
+  - major_god
 title: The Divine Essence
-secondary_titles:
-- 
+secondary_titles: 
 essence:
-- The Elements
-plane: ![["Elemental Plane of Chaos"]]
-
-todo: Populate sections for domain, symbology and worship
+  - The Elements
+todo:
+  - Populate sections for domain, symbology and worship
+plane:
+  - "[[Elemental Plane of Chaos]]"
 ---
 ## Overview
 One of the major [[Pantheon Overview|Gods]], attuned to the [[Elemental Plane of Chaos]].

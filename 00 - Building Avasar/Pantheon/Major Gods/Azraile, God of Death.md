@@ -1,17 +1,16 @@
 ---
 tags:
-- god
-- major_god
+  - god
+  - major_god
 title: Embrace of Darkness
-secondary_titles:
-- 
+secondary_titles: 
 essence:
-- Dying
-- Murder
-- Guide of Passed Souls
-plane: ![["The Dark Beyond"]]
-
-todo: Populate symbology section
+  - Dying
+  - Murder
+  - Guide of Passed Souls
+todo:
+  - Populate symbology section
+plane: "[[The Dark Beyond]]"
 ---
 ## Overview
 One of the major [[Pantheon Overview|Gods]], attuned to [[The Dark Beyond]].

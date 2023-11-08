@@ -1,16 +1,15 @@
 ---
 tags:
-- god
-- major_god
+  - god
+  - major_god
 title: The Shadowed Mask
-secondary_titles:
-- 
+secondary_titles: 
 essence:
-- Trickery
-- Deception
-plane: ![["Eatrev, Plane of Lies"]]
-
-todo: Populate sections for domain, symbology and worship
+  - Trickery
+  - Deception
+todo:
+  - Populate sections for domain, symbology and worship
+plane: "[[Eatrev, Plane of Lies]]"
 ---
 ## Overview
 One of the major [[Pantheon Overview|Gods]], attuned to [[Eatrev, Plane of Lies]].

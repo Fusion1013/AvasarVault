@@ -1,16 +1,17 @@
 ---
 tags:
-- god
-- major_god
+  - god
+  - major_god
 title: The Enchantress
 secondary_titles:
-- The Bloodweaver
+  - The Bloodweaver
 essence:
-- Good Magic
-- Bad Magic
-plane: ![["Aurora Ortus"]]
-
-todo: Populate sections for domain and symbology
+  - Good Magic
+  - Bad Magic
+todo:
+  - Populate sections for domain and symbology
+plane:
+  - "[[Aurora Ortus]]"
 ---
 ## Overview
 One of the major [[Pantheon Overview|Gods]], attuned to [[Aurora Ortus]].

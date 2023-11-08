@@ -1,18 +1,18 @@
 ---
 tags:
-- god
-- major_god
+  - god
+  - major_god
 title: The Earthweaver
-secondary_titles:
-- 
+secondary_titles: 
 essence:
-- Plants
-- Preservation of Nature
-- Stagnation of Progress
-- Growth
-plane: ![["Feralia, Plane of Nature"]]
-
-todo: Populate sections for domain and symbology
+  - Plants
+  - Preservation of Nature
+  - Stagnation of Progress
+  - Growth
+todo:
+  - Populate sections for domain and symbology
+plane:
+  - "[[Feralia]]"
 ---
 ## Overview
 One of the major [[Pantheon Overview|Gods]], attuned to [[Verdus, Nature]].

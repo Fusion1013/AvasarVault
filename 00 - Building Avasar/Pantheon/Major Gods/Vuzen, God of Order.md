@@ -1,18 +1,18 @@
 ---
 tags:
-- god
-- major_god
+  - god
+  - major_god
 title: The Law Baron
-secondary_titles:
-- 
+secondary_titles: 
 essence:
-- Structure
-- Control
-- Tyranny
-- Stability
-plane: ![["Orthosia, Plane of Order"]]
-
-todo: Populate sections for symbology
+  - Structure
+  - Control
+  - Tyranny
+  - Stability
+todo:
+  - Populate sections for symbology
+plane:
+  - "[[Orthosia, Plane of Order]]"
 ---
 ## Overview
 One of the major [[Pantheon Overview|Gods]], attuned to [[Orthosia, Plane of Order]].
