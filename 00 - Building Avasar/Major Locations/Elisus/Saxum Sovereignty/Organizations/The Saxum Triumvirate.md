@@ -2,11 +2,15 @@
 tags:
   - organization/major
 nation: Saxum
+description: The Saxum Triumvirate is composed of three powerful mages who rule over the Saxum Sovereignty from within the Myriad, located in the capital of [[Gulstad, City of Gold|Gulstad]]. They are [[Archmage Igorim Ovras|Igorim Ovras]], [[Master Leo Umbras]], and [[Ezorah von Abendroth]]. As the ruling body of the nation, they hold ultimate power over all aspects of governance and policy, though they are advised by a council of 13 representatives from different regions of the country. The Triumvirate is known for their formidable magical abilities and their unwavering commitment to Saxum and its prosperity.
 ---
 
 *"Through our leadership, Saxum will thrive and endure"*
 ## Overview
-The Saxum Triumvirate is composed of three powerful mages who rule over the Saxum Sovereignty from within the Myriad, located in the capital of [[Gulstad, City of Gold|Gulstad]]. They are [[Archmage Igorim Ovras|Igorim Ovras]], [[Master Leo Umbras]], and [[Ezorah von Abendroth]]. As the ruling body of the nation, they hold ultimate power over all aspects of governance and policy, though they are advised by a council of 13 representatives from different regions of the country. The Triumvirate is known for their formidable magical abilities and their unwavering commitment to Saxum and its prosperity.
+```dataviewjs
+var p = dv.current();
+dv.span(p.description)
+```
 ## History
 The [[Saxum Sovereignty Overview|Saxum Sovereignty]] owes its existence to the [[1185APC - Saxum Sovereignty Founding|founding of the Triumvirate, in the year of 1185 APC]]. The Triumvirate was formed by a group of mages who had fled the newly-formed [[Turochan Kingdom Overview|Turochan Kingdom]] which had banned the use of magic. These mages did not want to be persecuted, and so they created the Triumvirate as a ruling body for a new nation where magic would be accepted and celebrated. Over time, the Triumvirate would become the de facto rulers of this new nation, which became known as the [[Saxum Sovereignty Overview|Saxum Sovereignty]].
 
@@ -21,11 +25,6 @@ TABLE
 description AS "Description",
 choice(contains(file.etags, "#alive"), "Alive", "Dead") AS "Status"
 FROM #major_person AND #saxum_triumvirate AND -#saxum_triumvirate_current_member 
-```
-```dataview
-TABLE Overview
-FROM #major_person AND #saxum_triumvirate AND -#saxum_triumvirate_current_member 
-WHERE (Overview)
 ```
 ### Current Members
 ```dataview
