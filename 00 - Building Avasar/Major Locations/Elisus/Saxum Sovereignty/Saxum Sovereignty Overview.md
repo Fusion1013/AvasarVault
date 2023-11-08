@@ -36,13 +36,16 @@ FROM #major_person AND #saxum AND #alive
 ## Major Organizations
 ```dataview
 TABLE
+description AS "Description"
 FROM #organization/major
 WHERE nation = "Saxum"
 ```
-### [[The Saxum Triumvirate]]
-The ruling body of the nation.
 ## Magical Society
-Even though this nation was founded on the idea of allowing free use of magic, there is no magic academy within this nation. Instead, magical knowledge has been passed down from generation to generation. Now, almost everyone living within the nation knows at least some magic. While mundane magic is commonly used for everyday activities, there are only a few hundred practitioners of high level magic. These individuals are often nobles living in the capital of Gulstad, or people in other positions of power.
+Even though this nation was founded on the idea of allowing free use of magic, there is no magic academy within this nation. Instead, magical knowledge has been passed down from generation to generation. Now, almost everyone living within the nation knows at least some magic. While mundane magic is commonly used for everyday activities, there are only a few hundred practitioners of high level magic. These individuals are often nobles living in the capital of [[Gulstad, City of Gold|Gulstad]], or people in other positions of power.
+## Religion
+In the nation of Saxum, a staunchly secular society prevails, where the very mention of religion is met with suspicion and disdain. Major cities have become breeding grounds for a deep-seated anti-religious sentiment, where discrimination against the faithful is an unfortunate and common occurrence. This oppressive atmosphere extends to every corner of urban life, with city guards themselves participating in the systemic prejudice, leaving those who seek solace in faith to live in the shadows. The government, seemingly unwilling to address this growing issue, allows this discriminatory culture to fester unchecked, making for a society where belief in the divine is met with cold hostility and mistrust.
+
+The worship of certain gods, those deemed unsafe by the ruling [[The Saxum Triumvirate|Saxum Triumvirate]], has been forcefully outlawed. Among these deities, the figure of [[Irellia, Peace|Irellia, the Godess of Peace]], stands as a forbidden symbol of devotion. The consequences of defying these religious proscriptions are severe, with punishment ranging from imprisonment to banishment. In a land where faith is tightly controlled, even the prayerful whisper of her name can carry profound consequences, leading devotees of [[Irellia, Peace|Irellia]] to practice their faith in secret, hidden away from the scrutinizing gaze of [[The Saxum Triumvirate|The Triumvirate]] and the city guards.
 ## Economy
 ### Coin Designs
 The coins have the current members of the Saxum Triumvirate on the front of them, surrounded by their names and the date the individual coin was printed, two numbers on each side. The individual that has been on the council the longest is on the platinum, the second longest on the gold, and the last on the silver coin. The current coins have the following names on them:
@@ -53,7 +56,7 @@ The backs of the coins feature the symbol of the goddess of peace, Irellia, engu
 ## Timeline
 ```dataview
 TABLE WITHOUT ID
-date + " - " + title 
+"[[" + date + " - " + title + "]]"
 + choice(contains(file.etags, "#city_founding"), " `far:Flag`", "") 
 + choice(contains(file.etags, "#discovery"), " `far:Lightbulb`", "") 
 + choice(contains(file.etags, "#nation_founding"), " `ris:Flag`", "") 
