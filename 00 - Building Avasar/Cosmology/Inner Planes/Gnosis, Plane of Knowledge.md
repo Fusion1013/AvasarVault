@@ -1,17 +1,19 @@
 ---
 tags:
-- plane
-- inner_plane
-
+  - plane/inner
 todo:
-- More tower sections
-- More information about the plane in general
+  - More tower sections
+  - More information about the plane in general
+celestial_body: "[[Cosmology Overview#Epistos (Knowledge, 7.69 AU)|Epistos]]"
+attuned_god: "[[Veda, Deity of Knowledge]]"
 ---
 *"QUOTE"*
-
-**Attuned God:** [[Veda, Deity of Knowledge]]
-**Attuned Body:** [[Cosmology Overview#Epistos (Knowledge, 7.69 AU)|Epistos]]
-**Alternative Names:** 
+```dataviewjs
+var p = dv.current();
+dv.paragraph("**Attuned God:** " + p.attuned_god);
+dv.paragraph("**Celestial Body:** " + p.celestial_body);
+dv.paragraph("**Alternative Names:** " + p.aliases);
+```
 ## Overview
 <span class="rightimg"><span class="smallimg"> ![[KnowledgeSpire.png]] </span></span>The Plane of Knowledge is a plane largely covered in an expansive ocean. Its only landmark is The Threshold, a large tower over the endless ocean. All travelers to this plane start on The Bridge, which connects to The Threshold. To cross the bridge and reach this vast library, travelers must complete a series of challenges and tests.
 ## Environment
@@ -36,3 +38,5 @@ Seekers are beings often seen traversing the different planes. Their purpose is 
 The Retainers are beings within The Threshold focused on the storage and organization of their endless knowledge. Those that visit the plane can ask a retainer to help them in locating specific knowledge
 ### The Keepers
 The Keepers are creatures that protect their plane along with The Threshold from those that may wish it harm. They also prevent those that have failed their trials on The Bridge from reaching The Threshold.
+
+[[Planes Overview]]

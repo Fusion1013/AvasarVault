@@ -1,8 +1,10 @@
 ---
 todo:
-- Restructure document
-- Rework descriptions of the planes
-editors: Fusion
+  - Restructure document
+  - Rework descriptions of the planes
+  - Move Shadow, Vibrant & Material planes to their own documents
+editors:
+  - Fusion
 ---
 ## Preword & Definitions
 Before we get into the planar layout of Avasar, we have to define what kinds of different planes there are.
@@ -12,7 +14,7 @@ The differences between Major & Minor Planes are somewhat difficult to define, s
 A transitive plane is a plane that enables travel between two or more other planes. These planes often have ‘fuzzier’ characteristics, taking on the attributes of the other planes where they overlap, blending them together. There are two types of Transitive Planes; Minor Transitive Planes, which encompass 2-4 other planes, and Major Transitive Planes, which encompass >5 other planes. Note that a Transitive Plane that encompasses only one other plane cannot exist, per definition. Such a plane would be what is known as a Bubble Plane.
 ### Bubble Planes
 Bubble Planes are small planes that are connected in some way to one other plane. They can encompass the plane, or border it.
-## The Inner Planes
+## The Inner Planes // TODO: REMOVE
 ### Material Plane & Its Echoes
 Echo planes feature the same general geography as its parent plane, with minor differences. For example, the Shadow Plane is a dark echo of the Material Plane.
 #### Material/Mortal Plane
@@ -20,31 +22,31 @@ Echo planes feature the same general geography as its parent plane, with minor d
 A dark mirror of the material plane.
 #### Vibrant Plane
 A vibrant mirror of the material plane.
-### Transitive Planes
-#### [[Plane of Dreams]]
-The [[Plane of Dreams]] connects to all inner planes, and is shaped by the collective unconsciousness of all creatures. It is a place of vivid and often bizarre dreams.
-### Major Planes
-#### [[Elemental Plane of Chaos]]
-The [[Elemental Plane of Chaos]] is a chaotic hellscape where the elemental forces clash in a violent fury, forming winds of fire, storms of sharp ice, and tornadoes filled with boulders the size of a small house. Not a location one would plan a vacation.
-#### [[Aurora Ortus]]
-Meaning the Dawn Rise, the [[Aurora Ortus]] is a frigid forest plane, known primarily as the origin of the Northern Lights. It has a strong connection to arcane energies.
-#### [[Eatrev, Plane of Lies]]
-#### [[Feralia]]
-#### [[Gnosis, Plane of Knowledge]]
-#### [[Kalament, Plane of Peace]]
-#### [[Kaos]]
-#### [[Luminaria]]
-#### [[Orthosia, Plane of Order]]
-#### [[Plane of Madness]]
-#### [[Stratosia, Plane of War]]
-#### [[Sutya, Plane of Artisans]]
-#### [[Tenebris]]
-#### [[Terozin, Plane of Weather & Seas]]
-#### [[The Dark Beyond]]
-#### [[Vertae, Plane of Truth]]
-#### [[Vylmat, Plane of Life]]
+## The Inner Planes
+```dataview
+TABLE
+celestial_body AS "Celestial Body",
+attuned_god AS "Attuned God",
+aliases AS "Alternative Names"
+FROM #plane/inner 
+SORT file.name ASC
+```
+## Transitive Planes
+```dataview
+TABLE
+celestial_body AS "Celestial Body",
+attuned_god AS "Attuned God",
+aliases AS "Alternative Names"
+FROM #plane/transitive 
+```
 ## The Outer Planes
-N/A
+```dataview
+TABLE
+celestial_body AS "Celestial Body",
+attuned_god AS "Attuned God",
+aliases AS "Alternative Names"
+FROM #plane/outer 
+```
 ## Planar Travel
 Interplanar travel is not a difficult task for mortals to achieve, but is considered incredibly dangerous. Generally, only formidable nations have systems for traversing different planes in a relatively safe manner. They take these risks due to the massive economic benefits it can bring, such as the access of valuable materials not available on the Material Plane.
 ### Planar Portals

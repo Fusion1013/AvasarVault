@@ -1,19 +1,28 @@
 ---
 tags:
-- plane
-- inner_plane 
+  - plane/inner
+description: Meaning the Dawn Rise, the Aurora Ortus is a frigid forest [[Planes Overview|Plane]], known primarily as the origin of the Northern Lights. Many cultures have different names for the Aurora Ortus, also calling it the Dawn Taiga or Boreal Woods or naming it after the local names for [[Saheir, Goddess of Arcana]]. The Aurora Ortus is notable as the origin of the Northern Lights. These lights are a divine blessing and message of hope that dances across the sky in the colder, northern regions of the world. The vulpine are common in the Aurora Ortus and they are given the holy task of maintaining the northern lights and are responsible for bringing it out of the ground each day.
+celestial_body: "[[Cosmology Overview#Ortuvis (Arcana)|Ortuvis]]"
+attuned_god: "[[Saheir, Goddess of Arcana]]"
+aliases:
+  - Dawn Rise
+  - Dawn Taiga
+  - Boreal Woods
 ---
 *""*
-
-**Attuned God:** [[Saheir, Goddess of Arcana]]
-**Celestial Body:** [[Cosmology Overview#Ortuvis (Arcana)|Ortuvis]]
-**Alternative Names:** Dawn Rise, Dawn Taiga, Boreal Woods
+```dataviewjs
+var p = dv.current();
+dv.paragraph("**Attuned God:** " + p.attuned_god);
+dv.paragraph("**Celestial Body:** " + p.celestial_body);
+dv.paragraph("**Alternative Names:** " + p.aliases);
+```
 
 ![[AuroraOrtus.png]]
 ## Overview
-Meaning the Dawn Rise, the Aurora Ortus is a frigid forest plane, known primarily as the origin of the Northern Lights. Many cultures have different names for the Aurora Ortus, also calling it the Dawn Taiga or Boreal Woods or naming it after the local names for Saheir.
-
-The Aurora Ortus is notable as the origin of the Northern Lights. These lights are a divine blessing and message of hope that dances across the sky in the colder, northern regions of the world. The vulpine are common in the Aurora Ortus and they are given the holy task of maintaining the northern lights and are responsible for bringing it out of the ground each day.
+```dataviewjs
+var p = dv.current();
+dv.span(p.description)
+```
 ## Environment
 ![[AuroraOrtus2.png]]
 ### Shooting Stars
@@ -34,3 +43,5 @@ This plane is the main source of Auroran metal.
 ![[AuroraOrtusCreature.jpg]]
 ### [[Aonus, the Wandering Giant]]
 It is around 1100 feet tall.
+
+[[Planes Overview]]

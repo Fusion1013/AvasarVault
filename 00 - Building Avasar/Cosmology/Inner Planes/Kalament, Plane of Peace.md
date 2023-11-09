@@ -1,13 +1,18 @@
 ---
 tags:
-- plane
-- inner_plane
-
-todo: Populate
+  - plane/inner
+todo:
+  - Populate
+celestial_body: "[[Cosmology Overview#Calmara (Peace)|Calmara]]"
+attuned_god: "[[Irellia, Peace]]"
 ---
 *"QUOTE"*
-
-**Attuned God:** [[Irellia, Peace]]
-**Attuned Body:** [[Cosmology Overview#Calmara (Peace)|Calmara]]
-**Alternative Names:**
+```dataviewjs
+var p = dv.current();
+dv.paragraph("**Attuned God:** " + p.attuned_god);
+dv.paragraph("**Celestial Body:** " + p.celestial_body);
+dv.paragraph("**Alternative Names:** " + p.aliases);
+```
 ## Overview
+
+[[Planes Overview]]

@@ -1,15 +1,19 @@
 ---
 tags:
-- plane
-- inner_plane
-
-todo: 
-- Populate
-- Link to [[Thalassa, the Abyssal Maw]]
+  - plane/inner
+todo:
+  - Populate
+  - Link to [[Thalassa, the Abyssal Maw]]
+celestial_body: "[[Cosmology Overview#Tem (Weather & Seas)|Tem]]"
+attuned_god: "[[Merstur, Weather and Seas]]"
 ---
 *"QUOTE"*
-
-**Attuned God:** [[Merstur, Weather and Seas]]
-**Attuned Body:** [[Cosmology Overview#Tem (Weather & Seas)|Tem]]
-**Alternative Names:** 
+```dataviewjs
+var p = dv.current();
+dv.paragraph("**Attuned God:** " + p.attuned_god);
+dv.paragraph("**Celestial Body:** " + p.celestial_body);
+dv.paragraph("**Alternative Names:** " + p.aliases);
+```
 ## Overview
+
+[[Planes Overview]]

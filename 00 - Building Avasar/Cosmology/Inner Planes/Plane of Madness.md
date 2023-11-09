@@ -1,16 +1,23 @@
 ---
 tags:
-- plane
-- inner_plane
-
-todo: Section about beings that wander the plane
-editors: Fusion
+  - plane/inner
+todo:
+  - Section about beings that wander the plane
+editors:
+  - Fusion
+celestial_body: "[[Cosmology Overview#Delir (Madness, 39.33 AU)|Delir]]"
+attuned_god: N/A
+aliases:
+  - Forbidden Plains
+  - Ulgurshek
 ---
 *"Madness doesn't favour fools"*
-
-**Attuned God:** N/A
-**Attuned Body:** [[Cosmology Overview#Delir (Madness, 39.33 AU)|Delir]]
-**Alternative Names:** Forbidden Plains, Ulgurshek
+```dataviewjs
+var p = dv.current();
+dv.paragraph("**Attuned God:** " + p.attuned_god);
+dv.paragraph("**Celestial Body:** " + p.celestial_body);
+dv.paragraph("**Alternative Names:** " + p.aliases);
+```
 ## Overview
 The Plane of Madness is a strange place.
 ## Environment
@@ -46,3 +53,5 @@ While encountering or traveling through things in the plane, players only get en
 >“Must go back, must go back, WHY CAN’T I GO BACK?” - rantings from Planar Scholar Gristin Pathos, moments before his execution
 
 Anyone traveling to the plane will soon experience the madness that comes with it. Travelers who stay on the plane for prolonged periods sometimes state that their feelings towards it turn more favorable. Others state that when they manage to leave the plane, they feel an intense need to go back, losing themselves in fits of rage. Few travelers who have gone back have returned.
+
+[[Planes Overview]]

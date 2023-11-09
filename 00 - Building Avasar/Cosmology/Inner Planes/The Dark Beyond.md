@@ -1,17 +1,22 @@
 ---
 tags:
-- plane
-- inner_plane
-
-todo: 
-- Rework how it is linked to the plane of dreams
-- Remove mentions of upper/lower planes
+  - plane/inner
+todo:
+  - Rework how it is linked to the plane of dreams
+  - Remove mentions of upper/lower planes
+celestial_body: "[[Cosmology Overview#Yomi (Death, 28.33 AU)|Yomi]]"
+attuned_god: "[[Azraile, God of Death]]"
+aliases:
+  - Plane of Death
+  - Eternal Darkness
 ---
 *"Some say death is unwelcoming, but I welcome all"*
-
-**Attuned God:** [[Azraile, God of Death]]
-**Attuned Body:** [[Cosmology Overview#Yomi (Death, 28.33 AU)|Yomi]]
-**Alternative Names:** Plane of Death, Eternal Darkness
+```dataviewjs
+var p = dv.current();
+dv.paragraph("**Attuned God:** " + p.attuned_god);
+dv.paragraph("**Celestial Body:** " + p.celestial_body);
+dv.paragraph("**Alternative Names:** " + p.aliases);
+```
 ## Overview
 The Dark Beyond is the final destination for the souls of the deceased. Despite its name, it is not one of the lower planes, it is instead a neutral plane. It was given the name Dark Beyond by mortals who feared death, who did not realize that death is neutral. This plane is not to be confused with the Shadow Plane.
 ## Layers of Death
@@ -27,3 +32,5 @@ The Fugue Plane is a gray, featureless expanse, with soulless husks wandering ai
 The final layer of the Dark Beyond is the True Afterlife, the realm where the souls of the righteous and the damned alike find their ultimate destiny. This region is often portrayed as a diverse landscape of different realms, each tailored to the beliefs and cultures of the souls that inhabit them. Some settings may depict the True Afterlife as a paradise of eternal joy and peace, while others may portray it as a realm of endless conflict and suffering.
 ## Source of Magic
 The Dark Beyond is an extremely powerful source of Necromantic energy, for those brave enough to tap into it. There are usually safer alternatives than the Dark Beyond, though if one finds themself in need of extremely powerful magic, they might consider using this. However, if one is not careful they can easily be corrupted and dragged into the Dark Beyond by the twisted souls that live there.
+
+[[Planes Overview]]

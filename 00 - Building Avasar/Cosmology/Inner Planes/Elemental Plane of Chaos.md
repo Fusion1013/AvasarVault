@@ -1,13 +1,18 @@
 ---
 tags:
-- plane
-- inner_plane
+  - plane/inner
+celestial_body: "[[Cosmology Overview#Taiya|Taiya]]"
+attuned_god: "[[Mau'Sari, Elements]]"
+aliases:
+  - The Crucible
 ---
 *""*
-
-**Attuned God:** [[Mau'Sari, Elements]]
-**Celestial Body:** [[Cosmology Overview#Taiya|Taiya]]
-**Alternative Names:** The Crucible
+```dataviewjs
+var p = dv.current();
+dv.paragraph("**Attuned God:** " + p.attuned_god);
+dv.paragraph("**Celestial Body:** " + p.celestial_body);
+dv.paragraph("**Alternative Names:** " + p.aliases);
+```
 ## Overview
 The Elemental Plane of Chaos is a chaotic hellscape where the elemental forces clash in a violent fury, forming winds of fire, storms of sharp ice, and tornadoes filled with boulders the size of a small house. Not a location one would plan a vacation.
 ## Environment
@@ -22,3 +27,5 @@ Though the everburn is constantly burning, the native life is not harmed. Instea
 To most, the everburn is a deadly nightmare to be avoided, but for many, it is their home in which they could not live without. Many scholars liken this distinction to that of the ocean, inhospitable to most, but the source of life for species such as mere-folk and triton.
 ## Source of Magic
 The Elemental Plane of Chaos can be a source of conjuration energy, though due to the plane's chaotic nature, it is difficult to use effectively.
+
+[[Planes Overview]]
