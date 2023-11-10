@@ -38,7 +38,7 @@ FROM #major_person AND #saxum_sovereignty AND #alive
 TABLE
 description AS "Description"
 FROM #organization/major
-WHERE nation = "Saxum"
+WHERE contains(nation, "Saxum Sovereignty")
 ```
 ## Magical Society
 Even though this nation was founded on the idea of allowing free use of magic, there is no academy focused primarily on magic within this nation. Instead, magical knowledge is taught in almost every school, starting at an early age. This way almost everyone living within the nation knows at least some magic. There are a few research institutes that allow for higher study of the arcane, though they rely heavily on self-study and research.
