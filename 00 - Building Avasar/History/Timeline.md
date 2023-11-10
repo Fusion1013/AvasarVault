@@ -10,7 +10,7 @@ WHERE title != ""
 SORT date DESC
 ```
 ## Events
-Below follows a list of all events, minor and major, that have taken place throughout the history of Avasar. Different types of events are marked by different icons.
+Below follows a list of all events, minor and major, that have taken place throughout the history of Avasar.
 ```dataview
 TABLE WITHOUT ID
 "[[" + date + " - " + title + "]]"
@@ -18,10 +18,11 @@ TABLE WITHOUT ID
 + choice(contains(file.etags, "#discovery"), " `far:Lightbulb`", "") 
 + choice(contains(file.etags, "#nation_founding"), " `ris:Flag`", "") 
 + choice(contains(file.etags, "#law"), " `ris:Book2`", "")
++ choice(contains(file.etags, "#war"), " `ris:Sword`", "")
 AS "Event",
 nation AS "Nation",
 description AS "Description"
 FROM #timeline_event 
-WHERE tile != ""
+WHERE title != ""
 SORT date DESC
 ```
