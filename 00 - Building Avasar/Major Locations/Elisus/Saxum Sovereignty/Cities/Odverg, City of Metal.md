@@ -12,7 +12,7 @@ description: A city high up in the mountains, formed around a rift to the plane 
 **Commerce:** Odverg is an important center of the metal trading industry.
 **Organizations:** The Big Three that form the city’s government.
 ## Overview
-A city built high up in the mountains, climbing on the sides of a massive hole dug into the ground. It has one of the few known permanent portals to another plane, in this case [[Tenebris]]. After the discovery of rare metals within the plane, Odverg was [[1322APC - Odverg Founding|founded in 1322 APC]] to facilitate the extraction of these materials.
+A city built high up in the mountains, climbing on the sides of a massive hole dug into the ground. It has one of the few known permanent portals to another plane, in this case [[Tenebris]]. After the discovery of rare metals within the plane, Odverg was [[1322 APC - Odverg Founding|founded in 1322 APC]] to facilitate the extraction of these materials.
 ## History
 Odverg was originally an outpost that was constructed to investigate a few large caves in the area. After the discovery of a large planar portal leading to [[Tenebris]], the outpost would eventually grow into a larger city. This was to facilitate the transport of rare materials extracted from the portal. The new city was named Odverg, because it was situated over the rift and had a large dwarf population. The city of [[Odverg, City of Metal#Udverg|Udverg]] was later founded underneath the rift, on the other side.
 ## Landmarks
