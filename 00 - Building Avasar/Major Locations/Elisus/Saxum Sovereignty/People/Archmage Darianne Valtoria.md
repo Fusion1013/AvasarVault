@@ -3,7 +3,7 @@ tags:
   - person
   - major_person
   - dead
-  - saxum
+  - saxum_sovereignty
   - saxum_triumvirate
 aliases: 
 race: 

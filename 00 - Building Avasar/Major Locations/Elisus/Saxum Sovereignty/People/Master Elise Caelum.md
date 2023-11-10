@@ -3,7 +3,7 @@ tags:
   - person
   - major_person
   - dead
-  - saxum
+  - saxum_sovereignty
   - saxum_triumvirate
 aliases: 
 race: 
@@ -15,4 +15,6 @@ description: A renowned healer who was a member of [[The Saxum Triumvirate]] for
 var p = dv.current();
 dv.span(p.description)
 ```
+## History
+
 ## Appearance

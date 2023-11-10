@@ -2,7 +2,7 @@
 tags:
   - person
   - major_person
-  - saxum
+  - saxum_sovereignty
   - saxum_triumvirate
   - alive
   - saxum_triumvirate_current_member
