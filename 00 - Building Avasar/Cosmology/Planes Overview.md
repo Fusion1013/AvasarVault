@@ -2,7 +2,6 @@
 todo:
   - Restructure document
   - Rework descriptions of the planes
-  - Move Shadow, Vibrant & Material planes to their own documents
 editors:
   - Fusion
 ---
@@ -14,14 +13,16 @@ The differences between Major & Minor Planes are somewhat difficult to define, s
 A transitive plane is a plane that enables travel between two or more other planes. These planes often have ‘fuzzier’ characteristics, taking on the attributes of the other planes where they overlap, blending them together. There are two types of Transitive Planes; Minor Transitive Planes, which encompass 2-4 other planes, and Major Transitive Planes, which encompass >5 other planes. Note that a Transitive Plane that encompasses only one other plane cannot exist, per definition. Such a plane would be what is known as a Bubble Plane.
 ### Bubble Planes
 Bubble Planes are small planes that are connected in some way to one other plane. They can encompass the plane, or border it.
-## The Inner Planes // TODO: REMOVE
-### Material Plane & Its Echoes
+## Material Plane & Its Echoes
 Echo planes feature the same general geography as its parent plane, with minor differences. For example, the Shadow Plane is a dark echo of the Material Plane.
-#### Material/Mortal Plane
-#### Shadow Plane/The Eternal Twilight/Noctus
-A dark mirror of the material plane.
-#### Vibrant Plane
-A vibrant mirror of the material plane.
+```dataview
+TABLE
+celestial_body AS "Celestial Body",
+attuned_god AS "Attuned God",
+aliases AS "Alternative Names"
+FROM #plane/material 
+SORT file.name ASC
+```
 ## The Inner Planes
 ```dataview
 TABLE
@@ -52,7 +53,7 @@ Interplanar travel is not a difficult task for mortals to achieve, but is consid
 ### Planar Portals
 Planar portal is a general term for a stationary interplanar connection that links a specific location on one plane to a specific location on another. Portals can take on many forms. They can resemble doorways or fog shrouded passages, where travel is as simple as stepping through. Other portals can be locations or structures; circles of standing stones, soaring towers, sailing ships, or even whole towns can exist in multiple planes at once or flicker from one plane to another.
 
-Larger portals of this nature are uncommon, with only a few permanent ones currently known. Some of these have been claimed by cities or nations, and significant infrastructure has been constructed around them to facilitate travel & transport goods. An example of this would be the [[Saxum Sovereignty Overview|Saxum Sovereignty]]'s access to [[Tenebris]] to obtain Targath and Aururum, through the rift in [[Odverg, City of Metal]]. In some rare cases, organizations not associated with any nation control these permanent portals. This includes MONESTARY MAYBE? which uses it for religious purposes.
+Larger portals of this nature are uncommon, with only a few permanent ones currently known. Some of these have been claimed by cities or nations, and significant infrastructure has been constructed around them to facilitate travel & transport goods. An example of this would be the [[Saxum Sovereignty Overview|Saxum Sovereignty]]'s access to [[Tenebris]] to obtain [[Targath]] and [[Aururum]], through the rift in [[Odverg, City of Metal]]. In some rare cases, organizations not associated with any nation control these permanent portals. This includes MONESTARY MAYBE? which uses it for religious purposes.
 
 Smaller portals are relatively common, particularly in locations of high magical or planar turbulence. EXAMPLES OF LOCATIONS. These are usually temporary gateways that only stay open for a limited amount of time, or only open under specific conditions. These kinds of portals are the most dangerous; there are records of people going missing, presumed to have stumbled upon and subsequently vanished through a temporary portal. Some groups, either sponsored by their respective nations or from independent sources, try to track down and study these portals.
 
