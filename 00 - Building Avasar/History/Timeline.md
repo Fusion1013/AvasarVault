@@ -1,3 +1,9 @@
+## Overview
+Certain types of events are marked by different icons.
+**Empty Flag**: City Founding
+**Lightbulb**: Major Discovery
+**Filled Flag**: Nation Founding
+**Book**: Law Established
 ## Major Events
 Below follows a list of only the major events that have taken place throughout the history of Avasar.
 ```dataview
