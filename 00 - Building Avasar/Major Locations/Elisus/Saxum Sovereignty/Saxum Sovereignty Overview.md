@@ -13,9 +13,9 @@ editors: Fusion
 **Government:** A [[The Saxum Triumvirate|Triumvirate]] of three mages, along with a council of 13 representatives.
 **Languages:** [[Old Taundorian]]
 ## Overview
-Sheltered from the rest of the world by the towering [[Dragonback Mountains]] and Fracrish Mountains, the Saxum Sovereignty is a small but prosperous nation. This landscape of towering mountains and flowing hills is known for its gray skies, fits of cold rain, and occasional snowfall. The [[Dragonback Mountains]] and Fracrish Mountains shield the people from most of the threats that loom beyond the boundaries of the nation.
+Sheltered from the rest of the world by the towering [[Dragonback Mountains]] and Fracrish Mountains, the Saxum Sovereignty is a small but prosperous nation. This landscape of towering mountains and flowing hills is known for its gray skies, fits of cold rain, and occasional snowfall. The [[Dragonback Mountains]] and [[Fracrish Mountains]] shield the people from most of the threats that loom beyond the boundaries of the nation.
 ## History
-The Saxum Sovereignty was founded in 1185 APC, not long after the cataclysm that formed the now Turochan Kingdom. Due to the new nation's anti-magic stance, practitioners of magic were hunted and banished from the kingdom. Some of these people undertook the perilous journey through the Fracrish Mountains, to the valley that now forms the Saxum Sovereignty. With the founding of the capital, this valley soon became a safe haven for practitioners of arcane and divine magic.
+The Saxum Sovereignty was [[1185 APC - Saxum Sovereignty Founding|founded in 1185 APC]], not long after the cataclysm that formed the now Turochan Kingdom. Due to the new nation's anti-magic stance, practitioners of magic were hunted and banished from the kingdom. Some of these people undertook the perilous journey through the Fracrish Mountains, to the valley that now forms the Saxum Sovereignty. With the founding of the capital, this valley soon became a safe haven for practitioners of arcane and divine magic.
 
 Relations with the Turochan Kingdom are still tense, but have significantly calmed since the earlier days. Trade has started to open up more and more over the last 20 years, as Turochan has started to relax their anti-magic policies. The construction of a major trade route through the mountains has significantly aided in these efforts. Information of magical nature is still being kept behind closed doors however.
 ## Major Cities
@@ -31,7 +31,7 @@ TABLE
 description AS "Description",
 race AS "Race",
 (age + " years") AS "Age"
-FROM #major_person AND #saxum AND #alive
+FROM #major_person AND #saxum_sovereignty AND #alive
 ```
 ## Major Organizations
 ```dataview
@@ -41,7 +41,9 @@ FROM #organization/major
 WHERE nation = "Saxum"
 ```
 ## Magical Society
-Even though this nation was founded on the idea of allowing free use of magic, there is no magic academy within this nation. Instead, magical knowledge has been passed down from generation to generation. Now, almost everyone living within the nation knows at least some magic. While mundane magic is commonly used for everyday activities, there are only a few hundred practitioners of high level magic. These individuals are often nobles living in the capital of [[Gulstad, City of Gold|Gulstad]], or people in other positions of power.
+Even though this nation was founded on the idea of allowing free use of magic, there is no academy focused primarily on magic within this nation. Instead, magical knowledge is taught in almost every school, starting at an early age. This way almost everyone living within the nation knows at least some magic. There are a few research institutes that allow for higher study of the arcane, though they rely heavily on self-study and research.
+
+While mundane magic is commonly used for everyday activities, there are only a few hundred practitioners of high level magic. These individuals are often nobles living in the capital of [[Gulstad, City of Gold|Gulstad]], or people in other positions of power.
 ## Religion
 In the nation of Saxum, a staunchly secular society prevails, where the very mention of religion is met with suspicion and disdain. Major cities have become breeding grounds for a deep-seated anti-religious sentiment, where discrimination against the faithful is an unfortunate and common occurrence. This oppressive atmosphere extends to every corner of urban life, with city guards themselves participating in the systemic prejudice, leaving those who seek solace in faith to live in the shadows. The government, seemingly unwilling to address this growing issue, allows this discriminatory culture to fester unchecked, making for a society where belief in the divine is met with cold hostility and mistrust.
 
