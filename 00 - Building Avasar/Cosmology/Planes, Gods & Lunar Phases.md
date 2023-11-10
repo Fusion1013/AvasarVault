@@ -8,9 +8,9 @@ Under most circumstances, only [[Cosmology Overview#Junon|Junon]] affects the sh
 ## Lunar Eclipses
 Partial Eclipses cause the planet’s shadow to appear over the full moon. These are mildly more powerful than a full moon and happen around once a year.
 
-Total Eclipses cause the shadow of Avasar to cover the entirety of [[Cosmology Overview#Junon|Junon]] and for it to shine a deep red. These are more powerful than partial eclipses and happen about every five years.
+Total Eclipses cause the shadow of [[Cosmology Overview#Avasar|Avasar]] to cover the entirety of [[Cosmology Overview#Junon|Junon]] and for it to shine a deep red. These are more powerful than partial eclipses and happen about every five years.
 
-A Shattered Eclipse is a special type of total lunar eclipse named after the destruction it can cause. An unknown magical influence causes darkness to cover the entire planet for a short period of sky, with the only light source being the deep red colored moon. This event is said to allow the negative aspects of gods to reach the Material Plane for a very short period of time. This event happens every few hundred years.
+A Shattered Eclipse is a special type of total lunar eclipse named after the destruction it can cause. An unknown magical influence causes darkness to cover the entire planet for a short period of sky, with the only light source being the deep red coloured moon. This event is said to allow the negative aspects of gods to reach the Material Plane for a very short period of time. This event happens every few hundred years.
 ## Solar Eclipses
 Partial Eclipses cause [[Cosmology Overview#Junon|Junon]] to partially block out the sun. These are mildly more powerful than a new moon and can happen a few times a year.
 
