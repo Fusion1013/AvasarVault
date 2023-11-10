@@ -7,6 +7,8 @@
     "editors": "multitext",
     "research_areas": "multitext",
     "age": "number",
-    "plane": "multitext"
+    "plane": "multitext",
+    "environment": "multitext",
+    "nation": "multitext"
   }
 }
