@@ -22,7 +22,7 @@ editors:
 
 The city holds a circular shape, with three layers of ringed walls protecting the inner spire that make up the bulk upper part of the city. The entire city is not visible however, as a large portion of it extends far underground, through a series of large tunnels.
 ## History
-Gulstad was [[1181APC - Gulstad Founding|founded in 1181 APC]]. It was the first city within Saxum and later became the official capital of the nation. It was founded as the first safe haven for practitioners of magic that were seeking to escape the Turochan Kingdom.
+Gulstad was [[1181 APC - Gulstad Founding|founded in 1181 APC]]. It was the first city within Saxum and later became the official capital of the nation. It was founded as the first safe haven for practitioners of magic that were seeking to escape the Turochan Kingdom.
 ## Landmarks
 ### The Everstar
 Hovering above the city is a massive crystal, referred to by the locals as The Everstar, held aloft by arcane means. The machine that is holding the crystal in its position in the sky is located at the top of [[Gulstad, City of Gold#The Myriad|The Myriad]], within the [[Gulstad, City of Gold#Crystal Chamber|Crystal Chamber]]. The crystal emits a constant bright, yellow light, observed from afar as a distant star. It is said that this crystal keeps undead from breaching the city.
