@@ -66,6 +66,6 @@ TABLE WITHOUT ID
 AS "Event",
 description AS "Description"
 FROM #timeline_event 
-WHERE nation = "Saxum Sovereignty"
+WHERE contains(nation, "Saxum Sovereignty")
 SORT date DESC
 ```
