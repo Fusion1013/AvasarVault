@@ -1,5 +1,9 @@
-*"Divinity"*
+---
+todo:
+  - Rework according to https://docs.google.com/document/d/1WQh6Cbi5VwzRzhmdJqcaYcn3hi09aN--v_P6Xt_hHuo/edit
+---
 
+*"Divinity"*
 # Introduction
 Within the world of Avasar, there are a total of **15** different prime deities. Each prime deity has been tied to one of the [[Planes Overview#Major & Minor Planes|Major Planes]] within the [[Cosmology Overview|Cosmology of Avasar]]. Only these beings are considered to be part of the main Pantheon. However, other beings such as demi-gods do exist. They are instead attuned to a demiplane or something similar.
 
