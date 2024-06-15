@@ -15,14 +15,14 @@ A transitive plane is a plane that enables travel between two or more other plan
 Bubble Planes are small planes that are connected in some way to one other plane. They can encompass the plane, or border it.
 ## Material Plane & Its Echoes
 Echo planes feature the same general geography as its parent plane, with minor differences. For example, the Shadow Plane is a dark echo of the Material Plane.
-<!-- QueryToSerialize: TABLE celestial_body AS "Celestial Body", attuned_god AS "Attuned God", aliases AS "Alternative Names" FROM #plane/material SORT file.name ASC -->
-<!-- SerializedQuery: TABLE celestial_body AS "Celestial Body", attuned_god AS "Attuned God", aliases AS "Alternative Names" FROM #plane/material SORT file.name ASC -->
-| File                                                                                              | Celestial Body                                                                | Attuned God | Alternative Names                                     |
-| ------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | ----------- | ----------------------------------------------------- |
-| [[00 - Building Avasar/Cosmology/Inner Planes/Material Planes/Material Plane.md\|Material Plane]] | [[00 - Building Avasar/Cosmology/Cosmology Overview.md#Avasar\|Avasar]]       | N/A         | <ul><li>Mortal Plane</li></ul>                        |
-| [[00 - Building Avasar/Cosmology/Inner Planes/Material Planes/Shadow Plane.md\|Shadow Plane]]     | [[00 - Building Avasar/Cosmology/Cosmology Overview.md#Sahti Dark\|Sahti]]    | N/A         | <ul><li>The Eternal Twilight</li><li>Noctus</li></ul> |
-| [[00 - Building Avasar/Cosmology/Inner Planes/Material Planes/Vibrant Plane.md\|Vibrant Plane]]   | [[00 - Building Avasar/Cosmology/Cosmology Overview.md#Aurius Light\|Aurius]] | N/A         | \-                                                    |
-<!-- SerializedQuery END -->
+```dataview
+TABLE
+celestial_body AS "Celestial Body",
+attuned_god AS "Attuned God",
+aliases AS "Alternative Names"
+FROM #plane/material 
+SORT file.name ASC
+```
 ## The Inner Planes
 ```dataview
 TABLE
