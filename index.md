@@ -36,16 +36,4 @@ The cosmos is vast and complex, home to a multitude of planes and existence beyo
 ### The Mortal Plane
 The planet known as [[Cosmology Overview#Avasar|Avasar]] is located within the mortal plane, orbiting around its star, [[Cosmology Overview#Taiya|Taiya]]. The planes of the multiverse cast reflections here, in the form of other planetary bodies.
 ## Ancestry
-
-```dataview
-<!-- QueryToSerialize:
-TABLE WITHOUT ID
-file.link AS "God",
-title AS "Title",
-secondary_titles AS "Secondary Titles",
-essence AS "Essence",
-link(plane) AS "Plane"
-FROM #god AND #major_god
-WHERE title != null
-SORT file.link ASC
-```
+<!-- QueryToSerialize: LIST FROM #god -->
