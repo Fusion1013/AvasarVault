@@ -1,14 +1,11 @@
 ---
 tags:
-- god
-- major_god
-
+  - god
+  - major_god
 title: 
-secondary_titles:
-- 
-essence:
-- 
-plane: ![["PLANE"]]
+secondary_titles: 
+essence: 
+plane: "[[EMPTY]]"
 ---
 ## Domain
 
