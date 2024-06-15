@@ -31,3 +31,5 @@ A mortal who failed to take over a domain from a deity would usually face their 
 As the planes continued to split and merge in the fervour of ascending mortals, the fabric of reality continued to tear. Become unstable. This instability began to tear into the material plane, creating regions where small, infrequent planar tears would appear.
 
 It all came to a point when one final mortal ascended, splitting another plane. This caused a ripple of planar energy to rock the cosmos. The planes had reached critical mass. The gods decided to come together and in a unified effort killed the newly ascended god, bringing the cosmos into balance once more. To prevent any mortals from continuing to break apart the planes and destroy all they know, the gods hid the secrets to ascension. They agreed to present a united front against anyone who would attempt to ascend. This event became known as the [[0APC - Planar Concordance|Planar Concordance]] and became year 0 for many of the major calendars.
+
+<!-- QueryToSerialize: LIST FROM #god -->
