@@ -1,25 +1,6 @@
 ---
 tags:
-  - person/<%
-  - tp.system.suggester(["major",
-  - '"minor"],'
-  - '["major",'
-  - '"minor"])'
-  - "%>"
-  - <%
-  - tp.system.prompt("What
-  - region
-  - are
-  - they
-  - from?",
-  - '"")'
-  - "%>"
-  - <%
-  - tp.system.suggester(["alive",
-  - '"dead"],'
-  - '["alive",'
-  - '"dead"])'
-  - "%>"
+  - person
 aliases: 
 race: 
 age: 
