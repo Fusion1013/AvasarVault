@@ -1,3 +1,7 @@
+---
+draft: true
+---
+
 # TO-DO Notes
 ```dataview
 TABLE
