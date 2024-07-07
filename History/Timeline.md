@@ -4,6 +4,7 @@ Certain types of events are marked by different icons.
 **Lightbulb**: Major Discovery
 **Filled Flag**: Nation Founding
 **Book**: Law Established
+**Swords**: War/Combat Event
 ## Major Events
 Below follows a list of only the major events that have taken place throughout the history of Avasar.
 ```dataview
