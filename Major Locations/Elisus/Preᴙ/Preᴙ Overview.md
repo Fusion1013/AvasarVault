@@ -23,7 +23,14 @@ WHERE nation = "Preia"
 # Factions
 Various factions have their roots in Preᴙ.
 ## Noble Houses
-
+### House Dorofei
+This noble family has its roots since before the [[So'Dar Empire Overview|So'Dar]] war, making it one of the oldest, still intact, bloodlines. They are one of the most powerful houses within the nation, holding major positions within the Preᴙ treasury. More recently, the family's position has become threatened. Internal conflicts have escalated over the past few years, giving other houses an opportunity to grasp at power. The recent Tamerian Tragedy marked a major power shift within the family, resulting in [[Aleks Dorofei]] coming to power, something that was not popular with other branches of the family.
+### House Gerasim
+Founded by Vlad Gerasim and Natalya Savva in 1332 APC. Vlad was originally a member of [[Preᴙ Overview#House Dorofei|House Dorofei]], but decided to take his mothers name and form his own house after some issues within the family. Most of the family now lives in a [[small city]] in the countryside, not too far from the capital. They mainly work within the logging industry. They have an ongoing feud with [[Preᴙ Overview#House Dorofei|House Dorofei]] due to their history, with both trying to undermine the others affairs. [[Preᴙ Overview#House Dorofei|House Dorofei]] has blocked House Gerasim wood trade to the capital, cutting off an important part of their business.
+### House Vikentiv
+One of the younger but more powerful noble houses. They control a lot of the major trade routes, making them one of the more influential houses within the nation. They are currently making moves to take control of the capital from [[Preᴙ Overview#House Dorofei|House Dorofei]].
+### House Terenti
+### House Oxana
 ## Other
 
 # Languages
