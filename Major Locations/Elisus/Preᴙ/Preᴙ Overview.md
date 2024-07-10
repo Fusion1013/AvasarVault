@@ -32,6 +32,7 @@ Founded by [[Vlad Gerasim]] and [[Natalya Savva]] in 1332 APC. [[Vlad Gerasim|Vl
 ### House Vikentiv
 One of the younger but more powerful noble houses. They control a lot of the major trade routes, making them one of the more influential houses within the nation. They are currently making moves to take control of the capital from [[Preᴙ Overview#House Dorofei|House Dorofei]].
 ### House Terenti
+House Terenti is quite a large house that occupies various minor positions within the government, and have managed to stay relevant within higher circles through strategic marriages. They have been close allies with [[Preᴙ Overview#House Dorofei|House Dorofei]] for quite some time, giving them a foothold on the country's finances.
 ### House Oxana
 ## Other
 
