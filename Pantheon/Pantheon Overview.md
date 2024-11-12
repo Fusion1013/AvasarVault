@@ -1,6 +1,7 @@
 ---
 todo:
   - Rework according to https://docs.google.com/document/d/1WQh6Cbi5VwzRzhmdJqcaYcn3hi09aN--v_P6Xt_hHuo/edit
+draft: true
 ---
 *"Divinity"*
 # Introduction
