@@ -1,7 +1,7 @@
 ---
 tags:
   - god
-  - major_god
+  - minor_god
 title: The Shadowed Mask
 secondary_titles: 
 essence:

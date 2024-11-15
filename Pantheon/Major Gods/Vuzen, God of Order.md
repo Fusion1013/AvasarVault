@@ -1,7 +1,7 @@
 ---
 tags:
   - god
-  - major_god
+  - minor_god
 title: The Law Baron
 secondary_titles: 
 essence:
@@ -11,8 +11,7 @@ essence:
   - Stability
 todo:
   - Populate sections for symbology
-plane:
-  - "[[Orthosia, Plane of Order]]"
+plane: "[[Orthosia, Plane of Order]]"
 draft: true
 ---
 ## Overview

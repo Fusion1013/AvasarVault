@@ -1,7 +1,7 @@
 ---
 tags:
   - god
-  - major_god
+  - minor_god
 title: The Enchantress
 secondary_titles:
   - The Bloodweaver
@@ -10,8 +10,7 @@ essence:
   - Bad Magic
 todo:
   - Populate sections for domain and symbology
-plane:
-  - "[[Aurora Ortus]]"
+plane: "[[Aurora Ortus]]"
 draft: true
 ---
 ## Overview

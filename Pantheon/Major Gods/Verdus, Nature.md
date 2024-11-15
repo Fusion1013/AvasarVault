@@ -1,7 +1,7 @@
 ---
 tags:
   - god
-  - major_god
+  - minor_god
 title: The Earthweaver
 secondary_titles: 
 essence:
@@ -11,8 +11,7 @@ essence:
   - Growth
 todo:
   - Populate sections for domain and symbology
-plane:
-  - "[[Feralia]]"
+plane: "[[Feralia]]"
 draft: true
 ---
 ## Overview

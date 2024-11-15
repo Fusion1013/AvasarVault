@@ -5,12 +5,10 @@ tags:
 title: The Elder Scribe
 secondary_titles: 
 essence:
-  - Intellect
-  - Hubris
+  - Knowledge
 todo:
   - Populate sections for domain and symbology
-plane:
-  - "[[Gnosis, Plane of Knowledge]]"
+plane: "[[Gnosis, Plane of Knowledge]]"
 draft: true
 ---
 ## Overview

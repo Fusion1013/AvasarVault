@@ -10,8 +10,8 @@ essence:
 todo:
   - Populate sections for domain, symbology and worship
 plane:
-  - "[[Tenebris]]"
   - "[[Luminaria]]"
+  - "[[Tenebris]]"
 draft: true
 ---
 ## Overview

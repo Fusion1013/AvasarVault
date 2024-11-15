@@ -1,7 +1,7 @@
 ---
 tags:
   - god
-  - major_god
+  - minor_god
 title: The Unshackled
 secondary_titles: 
 essence:
@@ -10,8 +10,7 @@ essence:
   - Flexibility
 todo:
   - Populate section for symbology
-plane:
-  - "[[Kaos]]"
+plane: "[[Kaos]]"
 draft: true
 ---
 ## Overview

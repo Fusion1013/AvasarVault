@@ -1,7 +1,7 @@
 ---
 tags:
   - god
-  - major_god
+  - minor_god
 title: The Unmasked Goddess
 secondary_titles:
   - Torchbearer
@@ -10,8 +10,7 @@ essence:
   - Truth Seeking
 todo:
   - Populate sections for domain and symbology
-plane:
-  - "[[Vertae, Plane of Truth]]"
+plane: "[[Vertae, Plane of Truth]]"
 draft: true
 ---
 ## Overview

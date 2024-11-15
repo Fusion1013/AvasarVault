@@ -1,7 +1,7 @@
 ---
 tags:
   - god
-  - major_god
+  - minor_god
 title: The Scarlet Champion
 secondary_titles: 
 essence:
@@ -11,8 +11,7 @@ essence:
   - Bloodshed
 todo:
   - Populate sections for domain and symbology
-plane:
-  - "[[Stratosia, Plane of War]]"
+plane: "[[Stratosia, Plane of War]]"
 draft: true
 ---
 ## Overview

@@ -5,8 +5,8 @@ tags:
 title: The Golden Maiden
 secondary_titles: 
 essence:
-  - Living
-  - Undeath
+  - Nature
+  - Living without Souls
 todo:
   - Populate symbology section
 plane: "[[Vylmat, Plane of Life]]"

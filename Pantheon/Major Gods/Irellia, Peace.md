@@ -1,7 +1,7 @@
 ---
 tags:
   - god
-  - major_god
+  - minor_god
 title: Mistress of the Tranquil Lake
 secondary_titles: 
 essence:

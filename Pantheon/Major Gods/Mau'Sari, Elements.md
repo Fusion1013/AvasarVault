@@ -6,10 +6,10 @@ title: The Divine Essence
 secondary_titles: 
 essence:
   - The Elements
+  - Matter Itself
 todo:
   - Populate sections for domain, symbology and worship
-plane:
-  - "[[Elemental Plane of Chaos]]"
+plane: "[[Elemental Plane of Chaos]]"
 draft: true
 ---
 ## Overview

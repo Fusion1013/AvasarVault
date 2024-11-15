@@ -1,7 +1,7 @@
 ---
 tags:
   - god
-  - major_god
+  - minor_god
 title: The Prime Sculptur
 secondary_titles: 
 essence:

@@ -1,7 +1,7 @@
 ---
 tags:
   - god
-  - major_god
+  - minor_god
 title: The Unbroken Tide
 secondary_titles: 
 essence:
@@ -11,8 +11,7 @@ essence:
   - Natural Disasters
 todo:
   - Populate sections for domain, symbology and worship
-plane:
-  - "[[Terozin, Plane of Weather & Seas]]"
+plane: "[[Terozin, Plane of Weather & Seas]]"
 draft: true
 ---
 ## Overview

@@ -5,9 +5,8 @@ tags:
 title: Embrace of Darkness
 secondary_titles: 
 essence:
-  - Dying
-  - Murder
-  - Guide of Passed Souls
+  - Cycle of Souls
+  - Living with Souls
 todo:
   - Populate symbology section
 plane: "[[The Dark Beyond]]"
