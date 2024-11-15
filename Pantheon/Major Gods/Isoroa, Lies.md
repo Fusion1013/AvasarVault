@@ -10,6 +10,7 @@ essence:
 todo:
   - Populate sections for domain, symbology and worship
 plane: "[[Eatrev, Plane of Lies]]"
+draft: true
 ---
 ## Overview
 One of the major [[Pantheon Overview|Gods]], attuned to [[Eatrev, Plane of Lies]].

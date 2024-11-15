@@ -1,3 +1,7 @@
+---
+draft: true
+---
+
 ## Overview
 The Queen's Shadows is a group of highly skilled spies that work directly for the [[Queen of the So'Dar Empire|Ice Queen]]. They are a secretive organization that operates in the shadows, using their expertise in espionage and covert operations to protect the interests of the So'Dar Empire and to ensure the safety and security of the queen and her subjects.
 

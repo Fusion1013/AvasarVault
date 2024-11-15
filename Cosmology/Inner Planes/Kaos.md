@@ -5,6 +5,7 @@ todo:
   - Populate
 celestial_body: "[[Cosmology Overview#Phenro (Chaos)|Phenro]]"
 attuned_god: "[[Midar, Deity of Chaos]]"
+draft: true
 ---
 *"QUOTE"*
 ```dataviewjs

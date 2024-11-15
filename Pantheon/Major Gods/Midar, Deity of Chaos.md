@@ -12,6 +12,7 @@ todo:
   - Populate section for symbology
 plane:
   - "[[Kaos]]"
+draft: true
 ---
 ## Overview
 One of the major [[Pantheon Overview|Gods]], attuned to [[Kaos]].

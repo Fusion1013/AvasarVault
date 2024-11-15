@@ -13,6 +13,7 @@ todo:
   - Populate sections for domain, symbology and worship
 plane:
   - "[[Terozin, Plane of Weather & Seas]]"
+draft: true
 ---
 ## Overview
 One of the major [[Pantheon Overview|Gods]], attuned to [[Terozin, Plane of Weather & Seas]].

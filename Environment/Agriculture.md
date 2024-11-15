@@ -1,8 +1,10 @@
 ---
-todo: Populate using content from the [[Agriculture Design Document]]
+todo:
+  - Populate using content from the [[Agriculture Design Document]]
 editors:
-- Fusion
-- Ruff
+  - Fusion
+  - Ruff
+draft: true
 ---
 # Agriculture
 ## Introduction

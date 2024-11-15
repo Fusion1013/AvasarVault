@@ -1,8 +1,10 @@
 ---
 tags:
-- city
-nation: Preia
+  - city
+nation:
+  - Preia
 description: DESCRIPTION
+draft: true
 ---
 *"QUOTE"*
 

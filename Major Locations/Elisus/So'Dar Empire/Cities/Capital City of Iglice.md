@@ -1,8 +1,10 @@
 ---
 tags:
-- city
-nation: So'Dar
+  - city
+nation:
+  - So'Dar
 description: DESCRIPTION
+draft: true
 ---
 *"Amidst snow and ice, Iglice stands as a beacon of civilization, a testament to the resilience"*
 

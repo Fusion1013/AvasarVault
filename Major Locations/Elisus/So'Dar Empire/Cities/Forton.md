@@ -1,8 +1,10 @@
 ---
 tags:
-- city
-nation: So'Dar
+  - city
+nation:
+  - So'Dar
 description: DESCRIPTION
+draft: true
 ---
 *"QUOTE"*
 

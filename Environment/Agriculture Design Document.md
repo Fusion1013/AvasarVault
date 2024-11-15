@@ -1,6 +1,7 @@
 ---
 tags:
-- design_document
+  - design_document
+draft: true
 ---
 # Agriculture Design Document
 ## Introduction

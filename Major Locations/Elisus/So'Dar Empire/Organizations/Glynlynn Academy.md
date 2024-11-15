@@ -1,3 +1,7 @@
+---
+draft: true
+---
+
 *"Hogwarts in the snow lololol"*
 ## Overview
 Glynlynn Academy is a renowned institution of learning in the So'Darian Empire. The academy offers a wide range of courses in various disciplines, including history, politics, economics, and arcane studies. However, the academy is particularly famous for its prestigious swordsmanship program, which has produced some of the finest warriors in the empire. 

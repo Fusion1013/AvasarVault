@@ -12,6 +12,7 @@ todo:
   - Populate sections for domain and symbology
 plane:
   - "[[Aurora Ortus]]"
+draft: true
 ---
 ## Overview
 One of the major [[Pantheon Overview|Gods]], attuned to [[Aurora Ortus]].

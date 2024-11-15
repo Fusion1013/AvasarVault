@@ -1,8 +1,9 @@
 ---
 tags:
-- creature
+  - creature
 creature_type: Bird
-
-todo: Populate
+todo:
+  - Populate
+draft: true
 ---
 Its a type of bird

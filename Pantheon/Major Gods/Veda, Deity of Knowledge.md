@@ -11,6 +11,7 @@ todo:
   - Populate sections for domain and symbology
 plane:
   - "[[Gnosis, Plane of Knowledge]]"
+draft: true
 ---
 ## Overview
 One of the major [[Pantheon Overview|Gods]], attuned to [[Gnosis, Plane of Knowledge]].

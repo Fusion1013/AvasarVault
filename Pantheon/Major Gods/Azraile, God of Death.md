@@ -11,6 +11,7 @@ essence:
 todo:
   - Populate symbology section
 plane: "[[The Dark Beyond]]"
+draft: true
 ---
 ## Overview
 One of the major [[Pantheon Overview|Gods]], attuned to [[The Dark Beyond]].

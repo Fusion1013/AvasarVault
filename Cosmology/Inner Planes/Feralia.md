@@ -5,6 +5,7 @@ todo:
   - Populate
 celestial_body: "[[Cosmology Overview#Sylvanis (Nature)|Sylvanis]]"
 attuned_god: "[[Verdus, Nature]]"
+draft: true
 ---
 *"QUOTE"*
 ```dataviewjs

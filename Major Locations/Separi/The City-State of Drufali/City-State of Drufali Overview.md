@@ -29,7 +29,7 @@ A noble family of Humans, Elfs, and Half-Elfs. A poor house but has had many tal
 The Head house of the City-state of Drufali and was once the head of house Drufali was knight commander of the Ohkyr Dominion. House Drufali is a noble family of Half-Giant. They are known to be very strong and they house has held many upper positions in the army than any other house. There banner is a sword sheathed in a Stone  
 ## Major Organizations
 
-### [[The RoundTable]]
+### [[The Roundtable]]
 The Roundtable is made up of the [[Guild Masters|guildmasters]] of the [[City-State of Drufali Overview#The Four Major Guilds|four major guilds]]. This group basically run the everyday of the city behind the power of the Governor. They advise the governor of the everyday tasks of the city.    
 
 ### The Four Major Guilds

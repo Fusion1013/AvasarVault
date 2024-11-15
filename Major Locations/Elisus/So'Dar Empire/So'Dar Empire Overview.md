@@ -1,9 +1,10 @@
 ---
 tags:
-- nation
+  - nation
 aliases:
-- So'Dar Empire
-- So'Dar
+  - So'Dar Empire
+  - So'Dar
+draft: true
 ---
 *"Strength has no end"*
 

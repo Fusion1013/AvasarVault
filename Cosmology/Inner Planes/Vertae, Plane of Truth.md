@@ -6,6 +6,7 @@ todo:
   - Integrate notes into document
 celestial_body: "[[Cosmology Overview#Verax (Truth)|Verax]]"
 attuned_god: "[[Verise, Goddess of Truth]]"
+draft: true
 ---
 *"QUOTE"*
 ```dataviewjs

@@ -1,7 +1,8 @@
 ---
 notes: Heavy WIP, likely going to change formatting and text later on. Expect grammar mistakes or for sections to be nothing but bullet points for now.
-
-todo: We should add some more dragon information to this yall
+todo:
+  - We should add some more dragon information to this yall
+draft: true
 ---
 ## General Dragon Information
 Every dragon will get its own document, stored in the same folder, that will show exactly where the main populace is and what that type of dragon is likely to do. Those documents are mostly there to give possible future DMs ideas on something they can do. This document, however, is for information on the changes between pathfinder and/or 5e dragons and these dragons. 

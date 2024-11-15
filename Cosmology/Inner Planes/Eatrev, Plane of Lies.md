@@ -5,6 +5,7 @@ todo:
   - Populate
 celestial_body: "[[Cosmology Overview#Xarev (Lies)|Xarev]]"
 attuned_god: "[[Isoroa, Lies]]"
+draft: true
 ---
 *"QUOTE"*
 ```dataviewjs

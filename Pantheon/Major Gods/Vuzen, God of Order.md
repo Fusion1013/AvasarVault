@@ -13,6 +13,7 @@ todo:
   - Populate sections for symbology
 plane:
   - "[[Orthosia, Plane of Order]]"
+draft: true
 ---
 ## Overview
 One of the major [[Pantheon Overview|Gods]], attuned to [[Orthosia, Plane of Order]].

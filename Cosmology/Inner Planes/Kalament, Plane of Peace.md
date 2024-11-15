@@ -5,6 +5,7 @@ todo:
   - Populate
 celestial_body: "[[Cosmology Overview#Calmara (Peace)|Calmara]]"
 attuned_god: "[[Irellia, Peace]]"
+draft: true
 ---
 *"QUOTE"*
 ```dataviewjs

@@ -1,14 +1,14 @@
 ---
 tags:
-- god
-- demigod
+  - god
+  - demigod
 title: The Wandering God
-secondary_titles:
-- 
+secondary_titles: 
 essence:
-- Travel
-- Unpredictability
+  - Travel
+  - Unpredictability
 plane: 
+draft: true
 ---
 ## Overview
 One of the many [[Pantheon Overview|Demigods]].

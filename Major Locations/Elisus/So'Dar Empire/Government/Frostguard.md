@@ -1,3 +1,7 @@
+---
+draft: true
+---
+
 ## Overview
 The Frostguard is an elite group of highly trained ice warriors who are fiercely loyal to the [[Queen of the So'Dar Empire|Queen of Winter]] and her kin. They are tasked with protecting the [[Queen of the So'Dar Empire|Queen]] and her subjects from external threats, such as invading armies, as well as internal threats, such as traitors and insurrectionists. They are also skilled in the use of traditional weapons, such as swords and spears, and are highly trained in hand-to-hand combat.
 

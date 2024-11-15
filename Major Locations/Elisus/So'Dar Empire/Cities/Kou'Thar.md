@@ -1,7 +1,8 @@
 ---
 tags:
-- city
-nation: So'Dar
+  - city
+nation:
+  - So'Dar
 description: DESCRIPTION
 ---
 *"Those from Kou'Thar may have a cold and hardened exterior, but their hearts are as fierce and unyielding as the waves that crash upon their shores"*

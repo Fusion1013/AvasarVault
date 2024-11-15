@@ -4,7 +4,8 @@ tags:
 description: A vibrant mirror of the material plane
 celestial_body: "[[Cosmology Overview#Aurius (Light)|Aurius]]"
 attuned_god: N/A
-aliases:
+aliases: 
+draft: true
 ---
 *"QUOTE"*
 ```dataviewjs

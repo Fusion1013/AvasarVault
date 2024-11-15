@@ -13,6 +13,7 @@ todo:
   - Populate sections for domain and symbology
 plane:
   - "[[Feralia]]"
+draft: true
 ---
 ## Overview
 One of the major [[Pantheon Overview|Gods]], attuned to [[Verdus, Nature]].

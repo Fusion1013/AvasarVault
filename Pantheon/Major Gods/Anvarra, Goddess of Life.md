@@ -10,6 +10,7 @@ essence:
 todo:
   - Populate symbology section
 plane: "[[Vylmat, Plane of Life]]"
+draft: true
 ---
 # Overview
 One of the major [[Pantheon Overview|Gods]], attuned to [[Vylmat, Plane of Life]].

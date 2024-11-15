@@ -12,6 +12,7 @@ todo:
 plane:
   - "[[Tenebris]]"
   - "[[Luminaria]]"
+draft: true
 ---
 ## Overview
 One of the major [[Pantheon Overview|Gods]], attuned to [[Tenebris]] and [[Luminaria]].

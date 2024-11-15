@@ -7,6 +7,7 @@ attuned_god: N/A
 aliases:
   - The Eternal Twilight
   - Noctus
+draft: true
 ---
 *"QUOTE"*
 ```dataviewjs

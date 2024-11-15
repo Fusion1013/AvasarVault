@@ -5,6 +5,7 @@ todo:
   - Populate
 celestial_body: "[[Cosmology Overview#Logomon (Order)|Logomon]]"
 attuned_god: "[[Vuzen, God of Order]]"
+draft: true
 ---
 *"QUOTE"*
 ```dataviewjs

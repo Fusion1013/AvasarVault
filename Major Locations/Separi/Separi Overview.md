@@ -1,9 +1,10 @@
 ---
 aliases:
-- Separi
+  - Separi
 todo:
-- Fill out nation sections
+  - Fill out nation sections
 banner_y: 0.428
+draft: true
 ---
 ## Overview
 ```leaflet

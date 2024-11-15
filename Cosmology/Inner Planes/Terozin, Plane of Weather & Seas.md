@@ -6,6 +6,7 @@ todo:
   - Link to [[Thalassa, the Abyssal Maw]]
 celestial_body: "[[Cosmology Overview#Tem (Weather & Seas)|Tem]]"
 attuned_god: "[[Merstur, Weather and Seas]]"
+draft: true
 ---
 *"QUOTE"*
 ```dataviewjs

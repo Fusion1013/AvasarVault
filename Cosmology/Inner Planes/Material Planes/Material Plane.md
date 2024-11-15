@@ -6,6 +6,7 @@ celestial_body: "[[Cosmology Overview#Avasar|Avasar]]"
 attuned_god: N/A
 aliases:
   - Mortal Plane
+draft: true
 ---
 *"QUOTE"*
 ```dataviewjs

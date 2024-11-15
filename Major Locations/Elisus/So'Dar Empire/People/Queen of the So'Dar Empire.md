@@ -1,8 +1,10 @@
 ---
-tags: person
+tags:
+  - person
 aliases:
-- Ice Queen
-- Queen of Winter
+  - Ice Queen
+  - Queen of Winter
+draft: true
 ---
 ## History
 A land riddled with war and conquest, [[Capital City of Iglice|Iglice]] was the birthplace of the Ice Queen. Her mother, a warrior queen who led the fierce and brutal Iglacian tribes, gave birth to her during a fierce battle in the dead of winter. As a child, the Ice Queen was trained in the art of warfare, honing her skills with weapons and magic. She quickly rose through the ranks and became a fearsome warrior in her own right, leading her troops to victory time and time again. However, as she grew older, the Ice Queen began to realize that there was more to life than war and conquest. She yearned for a kingdom of her own, one that she could rule with wisdom and compassion, rather than fear and brutality.

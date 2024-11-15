@@ -5,6 +5,7 @@ todo:
   - Populate
 celestial_body: "[[Cosmology Overview#Stryka (War)|Stryka]]"
 attuned_god: "[[Ogrun, God of War]]"
+draft: true
 ---
 *"QUOTE"*
 ```dataviewjs

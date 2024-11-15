@@ -1,9 +1,10 @@
 ---
 tags:
-- nation
+  - nation
 aliases:
-- Raazhan
-- Raazhan Dominion
+  - Raazhan
+  - Raazhan Dominion
+draft: true
 ---
 *"QUOTE"*
 
