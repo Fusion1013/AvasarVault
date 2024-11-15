@@ -14,7 +14,7 @@ plane: "[[Sutya, Plane of Artisans]]"
 draft: true
 ---
 ## Overview
-One of the major [[Pantheon Overview|Gods]], attuned to [[Sutya, Plane of Artisans]].
+One of the minor [[Pantheon Overview|Gods]], attuned to [[Sutya, Plane of Artisans]].
 ## Domain
 
 ## Symbology

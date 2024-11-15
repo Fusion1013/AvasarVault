@@ -14,7 +14,7 @@ plane: "[[Kaos]]"
 draft: true
 ---
 ## Overview
-One of the major [[Pantheon Overview|Gods]], attuned to [[Kaos]].
+One of the minor [[Pantheon Overview|Gods]], attuned to [[Kaos]].
 ## Domain
 Midar is an embodiment of everything without structure. Included within this domain is freedom and the ability to adapt to circumstances. However, the domain which embodies chaos also includes pandemonium.
 ## Symbology

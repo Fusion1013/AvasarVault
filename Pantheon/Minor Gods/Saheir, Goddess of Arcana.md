@@ -14,7 +14,7 @@ plane: "[[Aurora Ortus]]"
 draft: true
 ---
 ## Overview
-One of the major [[Pantheon Overview|Gods]], attuned to [[Aurora Ortus]].
+One of the minor [[Pantheon Overview|Gods]], attuned to [[Aurora Ortus]].
 ## Domain
 
 ## Symbology

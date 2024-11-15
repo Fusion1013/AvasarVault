@@ -14,7 +14,7 @@ plane: "[[Kalament, Plane of Peace]]"
 draft: true
 ---
 ## Overview
-One of the major [[Pantheon Overview|Gods]], attuned to [[Kalament, Plane of Peace]].
+One of the minor [[Pantheon Overview|Gods]], attuned to [[Kalament, Plane of Peace]].
 ## Domain
 
 ## Symbology

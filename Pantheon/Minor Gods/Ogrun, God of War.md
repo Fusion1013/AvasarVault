@@ -15,7 +15,7 @@ plane: "[[Stratosia, Plane of War]]"
 draft: true
 ---
 ## Overview
-One of the major [[Pantheon Overview|Gods]], attuned to [[Stratosia, Plane of War]].
+One of the minor [[Pantheon Overview|Gods]], attuned to [[Stratosia, Plane of War]].
 ## Domain
 
 ## Symbology

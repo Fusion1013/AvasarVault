@@ -13,7 +13,7 @@ plane: "[[Eatrev, Plane of Lies]]"
 draft: true
 ---
 ## Overview
-One of the major [[Pantheon Overview|Gods]], attuned to [[Eatrev, Plane of Lies]].
+One of the minor [[Pantheon Overview|Gods]], attuned to [[Eatrev, Plane of Lies]].
 ## Domain
 
 ## Symbology

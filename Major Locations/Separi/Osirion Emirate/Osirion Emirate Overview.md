@@ -13,7 +13,7 @@ tags:
 ## History
 The Osirion Emirate was created on the continent of [[Separi Overview|Separi]], where a vast desert covered a majority of the region. For some time, the southernmost parts of this desert was occupied by small towns near scattered oases. No major power was able to form in this region due to its inhospitability.
 
-This factor was soon changed by a powerful cleric of [[Anvarra, Goddess of Life]]. They along with their people had been suffering due to the water at their village drying up. After praying many times to their goddess, this cleric was given instructions for a ritual to solve their plight.
+This factor was soon changed by a powerful cleric of [[Anvarra, the Soulless Mistress]]. They along with their people had been suffering due to the water at their village drying up. After praying many times to their goddess, this cleric was given instructions for a ritual to solve their plight.
 
 On the eve of a [[Sovereign Eclipse]], this cleric and his followers performed a special rite in a desolate region of the desert. As the [[Cosmology Overview#Avasar|moons of Avasar]] began to eclipse the sun, a geyser of water began to shoot out of the ground. This continuous flow of water eventually formed into a lake and river, causing the region around these new landmarks to be hospitable for civilization.
 

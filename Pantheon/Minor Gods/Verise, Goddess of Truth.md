@@ -14,7 +14,7 @@ plane: "[[Vertae, Plane of Truth]]"
 draft: true
 ---
 ## Overview
-One of the major [[Pantheon Overview|Gods]], attuned to [[Vertae, Plane of Truth]].
+One of the minor [[Pantheon Overview|Gods]], attuned to [[Vertae, Plane of Truth]].
 ## Domain
 
 ## Symbology
