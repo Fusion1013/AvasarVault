@@ -2,14 +2,16 @@
 tags:
   - god
   - major_god
-title: The Golden Maiden
-secondary_titles: 
+title: The Soulless Mistress
+secondary_titles:
+  - The Golden Maiden
 essence:
   - Nature
   - Living without Souls
 todo:
   - Populate symbology section
-plane: "[[Vylmat, Plane of Life]]"
+plane:
+  - "[[Vylmat, Plane of Life]]"
 draft: true
 ---
 # Overview
