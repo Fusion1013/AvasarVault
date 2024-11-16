@@ -10,8 +10,7 @@ essence:
   - Living without Souls
 todo:
   - Populate symbology section
-plane:
-  - "[[Vylmat, Plane of Life]]"
+plane: "[[Vylmat, Plane of Life]]"
 draft: true
 ---
 # Overview

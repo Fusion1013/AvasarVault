@@ -14,10 +14,10 @@ plane:
   - "[[Tenebris]]"
 draft: true
 ---
-## Overview
+# Overview
 One of the major [[Pantheon Overview|Gods]], attuned to [[Tenebris]] and [[Luminaria]].
-## Domain
+# Domain
 
-## Symbology
+# Symbology
 
-## Worship
+# Worship
