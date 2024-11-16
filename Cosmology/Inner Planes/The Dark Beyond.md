@@ -5,7 +5,7 @@ todo:
   - Rework how it is linked to the plane of dreams
   - Remove mentions of upper/lower planes
 celestial_body: "[[Cosmology Overview#Yomi (Death, 28.33 AU)|Yomi]]"
-attuned_god: "[[Azraile, God of Death]]"
+attuned_god: "[[Azraile]]"
 aliases:
   - Plane of Death
   - Eternal Darkness
