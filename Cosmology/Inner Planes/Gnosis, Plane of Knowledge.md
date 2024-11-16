@@ -5,7 +5,7 @@ todo:
   - Add more tower sections
   - Add more information about the plane in general
 celestial_body: "[[Cosmology Overview#Epistos (Knowledge, 7.69 AU)|Epistos]]"
-attuned_god: "[[Veda, Deity of Knowledge]]"
+attuned_god: "[[Veda, the Elder Scribe]]"
 ---
 *"QUOTE"*
 ```dataviewjs
