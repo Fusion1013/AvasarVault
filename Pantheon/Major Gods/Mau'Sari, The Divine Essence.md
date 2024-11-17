@@ -12,10 +12,10 @@ todo:
 plane: "[[Elemental Plane of Chaos]]"
 draft: true
 ---
-## Overview
+# Overview
 One of the major [[Pantheon Overview|Gods]], attuned to the [[Elemental Plane of Chaos]].
-## Domain
+# Domain
 
-## Symbology
+# Symbology
 
-## Worship
+# Worship
