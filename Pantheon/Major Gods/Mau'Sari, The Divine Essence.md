@@ -17,5 +17,5 @@ One of the major [[Pantheon Overview|Gods]], attuned to the [[Elemental Plane of
 # Domain
 Mau'Sari holds dominion over entropy and the raw elemental energies. He is the embodiment of change - neither inherently destructive nor creative, but a force of inevitable transition and elemental chaos.
 # Symbology
+A lot of symbols incorporate the four elements in its iconography. One symbol depicts the Elemental Vortex, a swirling, chaotic spiral composed of the four elements, fire, water, air and earth.
 # Worship
-Even though Mau'Sari was the first mortal to ascend to godhood, there are not many that worship him.
