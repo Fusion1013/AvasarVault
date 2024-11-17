@@ -6,7 +6,7 @@ todo:
   - More environmental points of interest
   - Integrate the different metals that can be found here ([[Targath]] and [[Aururum]])
 celestial_body: "[[Cosmology Overview#Sahti (Dark)|Sahti]]"
-attuned_god: "[[Lu'Syl, Light and Dark|Lu'Syl, Dark Twin]]"
+attuned_god: "[[Lu'Syl, the Twilight Twins|Lu'Syl, Dark Twin]]"
 aliases:
   - Nox
   - Dark Cavern

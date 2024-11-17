@@ -14,7 +14,7 @@ plane: "[[Vylmat, Plane of Life]]"
 draft: true
 ---
 # Overview
-One of the major [[Pantheon Overview|Gods]], attuned to [[Vylmat, Plane of Life]].
+One of the major [[Pantheon Overview|Gods]], attuned to [[Vylmat, Plane of Life|Vylmat]].
 # Domain
 Anvarra acts as a representation of nature as a whole. Anything which is considered to be alive, but lacks a soul, is what she resides over. This includes any form of undeath, as well as constructs. Anything with a spirit, such as animals, are also part of Anvarra's domain.
 # Symbology
