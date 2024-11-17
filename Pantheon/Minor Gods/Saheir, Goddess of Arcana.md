@@ -6,11 +6,11 @@ title: The Enchantress
 secondary_titles:
   - The Bloodweaver
 essence:
-  - Good Magic
-  - Bad Magic
+  - Magic
 todo:
   - Populate sections for domain and symbology
-plane: "[[Aurora Ortus]]"
+plane:
+  - "[[Aurora Ortus]]"
 draft: true
 ---
 # Overview
