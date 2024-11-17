@@ -12,10 +12,10 @@ todo:
 plane: "[[Eatrev, Plane of Lies]]"
 draft: true
 ---
-## Overview
+# Overview
 One of the minor [[Pantheon Overview|Gods]], attuned to [[Eatrev, Plane of Lies]].
-## Domain
+# Domain
 
-## Symbology
+# Symbology
 
-## Worship
+# Worship

@@ -13,11 +13,11 @@ todo:
 plane: "[[Kaos]]"
 draft: true
 ---
-## Overview
+# Overview
 One of the minor [[Pantheon Overview|Gods]], attuned to [[Kaos]].
-## Domain
+# Domain
 Midar is an embodiment of everything without structure. Included within this domain is freedom and the ability to adapt to circumstances. However, the domain which embodies chaos also includes pandemonium.
-## Symbology
+# Symbology
 
-## Worship
+# Worship
 There are not many permanent temples to Midar. Most places of worship come and go, with followers usually not staying in one location for very long. Many tend to pick up adventuring, or other occupations where any sort of permanence is minimized. There are not many organized events, ceremonies or rites. Followers are instead free to show their devotion in whichever way they see fit.

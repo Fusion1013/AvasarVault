@@ -13,10 +13,10 @@ todo:
 plane: "[[Sutya, Plane of Artisans]]"
 draft: true
 ---
-## Overview
+# Overview
 One of the minor [[Pantheon Overview|Gods]], attuned to [[Sutya, Plane of Artisans]].
-## Domain
+# Domain
 
-## Symbology
+# Symbology
 
-## Worship
+# Worship

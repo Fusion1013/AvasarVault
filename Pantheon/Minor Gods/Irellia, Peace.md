@@ -13,10 +13,10 @@ todo:
 plane: "[[Kalament, Plane of Peace]]"
 draft: true
 ---
-## Overview
+# Overview
 One of the minor [[Pantheon Overview|Gods]], attuned to [[Kalament, Plane of Peace]].
-## Domain
+# Domain
 
-## Symbology
+# Symbology
 
-## Worship
+# Worship

@@ -14,10 +14,10 @@ todo:
 plane: "[[Terozin, Plane of Weather & Seas]]"
 draft: true
 ---
-## Overview
+# Overview
 One of the minor [[Pantheon Overview|Gods]], attuned to [[Terozin, Plane of Weather & Seas]].
-## Domain
+# Domain
 
-## Symbology
+# Symbology
 
-## Worship
+# Worship
