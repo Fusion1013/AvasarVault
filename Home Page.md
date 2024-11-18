@@ -2,7 +2,6 @@
 todo:
   - Add Mountain People to the Elisus section
   - Add more region sections
-  - Add pantheon section
   - Add ancestry section
 ---
 *"Let the world be your oyster"*
