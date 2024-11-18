@@ -6,16 +6,11 @@ todo:
 banner_y: 0.428
 draft: true
 ---
-## Overview
-```leaflet
-id: separi-map
-image: [[SepariMap.jpg]]
-defaultZoom: 6.5
-zoomDelta: .5
-```
-## Nations
-### Akmé Hegemony
-### Osirion Emirate
-### The City-State of Drufali
-### The Raazhan Dominion
-## Landmarks
+![[SepariElisus.jpg]]
+# Overview
+# Nations
+## Akmé Hegemony
+## Osirion Emirate
+## The City-State of Drufali
+## The Raazhan Dominion
+# Landmarks
