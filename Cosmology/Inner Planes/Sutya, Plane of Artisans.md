@@ -4,7 +4,7 @@ tags:
 todo:
   - Populate
 celestial_body: "[[Cosmology Overview#Crasst (Artisans)|Crasst]]"
-attuned_god: "[[Intrix, Artisans]]"
+attuned_god: "[[Intrix, The Prime Sculptor]]"
 draft: true
 ---
 *"QUOTE"*

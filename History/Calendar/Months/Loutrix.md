@@ -1,7 +1,7 @@
 ---
 tags:
-- month
-god: "[[Intrix, Artisans]]"
+  - month
+god: "[[Intrix, The Prime Sculptor]]"
 order: 9
 ---
 [[Calendar Overview]]
