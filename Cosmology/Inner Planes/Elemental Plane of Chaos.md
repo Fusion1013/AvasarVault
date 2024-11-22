@@ -2,7 +2,7 @@
 tags:
   - plane/inner
 celestial_body: "[[Cosmology Overview#Taiya|Taiya]]"
-attuned_god: "[[Mau'Sari, The Divine Essence]]"
+attuned_god: "[[Mau'Sari, the Divine Essence]]"
 aliases:
   - The Crucible
 ---

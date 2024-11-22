@@ -4,7 +4,7 @@ tags:
 todo:
   - Populate
 celestial_body: "[[Cosmology Overview#Calmara (Peace)|Calmara]]"
-attuned_god: "[[Irellia, Peace]]"
+attuned_god: "[[Irellia, Mistress of the Tranquil Lake]]"
 draft: true
 ---
 *"QUOTE"*
