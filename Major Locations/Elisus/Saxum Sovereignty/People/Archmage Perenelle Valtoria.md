@@ -18,5 +18,5 @@ dv.span(p.description)
 ## History
 [[1241 APC - The Knowledge Preservation Edict]]
 [[1254 APC - The Erudi Charter]]
-[[1263 - The Environmental Protection Accord]]
+[[1263 APC - The Environmental Protection Accord]]
 ## Appearance

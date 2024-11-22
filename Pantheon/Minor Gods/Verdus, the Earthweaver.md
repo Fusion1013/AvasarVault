@@ -15,7 +15,7 @@ plane: "[[Feralia]]"
 draft: true
 ---
 # Overview
-One of the minor [[Pantheon Overview|Gods]], attuned to [[Verdus, Nature]].
+One of the minor [[Pantheon Overview|Gods]], attuned to [[Verdus, the Earthweaver]].
 # Domain
 
 # Symbology
