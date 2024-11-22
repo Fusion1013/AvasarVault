@@ -16,7 +16,7 @@ draft: true
 # Overview
 One of the minor [[Pantheon Overview|Gods]], attuned to [[Vertae, Plane of Truth|Vertae]].
 # Domain
-Verise is the goddess of common sense, honesty, and truth.
+Verise is the goddess of common sense, honesty, and truth. Verise's influence spans everything from small, everyday decisions, to the deep, immutable truths that govern existence. Her domain emphasizes that truth, while powerful and often liberating, can also be harsh and uncompromising.
 # Symbology
 
 # Worship
