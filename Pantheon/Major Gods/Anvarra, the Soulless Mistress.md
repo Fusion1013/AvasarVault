@@ -10,8 +10,11 @@ essence:
   - Living without Souls
 todo:
   - Populate symbology section
-plane: "[[Vylmat, Plane of Life]]"
+plane:
+  - "[[Vylmat, Plane of Life]]"
 draft: true
+aliases:
+  - Anvarra
 ---
 # Overview
 One of the major [[Pantheon Overview|Gods]], attuned to [[Vylmat, Plane of Life|Vylmat]].
