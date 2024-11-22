@@ -14,9 +14,9 @@ plane: "[[Vertae, Plane of Truth]]"
 draft: true
 ---
 # Overview
-One of the minor [[Pantheon Overview|Gods]], attuned to [[Vertae, Plane of Truth]].
+One of the minor [[Pantheon Overview|Gods]], attuned to [[Vertae, Plane of Truth|Vertae]].
 # Domain
-
+Verise is the goddess of common sense, honesty, and truth.
 # Symbology
 
 # Worship
