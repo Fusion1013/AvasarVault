@@ -16,7 +16,7 @@ draft: true
 # Overview
 One of the minor [[Pantheon Overview|Gods]], attuned to [[Kaos]].
 # Domain
-Midar is an embodiment of everything without structure. Included within this domain is freedom and the ability to adapt to circumstances. However, the domain which embodies chaos also includes pandemonium.
+Midar, the Unshackled, is the divine embodiment of chaos, freedom, and adaptability. His domain thrives in the absence of order, in the midst of spontaneity and individuality. To follow Midar is to embrace the unpredictable, to revel in the ever-shifting tides of existence, and to cast off the chains of convention and expectation. Midar represents the boundless potential of life untethered, as well as the chaos that arises when structure collapses.
 # Symbology
 
 # Worship
