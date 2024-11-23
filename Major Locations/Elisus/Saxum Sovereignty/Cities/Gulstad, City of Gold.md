@@ -60,15 +60,15 @@ Since most of the city is located underground it is well protected from airborne
 The city guards can be recognized by their black plate mail, with high rank being indicated by strips of gold filigree on their helmets. Most of the city guards have some knowledge of the arcane, but there are a few groups that specialize in different kinds of magic.
 ## Organizations
 ### The Saxum Triumvirate
-[[The Saxum Triumvirate]] is composed of three powerful mages who rule over the Saxum Sovereignty from within the Myriad. They are [[Archmage Igorim Ovras]], [[Master Leo Umbras]], and [[Ezorah von Abendroth]]. As the ruling body of the nation, they hold ultimate power over all aspects of governance and policy, though they are advised by a council of 13 representatives from different regions of the country. [[The Saxum Triumvirate|The Triumvirate]] is known for their formidable magical abilities and their unwavering commitment to Saxum and its prosperity.
+[[The Saxum Triumvirate]] is composed of three powerful mages who rule over the Saxum Sovereignty from within the Myriad. They are [[Archmage Heinrich Bodenheimer]], [[Master Leopold Krauszer]], and [[Renate von Abendroth]]. As the ruling body of the nation, they hold ultimate power over all aspects of governance and policy, though they are advised by a council of 13 representatives from different regions of the country. [[The Saxum Triumvirate|The Triumvirate]] is known for their formidable magical abilities and their unwavering commitment to Saxum and its prosperity.
 ### Skywing Transport
 *"Trust your cargo to the strength of our dragons"*
 
 Skywing Transport was created to be a solution to the difficult problem of transporting goods across the [[Dragonback Mountains]]. Since dragons are intelligent creatures they do not need riders, though they sometimes take passengers through the use of specially constructed carrier vessels.
 ## Major People
-### Archmage Igorim Ovras
-Male elf, around 500 years old. Archmage Igorim Ovras is one of the original founders of [[The Saxum Triumvirate|The Triumvirate]], and is regarded as one of the most powerful mages in the history of the Saxum Sovereignty. As one of the founding members of [[The Saxum Triumvirate|The Triumvirate]], Ovras was instrumental in shaping the early years of the nation. He now oversees a lot of the magical research that is being conducted at the bottom of the [[Gulstad, City of Gold#The Myriad|Myriad]].
-### Master Leo Umbras
-Human male in his late 60’s. A skilled mage who joined [[The Saxum Triumvirate|The Triumvirate]] around 25 years ago, Master Leo Umbras is known for his expertise in illusion magic and his sharp wit. He serves as the Triumvirate’s chief advisor on matters of foreign policy and diplomacy.
-### Ezorah von Abendroth
-Human female in her early 40’s. The newest member of [[The Saxum Triumvirate|The Triumvirate]], Ezorah was appointed as the head of defense following the disappearance of her predecessor in the tunnels under the city. She is a skilled mage who specializes in elemental magic, and is known for her fierce determination and unwavering loyalty to [[The Saxum Triumvirate|The Triumvirate]].
+### Archmage Heinrich Bodenheimer
+Male elf, around 500 years old. Archmage Heinrich Bodenheimer is one of the original founders of [[The Saxum Triumvirate|The Triumvirate]], and is regarded as one of the most powerful mages in the history of the Saxum Sovereignty. As one of the founding members of [[The Saxum Triumvirate|The Triumvirate]], Bodenheimer was instrumental in shaping the early years of the nation. He now oversees a lot of the magical research that is being conducted at the bottom of the [[Gulstad, City of Gold#The Myriad|Myriad]].
+### Master Leopold Krauszer
+Human male in his late 60’s. A skilled mage who joined [[The Saxum Triumvirate|The Triumvirate]] around 25 years ago, Master Leopold Krauszer is known for his expertise in illusion magic and his sharp wit. He serves as the Triumvirate’s chief advisor on matters of foreign policy and diplomacy.
+### Renate von Abendroth
+Human female in her early 40’s. The newest member of [[The Saxum Triumvirate|The Triumvirate]], Renate was appointed as the head of defense following the disappearance of her predecessor in the tunnels under the city. She is a skilled mage who specializes in elemental magic, and is known for her fierce determination and unwavering loyalty to [[The Saxum Triumvirate|The Triumvirate]].

@@ -6,6 +6,6 @@ tags:
 date: 1185 APC
 nation: Saxum Sovereignty
 title: Saxum Sovereignty Founding
-description: '"[[Celeste Krystof]], [[Archmage Igorim Ovras]] and [[Yosif Halstrom]] founds the [[Saxum Sovereignty Overview|Saxum Sovereignty]]"'
+description: '"[[Celeste Krystof]], [[Archmage Heinrich Bodenheimer]] and [[Yosif Halstrom]] founds the [[Saxum Sovereignty Overview|Saxum Sovereignty]]"'
 ---
 [[Timeline]]

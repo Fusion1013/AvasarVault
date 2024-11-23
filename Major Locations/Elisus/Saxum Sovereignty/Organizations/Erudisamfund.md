@@ -13,7 +13,7 @@ dv.span(p.description)
 ## History
 The Erudi were originally founded in [[1254 APC - Erudi Founding|1254APC]] by [[Archmage Perenelle Valtoria]] with the goal to research the properties of minerals found in the mines below [[Fjellfot, City of Rock]]. It was later expanded into the Erudisamfund, an organization with the goal to oversee other research organizations within the nation and collect the information they gather.
 ## Notable Members
-The Erudi are currently lead by one of the [[The Saxum Triumvirate|Triumvirate]] members, [[Ezorah von Abendroth]].
+The Erudi are currently lead by one of the [[The Saxum Triumvirate|Triumvirate]] members, [[Renate von Abendroth]].
 ## Child Organizations
 ```dataview
 TABLE
