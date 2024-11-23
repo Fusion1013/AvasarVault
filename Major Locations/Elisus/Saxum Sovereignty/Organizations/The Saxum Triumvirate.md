@@ -2,7 +2,7 @@
 tags:
   - organization/major
 nation: Saxum Sovereignty
-description: The Saxum Triumvirate is composed of three powerful mages who rule over the Saxum Sovereignty from within the Myriad, located in the capital of [[Gulstad, City of Gold|Gulstad]]. They are [[Archmage Heinrich Bodenheimer|Heinrich Bodenheimer]], [[Master Leo Umbras]], and [[Renate von Abendroth]]. As the ruling body of the nation, they hold ultimate power over all aspects of governance and policy, though they are advised by a council of 13 representatives from different regions of the country. The Triumvirate is known for their formidable magical abilities and their unwavering commitment to Saxum and its prosperity.
+description: The Saxum Triumvirate is composed of three powerful mages who rule over the Saxum Sovereignty from within the Myriad, located in the capital of [[Gulstad, City of Gold|Gulstad]]. They are [[Archmage Heinrich Bodenheimer|Heinrich Bodenheimer]], [[Master Leopold Krauszer]], and [[Renate von Abendroth]]. As the ruling body of the nation, they hold ultimate power over all aspects of governance and policy, though they are advised by a council of 13 representatives from different regions of the country. The Triumvirate is known for their formidable magical abilities and their unwavering commitment to Saxum and its prosperity.
 ---
 
 *"Through our leadership, Saxum will thrive and endure"*
