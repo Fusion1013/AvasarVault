@@ -1,7 +1,7 @@
 ---
 tags:
-- month
-god: "[[Saheir, Goddess of Arcana]]"
+  - month
+god: "[[Saheir, the Enchantress]]"
 order: 1
 ---
 [[Calendar Overview]]

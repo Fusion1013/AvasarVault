@@ -4,7 +4,7 @@ tags:
 todo:
   - Populate
 celestial_body: "[[Cosmology Overview#Logomon (Order)|Logomon]]"
-attuned_god: "[[Vuzen, God of Order]]"
+attuned_god: "[[Vuzen, the Law Baron]]"
 draft: true
 ---
 *"QUOTE"*

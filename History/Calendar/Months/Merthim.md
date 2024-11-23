@@ -1,7 +1,7 @@
 ---
 tags:
-- month
-god: "[[Merstur, Weather and Seas]]"
+  - month
+god: "[[Merstur, the Unbroken Tide]]"
 order: 12
 ---
 [[Calendar Overview]]

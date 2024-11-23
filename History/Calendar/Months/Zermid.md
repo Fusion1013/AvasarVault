@@ -1,7 +1,7 @@
 ---
 tags:
-- month
-god: "[[Midar, Deity of Chaos]]"
+  - month
+god: "[[Midar, the Unshackled]]"
 order: 8
 ---
 [[Calendar Overview]]

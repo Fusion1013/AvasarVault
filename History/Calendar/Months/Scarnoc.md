@@ -1,7 +1,7 @@
 ---
 tags:
-- month
-god: "[[Ogrun, God of War]]"
+  - month
+god: "[[Ogrun, the Scarlet Champion]]"
 order: 3
 ---
 [[Calendar Overview]]

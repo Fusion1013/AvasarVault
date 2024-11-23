@@ -5,7 +5,7 @@ todo:
   - Populate
   - Link to [[Thalassa, the Abyssal Maw]]
 celestial_body: "[[Cosmology Overview#Tem (Weather & Seas)|Tem]]"
-attuned_god: "[[Merstur, Weather and Seas]]"
+attuned_god: "[[Merstur, the Unbroken Tide]]"
 draft: true
 ---
 *"QUOTE"*

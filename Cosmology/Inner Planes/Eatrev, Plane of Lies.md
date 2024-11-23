@@ -4,7 +4,7 @@ tags:
 todo:
   - Populate
 celestial_body: "[[Cosmology Overview#Xarev (Lies)|Xarev]]"
-attuned_god: "[[Isoroa, Lies]]"
+attuned_god: "[[Isoroa, the Shadowed Mask]]"
 draft: true
 ---
 *"QUOTE"*

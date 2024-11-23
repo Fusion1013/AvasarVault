@@ -4,7 +4,7 @@ tags:
 todo:
   - Populate
 celestial_body: "[[Cosmology Overview#Stryka (War)|Stryka]]"
-attuned_god: "[[Ogrun, God of War]]"
+attuned_god: "[[Ogrun, the Scarlet Champion]]"
 draft: true
 ---
 *"QUOTE"*
