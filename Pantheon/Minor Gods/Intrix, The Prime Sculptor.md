@@ -20,3 +20,6 @@ Intrix is the divine embodiment of creativity, artistry, and craftsmanship. They
 # Symbology
 
 # Worship
+
+
+A painter mixing pigments, a smith forging a blade, or a poet writing verses might whisper prayers to Intrix as they work, seeking guidance and thanking the god for their inspiration.
