@@ -12,7 +12,7 @@ tags:
 ## History
 The Turochan Kingdom is a nation that was founded after a catastrophic event that changed the continent forever. The kingdom's history dates back to the 1100’s APC, when Taundor, an island ruled by a cabal of power-hungry mages, started a great war with their neighbors. Their obsession with arcane magic caused much suffering, and their neighbors were not willing to tolerate it.
 
-This devastating war angered the [[Irellia, Mistress of the Tranquil Lake|Goddess of Peace, Irellia]]. During a rare event known as a [[Planes, Gods & Lunar Phases#Lunar Eclipses|Shattered Eclipse]] in 1167 APC, she grabbed the island and smashed it into the nearest continent. The cataclysmic event caused massive destruction and loss of life. The people who survived were left traumatized and bitter towards both arcane and divine magic, as they saw firsthand how it ruined their land.
+This devastating war angered the [[Irellia, Mistress of the Tranquil Lake|Goddess of Peace, Irellia]]. During a rare event known as a [[Planes, Gods & Lunar Phases#Lunar Eclipses|Shattered Eclipse]] in [[1167APC - Taundor Cataclysm|1167 APC]], she grabbed the island and smashed it into the nearest continent. The cataclysmic event caused massive destruction and loss of life. The people who survived were left traumatized and bitter towards both arcane and divine magic, as they saw first-hand how it ruined their land.
 
 In the aftermath of the war and the Eclipse, a man named Turot emerged as a leader and formed the Turochan Kingdom in 1169 APC. The kingdom was founded on the principles of disallowing all forms of magic within their borders and keeping good relations with their neighbors.
 
