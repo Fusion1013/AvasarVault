@@ -21,4 +21,4 @@ One of the minor [[Pantheon Overview|Gods]], attuned to [[Stratosia, Plane of Wa
 # Symbology
 
 # Worship
-A lot of followers to the God of War are soldiers. Most temples contain some sort of arena, with organized combat events where challengers can fight for honor and glory. Many temples have a hierarchy of priests where rites of combat often decide the ranks.cu
+A lot of followers to the God of War are soldiers. Most temples contain some sort of arena, with organized combat events where challengers can fight for honor and glory. Many temples have a hierarchy of priests where rites of combat often decide the ranks.
