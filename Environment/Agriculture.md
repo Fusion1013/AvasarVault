@@ -7,7 +7,7 @@ editors:
 draft: true
 ---
 # Introduction
-Due to the long year, agriculture on Avasar has had to adopt to the harsh environments. While long summers create ample opportunities for growing crops, the harsh and long winters can cause severe famine if not prepared for properly.
+Due to the long year, agriculture on Avasar has had to adapt to the harsh environments. While long summers create ample opportunities for growing crops, the harsh and long winters can cause severe famine if not prepared for properly.
 
 Different areas have developed different methods for coping with these environmental challenges. For area specific solutions to these issues, refer to the [[Agriculture#Regions|Regions]] section below.
 # Evolution of Crops & Plants
@@ -29,7 +29,7 @@ Since many plants store water internally for winter, irrigation during the summe
 
 Depending on the season, farmers might grow two different types of crops; long-season crops that dominate during the summer, and cold-tolerant, fast-growing crops like hardy greens that can thrive in early spring or late autumn before the frost sets in.
 # Regions
-Regions are listed by climate type, not by geographical region. Each nation should specify what climate they have for easy lookup below.
+Regions are listed by climate type, not by geographical region. Each nation should specify what climate they have for an easy lookup below.
 ## Temperate Zones
 **Moderate Winters and Long Summers**
 
@@ -41,9 +41,10 @@ A lot of hardy perennials are used, like winter-resistant root crops, shrubs, or
 ## Tropical or Equatorial Zones
 **Milder Seasons**
 
+Farmers focus on growing plants with minimal dormancy periods, and continuous crop production. They use agroforestry systems combining perennial crops with annuals to make use of extended growing seasons. They rely heavily on year-round irrigation and different pest management strategies.
 ## Mountainous Regions
-
+Due to the difficult ground conditions, farmers use a lot of terrace farming with specialized cold-resistant crops like grains, pulses, or berries. They try to make use of natural thermal gradients to grow plants at different elevations and use snow-melt for irrigation.
 ## Desert-Like Zones
 **High Heat and Harsh Winters**
-# Hardiness Zones
-![[Hardiness_zone.pdf]]
+
+Focus on drought- and frost-resistant plants with extensive root systems. High focus on rainwater harvesting, underground cisterns for irrigation, and strategic planting to shield crops from harsh winds.
