@@ -10,8 +10,7 @@ essence:
   - Cleverness
 todo:
   - Populate sections for domain, symbology and worship
-plane:
-  - "[[Eatrev, Plane of Lies]]"
+plane: "[[Eatrev, Plane of Lies]]"
 draft: true
 ---
 # Overview

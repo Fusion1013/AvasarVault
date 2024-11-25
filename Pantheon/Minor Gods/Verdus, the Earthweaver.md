@@ -10,8 +10,7 @@ essence:
   - Growth
 todo:
   - Populate sections for domain and symbology
-plane:
-  - "[[Feralia]]"
+plane: "[[Feralia]]"
 draft: true
 ---
 # Overview

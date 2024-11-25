@@ -11,8 +11,7 @@ essence:
   - Peace
 todo:
   - Populate sections for domain, symbology and worship
-plane:
-  - "[[Kalament, Plane of Peace]]"
+plane: "[[Kalament, Plane of Peace]]"
 draft: true
 ---
 # Overview
