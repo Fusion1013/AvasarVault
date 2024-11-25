@@ -21,12 +21,29 @@ Other plants that do not need to survive through the winter instead drop their s
 
 A lot of trees and other similar plants have evolved tough, resinous bark or thick outer layers that serve as insulation during the winter. These layers can also be used to deter winter herbivores that might otherwise rely on dormant plants for sustenance.
 # Agricultural Developments
-A lot of agricultural developments are area specific, which is detailed in the [[Agriculture#Regions|Regions]] section. This section will give a general overview to how agriculture has adapted to the environment of Avasar.
+A lot of agricultural developments are area specific, which is detailed in the [[Agriculture#Regions|Regions]] section. This section will give a general overview to how agriculture has adapted to the environment of Avasar, and general techniques used to exploit different plants.
 
+A lot of farmers rely heavily on long-season crops and perennial plants capable of overwintering. Some farmers have resorted to selective breeding or magically engineering crops, focusing on enhancing water storage organ size, antifreeze properties, or rapid regrowth capacity after dormancy. They have also developed various techniques for safely storing seeds, either in natural ice caves or artificially controlled environments.
 
+Since many plants store water internally for winter, irrigation during the summer growing season is crucial to ensure plants can build up reserves. Soil enrichment techniques, like biochar or composting, is also used to enhance nutrient storage for plants during dormancy. Different ways of sheltering growing plants during the winter might be used. In harsher regions, this might involve constructing thermal shelters or insulated greenhouses. These shelters might house perennials that remain semi-dormant but need additional warmth to survive, or they might be fully climate controlled, allowing for the growing of plants as if it were summer conditions. Hydroponics or aquaponic systems might also be used, where plants are grown in nutrient solutions. Waste heat from geothermal or other energy sources could provide additional warmth during winter.
+
+Depending on the season, farmers might grow two different types of crops; long-season crops that dominate during the summer, and cold-tolerant, fast-growing crops like hardy greens that can thrive in early spring or late autumn before the frost sets in.
 # Regions
-## Elisus
-## Separi
-## Belleros
+Regions are listed by climate type, not by geographical region. Each nation should specify what climate they have for easy lookup below.
+## Temperate Zones
+**Moderate Winters and Long Summers**
+
+Farmers focus on long-season crops like grain, legumes, and oilseeds. They utilize extensive field agriculture with crop rotation and the integration of cover crops to protect the soil during winter dormancy.
+## Arctic-Like Zones
+**Extreme Winters**
+
+A lot of hardy perennials are used, like winter-resistant root crops, shrubs, or trees. Farmers utilize a lot of snow-insulated farming, heated greenhouses, or underground farming. Mushroom farming is also common.
+## Tropical or Equatorial Zones
+**Milder Seasons**
+
+## Mountainous Regions
+
+## Desert-Like Zones
+**High Heat and Harsh Winters**
 # Hardiness Zones
 ![[Hardiness_zone.pdf]]
