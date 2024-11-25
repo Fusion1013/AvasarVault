@@ -25,11 +25,19 @@ A lot of agricultural developments are area specific, which is detailed in the [
 
 A lot of farmers rely heavily on long-season crops and perennial plants capable of overwintering. Some farmers have resorted to selective breeding or magically engineering crops, focusing on enhancing water storage organ size, antifreeze properties, or rapid regrowth capacity after dormancy. They have also developed various techniques for safely storing seeds, either in natural ice caves or artificially controlled environments.
 
-Since many plants store water internally for winter, irrigation during the summer growing season is crucial to ensure plants can build up reserves. Soil enrichment techniques, like biochar or composting, is also used to enhance nutrient storage for plants during dormancy. Different ways of sheltering growing plants during the winter might be used. In harsher regions, this might involve constructing thermal shelters or insulated greenhouses. These shelters might house perennials that remain semi-dormant but need additional warmth to survive, or they might be fully climate controlled, allowing for the growing of plants as if it were summer conditions. Hydroponics or aquaponic systems might also be used, where plants are grown in nutrient solutions. Waste heat from geothermal or other energy sources could provide additional warmth during winter.
+Since many plants store water internally for winter, irrigation during the summer growing season is crucial to ensure plants can build up reserves. Soil enrichment techniques, like biochar or composting, is also used to enhance nutrient storage for plants during dormancy.
 
 Depending on the season, farmers might grow two different types of crops; long-season crops that dominate during the summer, and cold-tolerant, fast-growing crops like hardy greens that can thrive in early spring or late autumn before the frost sets in.
+## Crop Sheltering
+Different ways of sheltering growing plants during the winter might be used. In harsher regions, this might involve constructing thermal shelters or insulated greenhouses. These shelters might house perennials that remain semi-dormant but need additional warmth to survive, or they might be fully climate controlled, allowing for the growing of plants as if it were summer conditions. This causes other issues however, with difficulties using fertilizer that combined with the sun might burn and kill the plants. Increased pest control and ventilation would also be needed.
+
+[Hydroponics](https://en.wikipedia.org/wiki/Hydroponics) or aquaponic systems might also be used, where plants are grown in nutrient solutions. Waste heat from geothermal or other energy sources could provide additional warmth during winter. Underground farming during off-seasons is also common, with for example mushrooms. Some nations have developed magical light sources that mimic the sun that c
+## Crop Surplus
+Due to long and prosperous farming seasons, nations might produce much more than they consume. Societies use large-scale storage solutions, like underground silos, to preserve surplus crops over the long winter months. Crops like grains, legumes, and tubers dominate due to their storability. Different crops have different methods of preservations, such as storing potatoes in sand, drying beans, or freezing peas.
+
+Crop surplus, regional variations in growing seasons, and climate have encouraged nations to set up robust trade networks. Farmers in temperate zones might trade stored food with equatorial zones that grow fresh produce year-round.
 # Regions
-Regions are listed by climate type, not by geographical region. Each nation should specify what climate they have for an easy lookup below.
+Regions are listed by climate type, not by geographical region. Each nation should specify what climate they have for an easy lookup below. Different regions have come up with different ways to tackle the challenges each environment present, and each have made their own innovations in agricultural technology.
 ## Temperate Zones
 **Moderate Winters and Long Summers**
 
