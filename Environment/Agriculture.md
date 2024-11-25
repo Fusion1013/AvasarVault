@@ -1,6 +1,4 @@
 ---
-todo:
-  - Populate using content from the [[Agriculture Design Document]]
 editors:
   - Fusion
   - Ruff
@@ -28,10 +26,12 @@ A lot of farmers rely heavily on long-season crops and perennial plants capable 
 Since many plants store water internally for winter, irrigation during the summer growing season is crucial to ensure plants can build up reserves. Soil enrichment techniques, like biochar or composting, is also used to enhance nutrient storage for plants during dormancy.
 
 Depending on the season, farmers might grow two different types of crops; long-season crops that dominate during the summer, and cold-tolerant, fast-growing crops like hardy greens that can thrive in early spring or late autumn before the frost sets in.
+
+Magic can also be used to aid in a lot of these areas, for example for irrigation, enhanced crop growth, or crop preservation.
 ## Crop Sheltering
 Different ways of sheltering growing plants during the winter might be used. In harsher regions, this might involve constructing thermal shelters or insulated greenhouses. These shelters might house perennials that remain semi-dormant but need additional warmth to survive, or they might be fully climate controlled, allowing for the growing of plants as if it were summer conditions. This causes other issues however, with difficulties using fertilizer that combined with the sun might burn and kill the plants. Increased pest control and ventilation would also be needed.
 
-[Hydroponics](https://en.wikipedia.org/wiki/Hydroponics) or aquaponic systems might also be used, where plants are grown in nutrient solutions. Waste heat from geothermal or other energy sources could provide additional warmth during winter. Underground farming during off-seasons is also common, with for example mushrooms. Some nations have developed magical light sources that mimic the sun that c
+[Hydroponics](https://en.wikipedia.org/wiki/Hydroponics) or aquaponic systems might also be used, where plants are grown in nutrient solutions. Waste heat from geothermal or other energy sources could provide additional warmth during winter. Underground farming during off-seasons is also common, with for example mushrooms. Some nations have developed magical light sources that mimic the sun that can be utilized for underground farming.
 ## Crop Surplus
 Due to long and prosperous farming seasons, nations might produce much more than they consume. Societies use large-scale storage solutions, like underground silos, to preserve surplus crops over the long winter months. Crops like grains, legumes, and tubers dominate due to their storability. Different crops have different methods of preservations, such as storing potatoes in sand, drying beans, or freezing peas.
 
