@@ -9,7 +9,8 @@ aliases:
   - Dawn Taiga
   - Boreal Woods
 ---
-*"Cold, unyielding"*
+*"The dawn rises eternal in the Aurora Ortus, yet it is a beauty edged with peril. To walk its frozen woods is to walk a tightrope between wonder and oblivion."
+— Vaeleth Frostweaver, arcanist of the Frigid Veil*
 
 **Attuned God:** [[Saheir, the Enchantress]]
 
@@ -32,6 +33,9 @@ For all its beauty, it is not without dangers. The ruthless cold threatens to tu
 ## Starfall
 The Starfall is a rare phenomenon that occurs within the Ortus. It is a special Meteor Shower that holds divine power. Creatures witnessing the event might feel themselves inspired, or suddenly imparted with a new wisdom.
 ## Crystal Forest
+*"The trees of the Crystal Forest are not silent—they are thinking, watching, dreaming. One cannot step among them without feeling the weight of ancient, alien minds."
+— Talin Varsh, psionic scholar*
+
 The Crystal Forest, also known as the mind forest, seems like a relatively normal forest from above, but once you get a closer look, it becomes apparent that each of the trees and much of the other larger plant life grow out of large crystals known as mind stones. These crystals work as psionic batteries that can create unpredictable effects.
 
 One of the consequences of these stones is that the trees that grow out of them can form a consciousness for as long as the crystals remain. Such trees are often called mind trees. These trees do not speak but can communicate through telepathy, creating quite a literal living forest. The animals within the forest are not granted sentience by the crystals, though they often express minor feats of psionics, such as limited telekinesis.
