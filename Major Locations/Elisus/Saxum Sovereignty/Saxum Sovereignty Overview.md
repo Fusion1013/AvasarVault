@@ -1,12 +1,11 @@
 ---
-alias: 
-- Saxum Sovereignty
-- Saxum
+aliases:
+  - Saxum Sovereignty
+  - Saxum
 tags:
-- nation
-
-todo: Flesh out the organizations section
-editors: Fusion
+  - nation
+editors:
+  - Fusion
 ---
 *"Leave those shattered plains behind"*
 
@@ -26,9 +25,9 @@ There are only four major cities in Saxum.
 | File                                                                                                  | Description                                                                                                                                                                  |
 | ----------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [[Major Locations/Elisus/Saxum Sovereignty/Cities/Odverg, City of Metal.md\|Odverg, City of Metal]]   | A city high up in the mountains, formed around a rift to the plane of Tenebris. This is the nation's main source of rare metals.                                             |
-| [[Major Locations/Elisus/Saxum Sovereignty/Cities/Havdal, City of Pearls.md\|Havdal, City of Pearls]] | \-                                                                                                                                                                           |
 | [[Major Locations/Elisus/Saxum Sovereignty/Cities/Fjellfot, City of Rock.md\|Fjellfot, City of Rock]] | A small city nestled between the Fracrish Mountains, guarding the pass from the Saxum Sovereignty to the Turochan Kingdom.                                                   |
 | [[Major Locations/Elisus/Saxum Sovereignty/Cities/Gulstad, City of Gold.md\|Gulstad, City of Gold]]   | Gulstad is the capital of the Saxum Sovereignty. It is the center of the metal trade. It is home to a number of successful trading organizations, such as Skywing Transport. |
+| [[Major Locations/Elisus/Saxum Sovereignty/Cities/Havdal, City of Pearls.md\|Havdal, City of Pearls]] | \-                                                                                                                                                                           |
 <!-- SerializedQuery END -->
 # Major People
 <!-- QueryToSerialize: TABLE description AS "Description", race AS "Race", (age + " years") AS "Age" FROM #major_person AND #saxum_sovereignty AND #alive -->
@@ -90,8 +89,8 @@ The backs of the coins feature the symbol of the [[Irellia, Mistress of the Tran
 | [[1263 APC - The Environmental Protection Accord]] `ris:Book2` | Driven by [[Archmage Perenelle Valtoria]]'s commitment to safeguarding nature, this accord imposed strict regulations on industrial practices and resource extraction to mitigate environmental harm. It aimed to balance technological progress with ecological preservation, ensuring the responsible use of the nation's natural resources.                                  |
 | [[1260 APC - Darianne Valtoria joins the Triumvirate]]         | "[[Archmage Darianne Valtoria]] replaces [[Ezriel Ravenna]] on [[The Saxum Triumvirate]]"                                                                                                                                                                                                                                                                                       |
 | [[1259 APC - Ezriel Ravenna expelled from the Triumvirate]]    | [[Ezriel Ravenna]] is expelled from [[The Saxum Triumvirate]] after attempting to overthrow it                                                                                                                                                                                                                                                                                  |
-| [[1254 APC - The Erudi Charter]] `ris:Book2`                   | [[Archmage Perenelle Valtoria]]'s brainchild, the [[Erudisamfund]], was established through this charter, granting the organization authority over research activities in [[Saxum Sovereignty Overview\|Saxum]]. It outlined the [[Erudisamfund\|Erudi]]'s role in fostering innovation, overseeing magical experiments, and maintaining ethical standards in magical research. |
 | [[1254 APC - Erudi Founding]]                                  | The [[Erudisamfund\|Erudi]] are founded by [[Archmage Perenelle Valtoria]] through [[1254 APC - The Erudi Charter\|The Erudi Charter]], with the goal of researching the properties of minerals found below [[Fjellfot, City of Rock]]                                                                                                                                          |
+| [[1254 APC - The Erudi Charter]] `ris:Book2`                   | [[Archmage Perenelle Valtoria]]'s brainchild, the [[Erudisamfund]], was established through this charter, granting the organization authority over research activities in [[Saxum Sovereignty Overview\|Saxum]]. It outlined the [[Erudisamfund\|Erudi]]'s role in fostering innovation, overseeing magical experiments, and maintaining ethical standards in magical research. |
 | [[1251 APC - Fjellfot Excavation Starts]]                      | Excavation near [[Fjellfot, City of Rock]] is started, leading to the construction of [[Fjellfot, City of Rock#Fjellgruve\|Fjellgruve]]                                                                                                                                                                                                                                         |
 | [[1241 APC - The Knowledge Preservation Edict]] `ris:Book2`    | This edict mandated the establishment of extensive archives and libraries throughout [[Saxum Sovereignty Overview\|Saxum]]. It required the safeguarding of historical texts, arcane scrolls, and invaluable research, making knowledge accessible to all citizens.                                                                                                             |
 | [[1239 APC - Yosif Halstrom leaves the Triumvirate]]           | [[Yosif Halstrom]] leaves [[The Saxum Triumvirate]] after passing away                                                                                                                                                                                                                                                                                                          |
@@ -102,6 +101,7 @@ The backs of the coins feature the symbol of the [[Irellia, Mistress of the Tran
 | [[1217 APC - Celeste Krystof leaves the Triumvirate]]          | [[Celeste Krystof]] leaves [[The Saxum Triumvirate]] after passing away                                                                                                                                                                                                                                                                                                         |
 | [[1213 APC - Fjellfot Founding]] `far:Flag`                    | [[Fjellfot, City of Rock]] is officially made a city                                                                                                                                                                                                                                                                                                                            |
 | [[1197 APC - Fjellfot Fortress Construction]]                  | A small fortress is constructed to protect the pass through the [[Fracrish Mountains]]. This would later go on to become [[Fjellfot, City of Rock]]                                                                                                                                                                                                                             |
+| [[1186 APC - Havdal Founding]]                                 |                                                                                                                                                                                                                                                                                                                                                                                 |
 | [[1185 APC - Saxum Sovereignty Founding]] `ris:Flag`           | "[[Celeste Krystof]], [[Archmage Heinrich Bodenheimer]] and [[Yosif Halstrom]] founds the [[Saxum Sovereignty Overview\|Saxum Sovereignty]]"                                                                                                                                                                                                                                    |
 | [[1181 APC - Gulstad Founding]] `far:Flag`                     | [[Gulstad, City of Gold]] is founded                                                                                                                                                                                                                                                                                                                                            |
 <!-- SerializedQuery END -->
