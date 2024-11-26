@@ -2,7 +2,7 @@
 tags:
   - organization/major
 nation: Saxum Sovereignty
-description: The Saxum Triumvirate is composed of three powerful mages who rule over the Saxum Sovereignty from within the Myriad, located in the capital of [[Gulstad, City of Gold|Gulstad]]. They are [[Archmage Heinrich Bodenheimer|Heinrich Bodenheimer]], [[Master Leopold Krauszer]], and [[Renate von Abendroth]]. As the ruling body of the nation, they hold ultimate power over all aspects of governance and policy, though they are advised by a council of 13 representatives from different regions of the country. The Triumvirate is known for their formidable magical abilities and their unwavering commitment to Saxum and its prosperity.
+description: The Saxum Triumvirate is composed of three powerful mages who rule over the Saxum Sovereignty from within the Tower, located in the capital of [[Gulstad, City of Gold|Gulstad]]. They are [[Archmage Heinrich Bodenheimer|Heinrich Bodenheimer]], [[Master Leopold Krauszer]], and [[Renate von Abendroth]]. As the ruling body of the nation, they hold ultimate power over all aspects of governance and policy, though they are advised by a council of 13 representatives from different regions of the country. The Triumvirate is known for their formidable magical abilities and their unwavering commitment to Saxum and its prosperity.
 ---
 
 *"Through our leadership, Saxum will thrive and endure"*
@@ -34,7 +34,7 @@ choice(contains(file.etags, "#alive"), "Alive", "Dead") AS "Status"
 FROM #major_person AND #saxum_triumvirate AND #saxum_triumvirate_current_member 
 ```
 ## The Council
-The Council of the [[Saxum Sovereignty Overview|Saxum Sovereignty]] is made up of thirteen representatives, each chosen by their respective regions. They serve as advisers to the Saxum Triumvirate, providing counsel and offering insight into the needs and concerns of their constituents. The council meets regularly within the [[Gulstad, City of Gold#The Myriad|Myriad]], discussing matters of policy, law, and governance, and voting on matters that require their collective approval.
+The Council of the [[Saxum Sovereignty Overview|Saxum Sovereignty]] is made up of thirteen representatives, each chosen by their respective regions. They serve as advisers to the Saxum Triumvirate, providing counsel and offering insight into the needs and concerns of their constituents. The council meets regularly within the [[Gulstad, City of Gold#The Tower|Tower]], discussing matters of policy, law, and governance, and voting on matters that require their collective approval.
 
 Each member of the council is expected to represent the interests of their region and its people, but they must also work together for the good of the entire nation. The council members are respected leaders within their communities, known for their wisdom, experience, and dedication to the betterment of the [[Saxum Sovereignty Overview|Saxum Sovereignty]].
 ### Council Members

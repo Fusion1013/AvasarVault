@@ -14,7 +14,7 @@ dv.span(p.description)
 ```
 ## Locations
 ### Headquarters
-The headquarters of the Skywing Transport is located within the upper section of the Myriad, in the city of Gulstad.
+The headquarters of the Skywing Transport is located within the upper section of the Tower, in the city of Gulstad.
 ### The Holy Kingdom of Maulik
 The construction of the Maulik office has been an important acquisition for Skywing Transport. They have allowed them to branch out, facilitating transport all the way down to the So’Dar empire. The condition for this however, is that Maulik extracts a hefty tax on any transportation that happens between their office and the one in So’Dar.
 ### Turochan Office

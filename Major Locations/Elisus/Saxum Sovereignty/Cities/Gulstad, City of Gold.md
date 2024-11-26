@@ -28,14 +28,10 @@ The city holds a circular shape, with three layers of ringed walls protecting th
 # History
 Gulstad was [[1181 APC - Gulstad Founding|founded in 1181 APC]]. It was the first city within Saxum and later became the official capital of the nation. It was founded as the first safe haven for practitioners of magic that were seeking to escape the [[Turochan Kingdom Overview|Turochan Kingdom]].
 # Landmarks
-## The Myriad
-The Myriad refers to the large, central spire that stretches above and below the city. It forms the main parts of the city.
-### Hidden City
-The Myriad does not just tower above the surrounding landscape. The spire extends even further down below ground. Stretching into subterranean tunnels that form a vast underground network. This lower district is where most common folk in the city live. This lower part of the city is known as the [[Gulstad, City of Gold#The Twilight District|Twilight District]].
-### Crystal Chamber
-At the top of the spire is a small-ish circular chamber. It is brightly lit at all times due to the window in the ceiling, exposing the chamber to the light of the crystal hovering above. Three pillars hold up the roof of this chamber, all marked with different colored glowing glyphs. The middle of the chamber rises slightly, with a few steps leading up to the tall pedestal placed in the middle of the room.
-
-Hovering a few centimeters above the pedestal is an identical, but smaller, crystal to the massive one hovering above the tower. The pedestal symbolizes The Myriad, and manipulating the small crystal will mirror the effects on the larger one. A large machine has been constructed around the small crystal in order to protect it. Four thick pillars hold up spinning metal discs that generate a sort of force field around the crystal. There is a small interface at the base of one of the pillars, with a number of levers and buttons. These controls are used to activate [[Gulstad, City of Gold#The Everstar|The Everstar]].
+## The Tower
+The Tower refers to the large, central spire that stretches above and below the city. It forms the main parts of the city.
+### Underground City
+The Tower does not just tower above the surrounding landscape. The spire extends even further down below ground. Stretching into subterranean tunnels that form a vast underground network. This lower district is where most common folk in the city live. This lower part of the city is known as the [[Gulstad, City of Gold#The Twilight District|Twilight District]].
 ## The Twilight District
 *"Welcome to the playground"*
 
@@ -62,14 +58,14 @@ The city guards can be recognized by their black plate mail, with high rank bein
 At the top of the city are the massive searchlights that aid the city during times of battle. They were massively helpful during the [[1276 APC - Invasion of Saxum]] in helping locate air threats and subsequently shooting them down with the arcane cannons positioned at the top of the tower.
 # Organizations
 ## The Saxum Triumvirate
-[[The Saxum Triumvirate]] is composed of three powerful mages who rule over the Saxum Sovereignty from within the Myriad. They are [[Archmage Heinrich Bodenheimer]], [[Master Leopold Krauszer]], and [[Renate von Abendroth]]. As the ruling body of the nation, they hold ultimate power over all aspects of governance and policy, though they are advised by a council of 13 representatives from different regions of the country. [[The Saxum Triumvirate|The Triumvirate]] is known for their formidable magical abilities and their unwavering commitment to Saxum and its prosperity.
+[[The Saxum Triumvirate]] is composed of three powerful mages who rule over the Saxum Sovereignty from within the tower. They are [[Archmage Heinrich Bodenheimer]], [[Master Leopold Krauszer]], and [[Renate von Abendroth]]. As the ruling body of the nation, they hold ultimate power over all aspects of governance and policy, though they are advised by a council of 13 representatives from different regions of the country. [[The Saxum Triumvirate|The Triumvirate]] is known for their formidable magical abilities and their unwavering commitment to Saxum and its prosperity.
 ## Skywing Transport
 *"Trust your cargo to the strength of our dragons"*
 
 Skywing Transport was created to be a solution to the difficult problem of transporting goods across the [[Dragonback Mountains]]. Since dragons are intelligent creatures they do not need riders, though they sometimes take passengers through the use of specially constructed carrier vessels.
 # Major People
 ## Archmage Heinrich Bodenheimer
-Male elf, around 500 years old. Archmage Heinrich Bodenheimer is one of the original founders of [[The Saxum Triumvirate|The Triumvirate]], and is regarded as one of the most powerful mages in the history of the Saxum Sovereignty. As one of the founding members of [[The Saxum Triumvirate|The Triumvirate]], Bodenheimer was instrumental in shaping the early years of the nation. He now oversees a lot of the magical research that is being conducted at the bottom of the [[Gulstad, City of Gold#The Myriad|Myriad]].
+Male elf, around 500 years old. Archmage Heinrich Bodenheimer is one of the original founders of [[The Saxum Triumvirate|The Triumvirate]], and is regarded as one of the most powerful mages in the history of the Saxum Sovereignty. As one of the founding members of [[The Saxum Triumvirate|The Triumvirate]], Bodenheimer was instrumental in shaping the early years of the nation. He now oversees a lot of the magical research that is being conducted at the bottom of the [[Gulstad, City of Gold#The Tower|Tower]].
 ## Master Leopold Krauszer
 Human male in his late 60’s. A skilled mage who joined [[The Saxum Triumvirate|The Triumvirate]] around 25 years ago, Master Leopold Krauszer is known for his expertise in illusion magic and his sharp wit. He serves as the Triumvirate’s chief advisor on matters of foreign policy and diplomacy.
 ## Renate von Abendroth
