@@ -2,13 +2,14 @@
 tags:
   - city
 nation: Saxum
+draft: true
 ---
 *Havdal rises like a jewel upon the waves, but every gem has its flaws. Look closely, and you'll see the cracks left by war, the scars of an unbroken city, and the people who refuse to bow to the tides.
 — Bryndara Othvik, Ohkyrian scholar
 
 **Population:** 83.790 (29% humans, 15% dwarves, 12% halflings, 44% other races)
 
-**Government:** The city is governed by the most powerful of the local merchant guilds, known as the **INSERT MERCHANT GUILD NAME**
+**Government:** The city is governed by the most powerful of the local merchant guilds, known as the Saltbound Consortium
 
 **Defense:** Heavily defended both from the sea and land.
 
@@ -51,7 +52,7 @@ Specialized vessels packed with alchemical fire. Used as suicide ships to ram an
 ### Merchant Escorts
 Lighter warships designed to protect the city's vital trade routes. Usually armed with small cannons to deter pirates or smaller enemy fleets. Designed for high speeds and manoeuvrability.
 ## Outer Seawall
-The seawall is a massive structure of stone and iron, stretching in a crescent shape around the harbor. Its outer surface is lined with boulders to absorb the force of waves and discourage ramming ships, while the top if flat and wide, serving as a platform for soldiers and siege weaponry. Rising some 12 feet above the surface of the waterline and extending 20 feet below, the wall is designed to deter even the largest of enemy ships. It is reinforced with layers of iron plating to resist enemy cannon fire.
+The seawall is a massive structure of stone and iron, stretching in a crescent shape around the harbor. Its outer surface is lined with boulders to absorb the force of waves and discourage ramming ships, while the top is flat and wide, serving as a platform for soldiers and siege weaponry. Rising some 12 feet above the surface of the waterline and extending 20 feet below, the wall is designed to deter even the largest of enemy ships. It is reinforced with layers of iron plating to resist enemy cannon fire.
 
 At regular intervals along the seawall, **defensive towers** rise another 30 feet. Each tower is equipped with ballistae for firing massive bolts capable of piercing the hulls of enemy ships. Some towers are also equipped with catapults, capable of launching fiery projectiles or heavy stones at approaching vessels.
 # Organizations
@@ -62,4 +63,4 @@ The organization responsible for maintaining order in Havdal's bustling harbor a
 
 Their base of operations is a tower overlooking the harbor, adorned with massive iron anchors from old ships. Their officers carry a distinctive badge shaped like a ship's wheel.
 ## The Saltbound Consortium
-The largest merchant organization in the city. They control much of the trade flowing in and out of Hadal. Its members are consist of wealthy traders, shipbuilders, and influential dockmasters. While their primary goal is profit, they also play a significant role in the city's politics and infrastructure development.
+The largest merchant organization in the city. They control much of the trade flowing in and out of Hadal. Its members consist of wealthy traders, shipbuilders, and influential dockmasters. While their primary goal is profit, they also play a significant role in the city's politics and infrastructure development.
