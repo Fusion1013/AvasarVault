@@ -3,6 +3,18 @@ tags:
   - city
 nation: Saxum
 ---
+*Havdal rises like a jewel upon the waves, but every gem has its flaws. Look closely, and you'll see the cracks left by war, the scars of an unbroken city, and the people who refuse to bow to the tides.
+— Bryndara Othvik, Ohkyrian scholar
+
+**Population:** 83.790 (29% humans, 15% dwarves, 12% halflings, 44% other races)
+
+**Government:** The city is governed by the most powerful of the local merchant guilds, known as the **INSERT MERCHANT GUILD NAME**
+
+**Defense:** Heavily defended both from the sea and land.
+
+**Commerce:** Havdal is the center of maritime trade for this nation. It exports and imports large amounts of resources.
+
+**Organizations:** Multiple merchant guilds have their seat of power in the city.
 # Overview
 Havdal is the largest port city within the [[Saxum Sovereignty Overview|Saxum Sovereignty]], with its main exports being various crafted goods made from metal, as well as large amounts of food products.
 # History
@@ -16,7 +28,7 @@ The bustling heart of Havdal's harbor, filled with piers, warehouses, and trade 
 A towering lighthouse built on the easternmost tip of Havdal's coastline. It serves as a beacon for incoming ships, guiding them into port. The base of the spire was partially damaged during the invasion, with scorch marks and shattered stone. It also houses a museum in the basement, detailing Havdal's naval history and the Invasion of Saxum.
 ## The Ironworks Bazaar
 A sprawling market district at the heart of Havdal where crafted goods made of metal and gemstones are displayed and traded. Blacksmiths, jewelers, and artisans from all over Saxum showcase their intricate weapons, armor, jewelry, and tools. A massive statue of an ironclad ship on top of a fountain holds the center of the area.
-## The Steel Fleet Shipyard
+## The Iron Drakkar Shipyard
 This shipyard is responsible for producing merchant vessels and warships. Visitors can witness the construction process of massive, iron-plated warships from afar, though no outsiders are allowed inside the area.
 
 Just outside the area is a decommissioned battleship, The Unyielding Tide, docked. It is now used as a museum ship, its decks lined with displays of objects and relics from battles fought at sea.
@@ -25,7 +37,7 @@ This grand temple is dedicated to [[Merstur, the Unbroken Tide]], the god of the
 # Defenses
 Havdal's defensive network is a response to the devastation caused by the [[1276 APC - Invasion of Saxum|Invasion of Saxum in 1276 APC]]. These measures were taken to ensure the city's safety in the face of such an attack, with a focus on repelling future attacks from both sea and land. Below is a detailed account of its key defensive features.
 ## Warships
-Havdal's navy, known as the **Steel Fleet**, is a key part of the city's defense. These warships are designed for both speed and durability, capable of engaging enemy vessels far from the city or defending the harbor itself.
+Havdal's navy, known as the **Iron Drakkar**, is a key part of the city's defense. These warships are designed for both speed and durability, capable of engaging enemy vessels far from the city or defending the harbor itself.
 
 The fleet features a variety of different ship types, each designed with a specific goal in mind.
 ### Ironclads
@@ -37,11 +49,10 @@ Sleeker and faster than the Ironclads. Primarily used for scouting, quick attack
 ### Fire Ships
 Specialized vessels packed with alchemical fire. Used as suicide ships to ram and ignite the enemy ships. Deployed as a last resort to sow chaos during an invasion.
 ### Merchant Escorts
-Lighter warships designed to protect the city's vital trade routes. Usually armed with small cannons to deter pirates or smaller enemy fleets. Designed for 
+Lighter warships designed to protect the city's vital trade routes. Usually armed with small cannons to deter pirates or smaller enemy fleets. Designed for high speeds and manoeuvrability.
 ## Outer Seawall
 The seawall is a massive structure of stone and iron, stretching in a crescent shape around the harbor. Its outer surface is lined with boulders to absorb the force of waves and discourage ramming ships, while the top if flat and wide, serving as a platform for soldiers and siege weaponry. Rising some 12 feet above the surface of the waterline and extending 20 feet below, the wall is designed to deter even the largest of enemy ships. It is reinforced with layers of iron plating to resist enemy cannon fire.
 
 At regular intervals along the seawall, **defensive towers** rise another 30 feet. Each tower is equipped with ballistae for firing massive bolts capable of piercing the hulls of enemy ships. Some towers are also equipped with catapults, capable of launching fiery projectiles or heavy stones at approaching vessels.
 # Organizations
-
-# Major People
+## The Steelwr
