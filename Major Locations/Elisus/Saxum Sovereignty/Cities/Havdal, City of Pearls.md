@@ -15,7 +15,9 @@ A towering lighthouse built on the easternmost tip of Havdal's coastline. It ser
 ## The Ironworks Bazaar
 A sprawling market district at the heart of Havdal where crafted goods made of metal and gemstones are displayed and traded. Blacksmiths, jewelers, and artisans from all over Saxum showcase their intricate weapons, armor, jewelry, and tools. A massive statue of an ironclad ship on top of a fountain holds the center of the area.
 ## The Steel Fleet Shipyard
-This shipyard is responsible for producing merchant vessels and warships. Visitors can witness the construction process of massive, iron-plated warships from afar, though no  and a decommissioned battleship, The Unyielding Tide, 
+This shipyard is responsible for producing merchant vessels and warships. Visitors can witness the construction process of massive, iron-plated warships from afar, though no outsiders are allowed inside the area.
+
+Just outside the area is a decommissioned battleship, The Unyielding Tide, docked. It is now used as a museum ship, its decks lined with displays of objects and relics from battles fought at sea.
 # Defenses
 ## Warships
 ## Outer Seawall
