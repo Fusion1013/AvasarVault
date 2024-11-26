@@ -7,7 +7,11 @@ description:
 # Overview
 Havdal is the largest port city within the [[Saxum Sovereignty Overview|Saxum Sovereignty]].
 # History
+
 # Landmarks
+
 # Defenses
+
 # Organizations
+
 # Major People
