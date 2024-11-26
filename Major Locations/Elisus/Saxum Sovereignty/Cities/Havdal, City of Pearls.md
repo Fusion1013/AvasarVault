@@ -23,8 +23,25 @@ Just outside the area is a decommissioned battleship, The Unyielding Tide, docke
 ## Temple of Merstur
 This grand temple is dedicated to [[Merstur, the Unbroken Tide]], the god of the weather and seas. It serves as a place of worship for merchants and sailors, with an interior decorated with mosaics depicting the seas. Offerings of coins, crafted goods, and food are left here before major voyages.
 # Defenses
+Havdal's defensive network is a response to the devastation caused by the [[1276 APC - Invasion of Saxum|Invasion of Saxum in 1276 APC]]. These measures were taken to ensure the city's safety in the face of such an attack, with a focus on repelling future attacks from both sea and land. Below is a detailed account of its key defensive features.
 ## Warships
+Havdal's navy, known as the **Steel Fleet**, is a key part of the city's defense. These warships are designed for both speed and durability, capable of engaging enemy vessels far from the city or defending the harbor itself.
+
+The fleet features a variety of different ship types, each designed with a specific goal in mind.
+### Ironclads
+The pride of Havdal's navy. These heavily-armored ships are equipped with reinforced hulls and weaponry. They feature onboard ballistae and trebuchets for long distance attacks. Some of them even feature experimental arcane cannons, capable of higher fire-power, but longer recharge times.
+
+Due to their reinforced hull they are heavier than other ships, and therefor slower and much more difficult to manoeuvre.
+### Longships
+Sleeker and faster than the Ironclads. Primarily used for scouting, quick attacks, and transporting soldiers.
+### Fire Ships
+Specialized vessels packed with alchemical fire. Used as suicide ships to ram and ignite the enemy ships. Deployed as a last resort to sow chaos during an invasion.
+### Merchant Escorts
+Lighter warships designed to protect the city's vital trade routes. Usually armed with small cannons to deter pirates or smaller enemy fleets. Designed for 
 ## Outer Seawall
+The seawall is a massive structure of stone and iron, stretching in a crescent shape around the harbor. Its outer surface is lined with boulders to absorb the force of waves and discourage ramming ships, while the top if flat and wide, serving as a platform for soldiers and siege weaponry. Rising some 12 feet above the surface of the waterline and extending 20 feet below, the wall is designed to deter even the largest of enemy ships. It is reinforced with layers of iron plating to resist enemy cannon fire.
+
+At regular intervals along the seawall, **defensive towers** rise another 30 feet. Each tower is equipped with ballistae for firing massive bolts capable of piercing the hulls of enemy ships. Some towers are also equipped with catapults, capable of launching fiery projectiles or heavy stones at approaching vessels.
 # Organizations
 
 # Major People
