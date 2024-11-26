@@ -43,7 +43,7 @@ The fleet features a variety of different ship types, each designed with a speci
 ### Ironclads
 The pride of Havdal's navy. These heavily-armored ships are equipped with reinforced hulls and weaponry. They feature onboard ballistae and trebuchets for long distance attacks. Some of them even feature experimental arcane cannons, capable of higher fire-power, but longer recharge times.
 
-Due to their reinforced hull they are heavier than other ships, and therefor slower and much more difficult to manoeuvre.
+Due to their reinforced hull they are heavier than other ships, and therefore slower and much more difficult to manoeuvre.
 ### Longships
 Sleeker and faster than the Ironclads. Primarily used for scouting, quick attacks, and transporting soldiers.
 ### Fire Ships
@@ -55,4 +55,11 @@ The seawall is a massive structure of stone and iron, stretching in a crescent s
 
 At regular intervals along the seawall, **defensive towers** rise another 30 feet. Each tower is equipped with ballistae for firing massive bolts capable of piercing the hulls of enemy ships. Some towers are also equipped with catapults, capable of launching fiery projectiles or heavy stones at approaching vessels.
 # Organizations
-## The Steelwr
+## The Steelwright's Guild
+One of Havdal's oldest and most influential organizations. Consisting of blacksmiths, armorers, and artisans, the guild oversees the crafting of everything from delicate metal ornaments to the steel plating of the city's warships.
+## The Brotherhood of the Anchor
+The organization responsible for maintaining order in Havdal's bustling harbor and its waters. Acting as a mix of naval guard and privateer hunters. They ensure that trade flows smoothly and enforce maritime law.
+
+Their base of operations is a tower overlooking the harbor, adorned with massive iron anchors from old ships. Their officers carry a distinctive badge shaped like a ship's wheel.
+## The Saltbound Consortium
+The largest merchant organization in the city. They control much of the trade flowing in and out of Hadal. Its members are consist of wealthy traders, shipbuilders, and influential dockmasters. While their primary goal is profit, they also play a significant role in the city's politics and infrastructure development.
