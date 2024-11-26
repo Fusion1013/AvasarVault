@@ -26,12 +26,8 @@ editors:
 
 The city holds a circular shape, with three layers of ringed walls protecting the inner spire that make up the bulk upper part of the city. The entire city is not visible however, as a large portion of it extends far underground, through a series of large tunnels.
 # History
-Gulstad was [[1181 APC - Gulstad Founding|founded in 1181 APC]]. It was the first city within Saxum and later became the official capital of the nation. It was founded as the first safe haven for practitioners of magic that were seeking to escape the Turochan Kingdom.
+Gulstad was [[1181 APC - Gulstad Founding|founded in 1181 APC]]. It was the first city within Saxum and later became the official capital of the nation. It was founded as the first safe haven for practitioners of magic that were seeking to escape the [[Turochan Kingdom Overview|Turochan Kingdom]].
 # Landmarks
-## The Everstar
-Hovering above the city is a massive crystal, referred to by the locals as The Everstar, held aloft by arcane means. The machine that is holding the crystal in its position in the sky is located at the top of [[Gulstad, City of Gold#The Myriad|The Myriad]], within the [[Gulstad, City of Gold#Crystal Chamber|Crystal Chamber]]. The crystal emits a constant bright, yellow light, observed from afar as a distant star. It is said that this crystal keeps undead from breaching the city.
-
-The crystal has another purpose however. It was originally created as a final line of defense in the event of a hostile incursion. Upon activation a dark field would envelop the city for a second, before transporting the entire city to the vibrant plane. The city stays there until the device is activated again. However, the crystal has never been activated. While the arcane theory behind it is sound and has been tested to some extent, it has not been used on this scale before. Nobody knows what ramifications activating the crystal could have.
 ## The Myriad
 The Myriad refers to the large, central spire that stretches above and below the city. It forms the main parts of the city.
 ### Hidden City
@@ -62,6 +58,8 @@ There are three layers of ringed walls surrounding the city. There are eight sma
 Since most of the city is located underground it is well protected from airborne attacks. A significant amount of time has been spent trying to protect the [[Gulstad, City of Gold#The Twilight District|Twilight District]] from underground attacks, such as large worms or similar creatures. While the outermost tunnels have been reinforced with steel, they are still vulnerable to attacks by a persistent foe. To aid in the defenses of these tunnels, most of them have [[Shadow Lantern|Shadow Lanterns]] attached to the walls that can be activated either in sections or all at once by the guard captains.
 
 The city guards can be recognized by their black plate mail, with high rank being indicated by strips of gold filigree on their helmets. Most of the city guards have some knowledge of the arcane, but there are a few groups that specialize in different kinds of magic.
+
+At the top of the city are the massive searchlights that aid the city during times of battle. They were massively helpful during the [[1276 APC - Invasion of Saxum]] in helping locate air threats and subsequently shooting them down with the arcane cannons positioned at the top of the tower.
 # Organizations
 ## The Saxum Triumvirate
 [[The Saxum Triumvirate]] is composed of three powerful mages who rule over the Saxum Sovereignty from within the Myriad. They are [[Archmage Heinrich Bodenheimer]], [[Master Leopold Krauszer]], and [[Renate von Abendroth]]. As the ruling body of the nation, they hold ultimate power over all aspects of governance and policy, though they are advised by a council of 13 representatives from different regions of the country. [[The Saxum Triumvirate|The Triumvirate]] is known for their formidable magical abilities and their unwavering commitment to Saxum and its prosperity.
