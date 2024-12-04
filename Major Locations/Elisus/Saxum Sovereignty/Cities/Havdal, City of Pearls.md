@@ -19,6 +19,7 @@ description: Havdal is the largest port city within the [[Saxum Sovereignty Over
 **Organizations:** Multiple merchant guilds have their seat of power in the city.
 # Overview
 Havdal is the largest port city within the [[Saxum Sovereignty Overview|Saxum Sovereignty]], with its main exports being various crafted goods made from metal, as well as large amounts of food products.
+![[havdal.png]]
 # History
 Havdal was established in [[1186 APC - Havdal Founding|1186 APC]] and quickly grew into the most prominent port city in the nation. It became an important part of establishing the nation and promoting trade with other nearby regions, such as the [[Ohkyr Dominion Overview|Ohkyr Dominion]] and [[City-State of Drufali Overview|The City-State of Drufali]].
 ## Invasion of Saxum
