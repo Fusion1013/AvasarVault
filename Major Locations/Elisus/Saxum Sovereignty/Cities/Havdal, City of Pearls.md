@@ -30,7 +30,7 @@ The bustling heart of Havdal's harbor, filled with piers, warehouses, and trade 
 ## The Sentinel Spire
 A towering lighthouse built on the easternmost tip of Havdal's coastline. It serves as a beacon for incoming ships, guiding them into port. The base of the spire was partially damaged during the invasion, with scorch marks and shattered stone. It also houses a museum in the basement, detailing Havdal's naval history and the Invasion of Saxum.
 ## The Ironworks Bazaar
-A sprawling market district at the heart of Havdal where crafted goods made of metal and gemstones are displayed and traded. Blacksmiths, jewelers, and artisans from all over Saxum showcase their intricate weapons, armor, jewelry, and tools. A massive statue of an ironclad ship on top of a fountain holds the center of the area.
+A sprawling market district at the heart of Havdal where crafted goods made of metal and gemstones are displayed and traded. Blacksmiths, jewellers, and artisans from all over Saxum showcase their intricate weapons, armour, jewellery, and tools. A massive statue of an ironclad ship on top of a fountain holds the center of the area.
 ## The Iron Drakkar Shipyard
 This shipyard is responsible for producing merchant vessels and warships. Visitors can witness the construction process of massive, iron-plated warships from afar, though no outsiders are allowed inside the area.
 
