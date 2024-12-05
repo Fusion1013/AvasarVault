@@ -7,6 +7,7 @@ description:
 *"QUOTE"*
 ## Overview
 The town of Stenholt lies on the edge of the [[Morgenfryd Fields]], a vast grassland that stretches for miles, near the foot of the [[Dragonback Mountains]]. It is known for its famous [[Stenholt, Town of Iron#Iron Mine|Iron Mine]], which produces some of the finest iron ore in all of [[Saxum Sovereignty Overview|Saxum]]. The mine is the lifeblood of the town, providing employment for many of its residents.
+![[stenholt.png]]
 ## Landmarks
 ### Iron Mine
 The town is known for its iron mine, which produces some of the finest iron ore in all of Saxum. The mine is located about half a days travel away from the town, towards the mountains and through the nearby forest.
