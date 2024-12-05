@@ -10,4 +10,5 @@ Kvistrfjord is an isolated village nestled on the banks of the winding Elv River
 # Landmarks
 ## The Black Grove
 ## Elv River Docks
-## The Old 
+## The Old Watchtower
+## The Ironwood Workshop
