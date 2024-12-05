@@ -9,6 +9,8 @@ Kvistrfjord is an isolated village nestled on the banks of the winding Elv River
 ![[kvistrfjord.png]]
 # Landmarks
 ## The Black Grove
+There is a dense cluster of ironwood trees on the edge of the village. The denizens of the village believe a spirit named Yrnolfr inhabits these woods. They have built a stone shrine here to honor Yrnolfr, leaving offerings of carvings, small effigies, and other crafted objects of devotion, to appease the spirit. Legends tell of strange whispers and flickering lights among the trees, with many claiming that Yrnolfr watches over the grove and provides safety to those within it.
 ## Elv River Docks
+
 ## The Old Watchtower
 ## The Ironwood Workshop
