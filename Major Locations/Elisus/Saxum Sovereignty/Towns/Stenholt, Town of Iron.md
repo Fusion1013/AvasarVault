@@ -6,10 +6,10 @@ description:
 ---
 *"QUOTE"*
 ## Overview
-The town of Stenholt lies on the edge of the [[Morgenfryd Fields]], a vast grassland that stretches for miles. It is known for its famous [[Stenholt, Town of Iron#Iron Mine|Iron Mine]], which produces some of the finest iron ore in all of [[Saxum Sovereignty Overview|Saxum]]. The mine is the lifeblood of the town, providing employment for many of its residents.
+The town of Stenholt lies on the edge of the [[Morgenfryd Fields]], a vast grassland that stretches for miles, near the foot of the [[Dragonback Mountains]]. It is known for its famous [[Stenholt, Town of Iron#Iron Mine|Iron Mine]], which produces some of the finest iron ore in all of [[Saxum Sovereignty Overview|Saxum]]. The mine is the lifeblood of the town, providing employment for many of its residents.
 ## Landmarks
 ### Iron Mine
-The town is known for its iron mine, which produces some of the finest iron ore in all of Saxum.
+The town is known for its iron mine, which produces some of the finest iron ore in all of Saxum. The mine is located about half a days travel away from the town, towards the mountains and through the nearby forest.
 ### Stenholt Monolith
 The mine is not the only landmark in Stenholt. Just outside the town lies an ancient standing stone known as the Stenholt Monolith. The monolith is a towering stone structure, almost twenty feet tall, with strange symbols etched into its surface. The locals believe it to be a sacred site, imbued with magical power. Some even say that it is a gateway to the underworld, and that spirits sometimes rise from it during the full moon.
 
