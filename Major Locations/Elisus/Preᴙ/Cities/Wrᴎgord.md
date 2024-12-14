@@ -1,9 +1,7 @@
 ---
 tags:
   - city
-nation:
-  - Preia
-description: DESCRIPTION
+nation: Preia
 draft: true
 ---
 *"QUOTE"*
@@ -14,8 +12,8 @@ draft: true
 **Commerce:**
 **Organizations:**
 
-## Overview
+# Overview
 
-## History
+# History
 
-## Landmarks
+# Landmarks
