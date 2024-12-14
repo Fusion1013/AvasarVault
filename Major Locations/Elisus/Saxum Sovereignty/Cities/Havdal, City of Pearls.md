@@ -14,19 +14,18 @@ description: Havdal is the largest port city within the [[Saxum Sovereignty Over
 > | **Region** | [[Morgenfryd Fields]] |
 > | **Size** | Metropolis |
 > ###### Society
-> | **Demonym** | ? |
+> | **Demonym** | Havdalir |
 > | - | - |
 > | **Races** | 29% humans, 15% dwarves, 12% halflings, 44% other races |
-> | **Religions** | ? |
+> | **Religions** | [[Merstur, the Unbroken Tide]] |
 > ###### Commerce
 > | **Imports** | ? |
 > | - | - |
-> | **Exports** | ? |
+> | **Exports** | Metalcraft, Food Products |
 > ###### Politics
-> | **Type** | ? |
+> | **Type** | Plutocracy |
 > | - | - |
 > | **Ruler** | The Saltbound Consortium |
-> | **Legislative** | ? |
 > | **Allegiances** | ? |
 > ###### History
 > | **Population** | 82.790 in 1350 APC |
