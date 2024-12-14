@@ -10,6 +10,7 @@ description: Havdal is the largest port city within the [[Saxum Sovereignty Over
 > ![[havdal.png]]
 > ###### Geography
 > | **Aliases** | City of Pearls |
+> | - | - |
 > | **Region** | [[Morgenfryd Fields]] |
 > | **Size** | Metropolis |
 > ###### Society
@@ -24,20 +25,12 @@ description: Havdal is the largest port city within the [[Saxum Sovereignty Over
 > ###### Politics
 > | **Type** | ? |
 > | - | - |
-> | **Ruler** | [[Havdal, City of Pearls#The Saltbound Consortium|The Saultbound Consortium]] |
+> | **Ruler** | The Saltbound Consortium |
 > | **Legislative** | ? |
 > | **Allegiances** | ? |
 > ###### History
-> | **Population** | 82.790 in 
-> ###### Overview
-> | **Population** | 83.790 (29% humans, 15% dwarves, 12% halflings, 44% other races) |
+> | **Population** | 82.790 in 1350 APC |
 > | - | - |
-> | **Region** | [[Morgenfryd Fields]] |
-> | **Size** | Metropolis |
-> | **Government** | The city is governed by the most powerful of the local merchant guilds, known as the Saltbound Consortium |
-> | **Defense** | Heavily defended both from the sea and land |
-> | **Commerce** | The center of maritime trade for this nation. It exports and imports large amounts of resources. |
-> | **Organizations** | Multiple merchant guilds have their seat of power in the city. |
 
 *Havdal rises like a jewel upon the waves, but every gem has its flaws. Look closely, and you'll see the cracks left by war, the scars of an unbroken city, and the people who refuse to bow to the tides.
 — Bryndara Othvik, Ohkyrian scholar*
