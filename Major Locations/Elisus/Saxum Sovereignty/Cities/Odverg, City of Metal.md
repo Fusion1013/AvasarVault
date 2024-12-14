@@ -10,7 +10,7 @@ description: A city high up in the mountains, formed around a rift to the plane 
 > | **Aliases** | City of Metal |
 > | - | - |
 > | **Region** | [[Dragonback Mountains]] |
-> | **Size** | Metropolis |
+> | **Size** | Large City |
 > ###### Society
 > | **Demonym** | ? |
 > | - | - |

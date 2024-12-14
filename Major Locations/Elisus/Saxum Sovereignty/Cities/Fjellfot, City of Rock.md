@@ -10,7 +10,7 @@ description: A small city nestled between the Fracrish Mountains, guarding the p
 > | **Aliases** | City of Rock |
 > | - | - |
 > | **Region** | [[Morgenfryd Fields]] |
-> | **Size** | Large Town |
+> | **Size** | Small City |
 > ###### Society
 > | **Demonym** | ? |
 > | - | - |
