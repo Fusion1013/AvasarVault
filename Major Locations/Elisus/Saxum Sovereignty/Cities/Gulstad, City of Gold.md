@@ -10,6 +10,31 @@ todo:
 editors:
   - Fusion
 ---
+> [!infobox|right]
+> # Gulstad, City of Gold
+> ###### Geography
+> | **Aliases** | City of Gold |
+> | - | - |
+> | **Region** | [[Morgenfryd Fields]] |
+> | **Size** | Metropolis |
+> ###### Society
+> | **Demonym** | ? |
+> | - | - |
+> | **Races** | 41% humans, 26% dwarves, 15% halflings, 18% other races |
+> | **Religions** | ? |
+> ###### Commerce
+> | **Imports** | ? |
+> | - | - |
+> | **Exports** | ? |
+> ###### Politics
+> | **Type** | ? |
+> | - | - |
+> | **Ruler** | [[The Saxum Triumvirate]] |
+> | **Allegiances** | ? |
+> ###### History
+> | **Population** | 82.790 in 1350 APC |
+> | - | - |
+
 *"Where Craftsmanship meets Prosperity"*
 
 **Population:** 96.110 (41% humans, 26% dwarves, 15% halflings, 18% other races)

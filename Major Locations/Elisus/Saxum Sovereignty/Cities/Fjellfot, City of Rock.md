@@ -4,17 +4,32 @@ tags:
 nation: Saxum
 description: A small city nestled between the Fracrish Mountains, guarding the pass from the Saxum Sovereignty to the Turochan Kingdom.
 ---
+> [!infobox|right]
+> # Fjellfot, City of Rock
+> ###### Geography
+> | **Aliases** | City of Rock |
+> | - | - |
+> | **Region** | [[Morgenfryd Fields]] |
+> | **Size** | Large Town |
+> ###### Society
+> | **Demonym** | ? |
+> | - | - |
+> | **Races** | 56% humans, 15% elves, 14% dwarves, 15% other races |
+> | **Religions** | ? |
+> ###### Commerce
+> | **Imports** | ? |
+> | - | - |
+> | **Exports** | ? |
+> ###### Politics
+> | **Type** | ? |
+> | - | - |
+> | **Ruler** | Marshal Olav Hansen |
+> | **Allegiances** | ? |
+> ###### History
+> | **Population** | 6.800 in 1375 APC |
+> | - | - |
+
 *"Saxum lasts eternal"*
-
-**Population:** 6.800 (56% humans, 15% elves, 14% dwarves, 15% other races)
-
-**Government:** The city is governed by [[Fjellfot, City of Rock#Marshal Olav Hansen|Marshal Olav Hansen]], who oversees the efforts to secure the pass through the mountains.
-
-**Defense:** One of the most well defended cities in the Saxum Sovereignty.
-
-**Commerce:** The state run [[Fjellfot, City of Rock#Fjellgruve|Fjellgruve]] has a big part in the city’s exports.
-
-**Organizations:** Most organizations are of military purpose, though one notable exception is the mining organization that operates [[Fjellfot, City of Rock#Fjellgruve|Fjellgruve]].
 # Overview
 A small city nestled between the Fracrish Mountains, guarding the only traversable pass from the [[Saxum Sovereignty Overview|Saxum Sovereignty]] to the Turochan Kingdom. It was [[1197 APC - Fjellfot Fortress Construction|built in 1197 APC]], but did not officially [[1213 APC - Fjellfot Founding|become a city until 1213 APC]]. Fjellfot boasts a formidable army and a near-impenetrable perimeter that expands into a series of defensible weapon posts along the sides of the pass to further dissuade any force from attempting an invasion. The city has held strong for generations without being breached. The city's name is derived from the simple fact that it is situated at the foot of a mountain. The name for 'mountain' being 'fjell' in [[Old Taundorian]].
 # History
