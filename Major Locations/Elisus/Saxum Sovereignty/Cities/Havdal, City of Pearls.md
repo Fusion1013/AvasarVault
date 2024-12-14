@@ -5,21 +5,44 @@ nation: Saxum
 draft: true
 description: Havdal is the largest port city within the [[Saxum Sovereignty Overview|Saxum Sovereignty]], with its main exports being various crafted goods made from metal, as well as large amounts of food products.
 ---
+> [!infobox|right]
+> # Havdal, City of Pearls
+> ![[havdal.png]]
+> ###### Geography
+> | **Aliases** | City of Pearls |
+> | **Region** | [[Morgenfryd Fields]] |
+> | **Size** | Metropolis |
+> ###### Society
+> | **Demonym** | ? |
+> | - | - |
+> | **Races** | 29% humans, 15% dwarves, 12% halflings, 44% other races |
+> | **Religions** | ? |
+> ###### Commerce
+> | **Imports** | ? |
+> | - | - |
+> | **Exports** | ? |
+> ###### Politics
+> | **Type** | ? |
+> | - | - |
+> | **Ruler** | [[Havdal, City of Pearls#The Saltbound Consortium|The Saultbound Consortium]] |
+> | **Legislative** | ? |
+> | **Allegiances** | ? |
+> ###### History
+> | **Population** | 82.790 in 
+> ###### Overview
+> | **Population** | 83.790 (29% humans, 15% dwarves, 12% halflings, 44% other races) |
+> | - | - |
+> | **Region** | [[Morgenfryd Fields]] |
+> | **Size** | Metropolis |
+> | **Government** | The city is governed by the most powerful of the local merchant guilds, known as the Saltbound Consortium |
+> | **Defense** | Heavily defended both from the sea and land |
+> | **Commerce** | The center of maritime trade for this nation. It exports and imports large amounts of resources. |
+> | **Organizations** | Multiple merchant guilds have their seat of power in the city. |
+
 *Havdal rises like a jewel upon the waves, but every gem has its flaws. Look closely, and you'll see the cracks left by war, the scars of an unbroken city, and the people who refuse to bow to the tides.
-— Bryndara Othvik, Ohkyrian scholar
-
-**Population:** 83.790 (29% humans, 15% dwarves, 12% halflings, 44% other races)
-
-**Government:** The city is governed by the most powerful of the local merchant guilds, known as the Saltbound Consortium
-
-**Defense:** Heavily defended both from the sea and land.
-
-**Commerce:** Havdal is the center of maritime trade for this nation. It exports and imports large amounts of resources.
-
-**Organizations:** Multiple merchant guilds have their seat of power in the city.
+— Bryndara Othvik, Ohkyrian scholar*
 # Overview
 Havdal is the largest port city within the [[Saxum Sovereignty Overview|Saxum Sovereignty]], with its main exports being various crafted goods made from metal, as well as large amounts of food products.
-![[havdal.png]]
 # History
 Havdal was established in [[1186 APC - Havdal Founding|1186 APC]] and quickly grew into the most prominent port city in the nation. It became an important part of establishing the nation and promoting trade with other nearby regions, such as the [[Ohkyr Dominion Overview|Ohkyr Dominion]] and [[City-State of Drufali Overview|The City-State of Drufali]].
 ## Invasion of Saxum
