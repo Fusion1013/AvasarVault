@@ -12,6 +12,7 @@ editors:
 ---
 > [!infobox|right]
 > # Gulstad, City of Gold
+> ![[TowerGulstad.png]]
 > ###### Geography
 > | **Aliases** | City of Gold |
 > | - | - |
@@ -30,24 +31,15 @@ editors:
 > | **Type** | ? |
 > | - | - |
 > | **Ruler** | [[The Saxum Triumvirate]] |
+> | **Legislative** | The Council of Saxum |
 > | **Allegiances** | ? |
 > ###### History
-> | **Population** | 82.790 in 1350 APC |
+> | **Population** | 96.110 in 1350 APC |
 > | - | - |
 
 *"Where Craftsmanship meets Prosperity"*
-
-**Population:** 96.110 (41% humans, 26% dwarves, 15% halflings, 18% other races)
-
-**Government:** A [[The Saxum Triumvirate|Triumvirate]] of three mages, along with a council of 13 representatives.
-
-**Defense:** The city is heavily defended by ringed walls, arcane cannons, etc.
-
-**Commerce:** Gulstad is the center of trade for this nation.
-
-**Organizations:** The main seat of power for the Saxum Council, rulers of the nation.
 # Overview
-<span class="leftimg"><span class="smallimg"> ![[TowerGulstad.png|175]] </span></span>Gulstad is the capital of the [[Saxum Sovereignty Overview|Saxum Sovereignty]]. It is the nation's center of trade, hence the nickname “City of Gold”. Its main exports are various goods made from rare metals, extracted from the nearby mountains. The city is known for its skilled artisans, and their wares are highly sought after across the continents.
+Gulstad is the capital of the [[Saxum Sovereignty Overview|Saxum Sovereignty]]. It is the nation's center of trade, hence the nickname “City of Gold”. Its main exports are various goods made from rare metals, extracted from the nearby mountains. The city is known for its skilled artisans, and their wares are highly sought after across the continents.
 
 The city holds a circular shape, with three layers of ringed walls protecting the inner spire that make up the bulk upper part of the city. The entire city is not visible however, as a large portion of it extends far underground, through a series of large tunnels.
 # History

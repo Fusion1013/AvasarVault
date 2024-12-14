@@ -4,17 +4,33 @@ tags:
 nation: Saxum
 description: A city high up in the mountains, formed around a rift to the plane of Tenebris. This is the nation's main source of rare metals.
 ---
+> [!infobox|right]
+> # Odverg, City of Metal
+> ###### Geography
+> | **Aliases** | City of Metal |
+> | - | - |
+> | **Region** | [[Dragonback Mountains]] |
+> | **Size** | Metropolis |
+> ###### Society
+> | **Demonym** | ? |
+> | - | - |
+> | **Races** | 63% dwarves, 16% humans, 11% gnomes, 10% other races |
+> | **Religions** | ? |
+> ###### Commerce
+> | **Imports** | Food, Wood |
+> | - | - |
+> | **Exports** | Metals |
+> ###### Politics
+> | **Type** | ? |
+> | - | - |
+> | **Ruler** | The Overseers |
+> | **Legislative** | The Big Three |
+> | **Allegiances** | ? |
+> ###### History
+> | **Population** | 18.900 in 1330 APC |
+> | - | - |
+
 *"Forged in Steel, Built to Endure"*
-
-**Population:** 18.900 (63% dwarves, 16% humans, 11% gnomes, 10% other races)
-
-**Government:** The city is governed by The Big Three, a group of three guilds.
-
-**Defense:** Odverg has a respectable force of citizen militia and mercenaries, controlled by the Overseers. They are there to mainly guard the materials extracted from the rift.
-
-**Commerce:** Odverg is an important center of the metal trading industry.
-
-**Organizations:** The Big Three that form the city’s government.
 ## Overview
 A city built high up in the mountains, climbing on the sides of a massive hole dug into the ground. It has one of the few known permanent portals to another plane, in this case [[Tenebris]]. After the discovery of rare metals within the plane, Odverg was [[1322 APC - Odverg Founding|founded in 1322 APC]] to facilitate the extraction of these materials.
 ## History
