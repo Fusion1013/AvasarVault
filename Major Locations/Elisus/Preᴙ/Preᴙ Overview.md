@@ -4,13 +4,27 @@ tags:
 todo:
   - Rework the history section to get rid of "fantasy time"
 ---
+> [!infobox|right]
+> # Preᴙ
+> ![[SoDarEmpire.jpg]]
+> ###### Geography
+> | **Type** |  |
+> | - | - |
+> | **Region** | [[Elisus Overview\|Elisus]] |
+> | **Capital** | [[Wrᴎgord]] |
+> ###### Society
+> | **Demonym** |  |
+> | - | - |
+> | **Races** | Human |
+> | **Languages** | [[Korinari]] |
+> | **Religions** |  |
+> ###### Politics
+> | **Type** | Oligarchy |
+> | - | - |
+> | **Ruler** | [[Aleks Dorofei]] |
+> | **Allegiances** |  |
+
 *"QUOTE"*
-
-**Government:** Oligarchy of Nobles
-
-**Languages:** [[Korinari]]
-
-![[SoDarEmpire.jpg]]
 # Overview
 Located to the east of the [[So'Dar Empire Overview|So'Dar Empire]], the small nation of Preᴙ hides. It is run by an oligarchy of nobles, all belonging to a handful of [[Preᴙ Overview#Noble Houses|Noble Houses]].
 # History
