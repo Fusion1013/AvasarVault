@@ -3,12 +3,14 @@ tags:
   - nation
 todo:
   - Rework the history section to get rid of "fantasy time"
+aliases:
+  - Preᴙ
 ---
 > [!infobox|right]
 > # Preᴙ
 > ![[SoDarEmpire.jpg]]
 > ###### Geography
-> | **Type** |  |
+> | **Type** | Nation |
 > | - | - |
 > | **Region** | [[Elisus Overview\|Elisus]] |
 > | **Capital** | [[Wrᴎgord]] |
@@ -19,7 +21,7 @@ todo:
 > | **Languages** | [[Korinari]] |
 > | **Religions** |  |
 > ###### Politics
-> | **Type** | Oligarchy |
+> | **Type** | Oligarchy<br>*Formerly:* Royalty |
 > | - | - |
 > | **Ruler** | [[Aleks Dorofei]] |
 > | **Allegiances** |  |

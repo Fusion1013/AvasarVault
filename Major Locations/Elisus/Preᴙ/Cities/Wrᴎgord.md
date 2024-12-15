@@ -3,19 +3,20 @@ tags:
   - city
 nation: Preia
 draft: true
+population: 23100
 ---
 > [!infobox|right]
-> # CITY NAME
+> # Wrᴎgord
 > IMAGE HERE
 > ###### Geography
 > | **Aliases** |  |
 > | - | - |
-> | **Region** |  |
-> | **Size** |  |
+> | **Region** | [[Preᴙ Overview\|Preᴙ]] |
+> | **Size** | Metropolis |
 > ###### Society
 > | **Demonym** |  |
 > | - | - |
-> | **Races** |  |
+> | **Races** | Humans, Half-Elves |
 > | **Religions** |  |
 > ###### Commerce
 > | **Imports** |  |
@@ -24,11 +25,11 @@ draft: true
 > ###### Politics
 > | **Type** |  |
 > | - | - |
-> | **Ruler** |  |
-> | **Legislative** |  |
+> | **Ruler** | Aleks Dorofei |
+> | **Legislative** | [[Preᴙ Overview#House Dorofei\|House Dorofei]] |
 > | **Allegiances** |  |
 > ###### History
-> | **Population** |  |
+> | **Population** | 23.100 |
 > | - | - |
 
 *"QUOTE"*

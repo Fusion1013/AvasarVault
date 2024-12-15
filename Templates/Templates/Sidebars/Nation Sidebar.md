@@ -2,8 +2,9 @@
 > # NATION NAME
 > IMAGE HERE
 > ###### Geography
-> | **Type** |  |
+> | **Aliases** |  |
 > | - | - |
+> | **Type** |  |
 > | **Region** |  |
 > | **Capital** |  |
 > ###### Society
