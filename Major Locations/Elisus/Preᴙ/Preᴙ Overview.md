@@ -10,8 +10,9 @@ aliases:
 > # Preᴙ
 > ![[SoDarEmpire.jpg]]
 > ###### Geography
-> | **Type** | Nation |
+> | **Aliases** |  |
 > | - | - |
+> | **Type** | Nation |
 > | **Region** | [[Elisus Overview\|Elisus]] |
 > | **Capital** | [[Wrᴎgord]] |
 > ###### Society
@@ -24,7 +25,10 @@ aliases:
 > | **Type** | Oligarchy<br>*Formerly:* Royalty |
 > | - | - |
 > | **Ruler** | [[Aleks Dorofei]] |
-> | **Allegiances** |  |
+> ###### History
+> | **Population** |  |
+> | - | - |
+> |  |  |
 
 *"QUOTE"*
 # Overview

@@ -17,4 +17,7 @@
 > | **Type** |  |
 > | - | - |
 > | **Ruler** |  |
-> | **Allegiances** |  |
+> ###### History
+> | **Population** |  |
+> | - | - |
+> |  |  |

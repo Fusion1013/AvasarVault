@@ -11,9 +11,10 @@ editors:
 > # Saxum Sovereignty
 > IMAGE HERE
 > ###### Geography
-> | **Type** | Nation |
+> | **Aliases** |  |
 > | - | - |
-> | **Region** |  |
+> | **Type** | Nation |
+> | **Region** | [[Elisus Overview\|Elisus]] |
 > | **Capital** | [[Gulstad, City of Gold]] |
 > ###### Society
 > | **Demonym** |  |
@@ -22,16 +23,12 @@ editors:
 > | **Languages** | [[Old Taundorian]] |
 > | **Religions** | - |
 > ###### Politics
-> | **Type** |  |
+> | **Type** | Magocracy |
 > | - | - |
 > | **Ruler** | [[The Saxum Triumvirate]] |
 > | **Allegiances** |  |
 
 *"Leave those shattered plains behind"*
-
-**Government:** A [[The Saxum Triumvirate|Triumvirate]] of three mages, along with a council of 13 representatives.
-
-**Languages:** [[Old Taundorian]]
 # Overview
 Sheltered from the rest of the world by the towering [[Dragonback Mountains]] and Fracrish Mountains, the Saxum Sovereignty is a small but prosperous nation. This landscape of towering mountains and flowing hills is known for its gray skies, fits of cold rain, and occasional snowfall. The [[Dragonback Mountains]] and [[Fracrish Mountains]] shield the people from most of the threats that loom beyond the boundaries of the nation.
 # History
