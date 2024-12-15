@@ -1,8 +1,10 @@
 ---
 tags:
-- city
+  - city
 nation: So'Dar
 description: DESCRIPTION
+aliases:
+  - Zhᴎmchug
 ---
 *"May the dawn of every day in Dawnfrei be a reminder of the strength that lies with us to rise from the ashes of our past"*
 
