@@ -26,7 +26,7 @@ todo:
 
 *"QUOTE"*
 # Overview
-Located to the east of the [[So'Dar Empire Overview|So'Dar Empire]], the small nation of Preᴙ hides. It is run by an oligarchy of nobles, all belonging to a handful of [[Preᴙ Overview#Noble Houses|Noble Houses]].
+The small nation of Preᴙ hides behind the mountains to the east of the [[So'Dar Empire Overview|So'Dar Empire]]. It is run by an oligarchy of nobles, all belonging to a handful of [[Preᴙ Overview#Noble Houses|Noble Houses]]. The current ruling house is [[Preᴙ Overview#House Dorofei|House Dorofei]], a noble house dating back to before the [[So'Dar Empire Overview|So'Dar]] invasion.
 # History
 Preᴙ was originally known as the Preᴙ Kingdom, and used to occupy a much larger portion of land than it does now. It has been forced to shrink its borders multiple times over the past centuries, due to both conflicts and environmental disasters. It originally formed from a [[The Wandering Hoards|Wandering Hoard]] that originated from the northern parts of the continent and settled in the area. The leader of the hoard became the king of this new kingdom. The kingdom came to occupy a large amount of the coastal areas where the [[Fracrish Mountains]] now are.
 
