@@ -1,0 +1,1 @@
+The previous ruler of [[House Dorofei]] and [[Preᴙ Overview|Preᴙ]]. He died in [[1374 APC]] during a successful assassination attempt, together with the rest of his immediate family.

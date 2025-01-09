@@ -3,6 +3,8 @@ todo:
   - Add Mountain People to the Elisus section
   - Add more region sections
   - Add ancestry section
+aliases:
+  - Avasar
 ---
 *"Let the world be your oyster"*
 # Introduction

@@ -1,0 +1,1 @@
+Aleks Dorofei is the leader of [[House Dorofei]] and the current ruler of [[Preᴙ Overview|Preᴙ]]. He came to power after the previous ruler, [[Anatoliy Dorofei]] of [[House Dorofei]] was assassinated, along with the entirety of his closest family. Aleks, being the next in line as leader for [[House Dorofei]], then naturally became the next ruler.

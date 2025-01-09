@@ -1,0 +1,2 @@
+# Overview
+Welcome to **Cultures & Species**, in this section we will detail the various humanoid and non-humanoid **species** of [[Home Page|Avasar]], their origins, appearance, and place in the world. Some species have a variety of different **cultures** which will be explained further in this section as well.
