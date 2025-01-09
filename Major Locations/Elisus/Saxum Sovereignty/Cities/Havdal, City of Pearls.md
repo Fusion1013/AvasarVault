@@ -14,7 +14,7 @@ description: Havdal is the largest port city within the [[Saxum Sovereignty Over
 > | **Region** | [[Morgenfryd Fields]] |
 > | **Size** | Metropolis |
 > ###### Society
-> | **Demonym** | Havdalir |
+> | **Demonym** | [[Havdalir]] |
 > | - | - |
 > | **Races** | 29% humans, 15% dwarves, 12% halflings, 44% other races |
 > | **Religions** | [[Merstur, the Unbroken Tide]] |
