@@ -56,9 +56,6 @@ LIST
 FROM #noblehouse
 WHERE nation = "Preia"
 ```
-### House Terenti
-House Terenti is quite a large house that occupies various minor positions within the government, and have managed to stay relevant within higher circles through strategic marriages. They have been close allies with [[Preᴙ Overview#House Dorofei|House Dorofei]] for quite some time, giving them a foothold on the country's finances.
-### House Oxana
 ## Other
 
 # Languages
