@@ -57,6 +57,13 @@ FROM #noblehouse
 WHERE nation = "Preia"
 ```
 ## Other
-
+# Currency
+| Material | Name     | Pronunciation    | Appearance                  |
+| -------- | -------- | ---------------- | --------------------------- |
+| Copper   | Mednik   | [MED-neek]       | Small and round             |
+| Silver   | Serbᴎk   | [SEH-reh-been-k] | Small and round             |
+| Electrum | Zolᴙnik  | [ZOHL-yah-neek]  | Hexagonal                   |
+| Gold     | Zlatovᴎy | [ZLAH-toh-vee]   | Large and ornate            |
+| Platinum | Platinᴙa | [PLAH-tee-nyah]  | Ovals, intricately detailed |
 # Languages
 Main language is [[Korinari]]. They use the letters ᴎ[i] and ᴙ[ja] in their alphabet. (Take inspiration from Russian when naming things)
