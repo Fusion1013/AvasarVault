@@ -38,6 +38,8 @@ Preᴙ was originally known as the Preᴙ Kingdom, and used to occupy a much lar
 
 The original capital was [[Dawnfrei|Zhᴎmchug]], and was located on the north-western coast of the kingdom. In 1157 APC a border dispute escalated into a war with the [[So'Dar Empire Overview|So'Dar Empire]]. This war continued for 12 years, until the [[Island of Taundor]] was smashed into the northern coast of Preᴙ, causing much of the kingdom to descend into chaos. This event caused massive flooding and earthquakes in the northern regions. A group of nobles took advantage of this disaster and made a deal with [[So'Dar Empire Overview|So'Dar]]. The nobles staged a coup to take control of the Preᴙ military and pulled it back to the city of [[Wrᴎgord]]. This left the capital vulnerable resulting in it being taken over by the [[So'Dar Empire Overview|So'Dar Nation]] in 1169 APC and subsequently renamed to [[Dawnfrei]]. In exchange for this, the nobles were allowed to keep the area surrounding [[Wrᴎgord]].
 
+Since then there has been a tentative peace with the [[So'Dar Empire Overview|So'Dar Empire]], as they are occupied dealing with other internal and external threats. The geography surrounding [[Preᴙ Overview|Preᴙ]] also makes it unfavourable to attack from the [[So'Dar Empire Overview|So'Dar]] direction, due to the mountain range [[Kovᴙatskiy Khrebet]] and the 
+
 The nation is now only known as Preᴙ and is run by an oligarchy of nobles, all belonging to a handful of [[Preᴙ Overview#Noble Houses|Noble Houses]].
 # Major Cities
 ```dataview
