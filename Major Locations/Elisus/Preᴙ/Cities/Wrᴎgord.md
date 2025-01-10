@@ -34,7 +34,7 @@ population: 23100
 
 *"QUOTE"*
 # Overview
-
+Wrᴎgord is the new capital of [[Preᴙ Overview|Preᴙ]]. It was made the capital after the fall of [[Dawnfrei|Zhᴎmchug]] in 1169 APC. This city is built 
 # History
 
 # Landmarks
