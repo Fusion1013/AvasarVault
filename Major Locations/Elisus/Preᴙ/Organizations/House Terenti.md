@@ -1,0 +1,2 @@
+# Overview
+House Terenti is quite a large noble house within [[Preᴙ Overview|Preᴙ]] that occupies various minor positions within the government, and have managed to stay relevant within higher circles through strategic marriages. They have been close allies with [[Preᴙ Overview#House Dorofei|House Dorofei]] for quite some time, giving them a foothold on the country's finances.
