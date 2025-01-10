@@ -1,5 +1,9 @@
+---
+tags:
+  - culture/humanoid
+---
 # Overview
-In the [[Turochan Kingdom Overview|Turochan Kingdom]] you would find the Turochians, a [[Cultures & Species|Culture]] of [[Humans]] and other humanoids.
+In the (origin:: [[Turochan Kingdom Overview|Turochan Kingdom]]) you would find the Turochians, a [[Cultures & Species|Culture]] of (type:: [[Humans]]) and other humanoids.
 # Origins
 # Appearance
 # Religion
