@@ -44,7 +44,7 @@ The city was made the new capital of [[Preᴙ Overview|Preᴙ]] in 1169 APC, aft
 After the fall of [[Dawnfrei|Zhᴎmchug]], many of the noble houses in [[Wrᴎgord]] attempted to take claim to the title of ruler of [[Preᴙ Overview|Preᴙ]]. A civil war ensued, lasting for about 4 years. In the end, no single house was victorious. Instead, the different houses came to occupy different branches of government, taking joint control over [[Preᴙ Overview|Preᴙ]].
 
 After a few generations and through a series of successful grabs of power, House Dorofei was able to place enough people in key positions to claim themselves the true rulers of the nation. House Dorofei have ruled over [[Wrᴎgord]] and [[Preᴙ Overview|Preᴙ]] for 5 generations now.
-## Appearance
+## City Structure
 Since it becoming the capital in 1169 APC, the city has expanded considerably. The old fortress still remains at the back of the city, closest to the mountain. It now serves as the Council Chambers, and living quarters for the heads of [[House Dorofei]].
 
 A large wall was constructed in 1194 APC towards the nearby forest. Since then the city has continued to expand past the walls, and the area within the walls are now only home to upper class residence and high-end shops.

@@ -30,7 +30,8 @@ aliases:
 > | - | - |
 > |  |  |
 
-*"QUOTE"*
+*"Preᴙ has been broken and rebuilt more times than the heavens have seen summers. Yet, each time it rises stronger, a testament not to its rulers, but to the will of its people. To speak of Preᴙ is to speak of survival itself."
+— **Zhᴎmir Kaltsov**, historian and archivist of Wrᴎgord*
 # Overview
 The small nation of Preᴙ hides behind the mountains to the east of the [[So'Dar Empire Overview|So'Dar Empire]]. It is run by an oligarchy of nobles, all belonging to a handful of [[Preᴙ Overview#Noble Houses|Noble Houses]]. The current ruling house is [[Preᴙ Overview#House Dorofei|House Dorofei]], a noble house dating back to before the [[So'Dar Empire Overview|So'Dar]] invasion.
 # History
