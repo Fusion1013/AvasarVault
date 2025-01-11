@@ -41,7 +41,7 @@ The original capital was [[Dawnfrei|Zhᴎmchug]], and was located on the north-w
 
 Since then there has been a tentative peace with the [[So'Dar Empire Overview|So'Dar Empire]], as they are occupied dealing with other internal and external threats. The geography surrounding [[Preᴙ Overview|Preᴙ]] also makes it unfavourable to attack from the [[So'Dar Empire Overview|So'Dar]] direction, due to the mountain range [[Kovᴙatskiy Khrebet]] and the [[Mᴎrkoles|Mᴎrkoles Forest]].
 
-The nation is now only known as Preᴙ and is run by an oligarchy of nobles, all belonging to a handful of [[Preᴙ Overview#Noble Houses|Noble Houses]]. The past few hundred years since the [[So'Dar Empire Overview|So'Dar]] invasion have been plagued by civil wars and internal conflicts, as the different factions struggle and clash with each other in an attempt to gain more power. However, [[House Dorofei]] has managed to stay in power through a series of strategic alliances and acquisitions.
+The nation is now only known as Preᴙ and is run by an oligarchy of nobles, all belonging to a handful of [[Preᴙ Overview#Noble Houses|Noble Houses]]. The past few hundred years since the [[So'Dar Empire Overview|So'Dar]] invasion have been plagued by civil wars and internal conflicts, as the different factions struggle and clash with each other in an attempt to gain more power. However, [[House Dorofei]] has managed to stay in power through a series of strategic alliances, acquisitions, and political assassinations.
 # Major Cities
 ```dataview
 TABLE population AS "Population"
@@ -57,7 +57,6 @@ LIST
 FROM #noblehouse
 WHERE nation = "Preia"
 ```
-## Other
 # Currency
 | Material | Name     | Pronunciation    | Appearance                  |
 | -------- | -------- | ---------------- | --------------------------- |
