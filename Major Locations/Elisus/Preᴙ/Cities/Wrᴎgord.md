@@ -32,7 +32,8 @@ population: 23100
 > | **Population** | 23.100 |
 > | - | - |
 
-*"QUOTE"*
+*In Wrᴎgord, every coin has a purpose, and every deal has a dagger. Yet, for all its peril, the treasures here gleam brighter than anywhere else in the realm.
+— Olek Targavᴎch, traveling merchant from the So'Dar Empire*
 # Overview
 Wrᴎgord is the new capital of [[Preᴙ Overview|Preᴙ]]. It was made the capital after the fall of [[Dawnfrei|Zhᴎmchug]] in 1169 APC. This city is built at the base of the small mountain range [[Kovᴙatskiy Khrebet]], bordering the [[So'Dar Empire Overview|So'Dar Empire]]. The river [[Kovᴙ]] flows through the city. The city is home to the [[House Dorofei|Dorofei Family]], who hold major positions within the city's government.
 # History
@@ -51,4 +52,4 @@ A large wall was constructed in 1194 APC towards the nearby forest. Since then t
 ## **Kov**ᴙ River
 This wide river flows through the center of the entire city. In the inner part of the city it has been converted into a series of canals that run through the inner city, allowing transport by water to key locations.
 
-In the lower city the river allows for transport of goods through the city dock. The river forms an important trade route, connecting the city to [[Ozᴎrgrod]] and 
+In the lower city the river allows for transport of goods through the city dock. The river forms an important trade route, connecting the city to both [[Ozᴎrgrod]] and [[Kovogrod]], and other nations through the [[Mauri Sea]].

@@ -43,7 +43,7 @@ Since then there has been a tentative peace with the [[So'Dar Empire Overview|So
 The nation is now only known as Preᴙ and is run by an oligarchy of nobles, all belonging to a handful of [[Preᴙ Overview#Noble Houses|Noble Houses]].
 # Major Cities
 ```dataview
-TABLE description AS "Description"
+TABLE population AS "Population"
 FROM #city
 WHERE nation = "Preia"
 ```
