@@ -22,7 +22,7 @@ aliases:
 > | **Languages** | [[Korinari]] |
 > | **Religions** |  |
 > ###### Politics
-> | **Type** | Oligarchy<br>*Formerly:* Royalty |
+> | **Type** | Aristocratic Oligarchy<br>*Formerly:* Royalty |
 > | - | - |
 > | **Ruler** | [[Aleks Dorofei]] |
 > ###### History
