@@ -33,7 +33,7 @@ aliases:
 *"Preᴙ has been broken and rebuilt more times than the heavens have seen summers. Yet, each time it rises stronger, a testament not to its rulers, but to the will of its people. To speak of Preᴙ is to speak of survival itself."
 — **Zhᴎmir Kaltsov**, historian and archivist of Wrᴎgord*
 # Overview
-The small nation of Preᴙ hides behind the mountains to the east of the [[So'Dar Empire Overview|So'Dar Empire]]. It is run by an oligarchy of nobles, all belonging to a handful of [[Preᴙ Overview#Noble Houses|Noble Houses]]. The current ruling house is [[Preᴙ Overview#House Dorofei|House Dorofei]], a noble house dating back to before the [[So'Dar Empire Overview|So'Dar]] invasion.
+The small nation of Preᴙ hides behind the mountains to the east of the [[So'Dar Empire Overview|So'Dar Empire]]. It is a fractured nation, run by an oligarchy of nobles, all belonging to a handful of [[Preᴙ Overview#Noble Houses|Noble Houses]]. The current ruling house is [[Preᴙ Overview#House Dorofei|House Dorofei]], a noble house dating back to before the [[So'Dar Empire Overview|So'Dar]] invasion. However, while [[House Dorofei]] are technically the ones that hold power over the nation, in reality each city is run by their own factions and operate mostly independently from the rest.
 # History
 Preᴙ was originally known as the Preᴙ Kingdom, and used to occupy a much larger portion of land than it does now. It has been forced to shrink its borders multiple times over the past centuries, due to both conflicts and environmental disasters. It originally formed from a [[The Wandering Hoards|Wandering Hoard]] that originated from the northern parts of the continent and settled in the area. The leader of the hoard became the king of this new kingdom. The kingdom came to occupy a large amount of the coastal areas where the [[Fracrish Mountains]] now are.
 
@@ -41,7 +41,7 @@ The original capital was [[Dawnfrei|Zhᴎmchug]], and was located on the north-w
 
 Since then there has been a tentative peace with the [[So'Dar Empire Overview|So'Dar Empire]], as they are occupied dealing with other internal and external threats. The geography surrounding [[Preᴙ Overview|Preᴙ]] also makes it unfavourable to attack from the [[So'Dar Empire Overview|So'Dar]] direction, due to the mountain range [[Kovᴙatskiy Khrebet]] and the [[Mᴎrkoles|Mᴎrkoles Forest]].
 
-The nation is now only known as Preᴙ and is run by an oligarchy of nobles, all belonging to a handful of [[Preᴙ Overview#Noble Houses|Noble Houses]].
+The nation is now only known as Preᴙ and is run by an oligarchy of nobles, all belonging to a handful of [[Preᴙ Overview#Noble Houses|Noble Houses]]. The past few hundred years since the [[So'Dar Empire Overview|So'Dar]] invasion have been plagued by civil wars and internal conflicts, as the different factions struggle and clash with each other in an attempt to gain more power. However, [[House Dorofei]] has managed to stay in power through a series of strategic alliances and acquisitions.
 # Major Cities
 ```dataview
 TABLE population AS "Population"
