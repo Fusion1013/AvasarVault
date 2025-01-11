@@ -50,7 +50,7 @@ WHERE nation = "Preia"
 # Factions
 Various factions have their roots in Preᴙ.
 ## Noble Houses
-Preᴙ is home to a lot of powerful Noble Houses. Together they hold power over Preᴙ, with members placed within the various branches of government and other positions of power.
+Preᴙ is home to a lot of powerful Noble Houses. Together they hold power over Preᴙ, with members placed within the various branches of government and other positions of power. The current ruling house is [[House Dorofei]].
 ```dataview
 LIST
 FROM #noblehouse
