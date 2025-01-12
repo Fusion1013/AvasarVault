@@ -23,7 +23,7 @@ population: 23100
 > | - | - |
 > | **Exports** |  |
 > ###### Politics
-> | **Type** |  |
+> | **Type** | Aristocratic Oligarchy |
 > | - | - |
 > | **Ruler** | Aleks Dorofei |
 > | **Legislative** | [[Preᴙ Overview#House Dorofei\|House Dorofei]] |
@@ -68,9 +68,12 @@ Near the Temple District, separated by a series of small walls and gates. This a
 # Government
 While [[House Dorofei]] holds key positions in the city's government, other noble houses are not powerless. [[House Terenti]] is one of the more influential families, holding a large number of minor positions in various government agencies. In recent years they have managed to gain a foothold on the country's finances, giving them more influence over the city and the nation.
 ## The Master of Coin
-The Master of Coin is a critical position, currently held by [[House Terenti]]. The Master of Coin oversees taxation, trade agreements, and the city treasury. Due to the 
+The Master of Coin is a critical position, currently held by [[House Terenti]]. The Master of Coin oversees taxation, trade agreements, and the city treasury.
+## High Magistrate
+Oversees the city's legal system. This position is selected by consensus between the major houses to maintain neutrality, though [[House Dorofei]] typically influences the appointment. The position is currently held by [[Anatol Karskov]], an independent but subtly allied figure to [[House Dorofei|Dorofei]].
 # Landmarks
 ## **Kov**ᴙ River
 This wide river flows through the center of the entire city. In the inner part of the city it has been converted into a series of canals that run through the inner city, allowing transport by water to key locations.
 
 In the lower city the river allows for transport of goods through the city dock. The river forms an important trade route, connecting the city to both [[Ozᴎrgrod]] and [[Kovogrod]], and other nations through the [[Mauri Sea]].
+# Religion
