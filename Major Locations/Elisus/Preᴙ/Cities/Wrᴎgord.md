@@ -47,8 +47,18 @@ After a few generations and through a series of successful grabs of power, House
 ## City Structure
 Since it becoming the capital in 1169 APC, the city has expanded considerably. The old fortress still remains at the back of the city, closest to the mountain. It now serves as the Council Chambers, and living quarters for the heads of [[House Dorofei]].
 
-A large wall was constructed in 1194 APC towards the nearby forest. Since then the city has continued to expand past the walls, and the area within the walls is now only home to upper class residence, high-end shops and administrative buildings.
+A large wall was constructed in 1194 APC towards the nearby forest. Since then the city has continued to expand past the walls, and the area within the walls is now only home to upper class residence, high-end shops and administrative buildings. Another wall was constructed in 1280 APC on the outskirts of the city. At the present the city extends even further past it.
 # Districts
+## High District (Vysokogrod)
+This district is located closest to the base of [[Kovᴙatskiy Khrebet]], enclosed by the High Walls. It is home to the upper class, government buildings, high-end shops, and a number of cultural landmarks. It is elevated slightly above the rest of the city, with broad cobbled streets, 
+## Dock District (Pristan)
+## Market District (Torgovaya Ploshchad)
+## Common District (Nizhnyy Gorod)
+## Outer Ward (Zemlyanoy Val)
+## Industrial District (Uglevᴙsk)
+## Temple District (Khrestovᴙsk)
+## Scholar's Quarter (Ucheniy Kray)
+
 # Government
 # Landmarks
 ## **Kov**ᴙ River
