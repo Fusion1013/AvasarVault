@@ -47,7 +47,9 @@ After a few generations and through a series of successful grabs of power, House
 ## City Structure
 Since it becoming the capital in 1169 APC, the city has expanded considerably. The old fortress still remains at the back of the city, closest to the mountain. It now serves as the Council Chambers, and living quarters for the heads of [[House Dorofei]].
 
-A large wall was constructed in 1194 APC towards the nearby forest. Since then the city has continued to expand past the walls, and the area within the walls are now only home to upper class residence and high-end shops.
+A large wall was constructed in 1194 APC towards the nearby forest. Since then the city has continued to expand past the walls, and the area within the walls is now only home to upper class residence, high-end shops and administrative buildings.
+# Districts
+# Government
 # Landmarks
 ## **Kov**ᴙ River
 This wide river flows through the center of the entire city. In the inner part of the city it has been converted into a series of canals that run through the inner city, allowing transport by water to key locations.

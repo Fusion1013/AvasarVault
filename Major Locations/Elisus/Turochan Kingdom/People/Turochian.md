@@ -5,17 +5,13 @@ tags:
 # Overview
 In the (origin:: [[Turochan Kingdom Overview|Turochan Kingdom]]) you would find the Turochians, a [[Cultures & Species|Culture]] of (type:: [[Humans]]) and other humanoids. This is specifically the younger generation, those who have forgotten where they came from, forgotten their [[Taundite]] roots.
 # Origins
+The name comes from the name of the nation, [[Turochan Kingdom Overview|Turochan]]. It means someone from that nation.
 # Appearance
-Bright coloured clothing contrasting the drab landscape. Accents of gold. Color as status symbol, the more colors you have the richer you are. They have to import it, they dont make it themselves. Colored fabrics are expensive.
+They wear bright coloured clothing as a sign of wealth and status, contrasting the drab landscape. The wealthier an individual are, the more different and fuller colors they wear. Coloured fabrics are expensive as they have to import it from other nations that produce them.
 # Religion
-# Homeland
 # Names
 **Example Feminine Names**:
 
 **Example Masculine Names**:
 
 **Example Last Names:**
-
-
-
-Taundites - more traditional culture, people who still cling to the ways from Taundor
