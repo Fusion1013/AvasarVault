@@ -50,15 +50,21 @@ Since it becoming the capital in 1169 APC, the city has expanded considerably. T
 A large wall was constructed in 1194 APC towards the nearby forest. Since then the city has continued to expand past the walls, and the area within the walls is now only home to upper class residence, high-end shops and administrative buildings. Another wall was constructed in 1280 APC on the outskirts of the city. At the present the city extends even further past it.
 # Districts
 ## High District (Vysokogrod)
-This district is located closest to the base of [[Kovᴙatskiy Khrebet]], enclosed by the High Walls. It is home to the upper class, government buildings, high-end shops, and a number of cultural landmarks. It is elevated slightly above the rest of the city, with broad cobbled streets, 
+This district is located closest to the base of [[Kovᴙatskiy Khrebet]], enclosed by the High Walls. It is home to the upper class, government buildings, high-end shops, and a number of cultural landmarks. It is elevated slightly above the rest of the city, with broad cobbled streets, luxurious buildings, and gleaming towers. The estate of [[House Dorofei]] and the council chambers are located here.
 ## Dock District (Pristan)
+The city's dock district is located on the banks of the [[Kovᴙ|Kovᴙ River]], this is where ships and barges dock for trade. It is the center of [[Wrᴎgord]]'s commerce and trade. The docks are surrounded by warehouses, taverns, and market areas.
 ## Market District (Torgovaya Ploshchad)
+The Market District is located in close proximity to the docks. It is the main hub for trade and commerce in the city, where merchants come to peddle their wares and make business. The area is often crowded, vibrant and noisy. The central market square is surrounded on all sides by rows of shops. Travelling performers and entertainers often fill the streets.
 ## Common District (Nizhnyy Gorod)
+The main area surrounding the walls of the High District and extending to the city's outer wall. This is where the middle class and laborers live. It is a mix of living quarters and common shops. The district is lively, but less chaotic than the docks or the market square.
 ## Outer Ward (Zemlyanoy Val)
+The Outer Ward is the area outside the outer wall. It is a sprawling district for the poorer population, such as farmers, laborers, and refugees. The area is filled with poorly constructed buildings, popup-shops, and muddy streets.
 ## Industrial District (Uglevᴙsk)
+The Industrial District is located on the southern side of the city, nestled between the mountain and the outer and inner walls. It is located close to the Dock District for easy transportation of materials and products. It is a place of manufacturing, smithing, and heavy industry. The area is loud, air filled with the smoke from various machinery.
 ## Temple District (Khrestovᴙsk)
+Located to the east of the High District, next to the Inner Wall. This is the center for religious worship and spiritual guidance within the city.
 ## Scholar's Quarter (Ucheniy Kray)
-
+Near the Temple District, separated by a series of small walls and gates. This area is dedicated to education, libraries, and study of the arcane arts. The area is simple but functional, with some simpler homes for the 
 # Government
 # Landmarks
 ## **Kov**ᴙ River
