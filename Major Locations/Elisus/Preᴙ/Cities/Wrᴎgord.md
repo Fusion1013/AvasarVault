@@ -3,7 +3,7 @@ tags:
   - city
 nation: Preia
 draft: true
-population: 23100
+population: 48100
 ---
 > [!infobox|right]
 > # Wrᴎgord
@@ -68,14 +68,19 @@ Near the Temple District, separated by a series of small walls and gates. This a
 # Government
 While [[House Dorofei]] holds key positions in the city's government, other noble houses are not powerless. [[House Terenti]] is one of the more influential families, holding a large number of minor positions in various government agencies. In recent years they have managed to gain a foothold on the country's finances, giving them more influence over the city and the nation.
 
-While [[House Dorofei]] and [[House Terenti]] struggle for control over the city, another player has managed to enter the game.
-## The Master of Coin
+While [[House Dorofei]] and [[House Terenti]] struggle for control over the city, another player has managed to enter the game. [[House Vikentiv]] have managed to take control of a majority of the trade routes in and out of the capital, giving the power over the other houses.
+## The Master of Coin (Master Deneg)
 The Master of Coin is a critical position, currently held by [[House Terenti]]. The Master of Coin oversees taxation, trade agreements, and the city treasury.
-## High Magistrate
+## High Magistrate (Glavnyy Sudya)
 Oversees the city's legal system. This position is selected by consensus between the major houses to maintain neutrality, though [[House Dorofei]] typically influences the appointment. The position is currently held by [[Anatol Karskov]], an independent but subtly allied figure to [[House Dorofei|Dorofei]].
+## Overseer of Trade (Nadzornik Torgovli)
+Manages trade routes, market regulation, and tariffs. This position is fiercely contested, as it provides an important foothold in the city's commerce. The position has been held by members of [[House Dorofei]] for the past generation, but recently [[House Gerasim]] has come to control it.
 # Landmarks
 ## **Kov**ᴙ River
 This wide river flows through the center of the entire city. In the inner part of the city it has been converted into a series of canals that run through the inner city, allowing transport by water to key locations.
 
 In the lower city the river allows for transport of goods through the city dock. The river forms an important trade route, connecting the city to both [[Ozᴎrgrod]] and [[Kovogrod]], and other nations through the [[Mauri Sea]].
 # Religion
+The deities that are publicly worshipped in [[Wrᴎgord]] reflects the values and ideals of those that rule over the city, not so much those that live there. There are large temples dedicated to both [[Vuzen, the Law Baron]] and [[Isoroa, the Shadowed Mask]] in the city's Temple District. Some smaller temples dedicate themselves to [[Saheir, the Enchantress]] or [[Veda, the Elder Scribe]]. These four make up the accepted religions within the city.
+
+On the other hand, there are a handful of smaller communities that worship some other, less accepted gods. [[Intrix, the Prime Sculptor]] and [[Irellia, Mistress of the Tranquil Lake]] have quite a large following within the lower class folk, with small, unofficial temples or communes popping up in the city every now and then. On the outskirts of the city, closer to the forest, one might find followers of [[]]
