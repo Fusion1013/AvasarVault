@@ -64,8 +64,11 @@ The Industrial District is located on the southern side of the city, nestled bet
 ## Temple District (Khrestovᴙsk)
 Located to the east of the High District, next to the Inner Wall. This is the center for religious worship and spiritual guidance within the city.
 ## Scholar's Quarter (Ucheniy Kray)
-Near the Temple District, separated by a series of small walls and gates. This area is dedicated to education, libraries, and study of the arcane arts. The area is simple but functional, with some simpler homes for the 
+Near the Temple District, separated by a series of small walls and gates. This area is dedicated to education, libraries, and study of the arcane arts. The area is simple but functional, with some simpler homes for the people who work there. There is a lot of greenery, in contrast to the rest of the city's more functional nature.
 # Government
+While [[House Dorofei]] holds key positions in the city's government, other noble houses are not powerless. [[House Terenti]] is one of the more influential families, holding a large number of minor positions in various government agencies. In recent years they have managed to gain a foothold on the country's finances, giving them more influence over the city and the nation.
+## The Master of Coin
+The Master of Coin is a critical position, currently held by [[House Terenti]]. The Master of Coin oversees taxation, trade agreements, and the city treasury. Due to the 
 # Landmarks
 ## **Kov**ᴙ River
 This wide river flows through the center of the entire city. In the inner part of the city it has been converted into a series of canals that run through the inner city, allowing transport by water to key locations.

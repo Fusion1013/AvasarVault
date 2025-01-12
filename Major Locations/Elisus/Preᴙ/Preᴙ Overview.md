@@ -20,7 +20,7 @@ aliases:
 > | - | - |
 > | **Races** | Human |
 > | **Languages** | [[Korinari]] |
-> | **Religions** |  |
+> | **Religions** | Varies from city to city |
 > ###### Politics
 > | **Type** | Aristocratic Oligarchy<br>*Formerly:* Royalty |
 > | - | - |
