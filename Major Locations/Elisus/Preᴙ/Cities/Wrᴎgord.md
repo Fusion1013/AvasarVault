@@ -32,7 +32,7 @@ population: 48100
 > | **Population** | 23.100 |
 > | - | - |
 
-*In Wrᴎgord, every coin has a purpose, and every deal has a dagger. Yet, for all its peril, the treasures here gleam brighter than anywhere else in the realm.
+*"In Wrᴎgord, every coin has a purpose, and every deal has a dagger. Yet, for all its peril, the treasures here gleam brighter than anywhere else in the realm."
 — Olek Targavᴎch, traveling merchant from the So'Dar Empire*
 # Overview
 Wrᴎgord is the new capital of [[Preᴙ Overview|Preᴙ]]. It was made the capital after the fall of [[Dawnfrei|Zhᴎmchug]] in 1169 APC. This city is built at the base of the small mountain range [[Kovᴙatskiy Khrebet]], bordering the [[So'Dar Empire Overview|So'Dar Empire]]. The river [[Kovᴙ]] flows through the city. The city is home to the [[House Dorofei|Dorofei Family]], who hold major positions within the city's government.
@@ -45,7 +45,7 @@ After the fall of [[Dawnfrei|Zhᴎmchug]], many of the noble houses in [[Wrᴎgo
 
 After a few generations and through a series of successful grabs of power, House Dorofei was able to place enough people in key positions to claim themselves the true rulers of the nation. House Dorofei have ruled over [[Wrᴎgord]] and [[Preᴙ Overview|Preᴙ]] for 5 generations now.
 ## City Structure
-Since it becoming the capital in 1169 APC, the city has expanded considerably. The old fortress still remains at the back of the city, closest to the mountain. It now serves as the Council Chambers, and living quarters for the heads of [[House Dorofei]].
+Since it became the capital in 1169 APC, the city has expanded considerably. The old fortress still remains at the back of the city, closest to the mountain. It now serves as the Council Chambers, and living quarters for the heads of [[House Dorofei]].
 
 A large wall was constructed in 1194 APC towards the nearby forest. Since then the city has continued to expand past the walls, and the area within the walls is now only home to upper class residence, high-end shops and administrative buildings. Another wall was constructed in 1280 APC on the outskirts of the city. At the present the city extends even further past it.
 # Districts
@@ -56,9 +56,9 @@ The city's dock district is located on the banks of the [[Kovᴙ|Kovᴙ River]],
 ## Market District (Torgovaya Ploshchad)
 The Market District is located in close proximity to the docks. It is the main hub for trade and commerce in the city, where merchants come to peddle their wares and make business. The area is often crowded, vibrant and noisy. The central market square is surrounded on all sides by rows of shops. Travelling performers and entertainers often fill the streets.
 ## Common District (Nizhnyy Gorod)
-The main area surrounding the walls of the High District and extending to the city's outer wall. This is where the middle class and laborers live. It is a mix of living quarters and common shops. The district is lively, but less chaotic than the docks or the market square.
+The common district is the main area surrounding the walls of the High District and extending to the city's outer wall. This is where the middle class and laborers live. It is a mix of living quarters and common shops. The district is lively, but less chaotic than the docks or the market square.
 ## Outer Ward (Zemlyanoy Val)
-The Outer Ward is the area outside the outer wall. It is a sprawling district for the poorer population, such as farmers, laborers, and refugees. The area is filled with poorly constructed buildings, popup-shops, and muddy streets.
+The Outer Ward is the area outside the outer wall. It is a sprawling district for the poorer population, such as farmers, laborers, and refugees. The area is filled with poorly constructed buildings, pop up-shops, and muddy streets.
 ## Industrial District (Uglevᴙsk)
 The Industrial District is located on the southern side of the city, nestled between the mountain and the outer and inner walls. It is located close to the Dock District for easy transportation of materials and products. It is a place of manufacturing, smithing, and heavy industry. The area is loud, air filled with the smoke from various machinery.
 ## Temple District (Khrestovᴙsk)
@@ -70,7 +70,7 @@ While [[House Dorofei]] holds key positions in the city's government, other nobl
 
 While [[House Dorofei]] and [[House Terenti]] struggle for control over the city, another player has managed to enter the game. [[House Vikentiv]] have managed to take control of a majority of the trade routes in and out of the capital, giving the power over the other houses.
 ## The Master of Coin (Master Deneg)
-The Master of Coin is a critical position, currently held by [[House Terenti]]. The Master of Coin oversees taxation, trade agreements, and the city treasury.
+The Master of Coin is a critical position, currently held by [[House Terenti]]. The Master of Coin overseas taxation, trade agreements, and the city treasury.
 ## High Magistrate (Glavnyy Sudya)
 Oversees the city's legal system. This position is selected by consensus between the major houses to maintain neutrality, though [[House Dorofei]] typically influences the appointment. The position is currently held by [[Anatol Karskov]], an independent but subtly allied figure to [[House Dorofei|Dorofei]].
 ## Overseer of Trade (Nadzornik Torgovli)
@@ -83,4 +83,4 @@ In the lower city the river allows for transport of goods through the city dock.
 # Religion
 The deities that are publicly worshipped in [[Wrᴎgord]] reflects the values and ideals of those that rule over the city, not so much those that live there. There are large temples dedicated to both [[Vuzen, the Law Baron]] and [[Isoroa, the Shadowed Mask]] in the city's Temple District. Some smaller temples dedicate themselves to [[Saheir, the Enchantress]] or [[Veda, the Elder Scribe]]. These four make up the accepted religions within the city.
 
-On the other hand, there are a handful of smaller communities that worship some other, less accepted gods. [[Intrix, the Prime Sculptor]] and [[Irellia, Mistress of the Tranquil Lake]] have quite a large following within the lower class folk, with small, unofficial temples or communes popping up in the city every now and then. On the outskirts of the city, closer to the forest, one might find followers of [[]]
+On the other hand, there are a handful of smaller communities that worship some other, less accepted gods. [[Intrix, the Prime Sculptor]] and [[Irellia, Mistress of the Tranquil Lake]] have quite a large following within the lower class folk, with small, unofficial temples or communes popping up in the city every now and then. On the outskirts of the city, closer to the forest, one might find followers of [[Verdus, the Earthweaver]] and [[Anvarra, the Soulless Mistress]]. They seldom venture into the deeper city, instead keeping on the outskirts in or outside the Outer Ward.
