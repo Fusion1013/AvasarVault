@@ -10,8 +10,9 @@ essence:
   - Living without Souls
 todo:
   - Populate symbology section
-plane: "[[Vylmat, Plane of Life]]"
-draft: true
+plane:
+  - "[[Vylmat, Plane of Life]]"
+draft: false
 aliases:
   - Anvarra
 ---

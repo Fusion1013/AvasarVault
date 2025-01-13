@@ -2,7 +2,7 @@
 tags:
   - city
 nation: Saxum
-draft: true
+draft: false
 description: Havdal is the largest port city within the [[Saxum Sovereignty Overview|Saxum Sovereignty]], with its main exports being various crafted goods made from metal, as well as large amounts of food products.
 ---
 > [!infobox|right]

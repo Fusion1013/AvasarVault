@@ -10,8 +10,9 @@ essence:
   - Flexibility
 todo:
   - Populate section for symbology
-plane: "[[Kaos]]"
-draft: true
+plane:
+  - "[[Kaos]]"
+draft: false
 ---
 # Overview
 One of the minor [[Pantheon Overview|Gods]], attuned to [[Kaos]].

@@ -8,8 +8,9 @@ essence:
   - Knowledge
 todo:
   - Populate sections for domain and symbology
-plane: "[[Gnosis, Plane of Knowledge]]"
-draft: true
+plane:
+  - "[[Gnosis, Plane of Knowledge]]"
+draft: false
 ---
 # Overview
 One of the major [[Pantheon Overview|Gods]], attuned to [[Gnosis, Plane of Knowledge|Gnosis]].

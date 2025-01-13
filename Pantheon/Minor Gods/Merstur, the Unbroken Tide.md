@@ -11,8 +11,9 @@ essence:
   - Natural Disasters
 todo:
   - Populate sections for domain, symbology and worship
-plane: "[[Terozin, Plane of Weather & Seas]]"
-draft: true
+plane:
+  - "[[Terozin, Plane of Weather & Seas]]"
+draft: false
 ---
 # Overview
 One of the minor [[Pantheon Overview|Gods]], attuned to [[Terozin, Plane of Weather & Seas|Terozin]].

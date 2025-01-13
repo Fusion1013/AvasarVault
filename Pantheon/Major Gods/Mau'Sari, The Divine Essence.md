@@ -9,8 +9,9 @@ essence:
   - Matter Itself
 todo:
   - Populate sections for domain, symbology and worship
-plane: "[[Elemental Plane of Chaos]]"
-draft: true
+plane:
+  - "[[Elemental Plane of Chaos]]"
+draft: false
 ---
 # Overview
 One of the major [[Pantheon Overview|Gods]], attuned to the [[Elemental Plane of Chaos]]. He was the first mortal to attune to a plane.

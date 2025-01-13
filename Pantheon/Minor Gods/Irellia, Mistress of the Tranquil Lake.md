@@ -11,8 +11,9 @@ essence:
   - Peace
 todo:
   - Populate sections for domain, symbology and worship
-plane: "[[Kalament, Plane of Peace]]"
-draft: true
+plane:
+  - "[[Kalament, Plane of Peace]]"
+draft: false
 ---
 # Overview
 One of the minor [[Pantheon Overview|Gods]], attuned to [[Kalament, Plane of Peace|Kalament]].

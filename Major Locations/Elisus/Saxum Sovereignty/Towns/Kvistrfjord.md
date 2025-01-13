@@ -2,7 +2,7 @@
 tags:
   - town
 nation: Saxum
-draft: true
+draft: false
 ---
 > [!infobox|right]
 > # Kvistrfjord

@@ -14,7 +14,7 @@ todo:
 plane:
   - "[[Luminaria]]"
   - "[[Tenebris]]"
-draft: true
+draft: false
 ---
 # Overview
 One of the major [[Pantheon Overview|Gods]], attuned to [[Tenebris]] and [[Luminaria]]. They were originally two people that attempted to attune to the same plane at once, causing them to merge into one. They are now known as the Twilight Twins.

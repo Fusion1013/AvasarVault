@@ -10,8 +10,9 @@ essence:
   - Craftsmanship
 todo:
   - Populate sections for domain, symbology and worship
-plane: "[[Sutya, Plane of Artisans]]"
-draft: true
+plane:
+  - "[[Sutya, Plane of Artisans]]"
+draft: false
 ---
 # Overview
 One of the minor [[Pantheon Overview|Gods]], attuned to [[Sutya, Plane of Artisans|Sutya]].

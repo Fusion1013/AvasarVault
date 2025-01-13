@@ -9,8 +9,9 @@ essence:
   - Living with Souls
 todo:
   - Populate symbology section
-plane: "[[The Dark Beyond]]"
-draft: true
+plane:
+  - "[[The Dark Beyond]]"
+draft: false
 ---
 # Overview
 One of the major [[Pantheon Overview|Gods]], attuned to [[The Dark Beyond]].

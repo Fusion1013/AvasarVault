@@ -10,8 +10,9 @@ essence:
   - Cleverness
 todo:
   - Populate sections for domain, symbology and worship
-plane: "[[Eatrev, Plane of Lies]]"
-draft: true
+plane:
+  - "[[Eatrev, Plane of Lies]]"
+draft: false
 ---
 # Overview
 One of the minor [[Pantheon Overview|Gods]], attuned to [[Eatrev, Plane of Lies|Eatrev]].
