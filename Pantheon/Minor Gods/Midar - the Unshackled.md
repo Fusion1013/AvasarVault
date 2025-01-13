@@ -2,7 +2,7 @@
 tags:
   - god
   - minor_god
-_title: The Unshackled
+dtitle: The Unshackled
 secondary_titles: 
 essence:
   - Freedom

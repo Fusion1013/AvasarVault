@@ -2,7 +2,7 @@
 tags:
   - god
   - minor_god
-_title: The Earthweaver
+dtitle: The Earthweaver
 secondary_titles: 
 essence:
   - Plants

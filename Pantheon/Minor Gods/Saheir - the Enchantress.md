@@ -2,7 +2,7 @@
 tags:
   - god
   - minor_god
-_title: The Enchantress
+dtitle: The Enchantress
 secondary_titles:
   - The Bloodweaver
   - Mistress of the Arcane

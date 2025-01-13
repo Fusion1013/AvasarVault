@@ -2,7 +2,7 @@
 tags:
   - god
   - major_god
-_title: The Elder Scribe
+dtitle: The Elder Scribe
 secondary_titles: 
 essence:
   - Knowledge

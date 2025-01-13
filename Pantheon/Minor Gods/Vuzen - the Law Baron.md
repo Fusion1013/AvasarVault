@@ -2,7 +2,7 @@
 tags:
   - god
   - minor_god
-_title: The Law Baron
+dtitle: The Law Baron
 secondary_titles: 
 essence:
   - Structure

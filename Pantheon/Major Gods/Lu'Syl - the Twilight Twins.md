@@ -2,7 +2,7 @@
 tags:
   - god
   - major_god
-_title: The Twilight Twins
+dtitle: The Twilight Twins
 secondary_titles: 
 essence:
   - Light

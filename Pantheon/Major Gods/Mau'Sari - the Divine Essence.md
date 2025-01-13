@@ -2,7 +2,7 @@
 tags:
   - god
   - major_god
-_title: The Divine Essence
+dtitle: The Divine Essence
 secondary_titles: 
 essence:
   - The Elements

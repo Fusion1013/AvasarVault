@@ -2,7 +2,7 @@
 tags:
   - god
   - minor_god
-_title: Mistress of the Tranquil Lake
+dtitle: Mistress of the Tranquil Lake
 secondary_titles: 
 essence:
   - Cooperation
