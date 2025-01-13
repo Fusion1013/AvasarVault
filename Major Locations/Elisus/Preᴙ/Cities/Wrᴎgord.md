@@ -75,6 +75,10 @@ The Master of Coin is a critical position, currently held by [[House Terenti]]. 
 Oversees the city's legal system. This position is selected by consensus between the major houses to maintain neutrality, though [[House Dorofei]] typically influences the appointment. The position is currently held by [[Anatol Karskov]], an independent but subtly allied figure to [[House Dorofei|Dorofei]].
 ## Overseer of Trade (Nadzornik Torgovli)
 Manages trade routes, market regulation, and tariffs. This position is fiercely contested, as it provides an important foothold in the city's commerce. The position has been held by members of [[House Dorofei]] for the past generation, but recently [[House Gerasim]] has come to control it.
+# Organizations
+Except for the Noble Houses, there are some powerful guilds and other organizations that operate within and around the city.
+## Merchant's Guild (Torgovyy Soyuz)
+
 # Landmarks
 ## **Kov**ᴙ River
 This wide river flows through the center of the entire city. In the inner part of the city it has been converted into a series of canals that run through the inner city, allowing transport by water to key locations.
