@@ -2,7 +2,7 @@
 tags:
   - god
   - minor_god
-title: The Prime Sculptur
+_title: The Prime Sculptur
 secondary_titles: 
 essence:
   - Creativity

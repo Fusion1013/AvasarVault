@@ -2,7 +2,7 @@
 tags:
   - god
   - minor_god
-title: The Shadowed Mask
+_title: The Shadowed Mask
 secondary_titles: 
 essence:
   - Trickery

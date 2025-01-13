@@ -2,7 +2,7 @@
 tags:
   - god
   - major_god
-title: Embrace of Darkness
+_title: Embrace of Darkness
 secondary_titles: 
 essence:
   - Cycle of Souls

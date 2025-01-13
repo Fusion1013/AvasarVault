@@ -2,7 +2,7 @@
 tags:
   - god
   - major_god
-title: The Soulless Mistress
+_title: The Soulless Mistress
 secondary_titles:
   - The Golden Maiden
 essence:

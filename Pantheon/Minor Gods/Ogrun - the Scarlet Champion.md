@@ -2,7 +2,7 @@
 tags:
   - god
   - minor_god
-title: The Scarlet Champion
+_title: The Scarlet Champion
 secondary_titles: 
 essence:
   - Glory

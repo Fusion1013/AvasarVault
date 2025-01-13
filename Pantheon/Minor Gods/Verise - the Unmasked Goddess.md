@@ -2,7 +2,7 @@
 tags:
   - god
   - minor_god
-title: The Unmasked Goddess
+_title: The Unmasked Goddess
 secondary_titles:
   - Torchbearer
 essence:
