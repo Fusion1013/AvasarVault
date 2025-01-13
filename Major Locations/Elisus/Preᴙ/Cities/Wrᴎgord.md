@@ -2,7 +2,7 @@
 tags:
   - city
 nation: Preia
-draft: true
+draft: false
 population: 48100
 ---
 > [!infobox|right]
