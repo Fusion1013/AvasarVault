@@ -10,8 +10,9 @@ essence:
   - Magic
 todo:
   - Populate sections for domain and symbology
-plane: "[[Aurora Ortus]]"
-draft: true
+plane:
+  - "[[Aurora Ortus]]"
+draft: false
 ---
 # Overview
 One of the minor [[Pantheon Overview|Gods]], attuned to [[Aurora Ortus]].

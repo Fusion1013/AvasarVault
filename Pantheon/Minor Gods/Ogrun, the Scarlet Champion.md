@@ -11,8 +11,9 @@ essence:
   - Bloodshed
 todo:
   - Populate sections for domain and symbology
-plane: "[[Stratosia, Plane of War]]"
-draft: true
+plane:
+  - "[[Stratosia, Plane of War]]"
+draft: false
 ---
 # Overview
 One of the minor [[Pantheon Overview|Gods]], attuned to [[Stratosia, Plane of War|Stratosia]].

@@ -2,7 +2,7 @@
 editors:
   - Fusion
   - Ruff
-draft: true
+draft: false
 ---
 # Introduction
 Due to the long year, agriculture on Avasar has had to adapt to the harsh environments. While long summers create ample opportunities for growing crops, the harsh and long winters can cause severe famine if not prepared for properly.

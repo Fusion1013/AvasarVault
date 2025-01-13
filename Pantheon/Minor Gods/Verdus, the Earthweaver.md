@@ -10,8 +10,9 @@ essence:
   - Growth
 todo:
   - Populate sections for domain and symbology
-plane: "[[Feralia]]"
-draft: true
+plane:
+  - "[[Feralia]]"
+draft: false
 ---
 # Overview
 One of the minor [[Pantheon Overview|Gods]], attuned to [[Feralia]].

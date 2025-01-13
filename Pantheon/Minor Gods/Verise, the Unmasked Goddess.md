@@ -10,8 +10,9 @@ essence:
   - Truth Seeking
 todo:
   - Populate sections for domain and symbology
-plane: "[[Vertae, Plane of Truth]]"
-draft: true
+plane:
+  - "[[Vertae, Plane of Truth]]"
+draft: false
 ---
 # Overview
 One of the minor [[Pantheon Overview|Gods]], attuned to [[Vertae, Plane of Truth|Vertae]].

@@ -11,8 +11,9 @@ essence:
   - Stability
 todo:
   - Populate sections for symbology
-plane: "[[Orthosia, Plane of Order]]"
-draft: true
+plane:
+  - "[[Orthosia, Plane of Order]]"
+draft: false
 ---
 # Overview
 One of the minor [[Pantheon Overview|Gods]], attuned to [[Orthosia, Plane of Order|Orthosia]].
