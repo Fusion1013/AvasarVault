@@ -5,7 +5,7 @@ todo:
   - Populate
   - Integrate notes into document
 celestial_body: "[[Cosmology Overview#Verax (Truth)|Verax]]"
-attuned_god: "[[Verise, the Unmasked Goddess]]"
+attuned_god: "[[Verise - the Unmasked Goddess]]"
 draft: true
 ---
 *"QUOTE"*

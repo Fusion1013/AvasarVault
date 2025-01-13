@@ -2,7 +2,7 @@
 tags:
   - plane/inner
 celestial_body: "[[Cosmology Overview#Ortuvis (Arcana)|Ortuvis]]"
-attuned_god: "[[Saheir, the Enchantress]]"
+attuned_god: "[[Saheir - the Enchantress]]"
 aliases:
   - Dawn Rise
   - Dawn Taiga
@@ -11,7 +11,7 @@ aliases:
 *"The dawn rises eternal in the Aurora Ortus, yet it is a beauty edged with peril. To walk its frozen woods is to walk a tightrope between wonder and oblivion."
 — Vaeleth Frostweaver, arcanist of the Frigid Veil*
 
-**Attuned God:** [[Saheir, the Enchantress]]
+**Attuned God:** [[Saheir - the Enchantress]]
 
 **Celestial Body:** [[Cosmology Overview#Ortuvis (Arcana)|Ortuvis]]
 
@@ -19,7 +19,7 @@ aliases:
 
 ![[AuroraOrtus.png]]
 # Overview
-Aurora Ortus, roughly translating to Dawn Rise, is a frigid forest [[Planes Overview|Plane]], known primarily as the origin of the Northern Lights. Many cultures have different names for the Aurora Ortus, also calling it the Dawn Taiga or Boreal Woods or naming it after the local names for [[Saheir, the Enchantress]]. The Aurora Ortus is notable as the origin of the Northern Lights. These lights are a divine blessing and message of hope that dances across the sky in the colder, northern regions of the world. The vulpine are common in the Aurora Ortus and they are given the holy task of maintaining the northern lights and are responsible for bringing it out of the ground each day.
+Aurora Ortus, roughly translating to Dawn Rise, is a frigid forest [[Planes Overview|Plane]], known primarily as the origin of the Northern Lights. Many cultures have different names for the Aurora Ortus, also calling it the Dawn Taiga or Boreal Woods or naming it after the local names for [[Saheir - the Enchantress]]. The Aurora Ortus is notable as the origin of the Northern Lights. These lights are a divine blessing and message of hope that dances across the sky in the colder, northern regions of the world. The vulpine are common in the Aurora Ortus and they are given the holy task of maintaining the northern lights and are responsible for bringing it out of the ground each day.
 # Environment
 ![[AuroraOrtus2.png]]
 ## Shooting Stars

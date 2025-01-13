@@ -1,7 +1,7 @@
 ---
 tags:
   - month
-god: "[[Veda, the Elder Scribe]]"
+god: "[[Veda - the Elder Scribe]]"
 order: 13
 ---
 [[Calendar Overview]]

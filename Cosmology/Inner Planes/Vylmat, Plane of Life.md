@@ -4,7 +4,7 @@ tags:
 todo:
   - Populate
 celestial_body: "[[Cosmology Overview#Gaia (1.2 AU)|Gaia]]"
-attuned_god: "[[Anvarra, the Soulless Mistress]]"
+attuned_god: "[[Anvarra - the Soulless Mistress]]"
 ---
 *"Life is too short to understand what life is"*
 ```dataviewjs

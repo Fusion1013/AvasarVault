@@ -17,7 +17,7 @@ description: Havdal is the largest port city within the [[Saxum Sovereignty Over
 > | **Demonym** | [[Havdalir]] |
 > | - | - |
 > | **Races** | 29% humans, 15% dwarves, 12% halflings, 44% other races |
-> | **Religions** | [[Merstur, the Unbroken Tide]] |
+> | **Religions** | [[Merstur - the Unbroken Tide]] |
 > ###### Commerce
 > | **Imports** | ? |
 > | - | - |
@@ -51,7 +51,7 @@ This shipyard is responsible for producing merchant vessels and warships. Visito
 
 Just outside the area is a decommissioned battleship, The Unyielding Tide, docked. It is now used as a museum ship, its decks lined with displays of objects and relics from battles fought at sea.
 ## Temple of Merstur
-This grand temple is dedicated to [[Merstur, the Unbroken Tide]], the god of the weather and seas. It serves as a place of worship for merchants and sailors, with an interior decorated with mosaics depicting the seas. Offerings of coins, crafted goods, and food are left here before major voyages.
+This grand temple is dedicated to [[Merstur - the Unbroken Tide]], the god of the weather and seas. It serves as a place of worship for merchants and sailors, with an interior decorated with mosaics depicting the seas. Offerings of coins, crafted goods, and food are left here before major voyages.
 # Defenses
 Havdal's defensive network is a response to the devastation caused by the [[1276 APC - Invasion of Saxum|Invasion of Saxum in 1276 APC]]. These measures were taken to ensure the city's safety in the face of such an attack, with a focus on repelling future attacks from both sea and land. Below is a detailed account of its key defensive features.
 ## Warships

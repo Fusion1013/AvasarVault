@@ -4,7 +4,7 @@ tags:
 todo:
   - Populate
 celestial_body: "[[Cosmology Overview#Phenro (Chaos)|Phenro]]"
-attuned_god: "[[Midar, the Unshackled]]"
+attuned_god: "[[Midar - the Unshackled]]"
 draft: true
 ---
 *"QUOTE"*

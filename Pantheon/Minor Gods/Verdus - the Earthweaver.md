@@ -27,6 +27,6 @@ Followers usually don themselves in simple clothing of green and brown, represen
 # Worship
 Most temples are smaller and located in forests. In rare cases larger temples can be found in cities, though mostly in major cities and often close to a park or other nature-dense location. Followers are seen as protectors of nature around their region, with the temple being their safe haven. Many take up druidic magic, as a way to get closer to nature and in order to be able to protect it. Followers can be found working in animal sanctuaries, or other spaces that value nature and animals. Devotees constrained to the cities may cultivate small bonsai trees, terrariums, or miniature gardens as portable altars and living symbols of Verdus' essence.
 
-Followers of Verdus usually work closely with followers of [[Anvarra, the Soulless Mistress|Anvarra]], since their goals often overlap.
+Followers of Verdus usually work closely with followers of [[Anvarra - the Soulless Mistress|Anvarra]], since their goals often overlap.
 
 Some extreme followers believe that cities and infrastructure are a threat to nature, and might take steps to halt their development.

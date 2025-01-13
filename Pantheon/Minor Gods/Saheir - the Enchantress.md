@@ -31,6 +31,6 @@ Violet, silver and gold are common colors used by followers of Saheir. Violet re
 # Worship
 Followers are often scholars that devote themselves to studying, practicing, and experimenting with both arcane and divine magic. Spellcraft, enchantment, potion-making, or creating magical artefacts are common practice. Some worshippers deliberately push the boundaries of magic, exploring rare or dangerous schools of magic to demonstrate their dedication to understanding its full potential. Most followers do not believe that such a thing as ‘good’ or ‘bad’ magic exists and instead think that magic is a neutral force.
 
-Followers commonly work together with followers of [[Veda, the Elder Scribe]], as their goals often overlap. Collecting, preserving, and sharing arcane knowledge is a fundamental way to honor Saheir.
+Followers commonly work together with followers of [[Veda - the Elder Scribe]], as their goals often overlap. Collecting, preserving, and sharing arcane knowledge is a fundamental way to honor Saheir.
 
 Some followers engage in rituals to enter the [[Plane of Dreams]] and commune with Saheir. This may involve meditation, use of various substances or enchanted artefacts such as dreamcatchers or moonstone charms. Dreamwalkers, a subgroup of Saheir's followers, actively explore dreams - both their own and others. They believe that Saheir often speaks through dreams, sending cryptic visions or riddles to guide her followers.

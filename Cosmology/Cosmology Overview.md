@@ -101,7 +101,7 @@ Has a deep crater that formed when Merstur’s asteroid collided with it. Most o
 **Corresponding Plane:** [[Terozin, Plane of Weather & Seas]]
 **Appearance:** Gray & ice blue rock
 
-A small satellite of ice and rock. Remnants of an asteroid that collided with Sylvanis when [[Merstur, the Unbroken Tide|Merstur]] attempted to attune to [[Feralia]].
+A small satellite of ice and rock. Remnants of an asteroid that collided with Sylvanis when [[Merstur - the Unbroken Tide|Merstur]] attempted to attune to [[Feralia]].
 #### Avasar (Material, 1.53 AU)
 **Corresponding Plane:** The Material Plane
 **Appearance:** Earth-like appearance

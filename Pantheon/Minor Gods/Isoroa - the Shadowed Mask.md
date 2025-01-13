@@ -21,7 +21,7 @@ Isoroa is the goddess of trickery, deception, and illusions. She holds dominion 
 # Symbology
 There are not many symbols used to represent Isoroa, as worshippers tend to not wear anything to indicate their relationship towards the goddess. Some followers might wear a hidden medallion or ring of some kind, though it is fairly uncommon. These items often depict a mask of some kind, symbolizing the hiding of secrets.
 # Worship
-Her teachings often appeal to those who live by their wits; rogues, illusionists, spies, politicians, and even performers. She also finds worshipers among those who value freedom and adaptability, particularly those who see deception as a necessary skill for survival. Worshipers of Isoroa and [[Vuzen, the Law Baron]] often clash, as many of Isoroa's followers have little respect for the laws of the land.
+Her teachings often appeal to those who live by their wits; rogues, illusionists, spies, politicians, and even performers. She also finds worshipers among those who value freedom and adaptability, particularly those who see deception as a necessary skill for survival. Worshipers of Isoroa and [[Vuzen - the Law Baron]] often clash, as many of Isoroa's followers have little respect for the laws of the land.
 
 Isoroa inspires artistry and creativity, particularly to those who create simple illusions or weave compelling stories. Whether through magic, performance, or simple cunning, her followers revel in the power of illusion to evoke wonder and awe. Followers often honor her by performing clever tricks, pranks, or acts of subterfuge. These can range from harmless mischief to elaborate ruses that showcase their ingenuity.
 
