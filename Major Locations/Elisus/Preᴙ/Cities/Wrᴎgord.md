@@ -78,7 +78,13 @@ Manages trade routes, market regulation, and tariffs. This position is fiercely 
 # Organizations
 Except for the Noble Houses, there are some powerful guilds and other organizations that operate within and around the city.
 ## Merchant's Guild (Torgovyy Soyuz)
+An independent organization that represents the will of the merchants and traders that operate within [[Wrᴎgord]]. They have a large amount of influence over the trade operations in the city, and work closely with the governmentally appointed Overseer of Trade to make sure both the merchants and the nobles wills are balanced and respected. The guild often acts as a power broker, siding with the house that offers the most lucrative contracts or policies favouring their trade. The guild also has strong ties to [[House Terenti]], with them providing a large amount of funding to keep the guild operational.
 
+Their headquarters in the [[Wrᴎgord#Market District (Torgovaya Ploshchad)|Market District]] doubles as a hub for commerce and political manoeuvring.
+## The City Guard (Gorodskaya Strazha)
+A small force of trained guards that maintain law and order in the city. While they are supposed to remain neutral, the guard's leadership and funding are closely tied to [[House Dorofei]]. The force is currently lead by the **Marshal of the City**, [[Sergei Dorofei]].
+## The Church of the Eternal Flame (Tserkov' Vechnogo Ognyᴙ)
+The dominant religious institution in [[Wrᴎgord]], with strong ties to the ruling elite. The High Priest's seat in the council gives the church an influence on political decisions. This church oversees the accepted [[Wrᴎgord#Religion|religions]] within the city and has public temples dedicated to [[Vuzen - the Law Baron]], [[Isoroa - the Shadowed Mask]], [[Saheir - the Enchantress]], and [[Veda - the Elder Scribe]].
 # Landmarks
 ## **Kov**ᴙ River
 This wide river flows through the center of the entire city. In the inner part of the city it has been converted into a series of canals that run through the inner city, allowing transport by water to key locations.
