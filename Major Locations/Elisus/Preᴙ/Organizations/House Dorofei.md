@@ -11,7 +11,9 @@ House Dorofei is a noble house from [[Preᴙ Overview|Preᴙ]], operating primar
 
 The recent [[1374 APC - Tamerian Tragedy|Tamerian Tragedy]] marked a major power shift within the family, resulting in [[Aleks Dorofei]] coming to power, something that was not popular with other branches of the family. The tragedy took place in 1374 APC during a ball with multiple high-ranking noble houses. Top members of House Dorofei were in attendance and were subsequently all poisoned to death, together with most of the other attendees. After this, [[Aleks Dorofei]] swiftly rose to power, vowing to find those responsible. Eventually the tragedy was blamed on [[House Matfey]] and their members were executed. There remains doubt if they were the true culprits or merely a scapegoat.
 # Family Values & Traits
+[[House Dorofei]] values order and tradition above all else. As they are one of the oldest noble houses, dating back to before the coup that turned [[Preᴙ Overview|Preᴙ]] into what it is today, they still cling to some of the values and traditions from back in those days. Because of this, they often have disagreements with some of the younger and more progressive noble families, for example [[House Vikentiv]].
 
+For a long time [[House Dorofei]] have represe
 # Power & Influence
 ## Government
 ## Economic
