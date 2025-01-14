@@ -6,7 +6,7 @@ nation: Preia
 draft: true
 ---
 # Overview
-House Dorofei is a noble house from [[Preᴙ Overview|Preᴙ]], operating primarily out of [[Wrᴎgord]]. This noble family has its roots since before the [[So'Dar Empire Overview|So'Dar]] war, making it one of the oldest, still intact, bloodlines. They are one of the most powerful houses within the nation, holding major positions within the Preᴙ government. More recently, the family's position has become threatened. Internal conflicts have escalated over the past few years, giving other houses an opportunity to grasp at power. [[House Terenti]] were recently able to take control of one of the most important governmental positions, appointing one of their own as Master of Coin.
+House Dorofei is a noble house from [[Preᴙ Overview|Preᴙ]], operating primarily out of [[Wrᴎgord]]. This noble family has its roots since before the [[So'Dar Empire Overview|So'Dar]] war, making it one of the oldest, still intact, bloodlines. They are one of the most powerful houses within the nation, holding major positions within the Preᴙ government. More recently, the family's position has become threatened. Internal conflicts have escalated over the past few years, giving other houses an opportunity to grasp at power.
 # History
 // TODO
 
