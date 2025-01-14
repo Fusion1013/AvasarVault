@@ -3,6 +3,7 @@ tags:
   - organization/major
   - noblehouse
 nation: Preia
+draft: true
 ---
 # Overview
 House Dorofei is a noble house from [[Preᴙ Overview|Preᴙ]], operating primarily out of [[Wrᴎgord]]. This noble family has its roots since before the [[So'Dar Empire Overview|So'Dar]] war, making it one of the oldest, still intact, bloodlines. They are one of the most powerful houses within the nation, holding major positions within the Preᴙ government. More recently, the family's position has become threatened. Internal conflicts have escalated over the past few years, giving other houses an opportunity to grasp at power. [[House Terenti]] were recently able to take control of one of the most important governmental positions, appointing one of their own as Master of Coin.
@@ -16,12 +17,27 @@ The recent [[1374 APC - Tamerian Tragedy|Tamerian Tragedy]] marked a major power
 For a long time [[House Dorofei]] ideals have been representative of [[Preᴙ Overview|Preᴙ]] as a whole, though this has changed during more recent years. Recent events have shown that [[Preᴙ Overview|Preᴙs]] conservative ideals have caused them to fall behind the rest of the world both in terms of technological and societal progress, they are now seen as a relic of a past kingdom to the rest of the world. Because of this, people have started to look towards other houses to lead them that showcase more progressive ideals.
 # Power & Influence
 ## Government
-[[House Dorofei]] have almost complete control of the nations military. They have people in the leadership of all branches of military, the city guard, and even supposedly private protection businesses that have a hand in protecting the other noble families. This is a big part of why they have managed to stay in power for as long as they have. Their military strength and influence has historically helped them forcibly shut down any opposition whenever necessary, though this is a power that they exercise with caution as they know the people dislike these practices. Most of the time, the mere threat of an intervention is enough to stave off any political threat.
+[[House Dorofei]] have almost complete control of the nations military. They have people in the leadership of all branches of military, the city guard, and even supposedly private protection businesses that have a hand in protecting the other noble families. This is a big part of why they have managed to stay in power for as long as they have. Their military strength and influence has historically helped them forcibly shut down any opposition whenever necessary, though this is a power that they exercise with caution as they know the people dislike these practices. Most of the time, the mere threat of an intervention is enough to stave off any political threat. The military powers have seen more use recently however, since [[Aleks Dorofei]] came to power.
 
 They also occupy a majority of the seats on the city council in [[Wrᴎgord]], giving them massive influence over policymaking and the politics of the entire nation.
 ## Economic
 *What industries or resources do they control?*
+[[House Dorofei]] owns a lot of the buildings in the High District and in the 
 ## Alliances
+*Who are their allies? Are they alligned with other noble families, guilds, religious leaders, or foreign powers?*
+
+[[House Dorofei]] have strong ties to the religious establishments that operate in the city, and make up a big part of the funding that they require to operate. The High Priest of the Church of the Eternal Flame is an old family friend of the [[House Dorofei|Dorofei's]].
 # Rivalries & Conflicts
+*Internal struggles - Are there factions within the family vying for power?*
+
+*External enemies - Which other noble houses or factions do they feud with, and why?*
+
+*Interpersonal feuds - Are there personal grudges between key members of rival families?*
 # Daily Life & Customs
+*Residence - Describe their estate or palaces*
+
+*Traditions - Do they hold unique festivals, rituals, or events?*
+
+*Relationships - How do they treat their servants, soldiers, and the common folk?*
 # Religion & Philosophy
+*Are they devout followers of a particular faith? How do they view governance, war, and progress?*

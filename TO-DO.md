@@ -13,6 +13,6 @@ SORT (choice(editors = null, "z", editors) + file.name) ASC
 ```dataview
 TABLE
 tags AS "Tags"
-WHERE draft != null
+WHERE draft = true
 SORT file.name ASC
 ```
