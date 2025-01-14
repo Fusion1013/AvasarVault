@@ -22,7 +22,8 @@ For a long time [[House Dorofei]] ideals have been representative of [[Preᴙ Ov
 They also occupy a majority of the seats on the city council in [[Wrᴎgord]], giving them massive influence over policymaking and the politics of the entire nation.
 ## Economic
 *What industries or resources do they control?*
-[[House Dorofei]] owns a lot of the buildings in the High District and in the 
+
+Most of [[House Dorofei|House Dorofei's]] wealth comes from land ownership. They own a lot of the buildings in the High District and in the Common District, renting them out to businesses, tenants, and even other noble families in some cases.
 ## Alliances
 *Who are their allies? Are they alligned with other noble families, guilds, religious leaders, or foreign powers?*
 
