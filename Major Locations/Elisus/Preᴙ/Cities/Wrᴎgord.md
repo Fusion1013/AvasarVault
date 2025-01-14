@@ -80,7 +80,7 @@ Except for the Noble Houses, there are some powerful guilds and other organizati
 ## Merchant's Guild (Torgovyy Soyuz)
 An independent organization that represents the will of the merchants and traders that operate within [[Wrᴎgord]]. They have a large amount of influence over the trade operations in the city, and work closely with the governmentally appointed Overseer of Trade to make sure both the merchants and the nobles wills are balanced and respected. The guild often acts as a power broker, siding with the house that offers the most lucrative contracts or policies favouring their trade. The guild also has strong ties to [[House Terenti]], with them providing a large amount of funding to keep the guild operational.
 
-Their headquarters in the [[Wrᴎgord#Market District (Torgovaya Ploshchad)|Market District]] doubles as a hub for commerce and political manoeuvring.
+Their headquarters in the [[Wrᴎgord#Market District (Torgovaya Ploshchad)|Market District]] doubles as a hub for commerce and for political manoeuvring.
 ## The City Guard (Gorodskaya Strazha)
 A small force of trained guards that maintain law and order in the city. While they are supposed to remain neutral, the guard's leadership and funding are closely tied to [[House Dorofei]]. The force is currently lead by the **Marshal of the City**, [[Sergei Dorofei]].
 ## The Church of the Eternal Flame (Tserkov' Vechnogo Ognyᴙ)
