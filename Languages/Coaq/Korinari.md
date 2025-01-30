@@ -31,6 +31,16 @@ Korinari uses a 6-case system, meaning nouns change based on their roles in a se
 | Instrumental | -oy / -yu | -om / -ᴙom | -om / -ᴙom | "With" or "by means of" something | On puteshestvuet se kovᴙom -> "He travels with the mountain" |
 | Locative     | -ᴎ / -e   | -e / -ᴙe   | -e / -ᴙe   | "In/on" a place                   | Ya zhivu v kovᴙe -> "I live in the mountain"                 |
 Masculine nouns typically end in a consonant, feminine nouns typically end in -ᴎ or -a, neuter nouns end in -o or -e and Instrumental & Locative cases use -ᴙ in alternation.
+## Gender and Adjective Agreement
+All nouns are gendered, and adjectives must match the noun's gender.
+
+| Gender    | Example Noun    | Singular | Plural | Adjective Agreement (using "vysok" - tall) |
+| --------- | --------------- | -------- | ------ | ------------------------------------------ |
+| Masculine | Kovᴙ (mountain) | -iy      | -ye    | Vysokiy kovᴙ ("tall mountain")             |
+| Feminine  | Zemlᴎ (land)    | -aya     | -i     | Vysokaya zemlᴎ ("tall land")               |
+| Neuter    | Ozero (lake)    | -oe      | -oa    | Vysokoe ozero ("tall lake)                 |
+## Pronouns and Possession
+
 # Words
 ## Adjectives
 - Kovrat - Rugged
