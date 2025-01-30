@@ -44,7 +44,7 @@ All nouns are gendered, and adjectives must match the noun's gender.
 | ------ | --------------------------------------- | ------------------------------------- | ---------------- | --------------- |
 | 1st    | ya (I)                                  | menᴎa (me)                            | my (we)          | nas (us)        |
 | 2nd    | ty (you - informal) / vy (you - formal) | tebᴎa (you - informal) / vas (formal) | vy (you all)     | vas (you all)   |
-| 3rd    | on (he) / ona (she) / ono (it)          | (him) (her) (it)                      | oni (they)       | ikh (them)      |
+| 3rd    | on (he) / ona (she) / ono (it)          | ego (him) eyo (her) ego (it)          | oni (they)       | ikh (them)      |
 ### Possessive Pronouns
 ## Verb Conjugation and Tenses
 | Infinitive Ending | Verb    | 1st Person           | 2nd Person              | 3rd Person             |
@@ -53,10 +53,26 @@ All nouns are gendered, and adjectives must match the noun's gender.
 | -et / -ᴎet        | lyubᴎet | ya lyublyu (I love)  | ty lyubish (you love)   | on lyubit (he loves)   |
 | -it / -yit        | pisayit | ya pisayu (I write)  | ty pisayesh (you write) | on pisayet (he writes) |
 ### Past Tense
+The past tense is gendered.
 
+| Subject                             | Masculine (-ᴙl/-l) | Feminine (-ᴎ/-la)    | Neuter (-o)         | Plural (-i/-li)       |
+| ----------------------------------- | ------------------ | -------------------- | ------------------- | --------------------- |
+| 1st Person ("I")                    | Ya vidᴙl (I saw)   | Ya vidᴎla (I saw)    | Ya vidᴙlo (I saw)   | My vidᴙli (We saw)    |
+| 2nd Person Informal ("You")         | Ty vidᴙl (You saw) | Ty vidᴎla (You saw)  | Ty vidᴙlo (You saw) | Vy vidᴙli (You saw)   |
+| 2nd Person Formal / Plural ("You")  | Vy vidᴙl (You saw) | Vy vidᴎla (You saw)  | Vy vidᴙlo (You saw) | Vy vidᴙli (You saw)   |
+| 3rd Person ("He / She / It / They") | On vidᴙl (He saw)  | Ona vidᴎla (She saw) | Ono vidᴙlo (It saw) | Oni vidᴙli (They saw) |
 ### Future Tense
 ## Negation & Questions
+Negation is formed by adding "ne-" before verbs.
 
+Questions are marked by intonation, word order, or question words.
+- Yes/No Question:
+	- Ty videl kovᴙ? - "Did you see the mountain?"
+- Question Words:
+	- Chto? - "What?"
+	- Gde? - "Where?"
+	- Kogda? - "When?"
+	- Kak? - "How?"
 # Words
 ## Adjectives
 - Kovrat - Rugged
