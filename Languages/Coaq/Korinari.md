@@ -32,18 +32,22 @@ Korinari uses a 6-case system, meaning nouns change based on their roles in a se
 | Locative     | -ᴎ / -e   | -e / -ᴙe   | -e / -ᴙe   | "In/on" a place                   | Ya zhivu v kovᴙe -> "I live in the mountain"                 |
 Masculine nouns typically end in a consonant, feminine nouns typically end in -ᴎ or -a, neuter nouns end in -o or -e and Instrumental & Locative cases use -ᴙ in alternation.
 # Words
+## Adjectives
+- Kovrat - Rugged
+- Mᴎrk - Dark, Gloomy
+- Velik - Great
+- Vysok - High
+## Nouns
 - Grod, Gorod, Gord - City
 - Les - Forest
-- Kovrat - Rugged
 - Khrebet - Ridge
 - Med - Copper
-- Mᴎrk - Dark, Gloomy
-- Nik - Suffix for small unit
 - Ozᴎro - Lake
 - Platina - Platinum
 - Prist - Wharf
 - Serebro - Silver
 - Ugle - Coal
-- Velik - Great
-- Vysok - High
 - Zolᴙto, Zlato - Gold
+## Verbs
+## Units
+- Nik - Suffix for small unit
