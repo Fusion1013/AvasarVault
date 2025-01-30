@@ -21,7 +21,14 @@ Korinari does not use definitive/indefinitive articles ("the" and "a").
 - Vidim les -> "We see (a/the) forest"
 ## Noun Cases and Declensions
 Korinari uses a 6-case system, meaning nouns change based on their roles in a sentence. Below is an example using the word kovᴙ, mountain.
-| Case | Function | 
+| Case         | Function                          | Example (using "kovᴙ" - mountain)   |
+| ------------ | --------------------------------- | ----------------------------------- |
+| Nominative   | Subject of a sentence             | Kovᴙ vysokiy (The mountain is tall) |
+| Accuastive   | Direct object (what is affected)  | Ya vizhy kovᴙ (I see the mountain)  |
+| Genitive     | Possession / "of" something       | Vershᴎna kovᴙ (The peak of the mountain)                                    |
+| Dative       | Indirect object / "to" someone    |                                     |
+| Instrumental | "With" or "by means of" something |                                     |
+| Locative     | "In/on" a place                   | Ya va kovᴙe                                    |
 # Words
 - Grod, Gorod, Gord - City
 - Les - Forest
