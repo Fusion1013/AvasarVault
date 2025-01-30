@@ -1,7 +1,7 @@
 ---
 tags:
   - city
-nation: Preia
+nation: So'Dar
 population: 39000
 ---
 *"QUOTE"*
