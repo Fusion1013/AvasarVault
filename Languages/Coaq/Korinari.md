@@ -13,32 +13,31 @@ Korinari is a [[Coaq]] language spoken by the former nations conquered by [[So'D
 # Grammar
 ## Sentence Structure
 Korinari uses SVO-order (Subject-Verb-Object), though SOV (Subject-Object-Verb) may appear in more formal or poetic texts. For example:
-- **SVO:** Vasili kovᴙ videl -> "Vasili saw the mountain"
-- **OSV:** Kovᴙ Vasili videl -> "The mountain, Vasili saw"
+- **SVO:** Vasili kovᴙ videl -> "Vasili saw the river"
+- **OSV:** Kovᴙ Vasili videl -> "The river, Vasili saw"
 ### Articles
 Korinari does not use definitive/indefinitive articles ("the" and "a").
-- Gorod velikiy -> "(The/A) city is great"
 - Vidim les -> "We see (a/the) forest"
 ## Noun Cases and Declensions
-Korinari uses a 6-case system, meaning nouns change based on their roles in a sentence. Below is an example using the word kovᴙ, mountain.
+Korinari uses a 6-case system, meaning nouns change based on their roles in a sentence. Below is an example using the word kovᴙ, river.
 
-| Case         | Feminine  | Masculine  | Neuter     | Function                          | Example (using "kovᴙ" - mountain)                            |
-| ------------ | --------- | ---------- | ---------- | --------------------------------- | ------------------------------------------------------------ |
-| Nominative   | -ᴎ / -a   | -          | -o / -e    | Subject of a sentence             | Kovᴙ vysokiy -> "The mountain is tall"                       |
-| Accusative   | -u        | -a         | -o / -e    | Direct object (what is affected)  | Ya vizhu kovᴙ -> "I see the mountain"                        |
-| Genitive     | -ᴎ / -y   | -a / -ᴙa   | -a / -ᴙa   | Possession / "of" something       | Vershᴎna kovᴙa -> "The peak of the mountain"                 |
-| Dative       | -ᴎ / -e   | -u / -ᴙu   | -u / -ᴙu   | Indirect object / "to" someone    | Day knigu kovᴙu -> "Give the book to the mountain"           |
-| Instrumental | -oy / -yu | -om / -ᴙom | -om / -ᴙom | "With" or "by means of" something | On puteshestvuet se kovᴙom -> "He travels with the mountain" |
-| Locative     | -ᴎ / -e   | -e / -ᴙe   | -e / -ᴙe   | "In/on" a place                   | Ya zhivu v kovᴙe -> "I live in the mountain"                 |
+| Case         | Feminine  | Masculine  | Neuter     | Function                          | Example (using "kovᴙ" - river)                            |
+| ------------ | --------- | ---------- | ---------- | --------------------------------- | --------------------------------------------------------- |
+| Nominative   | -ᴎ / -a   | -          | -o / -e    | Subject of a sentence             | Kovᴙ vysokiy -> "The river is tall"                       |
+| Accusative   | -u        | -a         | -o / -e    | Direct object (what is affected)  | Ya vizhu kovᴙ -> "I see the river"                        |
+| Genitive     | -ᴎ / -y   | -a / -ᴙa   | -a / -ᴙa   | Possession / "of" something       | Vershᴎna kovᴙa -> "The start of the river"                |
+| Dative       | -ᴎ / -e   | -u / -ᴙu   | -u / -ᴙu   | Indirect object / "to" someone    | Day knigu kovᴙu -> "Give the book to the river"           |
+| Instrumental | -oy / -yu | -om / -ᴙom | -om / -ᴙom | "With" or "by means of" something | On puteshestvuet se kovᴙom -> "He travels with the river" |
+| Locative     | -ᴎ / -e   | -e / -ᴙe   | -e / -ᴙe   | "In/on" a place                   | Ya zhivu v kovᴙe -> "I live in the river"                 |
 Masculine nouns typically end in a consonant, feminine nouns typically end in -ᴎ or -a, neuter nouns end in -o or -e and Instrumental & Locative cases use -ᴙ in alternation.
 ## Gender and Adjective Agreement
 All nouns are gendered, and adjectives must match the noun's gender.
 
-| Gender    | Example Noun    | Singular | Plural | Adjective Agreement (using "vysok" - tall) |
-| --------- | --------------- | -------- | ------ | ------------------------------------------ |
-| Masculine | Kovᴙ (mountain) | -iy      | -ye    | Vysokiy kovᴙ ("tall mountain")             |
-| Feminine  | Zemlᴎ (land)    | -aya     | -i     | Vysokaya zemlᴎ ("tall land")               |
-| Neuter    | Ozero (lake)    | -oe      | -oa    | Vysokoe ozero ("tall lake)                 |
+| Gender    | Example Noun | Singular | Plural | Adjective Agreement (using "vysok" - tall) |
+| --------- | ------------ | -------- | ------ | ------------------------------------------ |
+| Masculine | Kovᴙ (river) | -iy      | -ye    | Vysokiy kovᴙ ("tall river")                |
+| Feminine  | Zemlᴎ (land) | -aya     | -i     | Vysokaya zemlᴎ ("tall land")               |
+| Neuter    | Ozero (lake) | -oe      | -oa    | Vysokoe ozero ("tall lake)                 |
 ## Pronouns and Possession
 | Person | Subject (Singular)                      | Object (Singular)                     | Subject (Plural) | Object (Plural) |
 | ------ | --------------------------------------- | ------------------------------------- | ---------------- | --------------- |
@@ -67,7 +66,7 @@ Negation is formed by adding "ne-" before verbs.
 
 Questions are marked by intonation, word order, or question words.
 - Yes/No Question:
-	- Ty videl kovᴙ? - "Did you see the mountain?"
+	- Ty videl kovᴙ? - "Did you see the river?"
 - Question Words:
 	- Chto? - "What?"
 	- Gde? - "Where?"
@@ -83,6 +82,7 @@ Questions are marked by intonation, word order, or question words.
 - Grod, Gorod, Gord - City
 - Les - Forest
 - Khrebet - Ridge
+- Kovᴙ - River
 - Med - Copper
 - Ozᴎro - Lake
 - Platina - Platinum
