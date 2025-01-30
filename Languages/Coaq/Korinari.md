@@ -21,15 +21,16 @@ Korinari does not use definitive/indefinitive articles ("the" and "a").
 - Vidim les -> "We see (a/the) forest"
 ## Noun Cases and Declensions
 Korinari uses a 6-case system, meaning nouns change based on their roles in a sentence. Below is an example using the word kovᴙ, mountain.
+
 | Case         | Feminine  | Masculine  | Neuter     | Function                          | Example (using "kovᴙ" - mountain)                            |
 | ------------ | --------- | ---------- | ---------- | --------------------------------- | ------------------------------------------------------------ |
-| ------------ | --------- | ---------- | ---------- | --------------------------------- | ------------------------------------------------------------ |
-| Nominative   | -ᴎ / -a   |            | -o / -e    | Subject of a sentence             | Kovᴙ vysokiy -> "The mountain is tall"                       |
-| | Accusative   | -u        | -a         | -o / -e    | Direct object (what is affected)  | Ya vizhu kovᴙ -> "I see the mountain"                        |
+| Nominative   | -ᴎ / -a   | -          | -o / -e    | Subject of a sentence             | Kovᴙ vysokiy -> "The mountain is tall"                       |
+| Accusative   | -u        | -a         | -o / -e    | Direct object (what is affected)  | Ya vizhu kovᴙ -> "I see the mountain"                        |
 | Genitive     | -ᴎ / -y   | -a / -ᴙa   | -a / -ᴙa   | Possession / "of" something       | Vershᴎna kovᴙa -> "The peak of the mountain"                 |
 | Dative       | -ᴎ / -e   | -u / -ᴙu   | -u / -ᴙu   | Indirect object / "to" someone    | Day knigu kovᴙu -> "Give the book to the mountain"           |
 | Instrumental | -oy / -yu | -om / -ᴙom | -om / -ᴙom | "With" or "by means of" something | On puteshestvuet se kovᴙom -> "He travels with the mountain" |
-| Locative     | -ᴎ / -e   | -e / -ᴙe   | -e / -ᴙe   | "In/on" a place                   | Ya zhivu v kovᴙe -> "I live in the mountain"                 |             |           |            |            |                                   |                                                              |
+| Locative     | -ᴎ / -e   | -e / -ᴙe   | -e / -ᴙe   | "In/on" a place                   | Ya zhivu v kovᴙe -> "I live in the mountain"                 |
+Masculine nouns typically end in a consonant, feminine nouns typically end in -ᴎ or -a, neuter nouns end in -o or -e and Instrumental & Locative cases use -ᴙ in alternation.
 # Words
 - Grod, Gorod, Gord - City
 - Les - Forest
