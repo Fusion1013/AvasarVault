@@ -23,5 +23,6 @@ Korinari is a [[Coaq]] language spoken by the former nations conquered by [[So'D
 - Prist - Wharf
 - Serebro - Silver
 - Ugle - Coal
+- Velik - Great
 - Vysok - High
 - Zolᴙto, Zlato - Gold
