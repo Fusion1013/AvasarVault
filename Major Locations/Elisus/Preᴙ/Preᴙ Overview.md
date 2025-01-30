@@ -62,6 +62,8 @@ LIST
 FROM #noblehouse
 WHERE nation = "Preia"
 ```
+# Religion
+The religious practices varies from city to city in [[Preᴙ Overview|Preᴙ]]. The officially recognized religions according to the ruling body in the capital are [[Vuzen - the Law Baron]], [[Isoroa - the Shadowed Mask]], [[Saheir - the Enchantress]], and [[Veda - the Elder Scribe]]. This is only heavily enforced in the capital however, and other regions have their own rules and regulations regarding religion.
 # Currency
 | Material | Name     | Pronunciation    | Appearance                  |
 | -------- | -------- | ---------------- | --------------------------- |
