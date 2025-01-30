@@ -47,7 +47,14 @@ All nouns are gendered, and adjectives must match the noun's gender.
 | 3rd    | on (he) / ona (she) / ono (it)          | (him) (her) (it)                      | oni (they)       | ikh (them)      |
 ### Possessive Pronouns
 ## Verb Conjugation and Tenses
+| Infinitive Ending | Verb    | 1st Person           | 2nd Person              | 3rd Person             |
+| ----------------- | ------- | -------------------- | ----------------------- | ---------------------- |
+| -at / -ᴙat        | govorat | ya govoryu (I speak) | ty govorish (you speak) | on govorit (he speaks) |
+| -et / -ᴎet        | lyubᴎet | ya lyublyu (I love)  | ty lyubish (you love)   | on lyubit (he loves)   |
+| -it / -yit        | pisayit | ya pisayu (I write)  | ty pisayesh (you write) | on pisayet (he writes) |
+### Past Tense
 
+### Future Tense
 ## Negation & Questions
 
 # Words
