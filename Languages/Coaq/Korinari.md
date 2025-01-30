@@ -40,7 +40,11 @@ All nouns are gendered, and adjectives must match the noun's gender.
 | Feminine  | Zemlᴎ (land)    | -aya     | -i     | Vysokaya zemlᴎ ("tall land")               |
 | Neuter    | Ozero (lake)    | -oe      | -oa    | Vysokoe ozero ("tall lake)                 |
 ## Pronouns and Possession
-
+| Person | Subject (Singular)                       | Object (Singular)                        | Subject (Plural) | Object (Plural) |
+| ------ | ---------------------------------------- | ---------------------------------------- | ---------------- | --------------- |
+| 1st    | ya (I)                                   | (me)                                     | my (we)          | (us)            |
+| 2nd    | ty (you - informal) / vy (formal/plural) | ty (you - informal) / vy (formal/plural) | vy (you all)     | vy (you)        |
+| 3rd    | on (he) / ona (she) / ono (it)           | (him) (her) (it)                         | oni (they)       | (them)          |
 # Words
 ## Adjectives
 - Kovrat - Rugged
