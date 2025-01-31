@@ -7,11 +7,11 @@ aliases:
 ![[StormsReachOldCapital.jpg]]
 *"We wander in fear, in fear of the storm"*
 # Overview
-Storms Reach is a large area of plains that stretches between the western mountains, the eastern sea, and the southernmost nations on the continent. The area is sparsely populated by wandering hoards, with no permanent structures in sight. There are ruins from failed attempts at constructing permanent shelter though they are few and far between, covered by plant life.
+Storms Reach is a large area of plains that stretches between the western mountains, the eastern sea, and the southernmost nations on the continent. The area is sparsely populated by wandering hoards, with no permanent structures in sight. There are ruins from failed attempts at constructing permanent shelter though they are few and far between, covered by plant life. A groups of stationary people exist in the region, living in structures hidden far underground, with tunnels leading up to the surface.
 # History
 There was once a large kingdom that had its center within the Storms Reach. It is said that the capital was among the greatest ever constructed. For some unknown reason the capital now lays in ruin, its remains covered over by plant life. Some time later, three immortal dragons emerged from the ruins. Soon a storm began to emerge around them, following them wherever they went. It is unknown if these dragons were what caused the capital's downfall. Many have speculated that this was the case, though no conclusive evidence exists to point one way or the other. Whatever the cause, the loss of the capital eventually led to the kingdom's downfall.
 # Environment
-The environment of Storms Reach is temperate and humid. The lack of mountains or forests give way for nearly constant winds that howl across the plains, with a never ending storm at its center. The landscape is dotted with ruins from failed attempts at setting up any kind of permanent shelter.
+The environment of Storms Reach is [[Agriculture#Desert-Like Zones|Desert-Like]] in some areas, warm and dry. In other areas it is more of a [[Agriculture#Tropical or Equatorial Zones|Tropical]] environment, warm and humid. The lack of mountains or forests give way for nearly constant winds that howl across the plains, with a never ending storm at its center. The landscape is dotted with ruins from failed attempts at setting up any kind of permanent shelter.
 ## Plant Life
 There are a few forests, with most of the ground covered in lower, hardy, fast-growing plants with deep root systems. Plants with [Tubers](https://sv.wikipedia.org/wiki/Tuber) are common, as they allow the plant to stay in the ground despite the violent winds. A lot of plants in the area are able to be ripped up by the winds, carried to a new location, and keep growing from there.
 
@@ -30,7 +30,7 @@ Resembles a western dragon
 #### Namus, the Water Dragon
 Resembles a sea serpent
 ## The Ironwood
-The Ironwood is a large forest on the northern edge of the region. It is protected by a group of druids. The cores of the trees are made of Ironwood, which is what has given the forest its name. The ironwood strengthens the trees against the storm, as well as protects it from lightning, conducting it into the ground instead. The druids live inside holes in the ground, deep below the root system of the forest. The roots protect them from whenever the storm passes over them.
+The Ironwood is a large forest on the northern edge of the region. It is protected by a group of druids known as the [[DRUID GROUP NAME]]. The cores of the trees are made of Ironwood, which is what has given the forest its name. The ironwood strengthens the trees against the storm, as well as protects it from lightning, conducting it into the ground instead of harming the trees. The druids live inside holes in the ground, deep below the root system of the forest. The roots protect them from whenever the storm passes over them.
 # The Wandering Hoards
 ## The Kingarae Hoard
 **Population:** ~800
