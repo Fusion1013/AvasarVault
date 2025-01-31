@@ -17,6 +17,7 @@ The [[So'Dar Empire Overview|So'Dar Empire]] is a powerful kingdom located in a 
 ## [[Turochan Kingdom Overview|Turochan Kingdom]]
 ## [[Storms Reach Overview|Storms Reach]]
 ## [[Preᴙ Overview|Preᴙ]]
+The small nation of Preᴙ hides behind the mountains to the east of the [[So'Dar Empire Overview|So'Dar Empire]]. It is a fractured nation, run by an oligarchy of nobles, all belonging to a handful of [[Preᴙ Overview#Noble Houses|Noble Houses]]. The current ruling house is [[Preᴙ Overview#House Dorofei|House Dorofei]], a noble house dating back to before the [[So'Dar Empire Overview|So'Dar]] invasion. However, while they are the ones that hold power over the nation in the formal sense, in reality each city is run by their own factions and operate mostly independently from the rest.
 # Landmarks
 ## [[Dragonback Mountains]]
 The snow-dusted peaks of the [[Dragonback Mountains]] separate the [[Saxum Sovereignty Overview|Saxum Sovereignty]] from the eastern nations.
