@@ -15,7 +15,9 @@ The [[So'Dar Empire Overview|So'Dar Empire]] is a powerful kingdom located in a 
 ## [[The Holy Kingdom of Maulik Overview|The Holy Kingdom of Maulik]]
 [[The Holy Kingdom of Maulik Overview|The Holy Kingdom of Maulik]] is a nation run by priests who worship the god [[Mau'Sari - the Divine Essence]]. The kingdom is situated on the coast and consists mostly of plains and forests. The ruling class is made up of [[Elementals|Elemental Folk]] who have a reputation for being controlling but open-minded. The kingdom is also known for its advanced knowledge of elemental magic and its skilled artisans in the fields of sculpture and tapestry.
 ## [[Turochan Kingdom Overview|Turochan Kingdom]]
+
 ## [[Storms Reach Overview|Storms Reach]]
+Storms Reach is a large area of plains that stretches between the western mountains, the eastern sea, and the southernmost nations on the continent. The area is sparsely populated by wandering hoards, with no permanent structures in sight. There are ruins from failed attempts at constructing permanent shelter though they are few and far between, covered by plant life.
 ## [[Preᴙ Overview|Preᴙ]]
 The small nation of Preᴙ hides behind the mountains to the east of the [[So'Dar Empire Overview|So'Dar Empire]]. It is a fractured nation, run by an oligarchy of nobles, all belonging to a handful of [[Preᴙ Overview#Noble Houses|Noble Houses]]. The current ruling house is [[Preᴙ Overview#House Dorofei|House Dorofei]], a noble house dating back to before the [[So'Dar Empire Overview|So'Dar]] invasion. However, while they are the ones that hold power over the nation in the formal sense, in reality each city is run by their own factions and operate mostly independently from the rest.
 # Landmarks

@@ -24,14 +24,14 @@ Eldhein is a large city to the north of the nation on one of the many islands of
 Virston is a major city sitting on a large island to the west of the mainland of the nation. It sits at the base of multiple dormant volcanoes. The city sits near large deposits of sulfur, which was used to develop gunpowder. Virston is known for its expert artisans creating weaponry such as muskets.
 ## [[Nyrif]]
 [[Nyrif]] is a large port city on the northern coast of the kingdom, in a bay close to the [[Fracrish Mountains]]. The city has a long history of crime, with a number of crime families fighting for control of the city.
-## Major Regions
-### The Taundor Fragments
+# Major Regions
+## The Taundor Fragments
 The Taundor Fragments refers to the large number of islands to the north of the Kingdon’s mainland. These islands were former parts of Taundor that were shattered from the rest while it was smashed into the continent. Many of these islands are quite swampy and full of ruins from the old magocracy.
-### The Quassus Wastes
+## The Quassus Wastes
 This region is a spot in the center of the Kingdom which was most damaged by the moving of the island. These wastes are filled with little greenery and jagged, unnatural rock formations. Wandering off the beaten path here is ill-advised, for dangerous cursed creatures frequently roam this area.
-### [[Fracrish Mountains|The Fracrish Mountains]]
+## [[Fracrish Mountains|The Fracrish Mountains]]
 These mountains were caused when the island of Taundor was smashed into the continent of [[Elisus Overview|Elisus]]. It contains some of the tallest mountains in the entire world, such as Aithr Peak. The mountain range acts as the nation’s southern border.
-## Major People
+# Major People
 ```dataview
 TABLE
 description AS Description,
@@ -40,7 +40,7 @@ age AS Age
 FROM #person/major AND #turochan
 SORT file.name ASC
 ```
-## Major Organizations
+# Major Organizations
 ```dataview
 TABLE
 description AS Description
