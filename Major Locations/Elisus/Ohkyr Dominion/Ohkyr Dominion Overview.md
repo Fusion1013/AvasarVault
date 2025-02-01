@@ -9,11 +9,28 @@ todo:
   - Reformat "Military Power" Section
 editors: Fusion
 ---
-![[OhkyrCoastalCity.jpg]]
-*"QUOTE"*
+> [!infobox|right]
+> # Ohkyr Dominion
+> ![[OhkyrCoastalCity.jpg]]
+> ###### Geography
+> | **Aliases** |  |
+> | - | - |
+> | **Type** | Nation |
+> | **Region** | [[Elisus Overview\|Elisus]] |
+> | **Capital** | [[Chalayan, The city of a Thousand Rivers]] |
+> ###### Society
+> | **Demonym** |  |
+> | - | - |
+> | **Races** | Humans, Halflings, Dwarves |
+> | **Languages** | [[Thüma]] |
+> | **Religions** | [[Merstur - the Unbroken Tide\|Merstur]], [[Ogrun - the Scarlet Champion\|Ogrun]] |
+> ###### Politics
+> | **Type** | Polytheocratic Republic |
+> | - | - |
+> | **Ruler** |  |
+> | **Allegiances** |  |
 
-**Government:** 
-**Languages:** [[Thüma]]
+*"QUOTE"*
 ## Overview
 Ohkyr is a coastal nation occupying the northern coasts of [[Elisus Overview|Elisus]], bordering the [[City-State of Drufali Overview|City-State of Drufali]] as well as [[Storms Reach Overview|Storms Reach]]. Its capital is [[Chalayan, The city of a Thousand Rivers]]. The nation is a Polytheocratic Republic, with a majority of the population dedicated to [[Merstur - the Unbroken Tide]], or [[Ogrun - the Scarlet Champion]]. Ohkyr is a nation known for its powerful militia and navy.
 ## History
