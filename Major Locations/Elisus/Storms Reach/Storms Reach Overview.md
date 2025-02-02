@@ -48,3 +48,5 @@ A bloodline of sorcerers that have developed magic to protect the hoard.
 **Population:** ~50
 
 Temperion is a smaller hoard, composed of only around fifty people. This hoard is known for their fervent worship and reverence of the storm. They devote their lives to worshiping the storm and the dragons within it, believing that they are their chosen followers. They try to stay as close to the storm as they possibly can in order to harness its power. They conduct rituals and perform sacrifices to the storm in order to appease it.
+# Cities & Settlements
+Any cities 
