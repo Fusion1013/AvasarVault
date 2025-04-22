@@ -21,6 +21,6 @@ The city of Chalayan is situated on a large cliff overlooking the ocean. It is a
 
 # Landmarks
 ## Docks District
-There are multiple smaller docks located in and around the bottom of the tall cliffs that [[Chalayan, The city of a Thousand Rivers|Chalayan]] is built upon. There are three larger docks that are primarily owned and operated by [[The Sanctified Host]]. It is also the main headquarters for [[The Choir]].
+There are multiple smaller docks located in and around the bottom of the tall cliffs that [[Chalayan, The city of a Thousand Rivers|Chalayan]] is built upon. There are three larger docks that are primarily owned and operated by [[The Sanctified Host]]. This is also where the main headquarters for [[The Choir]] is rumoured to be located, though its exact location is unknown.
 ## Underground Rivers
-There are a large number of rivers running from the ocean, through the cliffs that the city rests on, and passing into various underground cave networks.
+There are a large number of rivers running from the ocean, through the cliffs that the city rests on, and passing into various underground cave networks. These tunnels have historically been a prime location for various smuggling operations to take place, though even the church uses them to transport 
