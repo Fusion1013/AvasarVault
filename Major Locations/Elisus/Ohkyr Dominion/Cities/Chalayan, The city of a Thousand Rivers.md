@@ -1,8 +1,10 @@
 ---
 tags:
-- city/major
+  - city/major
 nation: Ohkyr
-description: "The capital of Ohkyr"
+description: The capital of Ohkyr
+aliases:
+  - Chalayan
 ---
 *"QUOTE"*
 
@@ -18,7 +20,7 @@ The city of Chalayan is situated on a large cliff overlooking the ocean. It is a
 # History
 
 # Landmarks
-## Lower Docks
-Along the bottom of the cliffs,
+## Docks District
+There are multiple smaller docks located in and around the bottom of the tall cliffs that [[Chalayan, The city of a Thousand Rivers|Chalayan]] is built upon. There are three larger docks that are primarily owned and operated by [[The Sanctified Host]]. It is also the main headquarters for [[The Choir]].
 ## Underground Rivers
 There are a large number of rivers running from the ocean, through the cliffs that the city rests on, and passing into various underground cave networks.
