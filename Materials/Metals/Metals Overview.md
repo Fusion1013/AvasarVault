@@ -2,9 +2,9 @@
 tags:
 - material_overview
 ---
-## Overview
+# Overview
 This documents contain a variety of different metals, which is a type of [[Materials Overview|Material]].
-## List of Metals
+# List of Metals
 ```dataview
 TABLE WITHOUT ID
 file.link AS "Material",
