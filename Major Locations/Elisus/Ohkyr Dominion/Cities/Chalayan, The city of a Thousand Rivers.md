@@ -39,6 +39,10 @@ The city of Chalayan is situated on a large cliff overlooking the ocean. It is a
 # History
 
 # Landmarks
+## Bastion of Breakers
+Citadel dedicated to [[Ogrun - the Scarlet Champion]].
+## Sanctum of Tides
+Citadel dedicated to [[Merstur - the Unbroken Tide]].
 ## Docks District
 There are multiple smaller docks located in and around the bottom of the tall cliffs that [[Chalayan, The city of a Thousand Rivers|Chalayan]] is built upon. There are three larger docks that are primarily owned and operated by [[The Sanctified Host]]. This is also where the main headquarters for [[The Choir]] is rumoured to be located, though its exact location is unknown.
 ## Underground Rivers
