@@ -6,15 +6,34 @@ description: The capital of Ohkyr
 aliases:
   - Chalayan
 ---
+> [!infobox|right]
+> # Chalayan, The city of a Thousand Rivers
+> ![[OhkyrCoastalCity.jpg]]
+> ###### Geography
+> | **Aliases** | City of a Thousand Rivers |
+> | - | - |
+> | **Region** | [[Ohkyr Dominion]] |
+> | **Size** | Metropolis |
+> ###### Society
+> | **Demonym** | ? |
+> | - | - |
+> | **Races** | ? |
+> | **Religions** | [[Merstur - the Unbroken Tide]], [[Ogrun - the Scarlet Champion]] |
+> ###### Commerce
+> | **Imports** | ? |
+> | - | - |
+> | **Exports** | ? |
+> ###### Politics
+> | **Type** | ? |
+> | - | - |
+> | **Ruler** | ? |
+> | **Legislative** | ? |
+> | **Allegiances** | ? |
+> ###### History
+> | **Population** | 96.110 in 1350 APC |
+> | - | - |
+
 *"QUOTE"*
-
-**Population:**
-**Government:** 
-**Defense:**
-**Commerce:**
-**Organizations:**
-
-![[OhkyrCoastalCity.jpg]]
 # Overview
 The city of Chalayan is situated on a large cliff overlooking the ocean. It is a bustling port city with grand temples dedicated to the gods of the pantheon. Intricate marble buildings climb the cliffs towards the ocean, colorful banners with patterns of the different gods fly in the wind. The capital is home to a number of marketplaces where sailors and merchants from around the world converge. The city gets the nickname "The City of a Thousand Rivers" from the numerous underground rivers located in and around the city region.
 # History
@@ -32,3 +51,8 @@ The platform itself is a massive, open chamber of marble floors, stained glass w
 The lift is powered by a combination of hydraulics and arcane ingenuity. Hydraulic pressure generated from one of the underground rivers drives massive pistons. At the core, a slow-turning gear mechanism inlaid with arcane runes, regulates ascent and descent.
 
 The lift is commonly used to transport both people and goods. However access is strictly regulated, and the lift only operates during set times of day.
+# Defenses
+# Organizations
+## The Choir
+## The Sanctified Host
+# Major People
