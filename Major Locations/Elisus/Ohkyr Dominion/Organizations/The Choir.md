@@ -5,6 +5,8 @@ Only the devout, the exceptional, and the fearless rise to join their ranks. Amo
 # Notable Members
 ## The Cantor Admiral
 Supreme commander of The Choir and spiritual leader of naval operations. Oversees both strategy and can perform sacred rites before battle.
+## Voice of the Choir
+Represents the Choir on [[The Grand Synod of Ohkyr]].
 ## The Vox Seraphim
 A small group of elite combat specialists who command The Choir's most powerful ships. Known for their brutal precision and unwavering faith towards the church.
 ## The Psalmkeeper
