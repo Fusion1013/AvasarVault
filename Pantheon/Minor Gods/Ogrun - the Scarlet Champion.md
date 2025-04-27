@@ -14,6 +14,8 @@ todo:
 plane:
   - "[[Stratosia, Plane of War]]"
 draft: false
+aliases:
+  - Ogrun
 ---
 # Overview
 One of the minor [[Pantheon Overview|Gods]], attuned to [[Stratosia, Plane of War|Stratosia]].

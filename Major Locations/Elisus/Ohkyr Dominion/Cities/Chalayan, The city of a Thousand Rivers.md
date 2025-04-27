@@ -39,6 +39,8 @@ The city of Chalayan is situated on a large cliff overlooking the ocean. It is a
 # History
 
 # Landmarks
+## The Hall of Echoes
+This is where [[The Grand Synod of Ohkyr]] meets. The Hall of Echoes is a massive citadel built into the cliffside of [[Chalayan, The city of a Thousand Rivers|Chalayan]]. Its grand seaward façade is shaped like a massive split helmet; one side carved to resemble crashing wavesThe halls are constructed in such a way that the sound of the waves reverberates throughout the structure, filling it with a constant, ghostly chorus that locals believe to be the whispers of [[Merstur - the Unbroken Tide|Merstur]] and [[Ogrun - the Scarlet Champion|Ogrun]] themselves.
 ## Bastion of Breakers
 Citadel dedicated to [[Ogrun - the Scarlet Champion]].
 ## Sanctum of Tides
@@ -57,6 +59,9 @@ The lift is powered by a combination of hydraulics and arcane ingenuity. Hydraul
 The lift is commonly used to transport both people and goods. However access is strictly regulated, and the lift only operates during set times of day.
 # Defenses
 # Organizations
+## The Grand Synod of Ohkyr
+[[The Grand Synod of Ohkyr]] is the ruling body of [[Ohkyr Dominion Overview|Ohkyr]] and operate mainly out of [[Chalayan, The city of a Thousand Rivers|Chalayan]].
 ## The Choir
+
 ## The Sanctified Host
 # Major People

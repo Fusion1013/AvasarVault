@@ -14,6 +14,8 @@ todo:
 plane:
   - "[[Terozin, Plane of Weather & Seas]]"
 draft: false
+aliases:
+  - Merstur
 ---
 # Overview
 One of the minor [[Pantheon Overview|Gods]], attuned to [[Terozin, Plane of Weather & Seas|Terozin]].

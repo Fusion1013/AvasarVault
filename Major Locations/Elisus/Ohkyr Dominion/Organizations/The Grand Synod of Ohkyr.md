@@ -2,7 +2,7 @@
 # Overview
 The ruling body of the [[Ohkyr Dominion Overview|Ohkyr Dominion]]. It is a republican body where power is divided among a council of high priests, military officials, and representatives from different trade guilds.
 
-The Synod is composed of thirteen seats, each representing one of the sacred pillars of [[Ohkyr Dominion Overview|Ohkyr]].
+The Synod is composed of thirteen seats, each representing one of the sacred pillars of [[Ohkyr Dominion Overview|Ohkyr]]. Their main seat of power is located in [[Chalayan, The city of a Thousand Rivers|Chalayan]], within [[Chalayan, The city of a Thousand Rivers#The Hall of Echoes|The Hall of Echoes]].
 # Pillars
 ## The Pillars of Merstur
 These members are meant to represents the Dominion's spiritual connection to the sea. These seats are held through divine right. When one member passes, their successor is appointed through divine signs, rituals, and prayers.
