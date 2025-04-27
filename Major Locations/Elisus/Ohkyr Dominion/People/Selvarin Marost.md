@@ -3,7 +3,9 @@ tags:
   - person/major
   - ohkyr_dominion
   - ohkyr_synod
-title: Archpontiff of Merstur
+title:
+  - Archpontiff of Merstur
+  - The Tideborn
 political_leaning: Traditionalist
 ---
 # Overview
