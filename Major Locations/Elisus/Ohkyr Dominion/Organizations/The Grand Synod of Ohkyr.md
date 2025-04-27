@@ -7,7 +7,7 @@ The Synod is composed of thirteen seats, each representing one of the sacred pil
 ## The Pillars of Merstur
 These members are meant to represents the Dominion's spiritual connection to the sea. These seats are held through divine right. When one member passes, their successor is appointed through divine signs, rituals, and prayers.
 ### 1. Archpontiff of Merstur
-Oversees temples and maritime rituals.
+Oversees temples and maritime rituals. The current Archpontiff is Selvarin Marost.
 ### 2. Tidewarden of the Depths
 Representative of the nations engineers and architects. One of their divine duties is to maintain the sacred aquifers and hidden waterways below the city of [[Chalayan, The city of a Thousand Rivers|Chalayan]].
 ### 3. High Admiral of the Azure Sanctum

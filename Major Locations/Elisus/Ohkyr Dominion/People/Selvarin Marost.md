@@ -1,0 +1,2 @@
+# Overview
+Selvarin is an older priest, and something of a living relic. He was born during the Great Moonfall Storm, and some believe he was touched by [[Merstur - the Unbroken Tide|Merstur]] at birth.
