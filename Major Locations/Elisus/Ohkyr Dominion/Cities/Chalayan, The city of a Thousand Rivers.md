@@ -40,7 +40,9 @@ The city of Chalayan is situated on a large cliff overlooking the ocean. It is a
 
 # Landmarks
 ## The Hall of Echoes
-This is where [[The Grand Synod of Ohkyr]] meets. The Hall of Echoes is a massive citadel built into the cliffside of [[Chalayan, The city of a Thousand Rivers|Chalayan]]. Its grand seaward façade is shaped like a massive split helmet; one side carved to resemble crashing wavesThe halls are constructed in such a way that the sound of the waves reverberates throughout the structure, filling it with a constant, ghostly chorus that locals believe to be the whispers of [[Merstur - the Unbroken Tide|Merstur]] and [[Ogrun - the Scarlet Champion|Ogrun]] themselves.
+This is where [[The Grand Synod of Ohkyr]] meets. The Hall of Echoes is a massive citadel built into the cliffside of [[Chalayan, The city of a Thousand Rivers|Chalayan]]. Its grand seaward façade is shaped like a massive split helm; one side carved to resemble crashing waves, the other a jagged blade of stone. The halls are constructed in such a way that the sound of the waves reverberates throughout the structure, filling it with a constant, ghostly chorus that locals believe to be the whispers of [[Merstur - the Unbroken Tide|Merstur]] and [[Ogrun - the Scarlet Champion|Ogrun]] themselves.
+
+The hall was constructed during the 2nd century after the [[0APC - Planar Concordance|Planar Concordance]], as a symbol of unity in this newly formed nation of [[Ohkyr Dominion Overview|Ohkyr]]. Construction of the massive building took 23 years and the combined work of thousands of artisans, mages, and prisoners of wars to complete it. Legends say that the design for the citadel was given to [[High Priest Varlen of the Shattered River]] in a joint vision from [[Merstur - the Unbroken Tide|Merstur]] and [[Ogrun - the Scarlet Champion|Ogrun]].
 ## Bastion of Breakers
 Citadel dedicated to [[Ogrun - the Scarlet Champion]].
 ## Sanctum of Tides
