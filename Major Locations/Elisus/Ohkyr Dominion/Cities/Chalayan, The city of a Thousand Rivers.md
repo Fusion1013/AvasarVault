@@ -13,7 +13,7 @@ population: 130000
 > ###### Geography
 > | **Aliases** | City of a Thousand Rivers |
 > | - | - |
-> | **Region** | [[Ohkyr Dominion]] |
+> | **Region** | [[Ohkyr Dominion Overview|Ohkyr Dominion]] |
 > | **Size** | Metropolis |
 > ###### Society
 > | **Demonym** | ? |
@@ -44,7 +44,7 @@ This historic event was the first time [[The Grand Synod of Ohkyr]] was besieged
 ## The Silent Storm (1012 APC)
 Large parts of the southern cliff collapsed during a particularly violent storm, threatening to destroy The Hall of Echoes. When the storm passed however, the Hall remained untouched, despite the surrounding devastation. Many have attributed the Halls survival to the gods, with some claiming it was a test of faith, and that the Synod had proven its loyalty.
 # Geography
-The city is built upon a large cliff overlooking the ocean. At the cliff's foot, multiple cave openings open into a series of natural underground rivers.
+The city is built upon a large cliff overlooking the ocean. The cliff was formed naturally, but has been heavily carved into and constructed upon by mortal hands. At the cliff's foot, multiple cave openings open into a series of natural underground rivers. The constant winds from the sea cool the city during the summers, but bring sudden storms during the long and wet winters.
 # Landmarks
 ## The Hall of Echoes
 This is where [[The Grand Synod of Ohkyr]] meets. The Hall of Echoes is a massive citadel built into the cliffside of [[Chalayan, The city of a Thousand Rivers|Chalayan]]. Its grand seaward façade is shaped like a massive split helm; one side carved to resemble crashing waves, the other a jagged blade of stone. The halls are constructed in such a way that the sound of the waves reverberates throughout the structure, filling it with a constant, ghostly chorus that locals believe to be the whispers of [[Merstur - the Unbroken Tide|Merstur]] and [[Ogrun - the Scarlet Champion|Ogrun]] themselves.
