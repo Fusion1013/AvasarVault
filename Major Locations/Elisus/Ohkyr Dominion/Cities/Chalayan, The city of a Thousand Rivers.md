@@ -43,6 +43,7 @@ The city of Chalayan is situated on a large cliff overlooking the ocean. It is a
 This historic event was the first time [[The Grand Synod of Ohkyr]] was besieged internally. This was able to occur due to [[Chancellor Denek]]'s attempted power grab. Even today, a crimson stained pillar stands in the Hall's lower courtyard where many defenders fell.
 ## The Silent Storm (1012 APC)
 Large parts of the southern cliff collapsed during a particularly violent storm, threatening to destroy The Hall of Echoes. When the storm passed however, the Hall remained untouched, despite the surrounding devastation. Many have attributed the Halls survival to the gods, with some claiming it was a test of faith, and that the Synod had proven its loyalty.
+# Geography
 # Landmarks
 ## The Hall of Echoes
 This is where [[The Grand Synod of Ohkyr]] meets. The Hall of Echoes is a massive citadel built into the cliffside of [[Chalayan, The city of a Thousand Rivers|Chalayan]]. Its grand seaward façade is shaped like a massive split helm; one side carved to resemble crashing waves, the other a jagged blade of stone. The halls are constructed in such a way that the sound of the waves reverberates throughout the structure, filling it with a constant, ghostly chorus that locals believe to be the whispers of [[Merstur - the Unbroken Tide|Merstur]] and [[Ogrun - the Scarlet Champion|Ogrun]] themselves.
