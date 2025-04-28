@@ -36,11 +36,11 @@ Ohkyr is a coastal nation occupying the northern coasts of [[Elisus Overview|Eli
 # History
 The nation has a rocky history, riddled with corruption and greed within the top levels of the institution. The [[Ohkyr Dominion Overview|Ohkyr Dominion]] was officially formed in 212 APC, though the cities and people living there have existed for far longer. Before [[Ohkyr Dominion Overview|Ohkyr]] was formed the area was home to a number City-States, warring to each claim the gods' favour.
 
-This conflict lasted until the 2nd century, when [[High Priest Varlen of the Shattered River]] forged an unprecedented alliance with [[Warlord Kezrah Ironwake]], uniting the rival faiths of [[Merstur - the Unbroken Tide|Merstur]] and [[Ogrun - the Scarlet Champion|Ogrun]]. This accord became known as [[The Concord of Salt and Steel]].
+This conflict lasted until the 2nd century, when [[High Priest Varlen of the Shattered River]] forged an unprecedented alliance with [[Warlord Kezrah Ironwake]], uniting the rival faiths of [[Merstur - the Unbroken Tide|Merstur]] and [[Ogrun - the Scarlet Champion|Ogrun]]. This accord became known as [[The Concord of Salt and Steel]] and founded the [[Ohkyr Dominion Overview|Ohkyr Dominion]] with its capital [[Chalayan, The city of a Thousand Rivers]].
 
 To cement this unity, this alliance of faith, the two commissioned a citadel for the city of [[Chalayan, The city of a Thousand Rivers|Chalayan]], where faith and governance could exist together. The citadel became known as [[Chalayan, The city of a Thousand Rivers#The Hall of Echoes|The Hall of Echoes]].
 # Religion
-
+The two main religions of [[Ohkyr Dominion Overview|Ohkyr]] are dedicated to [[Merstur - the Unbroken Tide|Merstur]] and [[Ogrun - the Scarlet Champion|Ogrun]]. Other faiths are not strictly outlawed, though they are extremely uncommon among the general populace.
 # Major Cities
 There are only three major cities in Ohkyr.
 ```dataview
