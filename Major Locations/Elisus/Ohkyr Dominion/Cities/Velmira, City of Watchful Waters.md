@@ -1,14 +1,15 @@
 ---
 tags:
   - city/major
-nation: Ohkyr
+nation:
+  - Ohkyr
 population: 48000
 ---
 > [!infobox|right]
 > # Velmira
 > ![[RiversideCity.jpg]]
 > ###### Geography
-> | **Aliases** |  |
+> | **Aliases** | City of Watchful Waters |
 > | - | - |
 > | **Region** | [[Ohkyr Dominion]] |
 > | **Size** | Metropolis |
@@ -33,12 +34,14 @@ population: 48000
 # Overview
 Velmira is located where the wide river known as the [[Silver Vein]] spreads into a broad, slow-moving estuary. The city is built upon the small islands that dot the area, connecting them ornate bridges of white stone. The river is considered sacred, and many shrines dot its banks. Velmira is home to the [[Ohkyr Dominion Overview|Dominion]]'s most prestigious academies. The city has an air of mystery to it, the quiet twin to [[Chalayan, The city of a Thousand Rivers|Chalayan]]'s bustling energy.
 # History
-## Religious Rebellion (1121 APC)
-In [[1121 APC]] a local religious group staged a rebellion to take control of the city. They were angered by the [[The Grand Synod of Ohkyr|Synod]]'s strict religious oversight, and wanted more religions to be officially recognized. They allied with pirate fleets that had ravaged the area a few years prior, promising them vast riches in return. Velmira's vulnerable location made it an easy target: scattered islands, countless winding canals, and little to no fortifications. Their goal was to drive the [[The Grand Synod of Ohkyr|Synod]]'s forces away from the city by attacking key locations, including the harbour and the guard headquarters.
+## The Tidepurge Heresy
+In [[1121 APC]] a local religious group known as the [[Children of the True Current]] staged a rebellion to take control of the city. They believed that the [[The Grand Synod of Ohkyr|Synod]] had corrupted the will of Merstur, twisting the god's sacred message into tools for political control. They allied with pirate fleets that had ravaged the area a few years prior, promising them vast riches in return. Velmira's vulnerable location made it an easy target: scattered islands, countless winding canals, and little to no fortifications. Their main goal was to drive the [[The Grand Synod of Ohkyr|Synod]]'s forces away from the city and its temples by attacking key locations.
 
-During the attack, pirate ships swarmed the estuary, quickly taking control of the largest harbour.
+During the attack, pirate ships swarmed the estuary, quickly taking control of the largest harbour. The zealots were able to seize control of several districts, and many of the temples located there. Their forces stormed the [[Silver Font Temple]], ritually drowning [[The Grand Synod of Ohkyr|Synod]] priests that they deemed heretical. The canals of the city turned red from shadowed assassins dumping bodies in the waters.
 
-Eventually the [[Tidecallers]] of the city were able to repel the attack, but the city suffered heavy losses.
+Eventually the [[Tidecallers]] of the city were able to repel the attack, but the city suffered heavy losses. Many of the temples saw heavy damage on the interiors, and many holy relics were broken or stolen. [[The Grand Synod of Ohkyr|Synod]] forces were able to use the city's submerged chain system to isolate pirates in the canals, taking them down one small group at a time.
+
+In response to this attack, the [[The Grand Synod of Ohkyr|Grand Synod]] tightened religious oversight further. They established direct control over the temples in the city, appointing loyal priests to watch over them.
 # Geography
 Estuarine marshes and winding waterways dominate the landscape, splitting it into many smaller islands. Many of the buildings have been constructed on pylons.
 # Landmarks
