@@ -39,7 +39,9 @@ aliases:
 The city of Chalayan is situated on a large cliff overlooking the ocean. It is a bustling port city with grand temples dedicated to the gods of the pantheon. Intricate marble buildings climb the cliffs towards the ocean, colorful banners with patterns of the different gods fly in the wind. The capital is home to a number of marketplaces where sailors and merchants from around the world converge. The city gets the nickname "The City of a Thousand Rivers" from the numerous underground rivers located in and around the city region.
 # History
 ## The Siege of the Hall (764 APC)
-This historic event was the first time [[The Grand Synod of Ohkyr]] was besieged internally. This was able to occur due to [[Chancellor Denek]]'s attempted power grab. Even today, a crimson stained pillar stands in the Hall's lower courtya
+This historic event was the first time [[The Grand Synod of Ohkyr]] was besieged internally. This was able to occur due to [[Chancellor Denek]]'s attempted power grab. Even today, a crimson stained pillar stands in the Hall's lower courtyard where many defenders fell.
+## The Silent Storm (1012 APC)
+Large parts of the southern cliff collapsed during a particularly violent storm, threatening to destroy The Hall of Echoes. When the storm passed however, the Hall remained untouched, despite the surrounding devastation. Many have attributed the Halls survival to the gods, with some claiming it was a test of faith, and that the Synod had proven its loyalty.
 # Landmarks
 ## The Hall of Echoes
 This is where [[The Grand Synod of Ohkyr]] meets. The Hall of Echoes is a massive citadel built into the cliffside of [[Chalayan, The city of a Thousand Rivers|Chalayan]]. Its grand seaward façade is shaped like a massive split helm; one side carved to resemble crashing waves, the other a jagged blade of stone. The halls are constructed in such a way that the sound of the waves reverberates throughout the structure, filling it with a constant, ghostly chorus that locals believe to be the whispers of [[Merstur - the Unbroken Tide|Merstur]] and [[Ogrun - the Scarlet Champion|Ogrun]] themselves.
