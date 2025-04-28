@@ -34,7 +34,11 @@ editors: Fusion
 # Overview
 Ohkyr is a coastal nation occupying the northern coasts of [[Elisus Overview|Elisus]], bordering the [[City-State of Drufali Overview|City-State of Drufali]] as well as [[Storms Reach Overview|Storms Reach]]. Its capital is [[Chalayan, The city of a Thousand Rivers]]. The nation is a Polytheocratic Republic, with a majority of the population dedicated to [[Merstur - the Unbroken Tide]], or [[Ogrun - the Scarlet Champion]]. Ohkyr is a nation known for its powerful militia and navy, known as [[The Sanctified Host]].
 # History
-The nation has a rocky history, riddled with corruption and greed within the top levels of the institution.
+The nation has a rocky history, riddled with corruption and greed within the top levels of the institution. The [[Ohkyr Dominion Overview|Ohkyr Dominion]] was officially formed in 212 APC, though the cities and people living there have existed for far longer. Before [[Ohkyr Dominion Overview|Ohkyr]] was formed the area was home to a number City-States, warring to each claim the gods' favour.
+
+This conflict lasted until the 2nd century, when [[High Priest Varlen of the Shattered River]] forged an unprecedented alliance with [[Warlord Kezrah Ironwake]], uniting the rival faiths of [[Merstur - the Unbroken Tide|Merstur]] and [[Ogrun - the Scarlet Champion|Ogrun]]. This accord became known as [[The Concord of Salt and Steel]].
+
+To cement this unity, this alliance of faith, the two commissioned a citadel for the city of [[Chalayan, The city of a Thousand Rivers|Chalayan]], where faith and governance could exist together. The citadel became known as [[Chalayan, The city of a Thousand Rivers#The Hall of Echoes|The Hall of Echoes]].
 # Religion
 
 # Major Cities

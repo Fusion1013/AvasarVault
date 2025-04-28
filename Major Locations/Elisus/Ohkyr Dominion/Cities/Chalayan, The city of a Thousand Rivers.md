@@ -38,7 +38,8 @@ aliases:
 # Overview
 The city of Chalayan is situated on a large cliff overlooking the ocean. It is a bustling port city with grand temples dedicated to the gods of the pantheon. Intricate marble buildings climb the cliffs towards the ocean, colorful banners with patterns of the different gods fly in the wind. The capital is home to a number of marketplaces where sailors and merchants from around the world converge. The city gets the nickname "The City of a Thousand Rivers" from the numerous underground rivers located in and around the city region.
 # History
-
+## The Siege of the Hall (764 APC)
+This historic event was the first time [[The Grand Synod of Ohkyr]] was besieged internally. This was able to occur due to [[Chancellor Denek]]'s attempted power grab. Even today, a crimson stained pillar stands in the Hall's lower courtya
 # Landmarks
 ## The Hall of Echoes
 This is where [[The Grand Synod of Ohkyr]] meets. The Hall of Echoes is a massive citadel built into the cliffside of [[Chalayan, The city of a Thousand Rivers|Chalayan]]. Its grand seaward façade is shaped like a massive split helm; one side carved to resemble crashing waves, the other a jagged blade of stone. The halls are constructed in such a way that the sound of the waves reverberates throughout the structure, filling it with a constant, ghostly chorus that locals believe to be the whispers of [[Merstur - the Unbroken Tide|Merstur]] and [[Ogrun - the Scarlet Champion|Ogrun]] themselves.
@@ -51,7 +52,7 @@ Citadel dedicated to [[Merstur - the Unbroken Tide]].
 ## Docks District
 There are multiple smaller docks located in and around the bottom of the tall cliffs that [[Chalayan, The city of a Thousand Rivers|Chalayan]] is built upon. There are three larger docks that are primarily owned and operated by [[The Sanctified Host]]. This is also where the main headquarters for [[The Choir]] is rumoured to be located, though its exact location is unknown.
 ## Underground Rivers
-There are a large number of rivers running from the ocean, through the cliffs that the city rests on, and passing into various underground cave networks. These tunnels have historically been a prime location for various smuggling operations to take place, though even the church uses them to transport goods from and to secret underground entrances.
+There are a large number of rivers running from the ocean, through the cliffs that the city rests on, and passing into various underground cave networks. There are rumors of sections of river that extend far past the outer city walls. These tunnels have historically been a prime location for various smuggling operations to take place, though even the church uses them to transport goods from and to secret underground entrances.
 ## Grand Lift of Serkan
 Constructed directly into the coastal cliff, the Grand Lift of Serkan is a marvel of engineering. It is a testament to the genius of its namesake, the famed priest-engineer Serkan the Devout. The lift forms a vertical shaft framed in obsidian and inlaid with [[Transcendental Bronze]]. The shaft itself features beautiful verses and iconography taken from the [[Canticles of Descent]], prayers meant to protect all who travel Chalayan.
 
@@ -63,7 +64,7 @@ The lift is commonly used to transport both people and goods. However access is 
 # Defenses
 # Organizations
 ## The Grand Synod of Ohkyr
-[[The Grand Synod of Ohkyr]] is the ruling body of [[Ohkyr Dominion Overview|Ohkyr]] and operate mainly out of [[Chalayan, The city of a Thousand Rivers|Chalayan]].
+[[The Grand Synod of Ohkyr]] is the ruling body of [[Ohkyr Dominion Overview|Ohkyr]] and operate mainly out of [[Chalayan, The city of a Thousand Rivers|Chalayan]] from their headquarters, [[Chalayan, The city of a Thousand Rivers#The Hall of Echoes|The Hall of Echoes]].
 ```dataview
 TABLE
 title AS Title,
@@ -71,5 +72,4 @@ political_leaning AS "Political Leaning"
 FROM #person/major AND #ohkyr_dominion 
 ```
 ## The Choir
-
-## The Sanctified Host
+This highly secretive organization has its roots in [[Chalayan, The city of a Thousand Rivers|Chalayan]], and this is where its headquarters are supposed to be located. [[The Choir]] have historically used the underground rivers under the city as a training grounds, where new troops come to either join the ranks of the organization, or sink into the gods dark reflection.
