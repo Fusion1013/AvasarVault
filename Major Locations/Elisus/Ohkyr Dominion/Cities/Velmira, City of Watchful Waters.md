@@ -6,7 +6,7 @@ nation:
 population: 48000
 ---
 > [!infobox|right]
-> # Velmira
+> # Velmira, City of Watchful Waters
 > ![[RiversideCity.jpg]]
 > ###### Geography
 > | **Aliases** | City of Watchful Waters |
