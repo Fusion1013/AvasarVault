@@ -5,6 +5,7 @@ nation: Ohkyr
 description: The capital of Ohkyr
 aliases:
   - Chalayan
+population: 130000
 ---
 > [!infobox|right]
 > # Chalayan, The city of a Thousand Rivers
@@ -17,16 +18,16 @@ aliases:
 > ###### Society
 > | **Demonym** | ? |
 > | - | - |
-> | **Races** | ? |
+> | **Races** | 55% Humans, 12% Dwarves, 10% Elves, 7% Halflings, 5% Dragonborn |
 > | **Religions** | [[Merstur - the Unbroken Tide]], [[Ogrun - the Scarlet Champion]] |
 > ###### Commerce
-> | **Imports** | ? |
+> | **Imports** | Grain, Timber, Spices & Rare Herbs, Stone & Marble |
 > | - | - |
-> | **Exports** | ? |
+> | **Exports** | Fish & Seafood, Ships & Naval Goods, Fine Ceramics & Glasswork |
 > ###### Politics
 > | **Type** | ? |
 > | - | - |
-> | **Ruler** | ? |
+> | **Ruler** | [[The Grand Synod of Ohkyr]] |
 > | **Legislative** | ? |
 > | **Allegiances** | ? |
 > ###### History

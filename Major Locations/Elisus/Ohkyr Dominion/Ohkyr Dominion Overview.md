@@ -43,9 +43,12 @@ To cement this unity, this alliance of faith, the two commissioned a citadel for
 The two main religions of [[Ohkyr Dominion Overview|Ohkyr]] are dedicated to [[Merstur - the Unbroken Tide|Merstur]] and [[Ogrun - the Scarlet Champion|Ogrun]]. Other faiths are not strictly outlawed, though they are extremely uncommon among the general populace.
 # Major Cities
 ```dataview
-TABLE description AS "Description"
+TABLE 
+population AS "Population",
+description AS "Description"
 FROM #city/major 
 WHERE nation = "Ohkyr"
+SORT file.name ASC
 ```
 # Minor Cities
 ```dataview
