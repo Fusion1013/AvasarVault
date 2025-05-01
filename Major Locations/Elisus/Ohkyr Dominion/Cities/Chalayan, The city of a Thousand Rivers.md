@@ -13,7 +13,7 @@ population: 130000
 > ###### Geography
 > | **Aliases** | City of a Thousand Rivers |
 > | - | - |
-> | **Region** | [[Ohkyr Dominion Overview|Ohkyr Dominion]] |
+> | **Region** | [[Ohkyr Dominion Overview\|Ohkyr Dominion]] |
 > | **Size** | Metropolis |
 > ###### Society
 > | **Demonym** | ? |
