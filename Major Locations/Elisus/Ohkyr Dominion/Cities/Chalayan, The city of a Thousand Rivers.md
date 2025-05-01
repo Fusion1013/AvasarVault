@@ -35,7 +35,7 @@ population: 130000
 > | - | - |
 
 *"From the heights of Chalayan, the world bows to the sea. Tread carefully, for even the winds here serve the gods."
-— **Sister Relian**, Pilgrim of the Azure Order*
+-**Sister Relian**, Pilgrim of the Azure Order*
 # Overview
 The city of Chalayan is situated on a large cliff overlooking the ocean. It is a bustling port city with grand temples dedicated to the gods of the pantheon. Intricate marble buildings climb the cliffs towards the ocean, colorful banners with patterns of the different gods fly in the wind. The capital is home to a number of marketplaces where sailors and merchants from around the world converge. The city gets the nickname "The City of a Thousand Rivers" from the numerous underground rivers located in and around the city region.
 # History
