@@ -1,7 +1,6 @@
-# Mýkites Overview
-## Introduction
+# Introduction
 A Mýkite refers to any sort of living mushroom-type entity.
-## List of Mýkites
+# List of Mýkites
 ```dataview
 TABLE
 creature_type AS Type,

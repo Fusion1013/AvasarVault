@@ -6,8 +6,7 @@ creature_type: Mýkite
 environment: "[[Caves]]"
 image: "![[MushroomWithCrossbow.png|100]]"
 ---
-# Hikseta
-## Overview
+# Overview
 ![[MushroomWithCrossbow.png]]
 While experimenting with different ways of growing mushrooms efficiently and speeding up their natural growth cycle, the [[Saxum Sovereignty Overview|Saxum Sovereignty]] accidentally created the Hikseta. [[Saxum Sovereignty Overview|Saxum]] attempted to discard these failed experiments, but instead the Hikseta thrived, forming a mushroom society deep below the city of [[Gulstad, City of Gold|Gulstad]].
 

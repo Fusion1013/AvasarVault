@@ -8,6 +8,5 @@ image: "![[Moogshroom.png|100]]"
 
 todo: Populate
 ---
-# Moogshrooms
-## Overview
+# Overview
 ![[Moogshroom.png]]
