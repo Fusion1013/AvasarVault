@@ -1,5 +1,4 @@
 # Overview
-
 # Origin
 A vast majority of naturally formed elementals originate from the [[Elemental Plane of Chaos]], where they are formed in the crucible of chaotic elemental energies. Elementals form in areas of high concentration of particular elemental energies. Depending on the strength of the elemental energies in the area, the resulting creature may be a small Fire Snake or a terrifying Leviathan. Elementals are usually only composed of one such element, though sometimes different kinds of elemental energies can mix together, forming an impure being of differing elements.
 ## Creating Elementals
