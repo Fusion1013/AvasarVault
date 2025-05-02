@@ -30,7 +30,9 @@ Though the Everburn is constantly burning, the native life is not harmed. Instea
 To most, the everburn is a deadly nightmare to be avoided, but for many, it is their home in which they could not live without. Many scholars liken this distinction to that of the ocean, inhospitable to most, but the source of life for species such as mere-folk and triton.
 # Creatures
 ## Elementals
-This plane is where all elementals originate from. They form in areas of high concentration of particular elemental energies. Depending on the strength of the  Usually they are only composed of one such elements, though sometimes different kinds of elemental energies mix together, creating impure creatures of the elements.
+This plane is where all elementals originate from. They form in areas of high concentration of particular elemental energies. Depending on the strength of the elemental energies in the area, the resulting creature may be a small Fire Snake or a terrifying Leviathan. They are usually only composed of one such element, though sometimes different kinds of elemental energies mix together, creating impure creatures of the elements.
+
+Elementals can be 
 # Source of Magic
 The Elemental Plane of Chaos can be a source of conjuration energy, though due to the plane's chaotic nature, it is difficult to use effectively.
 
