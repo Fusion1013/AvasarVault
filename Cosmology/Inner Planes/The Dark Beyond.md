@@ -10,13 +10,16 @@ aliases:
   - Plane of Death
   - Eternal Darkness
 ---
+> [!infobox|right]
+> # The Dark Beyond
+> IMAGE HERE
+> ###### Overview
+> | **Aliases** | Plane of Death, Eternal Darkness |
+> | - | - |
+> | **Attuned God** | [[Aztaris - the Shepherd of Souls]] |
+> | **Celestial Body** | Yomi |
+
 *"Some say death is unwelcoming, but I welcome all"*
-```dataviewjs
-var p = dv.current();
-dv.paragraph("**Attuned God:** " + p.attuned_god);
-dv.paragraph("**Celestial Body:** " + p.celestial_body);
-dv.paragraph("**Alternative Names:** " + p.aliases);
-```
 ## Overview
 The Dark Beyond is the final destination for the souls of the deceased. Despite its name, it is not one of the lower planes, it is instead a neutral plane. It was given the name Dark Beyond by mortals who feared death, who did not realize that death is neutral. This plane is not to be confused with the Shadow Plane.
 ## Layers of Death

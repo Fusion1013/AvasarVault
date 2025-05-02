@@ -13,13 +13,16 @@ aliases:
   - Night
   - Plane of Absolute Darkness
 ---
+> [!infobox|right]
+> # Tenebris
+> IMAGE HERE
+> ###### Overview
+> | **Aliases** | Nox, Dark Cavern, Night, Plane of Absolute Darkness |
+> | - | - |
+> | **Attuned God** | [[Lu'Syl - the Twilight Twins]] |
+> | **Celestial Body** | Sahti |
+
 *"QUOTE"*
-```dataviewjs
-var p = dv.current();
-dv.paragraph("**Attuned God:** " + p.attuned_god);
-dv.paragraph("**Celestial Body:** " + p.celestial_body);
-dv.paragraph("**Alternative Names:** " + p.aliases);
-```
 ## Overview
 Tenebris is a dark hellscape. Twisting caverns through black rock. Cold, gray mists, accompanied by eerie silence only broken by heart wrenching screams. Most of its names simply translate to Dark Cavern, or Night. This plane represents total darkness.
 ## Environment
