@@ -28,7 +28,7 @@ Tenebris is a dark hellscape. Twisting caverns through black rock. Cold, gray mi
 # Environment
 Most of the environment in Tenebris exists underground. It takes the form of dark, twisting caverns through black rock, occasionally interrupted by strange structures buried within the rock. Labyrinthine corridors stretching for miles, inhabited by nightmares.
 
-There is a surface, somewhere far above the endless rock. An empty expanse plagued by a laud, ever-howling wind.
+There is a surface, somewhere far above the endless rock. An empty expanse plagued by a loud, ever-howling wind.
 ## Lume Cave
 ![[MushroomCave.png]]
 An unusually serene spot within the surrounding darkness, the lume caves are forests of mushrooms that spread across any surface. Many of the plants, insects, and animals of the lume caves are bioluminescent, casting the otherwise pitch-black caves in dim blue light. The firefly species known as [[Duskmote|Duskmotes]] are a common sight in the warmer parts of the caverns.
