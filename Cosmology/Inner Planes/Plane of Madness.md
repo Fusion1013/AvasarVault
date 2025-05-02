@@ -11,7 +11,16 @@ aliases:
   - Forbidden Plains
   - Ulgurshek
 ---
-*"Madness doesn't favour fools"*
+> [!infobox|right]
+> # Plane of Madness
+> IMAGE HERE
+> ###### Overview
+> | **Aliases** | Forbidden Plains, Ulgur |
+> | - | - |
+> | **Attuned God** | N/A |
+> | **Celestial Body** | Delir |
+
+*"QUOTE"*
 ```dataviewjs
 var p = dv.current();
 dv.paragraph("**Attuned God:** " + p.attuned_god);
@@ -54,4 +63,4 @@ While encountering or traveling through things in the plane, players only get en
 
 Anyone traveling to the plane will soon experience the madness that comes with it. Travelers who stay on the plane for prolonged periods sometimes state that their feelings towards it turn more favorable. Others state that when they manage to leave the plane, they feel an intense need to go back, losing themselves in fits of rage. Few travelers who have gone back have returned.
 
-[[Planes Overview]]
+[[Planes 
