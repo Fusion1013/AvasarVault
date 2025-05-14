@@ -91,7 +91,7 @@ A watery planet with a temperature similar to that of Avasar. Contains large sea
 **Corresponding Plane:** [[Kalament, Plane of Peace]]
 **Appearance:** The surface is covered in a thick, white fog.
 
-The fog, which is called Foscastein, that covers the planet is said to give a calming effect to anyone who breathes it in. If someone were to breathe in the gas for too long, they would eventually fall into a deep sleep, entering a comatose state.
+The fog, which is called [[Foscastein]], that covers the planet is said to give a calming effect to anyone who breathes it in. If someone were to breathe in the gas for too long, they would eventually fall into a deep sleep, entering a comatose state.
 #### Sylvanis (Nature)
 **Corresponding Plane:** [[Feralia]]
 **Appearance:** Shifting tones of deep green
