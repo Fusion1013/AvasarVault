@@ -13,4 +13,5 @@ cost_lb_uncut: 100.00gp
 cost_kg_cut: 113.40gp
 cost_lb_cut: 250.00gp
 ---
-[[Crystals Overview]]
+# Overview
+A type of [[Crystals Overview|Crystal]]. Magical ice from the frozen layers of hell. Can be forged and formed as easily as steel. It is gray-blue and almost completely opaque.
