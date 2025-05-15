@@ -3,7 +3,7 @@ tags:
   - person/major
   - ohkyr_dominion
   - ohkyr_synod
-title:
+honorary:
   - Mistress of the Hidden Rivers
   - Tidewarden of the Depths
 political_leaning: Isolationist

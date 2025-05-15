@@ -3,7 +3,7 @@ tags:
   - person/major
   - ohkyr_dominion
   - ohkyr_synod
-title:
+honorary:
   - Warmaster of Ogrun
   - Breaker of Storms
 political_leaning: Expansionist

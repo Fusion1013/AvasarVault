@@ -72,7 +72,7 @@ The lift is commonly used to transport both people and goods. However access is 
 [[The Grand Synod of Ohkyr]] is the ruling body of [[Ohkyr Dominion Overview|Ohkyr]] and operate mainly out of [[Chalayan, The city of a Thousand Rivers|Chalayan]] from their headquarters, [[Chalayan, The city of a Thousand Rivers#The Hall of Echoes|The Hall of Echoes]].
 ```dataview
 TABLE
-title AS Title,
+honorary AS Title,
 political_leaning AS "Political Leaning"
 FROM #person/major AND #ohkyr_dominion 
 ```

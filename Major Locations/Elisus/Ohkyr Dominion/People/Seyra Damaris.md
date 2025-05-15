@@ -3,7 +3,7 @@ tags:
   - person/major
   - ohkyr_dominion
   - ohkyr_synod
-title:
+honorary:
   - The Gilded Wave
   - High Admiral of the Azure Sanctum
 political_leaning:

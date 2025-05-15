@@ -3,7 +3,7 @@ tags:
   - person/major
   - ohkyr_dominion
   - ohkyr_synod
-title:
+honorary:
   - Archpontiff of Merstur
   - The Tideborn
 political_leaning: Traditionalist
