@@ -12,4 +12,4 @@ rarity: Uncommon
 cost_kg: 13.61gp
 cost_lb: 30.00gp
 ---
-[[Metals Overview]]
+A type of [[Metals Overview|Metal]]. Kherferu is a deep red metal mined from meteor craters.

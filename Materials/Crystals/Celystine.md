@@ -1,12 +1,9 @@
 ---
 tags:
-- material
-- crystal
-
-description: A beautiful white, gold crystal said to originate in heaven itself.
-
+  - material
+  - crystal
 properties:
-- "[[Radiant]]"
+  - "[[Radiant]]"
 rarity: Rare
 cost_kg_uncut: 45.36gp
 cost_lb_uncut: 100.00gp

@@ -11,4 +11,4 @@ rarity: Uncommon
 cost_kg: 6.80gp
 cost_lb: 15.00gp
 ---
-[[Metals Overview]]
+A type of [[Metals Overview|Metal]]. A greenish-purple metal that can be found deep underneath ancient forests.

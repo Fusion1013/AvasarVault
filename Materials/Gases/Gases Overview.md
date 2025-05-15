@@ -1,10 +1,12 @@
 ---
 tags:
-- material_overview
+  - material_overview
+aliases:
+  - Gas
 ---
-## Overview
+# Overview
 This documents contain a variety of different gases, which is a type of [[Materials Overview|Material]].
-## List of Gases
+# List of Gases
 ```dataview
 TABLE WITHOUT ID
 file.link AS "Material",

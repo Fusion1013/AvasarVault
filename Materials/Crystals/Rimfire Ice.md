@@ -1,14 +1,11 @@
 ---
 tags:
-- material
-- crystal
-
-description: A magical ice created by freezing fire. It glows a kaleidoscope of reds, yellows, oranges, and blue. The spells used to create this is a carefully guarded secret.
-
+  - material
+  - crystal
 properties:
-- "[[Cold]]"
-- "[[Fiery]]"
-- "[[Mercurial]]"
+  - "[[Cold]]"
+  - "[[Fiery]]"
+  - "[[Mercurial]]"
 rarity: Rare
 cost_kg_uncut: 45.36gp
 cost_lb_uncut: 100.00gp

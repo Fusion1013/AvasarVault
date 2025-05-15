@@ -11,4 +11,4 @@ rarity: Uncommon
 cost_kg: 6.80gp
 cost_lb: 15.00gp
 ---
-[[Metals Overview]]
+A type of [[Metals Overview|Metal]]. Created by the process of transmuting lead into silver. Is resistant to necrotic damage

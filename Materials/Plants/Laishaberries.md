@@ -10,4 +10,4 @@ properties:
 rarity: Uncommon
 cost_plant: gp
 ---
-[[Plants Overview]]
+A type of [[Plants Overview|Plant]]. These berries grow at the top of a large, green bush with triangular leaves. There is usually a large amount of plantlife around it due to the berries working as supercharged fertilizer when they fall on the ground.

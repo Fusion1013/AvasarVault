@@ -11,4 +11,4 @@ rarity: Uncommon
 cost_kg: 11.34gp
 cost_lb: 25.00gp
 ---
-[[Metals Overview]]
+A type of [[Metals Overview|Metal]]. Found in rare mineral veins deep within the earth.

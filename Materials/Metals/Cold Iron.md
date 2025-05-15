@@ -12,4 +12,4 @@ rarity: Uncommon
 cost_kg: 9.07gp
 cost_lb: 20.00gp
 ---
-[[Metals Overview]]
+A type of [[Metals Overview|Metal]]. Has the appearance of iron except for a slight blue glow.

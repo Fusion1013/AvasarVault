@@ -10,4 +10,4 @@ properties:
 rarity: Rare
 cost_plant: gp
 ---
-[[Plants Overview]]
+A type of [[Plants Overview|Plant]]. Only flowers during the winter. Useful for anti-cold spells and armor.

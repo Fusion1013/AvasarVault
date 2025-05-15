@@ -10,4 +10,4 @@ properties:
 rarity: Common
 cost_plant: 1.00gp
 ---
-[[Plants Overview]]
+A type of [[Plants Overview|Plant]]. Sweet-smelling bundle of buds, commonly eaten by forest animals

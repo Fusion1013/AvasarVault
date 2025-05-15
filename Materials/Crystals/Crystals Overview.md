@@ -15,6 +15,5 @@ file.link AS "Material",
 properties AS "Properties",
 rarity AS "Rarity"
 FROM #material AND #crystal
-WHERE description != null
 SORT file.link ASC
 ```

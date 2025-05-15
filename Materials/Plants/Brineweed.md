@@ -11,4 +11,4 @@ properties:
 rarity: Very Rare
 cost_plant: gp
 ---
-[[Plants Overview]]
+A type of [[Plants Overview|Plant]]. Grows in deserts. Highly nutritious roots and contain a lot of water. Tastes awful

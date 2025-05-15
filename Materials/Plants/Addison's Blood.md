@@ -10,4 +10,4 @@ properties:
 rarity: Common
 cost_plant: 15.00gp
 ---
-[[Plants Overview]]
+A type of [[Plants Overview|Plant]]. Bright red mushrooms commonly used to make healing potions

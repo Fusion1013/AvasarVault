@@ -1,10 +1,12 @@
 ---
 tags:
-- material_overview
+  - material_overview
+aliases:
+  - Property
 ---
-## Overview
+# Overview
 This documents contain a variety of properties, that are used by different [[Materials Overview|Materials]].
-## List of Properties
+# List of Properties
 ```dataview
 TABLE WITHOUT ID
 file.link AS "Name",

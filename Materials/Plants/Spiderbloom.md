@@ -10,4 +10,4 @@ properties:
 rarity: Common
 cost_plant: 2.00gp
 ---
-[[Plants Overview]]
+A type of [[Plants Overview|Plant]]. Pollinated by arachnids. Spiders and spider-like creatures are drawn to the plant. Purpulish-blue flowers.

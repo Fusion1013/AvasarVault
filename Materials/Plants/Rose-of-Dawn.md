@@ -11,4 +11,4 @@ properties:
 rarity: Uncommon
 cost_plant: 7.00gp
 ---
-[[Plants Overview]]
+A type of [[Plants Overview|Plant]]. The petals of this rose are colored like a sunrise and can be used to give food a spicy flavor, on the level of a ghost pepper.

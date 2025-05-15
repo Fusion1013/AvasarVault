@@ -11,4 +11,4 @@ properties:
 rarity: Uncommon
 cost_plant: 12.00gp
 ---
-[[Plants Overview]]
+A type of [[Plants Overview|Plant]]. This herb has one leaf which grows from a stalk about three inches from the ground. Will create an oily solution if boiled in water for a few hours.

@@ -11,4 +11,4 @@ rarity: Uncommon
 cost_kg: 4.54gp
 cost_lb: 10.00gp
 ---
-[[Metals Overview]]
+A type of [[Metals Overview|Metal]]. 

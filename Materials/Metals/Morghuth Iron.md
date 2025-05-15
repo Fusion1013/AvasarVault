@@ -13,4 +13,4 @@ rarity: Rare
 cost_kg: 22.68gp
 cost_lb: 50.00gp
 ---
-[[Metals Overview]]
+A type of [[Metals Overview|Metal]]. Looks permanently rusted.

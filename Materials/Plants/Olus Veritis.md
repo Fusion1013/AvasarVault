@@ -10,4 +10,4 @@ properties:
 rarity: Uncommon
 cost_plant: gp
 ---
-[[Plants Overview]]
+A type of [[Plants Overview|Plant]]. A pale green plant that grows on the edges of rivers. The leaves are rough in texture and have tiny horns all along their edges. Can give the sensation of drowning if ingested.

@@ -10,4 +10,4 @@ properties:
 rarity: Uncommon
 cost_plant: gp
 ---
-[[Plants Overview]]
+A type of [[Plants Overview|Plant]]. Flat green leaves that grow in tiers along the tall stem. If the leaves are ground up and eaten the skin of the imbiber gets slightly harder.

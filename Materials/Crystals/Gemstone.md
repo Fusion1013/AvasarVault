@@ -1,12 +1,9 @@
 ---
 tags:
-- material
-- crystal
-
-description: Gemstones is a generic term that is used for many different crystals of different values. Gemstones can channel magic.
-
+  - material
+  - crystal
 properties:
-- Depends on type and color
+  - Depends on type and color
 rarity: Rare
 cost_kg_uncut: 45.36gp
 cost_lb_uncut: 100.00gp
