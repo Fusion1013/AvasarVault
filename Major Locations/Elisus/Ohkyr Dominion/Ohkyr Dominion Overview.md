@@ -11,7 +11,7 @@ editors: Fusion
 ---
 > [!infobox|right]
 > # Ohkyr Dominion
-> ![[OhkyrCoastalCity.jpg]]
+> ![[OhkyrDominionV1.png]]
 > ###### Geography
 > | **Aliases** |  |
 > | - | - |
