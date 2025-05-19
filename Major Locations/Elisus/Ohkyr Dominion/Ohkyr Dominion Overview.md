@@ -11,7 +11,7 @@ editors: Fusion
 ---
 > [!infobox|right]
 > # Ohkyr Dominion
-> ![[OhkyrDominionV1.png]]
+> ![[OhkyrDominionV3.png]]
 > ###### Geography
 > | **Aliases** |  |
 > | - | - |
@@ -41,7 +41,7 @@ This conflict lasted until the 2nd century, when [[High Priest Varlen of the Sha
 To cement this unity, this alliance of faith, the two commissioned a citadel for the city of [[Chalayan, The city of a Thousand Rivers|Chalayan]], where faith and governance could exist together. The citadel became known as [[Chalayan, The city of a Thousand Rivers#The Hall of Echoes|The Hall of Echoes]].
 # Religion
 The two main religions of [[Ohkyr Dominion Overview|Ohkyr]] are dedicated to [[Merstur - the Unbroken Tide|Merstur]] and [[Ogrun - the Scarlet Champion|Ogrun]]. Other faiths are not strictly outlawed, though they are extremely uncommon among the general populace.
-# Major Cities
+# Cities
 ```dataview
 TABLE 
 population AS "Population",

@@ -1,2 +1,8 @@
+---
+tags:
+  - city/major
+nation:
+  - Ohkyr
+---
 # Overview
-A city located north-east of [[Chalayan, The city of a Thousand Rivers|Chalayan]], along the highway towards [[Deyruk]].
+A city located south-east of [[Chalayan, The city of a Thousand Rivers|Chalayan]], along the highway towards [[Deyruk]].
