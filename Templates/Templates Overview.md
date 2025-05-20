@@ -13,7 +13,7 @@
 ## Pantheon
 [[God]]
 ## Regions
-[[City]]
+[[Templates/Templates/Regions/City]]
 [[Nation]]
 ## Other
 [[Formatted Image]]
