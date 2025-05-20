@@ -7,6 +7,7 @@ aliases:
 # Overview
 This documents contain a variety of different plants, which is a type of [[Materials Overview|Material]].
 # List of Plants
+%% DATAVIEW_PUBLISHER: start
 ```dataview
 TABLE WITHOUT ID
 file.link AS "Material",
@@ -17,3 +18,5 @@ FROM #material AND #plant
 WHERE description != null
 SORT file.link ASC
 ```
+%%
+%% DATAVIEW_PUBLISHER: end

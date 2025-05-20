@@ -12,4 +12,4 @@ WHERE creature_type = "Mýkite"
 SORT creature_type ASC
 ```
 %%
-%% DATAVIEW_PUBLISHER: end
+%% DATAVIEW_PUBLISHER: end %%

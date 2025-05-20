@@ -8,7 +8,7 @@ LIST
 FROM #species/humanoid 
 ```
 %%
-%% DATAVIEW_PUBLISHER: end
+%% DATAVIEW_PUBLISHER: end %%
 And the following are some less common species of humanoids, though still quite prevalent in certain areas of the world.
 # Cultures
 %% DATAVIEW_PUBLISHER: start
@@ -19,4 +19,4 @@ type AS "Main Species"
 FROM #culture
 ```
 %%
-%% DATAVIEW_PUBLISHER: end
+%% DATAVIEW_PUBLISHER: end %%

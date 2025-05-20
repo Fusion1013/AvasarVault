@@ -15,4 +15,4 @@ FROM #culture
 WHERE type = [[Humans]]
 ```
 %%
-%% DATAVIEW_PUBLISHER: end
+%% DATAVIEW_PUBLISHER: end %%

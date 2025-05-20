@@ -16,7 +16,7 @@ FROM (#language AND -#Dead) OR #Language_Group
 SORT (default(language_group, file.name)+choice(language_group = null, "Group", "Language")) ASC
 ```
 %%
-%% DATAVIEW_PUBLISHER: end
+%% DATAVIEW_PUBLISHER: end %%
 # Languages Grouped by Type
 %% DATAVIEW_PUBLISHER: start
 ```dataviewjs
@@ -29,6 +29,6 @@ for (let group of dv.pages("#language").where(p => p.language_group != null).gro
 }
 ```
 %%
-%% DATAVIEW_PUBLISHER: end
+%% DATAVIEW_PUBLISHER: end %%
 
 ![[Language Map.canvas|Language Map]]

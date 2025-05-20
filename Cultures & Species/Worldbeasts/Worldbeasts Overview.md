@@ -13,4 +13,4 @@ FROM #worldbeast
 WHERE plane != "PLANE"
 ```
 %%
-%% DATAVIEW_PUBLISHER: end
+%% DATAVIEW_PUBLISHER: end %%

@@ -11,7 +11,7 @@ WHERE creature_type != "TEMPLATE"
 SORT creature_type + file.name ASC
 ```
 %%
-%% DATAVIEW_PUBLISHER: end
+%% DATAVIEW_PUBLISHER: end %%
 ## Creatures by Environment
 ### Forest
 %% DATAVIEW_PUBLISHER: start
@@ -23,7 +23,7 @@ FROM #creature
 WHERE contains(join(environment, ""), "Caves")
 ```
 %%
-%% DATAVIEW_PUBLISHER: end
+%% DATAVIEW_PUBLISHER: end %%
 ### Caves
 %% DATAVIEW_PUBLISHER: start
 ```dataview
@@ -34,7 +34,7 @@ FROM #creature
 WHERE contains(join(environment, ""), "Forest")
 ```
 %%
-%% DATAVIEW_PUBLISHER: end
+%% DATAVIEW_PUBLISHER: end %%
 ### Ocean
 %% DATAVIEW_PUBLISHER: start
 ```dataview
@@ -45,4 +45,4 @@ FROM #creature
 WHERE contains(join(environment, ""), "Ocean")
 ```
 %%
-%% DATAVIEW_PUBLISHER: end
+%% DATAVIEW_PUBLISHER: end %%

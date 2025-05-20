@@ -78,6 +78,6 @@ political_leaning AS "Political Leaning"
 FROM #person/major AND #ohkyr_dominion 
 ```
 %%
-%% DATAVIEW_PUBLISHER: end
+%% DATAVIEW_PUBLISHER: end %%
 ## The Choir
 This highly secretive organization has its roots in [[Chalayan, The city of a Thousand Rivers|Chalayan]], and this is where its headquarters are supposed to be located. [[The Choir]] have historically used the underground rivers under the city as a training grounds, where new troops come to either join the ranks of the organization, or sink into the gods dark reflection.

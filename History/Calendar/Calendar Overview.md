@@ -12,7 +12,7 @@ FROM #week_day
 SORT day_order ASC
 ```
 %%
-%% DATAVIEW_PUBLISHER: end
+%% DATAVIEW_PUBLISHER: end %%
 ### Months
 The names for the months have their roots from the names of the gods, with influences from [[Proto-Naiwa]].
 %% DATAVIEW_PUBLISHER: start
@@ -24,4 +24,4 @@ FROM #month
 SORT order ASC
 ```
 %%
-%% DATAVIEW_PUBLISHER: end
+%% DATAVIEW_PUBLISHER: end %%

@@ -25,7 +25,7 @@ FROM #plane/material
 SORT file.name ASC
 ```
 %%
-%% DATAVIEW_PUBLISHER: end
+%% DATAVIEW_PUBLISHER: end %%
 # The Inner Planes
 %% DATAVIEW_PUBLISHER: start
 ```dataview
@@ -37,7 +37,7 @@ FROM #plane/inner
 SORT file.name ASC
 ```
 %%
-%% DATAVIEW_PUBLISHER: end
+%% DATAVIEW_PUBLISHER: end %%
 # Transitive Planes
 %% DATAVIEW_PUBLISHER: start
 ```dataview
@@ -48,7 +48,7 @@ aliases AS "Alternative Names"
 FROM #plane/transitive
 ```
 %%
-%% DATAVIEW_PUBLISHER: end
+%% DATAVIEW_PUBLISHER: end %%
 # The Outer Planes
 %% DATAVIEW_PUBLISHER: start
 ```dataview
@@ -59,7 +59,7 @@ aliases AS "Alternative Names"
 FROM #plane/outer
 ```
 %%
-%% DATAVIEW_PUBLISHER: end
+%% DATAVIEW_PUBLISHER: end %%
 # Planar Travel
 Interplanar travel is not a difficult task for mortals to achieve, but is considered incredibly dangerous. Generally, only formidable nations have systems for traversing different planes in a relatively safe manner. They take these risks due to the massive economic benefits it can bring, such as the access of valuable materials not available on the Material Plane.
 ## Planar Portals

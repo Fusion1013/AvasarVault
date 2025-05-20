@@ -10,10 +10,10 @@ essence:
 plane: 
 draft: true
 ---
-## Overview
+# Overview
 One of the many [[Pantheon Overview|Demigods]].
-## Domain
+# Domain
 
-## Symbology
+# Symbology
 
-## Worship
+# Worship
