@@ -60,4 +60,8 @@ WHERE nation = "Storms Reach"
 SORT population DESC
 ```
 %%
-%% DATAVIEW_PUBLISHER: end
+
+| File | Population |
+| ---- | ---------- |
+
+%% DATAVIEW_PUBLISHER: end %%

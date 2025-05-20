@@ -15,4 +15,12 @@ FROM #culture
 WHERE type = [[Humans]]
 ```
 %%
+
+| File                                                                       | Origin                                                                                        |
+| -------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
+| [[Major Locations/Elisus/Saxum Sovereignty/People/Lithans.md\|Lithans]]    | [[Major Locations/Elisus/Saxum Sovereignty/Saxum Sovereignty Overview.md\|Saxum Sovereignty]] |
+| [[Major Locations/Elisus/So'Dar Empire/People/So'Darian.md\|So'Darian]]    | [[Major Locations/Elisus/So'Dar Empire/So'Dar Empire Overview.md\|So'Dar Empire]]             |
+| [[Major Locations/Elisus/Turochan Kingdom/People/Taundites.md\|Taundites]] | [[Major Locations/Elisus/Turochan Kingdom/Turochan Kingdom Overview.md\|Turochan Kingdom]]    |
+| [[Major Locations/Elisus/Turochan Kingdom/People/Turochian.md\|Turochian]] | [[Major Locations/Elisus/Turochan Kingdom/Turochan Kingdom Overview.md\|Turochan Kingdom]]    |
+
 %% DATAVIEW_PUBLISHER: end %%

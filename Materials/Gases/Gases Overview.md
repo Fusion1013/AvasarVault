@@ -18,4 +18,10 @@ FROM #material AND #gas
 SORT file.link ASC
 ```
 %%
-%% DATAVIEW_PUBLISHER: end
+
+| Material                                      | Description | Properties                                                                                                            | Rarity |
+| --------------------------------------------- | ----------- | --------------------------------------------------------------------------------------------------------------------- | ------ |
+| [[Materials/Gases/Foscastein.md\|Foscastein]] | \-          | <ul><li>[[Materials/Properties/Zephyrous.md\|Zephyrous]]</li><li>[[Materials/Properties/Vital.md\|Vital]]</li></ul> | Rare   |
+| [[Templates/Templates/Materials/Gas.md\|Gas]] | \-          | <ul><li>\-</li></ul>                                                                                                  | \-     |
+
+%% DATAVIEW_PUBLISHER: end %%

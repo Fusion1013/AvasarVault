@@ -55,7 +55,15 @@ WHERE nation = "Preia"
 SORT population DESC
 ```
 %%
-%% DATAVIEW_PUBLISHER: end
+
+| File                                                         | Population |
+| ------------------------------------------------------------ | ---------- |
+| [[Major Locations/Elisus/Preᴙ/Cities/Wrᴎgord.md\|Wrᴎgord]]   | 48100      |
+| [[Major Locations/Elisus/Preᴙ/Cities/Ozᴎrgrod.md\|Ozᴎrgrod]] | 19600      |
+| [[Major Locations/Elisus/Preᴙ/Cities/Sukhodol.md\|Sukhodol]] | \-         |
+| [[Major Locations/Elisus/Preᴙ/Cities/Zalessk.md\|Zalessk]]   | \-         |
+
+%% DATAVIEW_PUBLISHER: end %%
 # Factions
 Various factions have their roots in Preᴙ.
 ## Noble Houses
@@ -67,7 +75,14 @@ FROM #noblehouse
 WHERE nation = "Preia"
 ```
 %%
-%% DATAVIEW_PUBLISHER: end
+
+- [[Major Locations/Elisus/Preᴙ/Organizations/House Dorofei.md|House Dorofei]]
+- [[Major Locations/Elisus/Preᴙ/Organizations/House Gerasim.md|House Gerasim]]
+- [[Major Locations/Elisus/Preᴙ/Organizations/House Oxana.md|House Oxana]]
+- [[Major Locations/Elisus/Preᴙ/Organizations/House Terenti.md|House Terenti]]
+- [[Major Locations/Elisus/Preᴙ/Organizations/House Vikentiv.md|House Vikentiv]]
+
+%% DATAVIEW_PUBLISHER: end %%
 # Religion
 The religious practices varies from city to city in [[Preᴙ Overview|Preᴙ]]. The officially recognized religions according to the ruling body in the capital are [[Vuzen - the Law Baron]], [[Isoroa - the Shadowed Mask]], [[Saheir - the Enchantress]], and [[Veda - the Elder Scribe]]. This is only heavily enforced in the capital however, and other regions have their own rules and regulations regarding religion.
 # Currency

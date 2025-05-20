@@ -22,4 +22,10 @@ research_areas AS "Research Areas"
 FROM #organization AND #erudisamfund 
 ```
 %%
-%% DATAVIEW_PUBLISHER: end
+
+| File                                                                                                         | Research Areas                             |
+| ------------------------------------------------------------------------------------------------------------ | ------------------------------------------ |
+| [[Major Locations/Elisus/Saxum Sovereignty/Organizations/Stormborn Reclaimers.md\|Stormborn Reclaimers]]     | <ul><li>Storms Reach</li></ul>             |
+| [[Major Locations/Elisus/Saxum Sovereignty/Organizations/The Agronomi Institute.md\|The Agronomi Institute]] | <ul><li>Experimental Agriculture</li></ul> |
+
+%% DATAVIEW_PUBLISHER: end %%

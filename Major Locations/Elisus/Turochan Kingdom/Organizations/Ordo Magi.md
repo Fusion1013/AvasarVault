@@ -18,7 +18,14 @@ FROM #person AND #ordo_magi
 SORT file.name ASC
 ```
 %%
-%% DATAVIEW_PUBLISHER: end
+
+| File                                                                                             | Description                                                                                                                                                       |
+| ------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Major Locations/Elisus/Turochan Kingdom/People/Augur Cato Elgor.md\|Augur Cato Elgor]]         | Cato Elgor is a gifted user of arcane magic and one of the members of [[Ordo Magi]]. He works as a teacher within the school.                                     |
+| [[Major Locations/Elisus/Turochan Kingdom/People/Lady Sortelle Armon.md\|Lady Sortelle Armon]]   | Lady Sortelle Armon is the leader and founder of the [[Ordo Magi]]. She posesses innate magical abilities and founded the organization for other people like her. |
+| [[Major Locations/Elisus/Turochan Kingdom/People/Master Livian Orthun.md\|Master Livian Orthun]] | \-                                                                                                                                                                |
+
+%% DATAVIEW_PUBLISHER: end %%
 # Goals and Accomplishments
 ## Destigmatize Magic
 The main goal of the Ordo Magi since the relaxation of laws against magic users has been to destigmatize the use of magic in any way. They accomplish this in a number of ways. Something they often focus on is showing the populace exactly how magic can be used as a positive in society; whether it be to help in advancing technology or protecting the common citizen. They also use their political power to try and persuade those in higher society, such as nobles.
