@@ -8,6 +8,6 @@ race:
 age:
 description: A ranger from the forests of ???, known for her knowledge of nature and survival skills.
 ---
-## Overview
+# Overview
 A ranger from the forests of ???, known for her knowledge of nature and survival skills. Member of [[The Saxum Triumvirate#The Council|The Saxum Triumvirate Council]].
-## Appearance
+# Appearance

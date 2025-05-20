@@ -7,7 +7,7 @@ nation: Saxum Sovereignty
 title: The Knowledge Preservation Edict
 description: This edict mandated the establishment of extensive archives and libraries throughout [[Saxum Sovereignty Overview|Saxum]]. It required the safeguarding of historical texts, arcane scrolls, and invaluable research, making knowledge accessible to all citizens.
 ---
-## Overview
+# Overview
 This edict mandated the establishment of extensive archives and libraries throughout [[Saxum Sovereignty Overview|Saxum]]. It required the safeguarding of historical texts, arcane scrolls, and invaluable research, making knowledge accessible to all citizens.
 
 [[Timeline]]

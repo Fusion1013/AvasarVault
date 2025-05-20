@@ -32,6 +32,7 @@ This region is a spot in the center of the Kingdom which was most damaged by the
 ## [[Fracrish Mountains|The Fracrish Mountains]]
 These mountains were caused when the island of Taundor was smashed into the continent of [[Elisus Overview|Elisus]]. It contains some of the tallest mountains in the entire world, such as Aithr Peak. The mountain range acts as the nation’s southern border.
 # Major People
+%% DATAVIEW_PUBLISHER: start
 ```dataview
 TABLE
 description AS Description,
@@ -40,10 +41,15 @@ age AS Age
 FROM #person/major AND #turochan
 SORT file.name ASC
 ```
+%%
+%% DATAVIEW_PUBLISHER: end
 # Major Organizations
+%% DATAVIEW_PUBLISHER: start
 ```dataview
 TABLE
 description AS Description
 FROM #organization/major AND #turochan 
 SORT file.name ASC
 ```
+%%
+%% DATAVIEW_PUBLISHER: end

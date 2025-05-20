@@ -10,7 +10,6 @@ race:
 age:
 description: "Leader of [[The Steel Conductors]]."
 ---
-# Casius Mercelle
-## Overview
+# Overview
 Leader of [[The Steel Conductors]].
-## Appearance
+# Appearance

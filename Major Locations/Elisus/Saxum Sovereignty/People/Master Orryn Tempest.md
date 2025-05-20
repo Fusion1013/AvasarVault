@@ -10,9 +10,9 @@ race:
 age: 
 description: Served [[The Saxum Triumvirate]] for 31 years before stepping down to focus on personal research.
 ---
-## Overview
+# Overview
 ```dataviewjs
 var p = dv.current();
 dv.span(p.description)
 ```
-## Appearance
+# Appearance

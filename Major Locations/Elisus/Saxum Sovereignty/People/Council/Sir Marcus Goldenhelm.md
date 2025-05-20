@@ -8,6 +8,6 @@ race:
 age:
 description: A knight from the region of ???, known for his martial prowess and skill with a sword.
 ---
-## Overview
+# Overview
 A knight from the region of ???, known for his martial prowess and skill with a sword. Member of [[The Saxum Triumvirate#The Council|The Saxum Triumvirate Council]].
-## Appearance
+# Appearance

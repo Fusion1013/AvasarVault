@@ -8,6 +8,6 @@ race:
 age:
 description: A lord from the region of ???, known for his military prowess and experience in strategy.
 ---
-## Overview
+# Overview
 A lord from the region of ???, known for his military prowess and experience in strategy. Member of [[The Saxum Triumvirate#The Council|The Saxum Triumvirate Council]].
-## Appearance
+# Appearance

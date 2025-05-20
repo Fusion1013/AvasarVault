@@ -8,6 +8,6 @@ race:
 age:
 description: A nobleman from the region of ???, known for his expertise in naval affairs and seafaring.
 ---
-## Overview
+# Overview
 A nobleman from the region of ???, known for his expertise in naval affairs and seafaring. Member of [[The Saxum Triumvirate#The Council|The Saxum Triumvirate Council]].
-## Appearance
+# Appearance

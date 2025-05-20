@@ -11,11 +11,10 @@ race:
 age:
 description:
 ---
-# Master Livian Orthun
-## Overview
+# Overview
 
-## Appearance
-## History
+# Appearance
+# History
 Livial Orthun was originally born in [[Virston]]. Here he became an expert craftsman and non-magical artificer. Due to his incredible skill, he was chosen by [[Turochan Kingdom Overview#The Registran|The Registran]] to personally craft items for them. Here, he was allowed to learn how to magically enchant items, as long as he swore to never spread this knowledge to others and only craft items for [[Turochan Kingdom Overview#The Registran|The Registran]]. Here he helped in making devices to counter mages and make their weapons and armor more durable. As [[King Aulus Turochan II]] began to relax laws against magic, Livian was allowed to create different magic items and sell them to approved recipients. He is the newest member of the Ordo Magi with a high ranking position.
 
 Livian Orthun's life began in [[Virston]], where he was born and raised. As a young man, he discovered his talent for craftsmanship and became an expert non-magical artificer. He honed his skills and gained a reputation for creating high-quality items that were both beautiful and functional.

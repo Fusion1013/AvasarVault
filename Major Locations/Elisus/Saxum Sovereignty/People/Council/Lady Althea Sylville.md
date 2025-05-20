@@ -8,6 +8,6 @@ race:
 age:
 description: A noblewoman from the city of ???, known for her diplomatic skills and expertise in economics.
 ---
-## Overview
+# Overview
 A noblewoman from the city of ???, known for her diplomatic skills and expertise in economics. Member of [[The Saxum Triumvirate#The Council|The Saxum Triumvirate Council]].
-## Appearance
+# Appearance

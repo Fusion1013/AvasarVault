@@ -11,11 +11,11 @@ race: Human
 age: ~55
 description: "Lady Sortelle Armon is the leader and founder of the [[Ordo Magi]]. She posesses innate magical abilities and founded the organization for other people like her."
 ---
-## Overview
+# Overview
 Lady Sortelle Armon is the leader and founder of the [[Ordo Magi]]. She posesses innate magical abilities and founded the organization for other people like her.
-## Appearance
+# Appearance
 Lady Sortelle Armon is an older human woman in her late 50s. She has tanned, wrinkly skin and both a green and blue eye. Sortelle has very short and curly hair that is pure white. She stands at around 5 ft 4 (1.6 meters), but looks shorter due to her hunched posture. She is most commonly seen wearing well tailored dresses and robes, like most nobles do.
-## History
+# History
 Lady Sortelle Armon was born into the Armon family in the [[Turochan Kingdom Overview|Turochan Kingdom]]. However, she was very different from the rest of her family for one reason: she was born with innate magical abilities. This was a curse in a land where the mere possession of magic was enough to condemn someone to death. Lady Sortelle was forced to keep her abilities a secret, knowing that revealing them could lead to her untimely death.
 
 Despite the danger, Lady Sortelle wanted to learn how to suppress her ability. She began to experiment and practice her abilities in secret until she was able to gain some control over them. Now having control over this ability, she could continue to live her life without fear of persecution or death.

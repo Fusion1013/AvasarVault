@@ -10,6 +10,6 @@ race:
 age:
 description: "Leader of [[The Anubit Society]]"
 ---
-## Overview
+# Overview
 Leader of [[The Anubit Society]].
-## Appearance
+# Appearance

@@ -52,9 +52,12 @@ A bloodline of sorcerers that have developed magic to protect the hoard.
 Temperion is a smaller hoard, composed of only around fifty people. This hoard is known for their fervent worship and reverence of the storm. They devote their lives to worshiping the storm and the dragons within it, believing that they are their chosen followers. They try to stay as close to the storm as they possibly can in order to harness its power. They conduct rituals and perform sacrifices to the storm in order to appease it.
 # Cities & Settlements
 Because of the storm that ravages the surface of [[Storms Reach Overview|Storms Reach]], any permanent structures, cities or settlements have to be constructed underground. Living under the surface comes with numerous challenges. Access to food or water is often difficult, the mental challenges of living the majority of your life underground, no sun in sight. Some people living in some of the larger underground cities have never seen the sun in their entire life.
+%% DATAVIEW_PUBLISHER: start
 ```dataview
 TABLE population AS "Population"
 FROM #city
 WHERE nation = "Storms Reach"
 SORT population DESC
 ```
+%%
+%% DATAVIEW_PUBLISHER: end

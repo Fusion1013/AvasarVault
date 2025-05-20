@@ -8,6 +8,6 @@ race:
 age:
 description: A human from the town of ???, Lucian is a skilled blacksmith and expert in metalworking.
 ---
-## Overview
+# Overview
 A human from the town of ???, Lucian is a skilled blacksmith and expert in metalworking. Member of [[The Saxum Triumvirate#The Council|The Saxum Triumvirate Council]].
-## Appearance
+# Appearance

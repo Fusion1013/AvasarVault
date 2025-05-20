@@ -8,6 +8,6 @@ race:
 age:
 description: A dwarf from the Fracrish Mountains, expert in mining and resource management.
 ---
-## Overview
+# Overview
 A dwarf from the Fracrish Mountains, expert in mining and resource management. Member of [[The Saxum Triumvirate#The Council|The Saxum Triumvirate Council]].
-## Appearance
+# Appearance

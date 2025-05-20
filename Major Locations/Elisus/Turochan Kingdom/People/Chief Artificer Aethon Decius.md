@@ -11,7 +11,6 @@ race:
 age:
 description: "Leader of the Artifex"
 ---
-# Chief Artificer Aethon Decius
-## Overview
+# Overview
 Leader of the [[The Registran#Bracchium Artifex|Artifex]].
-## Appearance
+# Appearance

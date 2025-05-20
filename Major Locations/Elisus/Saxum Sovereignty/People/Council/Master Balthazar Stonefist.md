@@ -8,6 +8,6 @@ race:
 age:
 description: A dwarven craftsman from the city of Gulstad, known for his expertise in metallurgy and engineering.
 ---
-## Overview
+# Overview
 A dwarven craftsman from the city of Gulstad, known for his expertise in metallurgy and engineering. Member of [[The Saxum Triumvirate#The Council|The Saxum Triumvirate Council]].
-## Appearance
+# Appearance
