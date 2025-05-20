@@ -9,7 +9,7 @@ description: The Plane of Dreams is a Major Transitive Plane that encompasses al
 celestial_body: N/A
 attuned_god: N/A
 ---
-*"Dream, little shadow. Dream for me"*
+*"Dream, little shadow. Dream with me"*
 ```dataviewjs
 var p = dv.current();
 dv.paragraph("**Attuned God:** " + p.attuned_god);

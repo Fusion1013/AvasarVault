@@ -42,6 +42,7 @@ To cement this unity, this alliance of faith, the two commissioned a citadel for
 # Religion
 The two main religions of [[Ohkyr Dominion Overview|Ohkyr]] are dedicated to [[Merstur - the Unbroken Tide|Merstur]] and [[Ogrun - the Scarlet Champion|Ogrun]]. Other faiths are not strictly outlawed, though they are extremely uncommon among the general populace.
 # Cities
+%% DATAVIEW_PUBLISHER: start
 ```dataview
 TABLE 
 population AS "Population",
@@ -50,6 +51,23 @@ FROM #city
 WHERE nation = "Ohkyr"
 SORT file.name ASC
 ```
+%%
+
+| File                                                                                                                                 | Population | Size       |
+| ------------------------------------------------------------------------------------------------------------------------------------ | ---------- | ---------- |
+| [[Major Locations/Elisus/Ohkyr Dominion/Cities/Chalayan, The city of a Thousand Rivers.md\|Chalayan, The city of a Thousand Rivers]] | 130000     | Metropolis |
+| [[Major Locations/Elisus/Ohkyr Dominion/Cities/Deyruk.md\|Deyruk]]                                                                   | 37000      | Metropolis |
+| [[Major Locations/Elisus/Ohkyr Dominion/Cities/Gelthurun, Eye of the North.md\|Gelthurun, Eye of the North]]                         | 5600       | Small City |
+| [[Major Locations/Elisus/Ohkyr Dominion/Cities/Halimeth.md\|Halimeth]]                                                               | 3200       | Large Town |
+| [[Major Locations/Elisus/Ohkyr Dominion/Cities/Halzarin.md\|Halzarin]]                                                               | 7800       | Small City |
+| [[Major Locations/Elisus/Ohkyr Dominion/Cities/Kesiyra.md\|Kesiyra]]                                                                 | 42000      | Metropolis |
+| [[Major Locations/Elisus/Ohkyr Dominion/Cities/Meztara.md\|Meztara]]                                                                 | 24000      | Large City |
+| [[Major Locations/Elisus/Ohkyr Dominion/Cities/Sarhuna.md\|Sarhuna]]                                                                 | 7800       | Small City |
+| [[Major Locations/Elisus/Ohkyr Dominion/Cities/Seyvarin.md\|Seyvarin]]                                                               | 10300      | Small City |
+| [[Major Locations/Elisus/Ohkyr Dominion/Cities/Uskedram.md\|Uskedram]]                                                               | 12400      | Large City |
+| [[Major Locations/Elisus/Ohkyr Dominion/Cities/Velmira, City of Watchful Waters.md\|Velmira, City of Watchful Waters]]               | 48000      | Metropolis |
+
+%% DATAVIEW_PUBLISHER: end %%
 # Minor Cities
 ```dataview
 TABLE description AS "Description"
