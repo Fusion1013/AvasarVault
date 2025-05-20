@@ -15,12 +15,12 @@ population: 42000
 > ###### Society
 > | **Demonym** | ? |
 > | - | - |
-> | **Races** | 38% Hum |
+> | **Races** | 38% Humans, 21% Elves, 14% Tieflings, 10% Halflings |
 > | **Religions** |  |
 > ###### Commerce
-> | **Imports** |  |
+> | **Imports** | Metals, Lumber, Grain |
 > | - | - |
-> | **Exports** |  |
+> | **Exports** | Dyes, Pearls |
 > ###### Politics
 > | **Type** | ? |
 > | - | - |
@@ -28,7 +28,7 @@ population: 42000
 > | **Legislative** | ? |
 > | **Allegiances** | ? |
 > ###### History
-> | **Population** |  |
+> | **Population** | 42000 |
 > | - | - |
 # Overview
 A large city located on the largest island in the [[Karaselket Chain]].
