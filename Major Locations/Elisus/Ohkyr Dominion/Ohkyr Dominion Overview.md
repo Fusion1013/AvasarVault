@@ -76,7 +76,7 @@ FROM #city/minor
 WHERE nation = "Ohkyr"
 ```
 %%
-%% DATAVIEW_PUBLISHER: end
+%% DATAVIEW_PUBLISHER: end %%
 # Military Power
 ![[LargeBattleship.jpg]]
 Ohkyr has one of the largest navies on the continent and dominates a large part of the surrounding ocean. They have trained clerics specialized on taming the ocean to their will. The people of Ohkyr are signed into the army at an early age, forcing them to complete a mandatory period of military service. The living conditions of army life are not great; though not terrible either.
