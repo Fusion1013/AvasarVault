@@ -34,12 +34,3 @@ Oversees taxation, food distribution, and general trade regulation.
 Archivist and historian.
 ## The Thirteenth Seat
 A sacred mystery. One of the highest guarded secret of the nation. This seat is always filled, yet the identity of its holder is unknown to the public. It is said they only speak when the gods demand it. Some say they are an oracle, others say they are a former general.
-
-
-
-
-
-## Warmaster of Ogrun
-Handles military affairs and foreign threats. Head of the justice system.
-## Magistrates of the Rivers
-Elected officials from each major city.

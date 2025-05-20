@@ -32,7 +32,7 @@ description: Havdal is the largest port city within the [[Saxum Sovereignty Over
 > | - | - |
 
 *Havdal rises like a jewel upon the waves, but every gem has its flaws. Look closely, and you'll see the cracks left by war, the scars of an unbroken city, and the people who refuse to bow to the tides.
-— Bryndara Othvik, Ohkyrian scholar*
+-Bryndara Othvik, Ohkyrian scholar*
 # Overview
 Havdal is the largest port city within the [[Saxum Sovereignty Overview|Saxum Sovereignty]], with its main exports being various crafted goods made from metal, as well as large amounts of food products.
 # History

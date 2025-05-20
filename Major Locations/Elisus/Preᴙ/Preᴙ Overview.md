@@ -31,7 +31,7 @@ aliases:
 > |  |  |
 
 *"Preᴙ has been broken and rebuilt more times than the heavens have seen summers. Yet, each time it rises stronger, a testament not to its rulers, but to the will of its people. To speak of Preᴙ is to speak of survival itself."
-— **Zhᴎmir Kaltsov**, historian and archivist of Wrᴎgord*
+-**Zhᴎmir Kaltsov**, historian and archivist of Wrᴎgord*
 # Overview
 The small nation of Preᴙ hides behind the mountains to the east of the [[So'Dar Empire Overview|So'Dar Empire]]. It is a fractured nation, run by an oligarchy of nobles, all belonging to a handful of [[Preᴙ Overview#Noble Houses|Noble Houses]]. The current ruling house is [[Preᴙ Overview#House Dorofei|House Dorofei]], a noble house dating back to before the [[So'Dar Empire Overview|So'Dar]] invasion. However, while they are the ones that hold power over the nation in the formal sense, in reality each city is run by their own factions and operate mostly independently from the rest.
 # History
@@ -47,21 +47,27 @@ Since then there has been a tentative peace with the [[So'Dar Empire Overview|So
 
 The nation is now only known as Preᴙ and is run by an oligarchy of nobles, all belonging to a handful of [[Preᴙ Overview#Noble Houses|Noble Houses]]. The past few hundred years since the [[So'Dar Empire Overview|So'Dar]] invasion have been plagued by civil wars and internal conflicts, as the different factions struggle and clash with each other in an attempt to gain more power. However, [[House Dorofei]] has managed to stay in power through a series of strategic alliances, acquisitions, and political assassinations.
 # Major Cities
+%% DATAVIEW_PUBLISHER: start
 ```dataview
 TABLE population AS "Population"
 FROM #city
 WHERE nation = "Preia"
 SORT population DESC
 ```
+%%
+%% DATAVIEW_PUBLISHER: end
 # Factions
 Various factions have their roots in Preᴙ.
 ## Noble Houses
 Preᴙ is home to a lot of powerful Noble Houses. Together they hold power over Preᴙ, with members placed within the various branches of government and other positions of power. The current ruling house is [[House Dorofei]].
+%% DATAVIEW_PUBLISHER: start
 ```dataview
 LIST
 FROM #noblehouse
 WHERE nation = "Preia"
 ```
+%%
+%% DATAVIEW_PUBLISHER: end
 # Religion
 The religious practices varies from city to city in [[Preᴙ Overview|Preᴙ]]. The officially recognized religions according to the ruling body in the capital are [[Vuzen - the Law Baron]], [[Isoroa - the Shadowed Mask]], [[Saheir - the Enchantress]], and [[Veda - the Elder Scribe]]. This is only heavily enforced in the capital however, and other regions have their own rules and regulations regarding religion.
 # Currency

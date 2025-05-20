@@ -70,11 +70,14 @@ The lift is commonly used to transport both people and goods. However access is 
 # Organizations
 ## The Grand Synod of Ohkyr
 [[The Grand Synod of Ohkyr]] is the ruling body of [[Ohkyr Dominion Overview|Ohkyr]] and operate mainly out of [[Chalayan, The city of a Thousand Rivers|Chalayan]] from their headquarters, [[Chalayan, The city of a Thousand Rivers#The Hall of Echoes|The Hall of Echoes]].
+%% DATAVIEW_PUBLISHER: start
 ```dataview
 TABLE
 honorary AS Title,
 political_leaning AS "Political Leaning"
 FROM #person/major AND #ohkyr_dominion 
 ```
+%%
+%% DATAVIEW_PUBLISHER: end
 ## The Choir
 This highly secretive organization has its roots in [[Chalayan, The city of a Thousand Rivers|Chalayan]], and this is where its headquarters are supposed to be located. [[The Choir]] have historically used the underground rivers under the city as a training grounds, where new troops come to either join the ranks of the organization, or sink into the gods dark reflection.

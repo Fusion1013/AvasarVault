@@ -1,5 +1,5 @@
 ---
 tags: Language_Group/Coaq
 ---
-## Overview
+# Overview
 A [[Languages Overview|Language Group]] containing the Coaq languages.

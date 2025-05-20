@@ -4,9 +4,9 @@ language_group: Khra
 regions:
 - Osirion Emirate
 ---
-## Kharinthi
+# Kharinthi
 A [[Khra|Khra Language]] spoken mainly within the [[Osirion Emirate Overview|Osirion Emirate]].
-## Word List
+# Word List
 - Nahr - Ocean
 - Tal - Lake
 - Hru - Town
