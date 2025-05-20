@@ -1,8 +1,8 @@
 ---
 tags:
   - city/major
-nation:
-  - Ohkyr
+nation: Ohkyr
+population:
 ---
 # Overview
 A small city located in the island cluster known as the [[Uzmedir Isles]].

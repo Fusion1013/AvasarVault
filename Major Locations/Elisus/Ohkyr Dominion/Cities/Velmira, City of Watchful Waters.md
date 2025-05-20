@@ -1,8 +1,7 @@
 ---
 tags:
   - city/major
-nation:
-  - Ohkyr
+nation: Ohkyr
 population: 48000
 aliases:
   - Velmira

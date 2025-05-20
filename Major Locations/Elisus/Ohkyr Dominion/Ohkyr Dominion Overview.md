@@ -44,8 +44,7 @@ The two main religions of [[Ohkyr Dominion Overview|Ohkyr]] are dedicated to [[M
 # Cities
 ```dataview
 TABLE 
-population AS "Population",
-description AS "Description"
+population AS "Population"
 FROM #city/major 
 WHERE nation = "Ohkyr"
 SORT file.name ASC
