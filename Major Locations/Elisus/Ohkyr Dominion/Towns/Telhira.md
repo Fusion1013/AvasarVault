@@ -25,7 +25,7 @@ The town itself was originally founded somewhere around [[170 APC]]. It was init
 
 The town saw difficulties during the founding years of the [[Ohkyr Dominion Overview|Ohkyr Dominion]]. Resources and troops were shifted away from the town to support the solidification of [[Velmira, City of Watchful Waters|Velmira]] as an important part of the new nation. As a result, the town was abandoned. It was not until [[530 APC]] that eyes again shifted towards the west and the town began to see restoration efforts. It was repurposed into a staging ground for expeditions out towards the north-west, towards the island of [[Taundor]]. The town slowly grew into a small city.
 
-Disaster struck in [[1167APC - Taundor Cataclysm|1167APC]], when the island of [[Taundor]] smashed into the continent. Earthquakes wracked the area, causing parts of the cliff to sunder and crush large parts of the city. It was once again abandoned, with the residents evacuating to [[Velmira, City of Watchful Waters|Velmira]].
+Disaster struck in [[1167APC - Taundor Cataclysm|1167APC]], when the island of [[Taundor]] smashed into the continent. Earthquakes wracked the area, causing parts of the cliff to sunder and crush large parts of the city. Parts of the city sunk into the sea, disappearing below the churning waves. It was once again abandoned, with the residents evacuating to [[Velmira, City of Watchful Waters|Velmira]].
 
 Earthquakes continued to wrack the area for years to follow. Restoration efforts could not begin until over 50 years later, in [[1202APC]]. Even then, progress was slow. People were hesitant to return to the area due to superstition and worry that the earthquakes would return, something the town was vulnerable to due to the tall cliffs.
 
@@ -36,3 +36,5 @@ The town is surrounded on all sides by bush-covered hills. The [[Dragonback Moun
 ## The Docks
 
 ## Cliffside
+## Chapel of somethingorother
+A half submerged chapel on the outskirts of the city. It used to be dedicated to [[Irellia - Mistress of the Tranquil Lake|Irellia]], but was abandon
