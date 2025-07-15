@@ -31,12 +31,12 @@ Earthquakes continued to wrack the area for years to follow. Restoration efforts
 
 The town was also hit hard in the aftermath of the [[1276 APC - Invasion of Saxum|Invasion of Saxum in 1276APC]], when [[Saxum Sovereignty Overview|Saxum]] performed raids along the coast. The town was pillaged, and an estimated third of was laid into ruins.
 
-Today, the town is but a shadow of its former self. The seawall still lay in ruins, the west side of the town lies in ruin from a landslide. The town only started seeing real progress in recent years, with a noble moving his business here, starting the process of building up the town.
+Today, the town is but a shadow of its former self. The seawall still lay in ruins, the west side of the town lies in ruin from a landslide. The town only started seeing real progress in recent years, with a noble moving his business here and starting the process of rebuilding the town.
 # Geography
 The town is surrounded on all sides by bush-covered hills. The [[Dragonback Mountains]] loom not far to the west. The land surrounding the city is scarred and cracked due to earthquakes caused by the [[1167APC - Taundor Cataclysm|Taundor Cataclysm]]. Deep chasms split the land closer to the mountains. Small, narrow islands dot the coastline, formed when the land was displaced.
 # Landmarks
 ## The Docks
-
+These docks are small and unremarkable, allowing for a maximum of three ships to dock at a time. At the same time these wooden boards are what allow the town to continue its existence, allowing fishermen and traders to enter the town. Renovation ef
 ## Cliffside
 ## Chapel of Irellia
 A half submerged chapel on the outskirts of the city. It used to be dedicated to [[Irellia - Mistress of the Tranquil Lake|Irellia]], but was desecrated and abandoned after the [[1167APC - Taundor Cataclysm|Cataclysm]]. It is now used by a fringe religious group that worships [[Irellia - Mistress of the Tranquil Lake|Irellia]] out of fear of her rage.
