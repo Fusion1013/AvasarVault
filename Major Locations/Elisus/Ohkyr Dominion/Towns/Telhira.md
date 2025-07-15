@@ -36,11 +36,15 @@ Today, the town is but a shadow of its former self. The seawall still lay in rui
 The town is surrounded on all sides by bush-covered hills. The [[Dragonback Mountains]] loom not far to the west. The land surrounding the city is scarred and cracked due to earthquakes caused by the [[1167APC - Taundor Cataclysm|Taundor Cataclysm]]. Deep chasms split the land closer to the mountains. Small, narrow islands dot the coastline, formed when the land was displaced.
 # Landmarks
 ## The Docks
-These docks are small and unremarkable, allowing for a maximum of three ships to dock at a time. At the same time these wooden boards are what allow the town to continue its existence, allowing fishermen and traders to enter the town. Renovation ef
+These docks are small and unremarkable, allowing for a maximum of three ships to dock at a time. At the same time these wooden boards are what allow the town to continue its existence, allowing fishermen and traders to enter the town. Expansions to the docks started construction a year ago, but has yet to be completed.
 ## Cliffside
+Small houses dot the cliffside, built on shelves looking out towards the sea. A larger mansion sits on the second level, home to the noble.
 ## Chapel of Irellia
 A half submerged chapel on the outskirts of the city. It used to be dedicated to [[Irellia - Mistress of the Tranquil Lake|Irellia]], but was desecrated and abandoned after the [[1167APC - Taundor Cataclysm|Cataclysm]]. It is now used by a fringe religious group that worships [[Irellia - Mistress of the Tranquil Lake|Irellia]] out of fear of her rage.
 ## Lighthouse
 There is a small lighthouse built out on a cliff a few hundred meters off shore. The light went out years ago.
 ## Old Town Ruins
-A large portion of the western town is in ruins, crushed by a landslide years ago.
+A large portion of the western town is in ruins, crushed by a landslide years ago. People seem to avoid the area out of superstition.
+
+> [!Author's Note]
+> When I was done interviewing the people of this fine town I did venture closer to the collapsed town. I am not sure if it was because of the late hour, or a trick of the light, but it did seem like ghostly figures were wandering the ruins. Perhaps it was my mind playing tricks on me, or perhaps there is something to the stories the townspeople tell.
