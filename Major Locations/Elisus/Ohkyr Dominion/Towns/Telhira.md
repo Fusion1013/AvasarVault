@@ -42,3 +42,5 @@ The town is surrounded on all sides by bush-covered hills. The [[Dragonback Moun
 A half submerged chapel on the outskirts of the city. It used to be dedicated to [[Irellia - Mistress of the Tranquil Lake|Irellia]], but was desecrated and abandoned after the [[1167APC - Taundor Cataclysm|Cataclysm]]. It is now used by a fringe religious group that worships [[Irellia - Mistress of the Tranquil Lake|Irellia]] out of fear of her rage.
 ## Lighthouse
 There is a small lighthouse built out on a cliff a few hundred meters off shore. The light went out years ago.
+## Old Town Ruins
+A large portion of the western town is in ruins, crushed by a landslide years ago.
