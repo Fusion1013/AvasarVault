@@ -29,6 +29,8 @@ Disaster struck in [[1167APC - Taundor Cataclysm|1167APC]], when the island of [
 
 Earthquakes continued to wrack the area for years to follow. Restoration efforts could not begin until over 50 years later, in [[1202APC]]. Even then, progress was slow. People were hesitant to return to the area due to superstition and worry that the earthquakes would return, something the town was vulnerable to due to the tall cliffs.
 
+The town was also hit hard in the aftermath of the [[1276 APC - Invasion of Saxum|Invasion of Saxum in 1276APC]], when [[Saxum Sovereignty Overview|Saxum]] performed raids along the coast. The town was pillaged, and an estimated third of was laid into ruins.
+
 Today, the town is but a shadow of its former self. The seawall still lay in ruins, the west side of the town lies in ruin from a landslide. The town only started seeing real progress in recent years, with a noble moving his business here, starting the process of building up the town.
 # Geography
 The town is surrounded on all sides by bush-covered hills. The [[Dragonback Mountains]] loom not far to the west. The land surrounding the city is scarred and cracked due to earthquakes caused by the [[1167APC - Taundor Cataclysm|Taundor Cataclysm]]. Deep chasms split the land closer to the mountains. Small, narrow islands dot the coastline, formed when the land was displaced.

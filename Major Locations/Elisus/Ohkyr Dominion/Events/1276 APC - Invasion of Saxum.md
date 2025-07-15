@@ -20,5 +20,7 @@ The first few events of the war went heavily in favour of [[Ohkyr Dominion Overv
 While [[Saxum Sovereignty Overview|Saxum]] scrambled to form a defense, [[Ohkyr Dominion Overview|Ohkyr]] quickly pushed towards the capital of [[Gulstad, City of Gold|Gulstad]]. They captured a few smaller towns and began work on cutting of the citys food supply, with the goal to starve them out. A few attempts were made to push past the defenses of the city's walls, though they were swiftly defeated by the barrage of arcane cannon fire from the guard towers.
 
 The siege lasted for 5 months after which [[Ohkyr Dominion Overview|Ohkyr]] was forced to retreat back to [[Havdal, City of Pearls|Havdal]].
+# Aftermath
+In the aftermath of the war [[Saxum Sovereignty Overview|Saxum]] conducted raids along the coast of [[Ohkyr Dominion Overview|Ohkyr]], as a show of force.
 
 [[Timeline]]
