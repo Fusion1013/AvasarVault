@@ -27,7 +27,7 @@ The town saw difficulties during the founding years of the [[Ohkyr Dominion Over
 
 Disaster struck in [[1167APC - Taundor Cataclysm|1167APC]], when the island of [[Taundor]] smashed into the continent. Earthquakes wracked the area, causing parts of the cliff to sunder and crush large parts of the city. It was once again abandoned, with the residents evacuating to [[Velmira, City of Watchful Waters|Velmira]].
 
-Restoration efforts did not begin until 
+Restoration efforts did not begin until over 50 years later, in [[1202APC]]. Until this day, the town has not yet returned to its former splendour.
 # Geography
 The town is surrounded on all sides by bush-covered hills. The [[Dragonback Mountains]] loom not far to the west.
 # Landmarks
