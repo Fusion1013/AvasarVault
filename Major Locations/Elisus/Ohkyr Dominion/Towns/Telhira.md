@@ -47,4 +47,4 @@ There is a small lighthouse built out on a cliff a few hundred meters off shore.
 A large portion of the western town is in ruins, crushed by a landslide years ago. People seem to avoid the area out of superstition.
 
 > [!Author's Note]
-> When I was done interviewing the people of this fine town I did venture closer to the collapsed town. I am not sure if it was because of the late hour, or a trick of the light, but it did seem like ghostly figures were wandering the ruins. Perhaps it was my mind playing tricks on me, or perhaps there is something to the stories the townspeople tell.
+> When I was done interviewing the people of the town, I did venture closer to the collapsed town. I am not sure if it was because of the late hour, or a trick of the light, but it did seem like ghostly figures were wandering the ruins. Perhaps it was my mind playing tricks on me, or perhaps there is something to the stories the townspeople tell.
