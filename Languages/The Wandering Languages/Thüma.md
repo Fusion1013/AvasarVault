@@ -13,3 +13,5 @@ A [[The Wandering Languages|Wandering Language]] spoken mainly in [[Ohkyr Domini
 - Tel - (of) the waves
 - Giz - Secret, Hidden
 - Bitki - Plant
+- Kan - Blood/Root/Essence
+- Bas - Head

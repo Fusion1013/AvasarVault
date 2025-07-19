@@ -1,0 +1,1 @@
+[[Baskan]] is a plant that grows primarily in [[Storms Reach Overview|Storms Reach]]. It resembles a squat, armoured fruit, much like a pineapple. It has six to twelve spider-like root-legs that sprout from its sides and clutch the earth like grasping claws. These limbs anchor the plant during violent storms, as well as 
