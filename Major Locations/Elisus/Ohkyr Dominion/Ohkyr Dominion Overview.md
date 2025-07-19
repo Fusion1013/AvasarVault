@@ -68,15 +68,6 @@ SORT file.name ASC
 | [[Major Locations/Elisus/Ohkyr Dominion/Cities/Velmira, City of Watchful Waters.md\|Velmira, City of Watchful Waters]]               | 48000      | Metropolis |
 
 %% DATAVIEW_PUBLISHER: end %%
-# Minor Cities
-%% DATAVIEW_PUBLISHER: start
-```dataview
-TABLE description AS "Description"
-FROM #city/minor 
-WHERE nation = "Ohkyr"
-```
-%%
-%% DATAVIEW_PUBLISHER: end %%
 # Military Power
 ![[LargeBattleship.jpg]]
 Ohkyr has one of the largest navies on the continent and dominates a large part of the surrounding ocean. They have trained clerics specialized on taming the ocean to their will. The people of Ohkyr are signed into the army at an early age, forcing them to complete a mandatory period of military service. The living conditions of army life are not great; though not terrible either.
