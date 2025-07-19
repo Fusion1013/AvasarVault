@@ -44,7 +44,7 @@ The [[1167APC - Taundor Cataclysm|Taundor Cataclysm in 1167APC]] rocked the nati
 
 When people from the nation begun exploring the new lands west of the mountains, they found a new people inhabiting the region. They found the [[Saxum Sovereignty Overview|Saxum Sovereignty]]. As [[Ohkyr Dominion Overview|Ohkyr]] was still dealing with the consequences from the cataclysm, they made the decision to forge an alliance. It took them until [[1276 APC - Invasion of Saxum|1276APC]] to attempt to claim the new land, when the [[Ohkyr Dominion Overview|Ohkyr Dominion]] attempted an invasion of [[Saxum Sovereignty Overview|Saxum]] using their superior fleet. They managed to take [[Havdal, City of Pearls]], but was pushed back after they laid siege to [[Gulstad, City of Gold|Gulstad]]. The invasion ended in a failure, and [[Saxum Sovereignty Overview|Saxum]] pushed back to the original borders. In the years to follow, [[Saxum Sovereignty Overview|Saxum]] conducted raids into [[Ohkyr Dominion Overview|Ohkyr]], in an attempt to deter the nation to attempt further attacks.
 # Religion
-The two main religions of [[Ohkyr Dominion Overview|Ohkyr]] are dedicated to [[Merstur - the Unbroken Tide|Merstur]] and [[Ogrun - the Scarlet Champion|Ogrun]]. Other faiths are not strictly outlawed, though they are extremely uncommon among the general populace.
+The two main religions of [[Ohkyr Dominion Overview|Ohkyr]] are dedicated to [[Merstur - the Unbroken Tide|Merstur]] and [[Ogrun - the Scarlet Champion|Ogrun]]. Other faiths are not strictly outlawed, though they are extremely uncommon and frowned at among the general populace.
 # Cities
 %% DATAVIEW_PUBLISHER: start
 ```dataview
