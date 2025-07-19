@@ -11,3 +11,5 @@ A [[The Wandering Languages|Wandering Language]] spoken mainly in [[Ohkyr Domini
 # Words
 - Hira - Haven
 - Tel - (of) the waves
+- Giz - Secret, Hidden
+- Bitki - Plant
