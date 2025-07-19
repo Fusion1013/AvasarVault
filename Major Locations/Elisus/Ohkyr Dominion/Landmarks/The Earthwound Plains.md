@@ -1,0 +1,1 @@
+The region at the foot of the [[Dragonback Mountains]] are known as [[The Earthwound Plains]]. This is the region that was hit the hardest during the [[1167APC - Taundor Cataclysm|Taundor Cataclysm]].
