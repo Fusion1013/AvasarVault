@@ -17,7 +17,7 @@ The environment of Storms Reach is [[Agriculture#Desert-Like Zones|Desert-Like]]
 ## Plant Life
 There are a few forests, with most of the ground covered in lower, hardy, fast-growing plants with deep root systems. Plants with [Tubers](https://sv.wikipedia.org/wiki/Tuber) are common, as they allow the plant to stay in the ground despite the violent winds. A lot of plants in the area are able to be ripped up by the winds, carried to a new location, and keep growing from there.
 
-[[Velmoriths]] are also common, plants that retract into the ground when they sense movement. For example, some areas of the plains are covered in [[Slinkgrass]], a type of grass where each blade can individually retract down into the ground. Compared to regular grass, the blades are much thicker and longer, and they grow further apart from each other.
+[[Velmoriths]] are also common, plants that retract into the ground when they sense movement. For example, some areas of the plains are covered in [[Slinkgrass|Saku]], a type of grass where each blade can individually retract down into the ground. Compared to regular grass, the blades are much thicker and longer, and they grow further apart from each other.
 
 Since a lot of plants in the area grow quickly, people in the area have been able to survive mostly by foraging the plants.
 ## The Wandering Storm
