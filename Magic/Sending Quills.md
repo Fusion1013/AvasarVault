@@ -1,0 +1,1 @@
+Quills enchanted using the [Sending](https://www.dndbeyond.com/spells/2619015-sending) spell. The quills are magically linked, and when one is picked up and moved, the other also moves. By making sure that parchment and inkwell are placed in the same locations relative to the quill, messages can be sent over any distance.
