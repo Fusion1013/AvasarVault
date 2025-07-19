@@ -11,7 +11,13 @@ todo:
 # Overview
 Storms Reach is a large area of plains that stretches between the western mountains, the eastern sea, and the southernmost nations on the continent. The area is sparsely populated by wandering hoards, with no permanent structures in sight. There are ruins from failed attempts at constructing permanent shelter though they are few and far between, covered by plant life. A groups of stationary people exist in the region, living in structures hidden far underground, with tunnels leading up to the surface.
 # History
+It is said that before the [[0APC - Planar Concordance|Planar Concordance]], a great kingdom spread across these vast plains, with its capital located at the center. Stories among the locals say that it was among the greatest cities ever constructed. These same stories claim that the capital was completely destroyed when the storm arrived. The location where the capital was once supposed to be is now empty plains, ravaged by the storm that plagues this area. Nobody has found a trace of the former civilization, all that remains are the stories.
+
+The origin of the eternal storm has been long debated. The most widely accepted theory is that the storm originated from the capital itself, formed from some experiment gone wrong. Others say that this ancient kingdom managed to attract the ire of the gods, and that the storm is the result of their anger. Others more claim that the storm is formed by three immortal dragons, following them wherever they go. Different movements have formed around all of these ideas, with the 
+
+%%
 There was once a large kingdom that had its center within the Storms Reach. It is said that the capital was among the greatest ever constructed. For some unknown reason the capital now lays in ruin, its remains covered over by plant life. Some time later, three immortal dragons emerged from the ruins. Soon a storm began to emerge around them, following them wherever they went. It is unknown if these dragons were what caused the capital's downfall. Many have speculated that this was the case, though no conclusive evidence exists to point one way or the other. Whatever the cause, the loss of the capital eventually led to the kingdom's downfall.
+%%
 # Environment
 The environment of Storms Reach is [[Agriculture#Desert-Like Zones|Desert-Like]] in some areas, warm and dry. In other areas it is more of a [[Agriculture#Tropical or Equatorial Zones|Tropical]] environment, warm and humid. The lack of mountains or forests give way for nearly constant winds that howl across the plains, with a never ending storm at its center. The landscape is dotted with ruins from failed attempts at setting up any kind of permanent shelter.
 ## Plant Life
