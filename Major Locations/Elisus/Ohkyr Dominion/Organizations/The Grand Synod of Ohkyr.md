@@ -1,3 +1,7 @@
+---
+aliases:
+  - Synod
+---
 *"Where the Salt and Iron of the Gods converge"*
 # Overview
 The ruling body of the [[Ohkyr Dominion Overview|Ohkyr Dominion]]. It is a republican body where power is divided among a council of high priests, military officials, and representatives from different trade guilds.
