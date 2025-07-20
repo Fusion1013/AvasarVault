@@ -10,6 +10,7 @@ celestial_body: N/A
 attuned_god: N/A
 aliases:
   - Astral Realm
+  - Sea of Dreams
 ---
 > [!infobox|right]
 > # Plane of Dreams
@@ -20,7 +21,8 @@ aliases:
 > | **Attuned God** | N/A |
 > | **Celestial Body** | N/A |
 
-*"Dream, little shadow. Dream with me"*
+*"To map the Plane of Dreams is to chart the infinite variations of the mind. Madness is not a hazard, it is the method. Embrace it"
+-Vaelith Orun, Voidcaptain of the Second Ring*
 # Overview
 The [[Plane of Dreams|Astral Realm]], known colloquially as the [[Plane of Dreams]] is a Major Transitive Plane that encompasses all Inner Planes, though it holds a particularly strong connection to the Material Plane and [[The Dark Beyond]]. It is shaped by the collective unconsciousness of all creatures, the imagination of a billion souls giving form to and shaping it. It is a place of vivid and often bizarre dreams and visions. The [[Plane of Dreams]] is often portrayed as a surreal and ever-changing realm, where laws of physics and reality are subject to constant flux. Dreams may manifest in the form of living nightmares, idyllic landscapes, or bizarre surrealistic scenes, depending on the thoughts and emotions of those who dream them.
 # Environment
@@ -28,7 +30,7 @@ The geography of the Plane of Dreams mimics the journey from life to death (or v
 
 The Plane of Dreams does still mimic all the other planes, depending on how close they are at any given location, though the Mortal Plane and [[The Dark Beyond]] have a much stronger influence.
 
-Exploring the plane itself is difficult. It is very easy to accidentally slip into other planes, where they overlap with the [[Plane of Dreams]]. Specialized vessels known as [[Voidsail|Voidsails]] have been constructed for this purpose. Their design binds them to the [[Plane of Dreams]], not allowing them or anyone on board to slip into another plane. Excursions outside of the ship still have to be attempted with caution, since as soon as an entity leaves the confines of the ship they are once again subject to planar shifts.
+Exploring the plane itself is difficult. It is very easy to accidentally slip into other planes, where they overlap with the [[Plane of Dreams]]. Specialized vessels known as [[Voidsail|Voidsails]] have been constructed for this purpose. Their design binds them to the [[Plane of Dreams]], not allowing them or anyone on board to slip into another plane. Excursions outside of the ship still have to be attempted with caution, since as soon as an entity leaves the confines of the ship they are once again subject to planar shifts. Many ships have been lost in the [[Plane of Dreams|Sea of Dreams]], its crew whisked away to another plane.
 # Source of Magic
 The Plane of Dreams is the source of most illusion magic, and is what most wizards draw upon to shape reality to their illusory dreams. Its closeness to the [[Material Plane]] makes it especially easy to draw upon, and is therefor one of the more common forms of magic.
 # Connection with Other Planes
