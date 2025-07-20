@@ -14,7 +14,7 @@ Little is known about the inner workings of [[The Choir]]. This is all the infor
 ## The Cantor Admiral
 Supreme commander of The Choir and spiritual leader of naval operations. Oversees both strategy and can perform sacred rites before battle.
 ## Voice of the Choir
-Represents the Choir on [[The Grand Synod of Ohkyr]].
+Represents the Choir on [[The Grand Synod of Ohkyr]]. While the Voice does not have any actual power within the [[The Grand Synod of Ohkyr|Synod]], they are a well respected aspect of the council, and generally gets their will through.
 ## The Vox Seraphim
 The leaders of [[The Choir]]. Its three members are chosen by [[The Grand Synod of Ohkyr#The Pillars of Ogrun|The Pillars of Ogrun]] and kept a secret from the public and the rest of the [[The Grand Synod of Ohkyr|Synod]]. While the [[The Grand Synod of Ohkyr|Synod]] does not have direct control over [[The Choir]], they can steer their actions by appointing people loyal to them.
 ## The Psalmkeeper

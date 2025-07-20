@@ -11,6 +11,8 @@ Before we get into the planar layout of Avasar, we have to define what kinds of 
 The differences between Major & Minor Planes are somewhat difficult to define, since there are no actual physical or metaphysical differences between them. The inner planes are generally considered major planes, while the outer planes are generally considered minor planes, though there are some notable exceptions.
 ## Transitive Planes
 A transitive plane is a plane that enables travel between two or more other planes. These planes often have ‘fuzzier’ characteristics, taking on the attributes of the other planes where they overlap, blending them together. There are two types of Transitive Planes; Minor Transitive Planes, which encompass 2-4 other planes, and Major Transitive Planes, which encompass >5 other planes. Note that a Transitive Plane that encompasses only one other plane cannot exist, per definition. Such a plane would be what is known as a Bubble Plane.
+
+Notable examples of a Transitive Plane is the [[Plane of Dreams]], which encompasses most of the [[Planes Overview#The Inner Planes|Inner Planes]].
 ## Bubble Planes
 Bubble Planes are small planes that are connected in some way to one other plane. They can encompass the plane, or border it.
 # Material Plane & Its Echoes
