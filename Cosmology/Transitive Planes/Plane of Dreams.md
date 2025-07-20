@@ -28,10 +28,14 @@ The geography of the Plane of Dreams mimics the journey from life to death (or v
 
 The Plane of Dreams does still mimic all the other planes, depending on how close they are at any given location, though the Mortal Plane and [[The Dark Beyond]] have a much stronger influence.
 # Source of Magic
-The Plane of Dreams is the source of most illusion magic, and is what most wizards draw upon to shape reality to their illusory dreams.
-# Connection with Death
-It is common that arcane practitioners use the Plane of Dreams to communicate with or even travel to [[The Dark Beyond]], due to the strong connection between the two. The Plane of Dreams is what newly dead souls need to traverse to reach the afterlife.
+The Plane of Dreams is the source of most illusion magic, and is what most wizards draw upon to shape reality to their illusory dreams. Its closeness to the [[Material Plane]] makes it especially easy to draw upon, and is therefor one of the more common forms of magic.
+# Connection with Other Planes
+It is common that arcane practitioners use the Plane of Dreams to communicate with or even travel to other planes, due to its transitive nature. Due to its connection to the [[Material Plane]], arcane scholars operating out of the [[Material Plane]] are likely to use the [[Plane of Dreams]] during their planar excursions. Scholars from other planes have been recorded using other, lesser known transitive planes for their exploits, though this is less common. One of the comforts of using the [[Plane of Dreams]] is that it touches all Inner Planes, allowing travel to all of them using one known step.
 
-It is possible to, purposely or accidentally, enter the Plane of Death through deep meditation or sleep.
+In order to reach other Inner Planes from the [[Plane of Dreams]] reliably, some sort of focus attuned to the target plane is needed. This focus acts as a compass, guiding the arcane user towards the plane.
+
+Its strong connection to [[The Dark Beyond]] makes it even more favourable to use if attempting to reach the plane. The [[Plane of Dreams]] is also what newly dead souls need to traverse to reach the afterlife.
+
+It is possible to, purposely or accidentally, enter the Plane of Death through deep meditation or sleep. Most of the time this manifests as especially vivid dreams, and are of no harm to the dreamer. However, in certain circumstances, people have been recorded slipping into the [[Plane of Dreams]] and never waking up. What happened to them in there to cause them to not wake up is unknown.
 
 [[Planes Overview]]
