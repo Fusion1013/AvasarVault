@@ -13,7 +13,7 @@ aliases:
 ---
 > [!infobox|right]
 > # Plane of Dreams
-> ![[IMAGE HERE]]
+> ![[PlaneOfDreams.jpg]]
 > ###### Overview
 > | **Aliases** | Astral Plane |
 > | - | - |
@@ -27,6 +27,8 @@ The [[Plane of Dreams|Astral Realm]], known colloquially as the [[Plane of Dream
 The geography of the Plane of Dreams mimics the journey from life to death (or vise versa). The areas closer to the Mortal Plane is where the ‘good’ Dreams live, with idyllic landscapes, full of life. The areas closer to [[The Dark Beyond]] are where nightmares live. It is unknown why the Plane of Dreams seems to hold a stronger connection to these two planes over all the others. Some theorize that it is due to the fact that recently deceased souls need to travel through the Plane of Dreams to reach [[The Dark Beyond]], and as such has a stronger connection due to the frequency of travel, though this theory has never been proven.
 
 The Plane of Dreams does still mimic all the other planes, depending on how close they are at any given location, though the Mortal Plane and [[The Dark Beyond]] have a much stronger influence.
+
+Exploring the plane itself is difficult. It is very easy to accidentally slip into other planes, where they overlap with the [[Plane of Dreams]]. Specialized vessels known as [[Voidsail|Voidsails]] have been constructed for this purpose. Their design binds them to the [[Plane of Dreams]], not allowing them or anyone on board to slip into another plane. Excursions outside of the ship still have to be attempted with caution, since as soon as an entity leaves the confines of the ship they are once again subject to planar shifts.
 # Source of Magic
 The Plane of Dreams is the source of most illusion magic, and is what most wizards draw upon to shape reality to their illusory dreams. Its closeness to the [[Material Plane]] makes it especially easy to draw upon, and is therefor one of the more common forms of magic.
 # Connection with Other Planes
