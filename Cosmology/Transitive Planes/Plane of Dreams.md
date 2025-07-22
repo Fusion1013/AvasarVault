@@ -22,7 +22,7 @@ aliases:
 > | **Celestial Body** | N/A |
 
 *"To map the Plane of Dreams is to chart the infinite variations of the mind. Madness is not a hazard, it is the method. Embrace it"
--Vaelith Orun, Voidcaptain of the Second Ring*
+-Vaelith Orun, Voidnavigator of the Second Ring*
 # Overview
 The [[Plane of Dreams|Astral Realm]], known colloquially as the [[Plane of Dreams]] is a Major Transitive Plane that encompasses all Inner Planes, though it holds a particularly strong connection to the Material Plane and [[The Dark Beyond]]. It is shaped by the collective unconsciousness of all creatures, the imagination of a billion souls giving form to and shaping it. It is a place of vivid and often bizarre dreams and visions. The [[Plane of Dreams]] is often portrayed as a surreal and ever-changing realm, where laws of physics and reality are subject to constant flux. Dreams may manifest in the form of living nightmares, idyllic landscapes, or bizarre surrealistic scenes, depending on the thoughts and emotions of those who dream them.
 # Environment
@@ -41,5 +41,9 @@ In order to reach other Inner Planes from the [[Plane of Dreams]] reliably, some
 Its strong connection to [[The Dark Beyond]] makes it even more favourable to use if attempting to reach the plane. The [[Plane of Dreams]] is also what newly dead souls need to traverse to reach the afterlife.
 
 It is possible to, purposely or accidentally, enter the Plane of Death through deep meditation or sleep. Most of the time this manifests as especially vivid dreams, and are of no harm to the dreamer. However, in certain circumstances, people have been recorded slipping into the [[Plane of Dreams]] and never waking up. What happened to them in there to cause them to not wake up is unknown.
+# Voidnavigators
+There is an order of scholars who have dedicated themselves to understanding and navigating the [[Plane of Dreams]], known as the Voidnavigators. They have discovered that they can attune themselves to the plane, gaining a greater understanding of it. During this process they lose parts of themselves to the void, with a high risk of madness.
+
+The order is organized by what they call Rings, a measure of how attuned an individual is to the plane. A member of the First Ring, for example, is someone who has completely embraced the influence of the plane, but managed to regain individuality. Such individuals are exceptionally rare, only three people have been documented having achieved this ability. On the other hand, The Ring with the most members is the Fourth, with members having taken a second step towards attunement.
 
 [[Planes Overview]]
