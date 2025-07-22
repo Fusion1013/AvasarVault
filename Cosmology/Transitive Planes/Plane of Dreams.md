@@ -44,6 +44,6 @@ It is possible to, purposely or accidentally, enter the Plane of Death through d
 # Voidnavigators
 There is an order of scholars who have dedicated themselves to understanding and navigating the [[Plane of Dreams]], known as the Voidnavigators. They have discovered that they can attune themselves to the plane, gaining a greater understanding of it. During this process they lose parts of themselves to the void, with a high risk of madness.
 
-The order is organized by what they call Rings, a measure of how attuned an individual is to the plane. A member of the First Ring, for example, is someone who has completely embraced the influence of the plane, but managed to regain individuality. Such individuals are exceptionally rare, only three people have been documented having achieved this ability. On the other hand, The Ring with the most members is the Fourth, with members having taken a second step towards attunement.
+The order is organized by what they call Rings, a measure of how attuned an individual is to the plane. A member of the First Ring, for example, is someone who has completely embraced the influence of the plane, but managed to regain individuality. Such individuals are exceptionally rare, only three people have been documented having achieved this ability. On the other hand, beginners start at 5 Rings, the lowest level of attunement. The Ring with the most members is the Fourth, with members having taken a second step towards Attunement.
 
 [[Planes Overview]]
