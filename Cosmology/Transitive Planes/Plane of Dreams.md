@@ -1,8 +1,6 @@
 ---
 tags:
   - plane/transitive
-todo:
-  - Clarify how the plane of dreams works and how it links to the other planes
 editors:
   - Fusion
 description: The Plane of Dreams is a Major Transitive Plane that encompasses all Inner Planes, though it holds a particularly strong connection to the Material Plane and [[The Dark Beyond]]. It is shaped by the collective unconsciousness of all creatures. It is a place of vivid and often bizarre dreams. The Plane of Dreams is often portrayed as a surreal and ever-changing realm, where laws of physics and reality are subject to constant flux. Dreams may manifest in the form of living nightmares, idyllic landscapes, or bizarre surrealistic scenes, depending on the thoughts and emotions of those who dream them.
@@ -44,6 +42,6 @@ It is possible to, purposely or accidentally, enter the Plane of Death through d
 # Voidnavigators
 There is an order of scholars who have dedicated themselves to understanding and navigating the [[Plane of Dreams]], known as the Voidnavigators. They have discovered that they can attune themselves to the plane, gaining a greater understanding of it. During this process they lose parts of themselves to the void, with a high risk of madness.
 
-The order is organized by what they call Rings, a measure of how attuned an individual is to the plane. A member of the First Ring, for example, is someone who has completely embraced the influence of the plane, but managed to regain individuality. Such individuals are exceptionally rare, only three people have been documented having achieved this ability. On the other hand, beginners start at 5 Rings, the lowest level of attunement. The Ring with the most members is the Fourth, with members having taken a second step towards Attunement.
+The order is organized by what they call Rings, a measure of how attuned an individual is to the plane. A member of the First Ring, for example, is someone who has completely embraced the influence of the plane, but managed to regain individuality. Such individuals are exceptionally rare, only three people have been documented having achieved this ability. On the other hand, beginners start at 5 Rings, the lowest level of Attunement. The Ring with the most members is the Fourth, with members having taken a second step towards Attunement.
 
 [[Planes Overview]]
