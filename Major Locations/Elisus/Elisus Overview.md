@@ -1,8 +1,8 @@
 ---
 aliases:
-- Elisus
-
-todo: Fill out overview section for the [[Turochan Kingdom Overview|Turochan Kingdom]], [[Storms Reach Overview|Storms Reach]] & [[Preᴙ Overview|Preᴙ]]
+  - Elisus
+todo:
+  - Fill out overview section for the [[Turochan Kingdom Overview|Turochan Kingdom]]
 ---
 ![[SepariElisus.jpg]]
 # Overview

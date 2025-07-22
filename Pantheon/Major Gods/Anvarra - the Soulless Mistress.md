@@ -8,8 +8,6 @@ secondary_titles:
 essence:
   - Nature
   - Living without Souls
-todo:
-  - Populate symbology section
 plane:
   - "[[Vylmat, Plane of Life]]"
 draft: false
