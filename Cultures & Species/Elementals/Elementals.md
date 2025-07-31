@@ -16,7 +16,10 @@ Earth Sprites are among the rarer version of [[Sprites|Sprite]]. They are most o
 ### Arcane Sprites
 It has long been debated if arcane energy is a type of Elemental Energy or not. One occurrence that lends credence to this argument is the existence of Arcane Sprites. They form in areas of high magical concentrations, where extreme feats of magic have been performed. They are elusive, rarely showing themselves. An archmage might go their entire life without ever seeing one.
 
-Not much is known about them due to their elusive nature. Research on them might take years 
+Not much is known about them due to their elusive nature. It might take a researcher years to get the opportunity to study one, and it might only be in existence for a fraction of a second. This short section contains all the information we have been able to gather over years of study.
+
+> [!Author's Note]
+> If anyone is planning on performing spectacular feats of magic, please do reach out to our Saxum-based branch and ask for Dr. Elara Veylin. She would love an opportunity to study these creatures in more detail.
 ## Creating Elementals
 Elementals can also be created through magical means. Most spells that create elementals do not pull an existing one from the [[Elemental Plane of Chaos]]. Instead, it pulls elemental energies from the surrounding area, concentrating it into a new elemental being. When creating a Stone Elemental for example, rock might be pulled from a nearby cliff. For more powerful spells, energy might be pulled from the [[Elemental Plane of Chaos]] itself. When creating an elemental through these means, a small part of the casters soul is imbued into the created elemental, binding it to the caster. Removing the soul without banishing the elemental can have different effects depending on the nature of the spell.
 # Elemental Types
