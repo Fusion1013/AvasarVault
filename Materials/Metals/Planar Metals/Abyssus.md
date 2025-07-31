@@ -14,4 +14,4 @@ rarity: Rare
 cost_kg: 113.40gp
 cost_lb: 250.00gp
 ---
-A type of [[Metals Overview|Metal]]. A living metal that has the appearance of gold. Mends itself when broken. Can be found in thin veins within the cave walls of Tenebris. Commonly used in the creation of tools.
+A type of [[Metals Overview|Metal]]. A living metal that has the appearance of gold. Mends itself when broken. Can be found in thin veins within the cave walls of [[The Dark Beyond]]. Commonly used in the creation of tools.

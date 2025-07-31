@@ -45,7 +45,7 @@ At the top of the rift is the Distillation Factory. It has direct access to the 
 ### Transportation Building
 Used to transport materials to the capital, by the use of a permanent teleportation circle.
 ### Gloom's Shrooms
-Far from the main market square, in a quiet alley, travelers might stumble upon Gloom’s Shrooms. For those “in the know”, this unassuming market stall is a treasure trove of rare items sourced from the vast network of tunnels and caverns that extend for miles below the surface. The shopkeeper, Mr. Gloom, will invite them down to his real shop, if given the correct password.
+Far from the main market square, in a quiet alley, travellers might stumble upon Gloom’s Shrooms. For those “in the know”, this unassuming market stall is a treasure trove of rare items sourced from the vast network of tunnels and caverns that extend for miles below the surface. The shopkeeper, Mr. Gloom, will invite them down to his real shop, if given the correct password.
 #### Mr. Gloom
 Mr. Gloom is a gray-skinned, short, subterranean gnome. His charcoal suit has seen better days, and in its current state is marred by stains, patches, and ragged edges. His bowtie is similarly worn - what was once a jolly shade of yellow has faded to a more sallow pallor.
 
