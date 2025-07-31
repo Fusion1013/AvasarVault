@@ -9,10 +9,10 @@ FROM #species/humanoid
 ```
 %%
 
+- [[Cultures & Species/Humanoids/Humans.md|Humans]]
 - [[Cultures & Species/Humanoids/Halflings.md|Halflings]]
 - [[Cultures & Species/Humanoids/Elves.md|Elves]]
 - [[Cultures & Species/Humanoids/Dwarves.md|Dwarves]]
-- [[Cultures & Species/Humanoids/Humans.md|Humans]]
 
 %% DATAVIEW_PUBLISHER: end %%
 And the following are some less common species of humanoids, though still quite prevalent in certain areas of the world.

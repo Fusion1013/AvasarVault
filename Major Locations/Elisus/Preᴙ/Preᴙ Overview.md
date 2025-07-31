@@ -60,8 +60,8 @@ SORT population DESC
 | ------------------------------------------------------------ | ---------- |
 | [[Major Locations/Elisus/Preᴙ/Cities/Wrᴎgord.md\|Wrᴎgord]]   | 48100      |
 | [[Major Locations/Elisus/Preᴙ/Cities/Ozᴎrgrod.md\|Ozᴎrgrod]] | 19600      |
-| [[Major Locations/Elisus/Preᴙ/Cities/Sukhodol.md\|Sukhodol]] | \-         |
 | [[Major Locations/Elisus/Preᴙ/Cities/Zalessk.md\|Zalessk]]   | \-         |
+| [[Major Locations/Elisus/Preᴙ/Cities/Sukhodol.md\|Sukhodol]] | \-         |
 
 %% DATAVIEW_PUBLISHER: end %%
 # Factions
@@ -76,11 +76,11 @@ WHERE nation = "Preia"
 ```
 %%
 
-- [[Major Locations/Elisus/Preᴙ/Organizations/House Dorofei.md|House Dorofei]]
-- [[Major Locations/Elisus/Preᴙ/Organizations/House Gerasim.md|House Gerasim]]
-- [[Major Locations/Elisus/Preᴙ/Organizations/House Oxana.md|House Oxana]]
-- [[Major Locations/Elisus/Preᴙ/Organizations/House Terenti.md|House Terenti]]
 - [[Major Locations/Elisus/Preᴙ/Organizations/House Vikentiv.md|House Vikentiv]]
+- [[Major Locations/Elisus/Preᴙ/Organizations/House Terenti.md|House Terenti]]
+- [[Major Locations/Elisus/Preᴙ/Organizations/House Oxana.md|House Oxana]]
+- [[Major Locations/Elisus/Preᴙ/Organizations/House Gerasim.md|House Gerasim]]
+- [[Major Locations/Elisus/Preᴙ/Organizations/House Dorofei.md|House Dorofei]]
 
 %% DATAVIEW_PUBLISHER: end %%
 # Religion

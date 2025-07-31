@@ -79,9 +79,9 @@ FROM #plane/transitive
 ```
 %%
 
-| File                                                                | Celestial Body | Attuned God | Alternative Names |
-| ------------------------------------------------------------------- | -------------- | ----------- | ----------------- |
-| [[Cosmology/Transitive Planes/Plane of Dreams.md\|Plane of Dreams]] | N/A            | N/A         | \-                |
+| File                                                                | Celestial Body | Attuned God | Alternative Names                                    |
+| ------------------------------------------------------------------- | -------------- | ----------- | ---------------------------------------------------- |
+| [[Cosmology/Transitive Planes/Plane of Dreams.md\|Plane of Dreams]] | N/A            | N/A         | <ul><li>Astral Realm</li><li>Sea of Dreams</li></ul> |
 
 %% DATAVIEW_PUBLISHER: end %%
 # The Outer Planes

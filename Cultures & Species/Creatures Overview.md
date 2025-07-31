@@ -78,7 +78,7 @@ WHERE contains(join(environment, ""), "Ocean")
 
 | File                                                                                             | Type       | Image                                                    |
 | ------------------------------------------------------------------------------------------------ | ---------- | -------------------------------------------------------- |
-| [[Cultures & Species/Worldbeasts/Hiosu, the Wandering Kingdom.md\|Hiosu, the Wandering Kingdom]] | Worldbeast | ![[Attachements/Creatures/MovingTheKingdom.jpg\|100]]    |
 | [[Cultures & Species/Worldbeasts/Thalassa, the Abyssal Maw.md\|Thalassa, the Abyssal Maw]]       | Worldbeast | ![[Attachements/Creatures/ThalassiaAbyssalMaw.jpg\|100]] |
+| [[Cultures & Species/Worldbeasts/Hiosu, the Wandering Kingdom.md\|Hiosu, the Wandering Kingdom]] | Worldbeast | ![[Attachements/Creatures/MovingTheKingdom.jpg\|100]]    |
 
 %% DATAVIEW_PUBLISHER: end %%

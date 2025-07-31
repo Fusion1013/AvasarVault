@@ -9,6 +9,9 @@ As long as a sprite is in physical contact with their element their life will be
 The most common type of [[Sprites|Sprite]] are Water [[Sprites]], forming in bodies of water of a sufficient size. They can commonly be found along coastlines, among docks, or following ships. They can take the form of fish, small sea serpents, or other ocean-dwelling fauna.
 ### Fire Sprites
 Fire [[Sprites]] can be found in smaller fires, such as fireplaces or bonfires.
+### Air Sprites
+Air Sprites mostly prefer to stay invisible. In the few instances they allow themselves to be seen, they are floating along calm winds, or raging i n
+### Earth Sprites
 ## Creating Elementals
 Elementals can also be created through magical means. Most spells that create elementals do not pull an existing one from the [[Elemental Plane of Chaos]]. Instead, it pulls elemental energies from the surrounding area, concentrating it into a new elemental being. When creating a Stone Elemental for example, rock might be pulled from a nearby cliff. For more powerful spells, energy might be pulled from the [[Elemental Plane of Chaos]] itself. When creating an elemental through these means, a small part of the casters soul is imbued into the created elemental, binding it to the caster. Removing the soul without banishing the elemental can have different effects depending on the nature of the spell.
 # Elemental Types
@@ -16,4 +19,4 @@ There are a few different elemental [[Creatures Overview|creature]] types, that 
 ## Sari
 Named after the god [[Mau'Sari - the Divine Essence|Mau'Sari]]. This is the group name given to most elementals. They can then be further subdivided into more groups, some listed below.
 ## [[The Lakespawn]]
-Created by the [[Anvarra - the Soulless Mistress|Godess of Life, Anvarra]]. Has no relation to the Sari.
+Created by the [[Anvarra - the Soulless Mistress|Godess of Life, Anvarra]]. Has no relation to

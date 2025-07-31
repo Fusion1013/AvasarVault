@@ -81,10 +81,10 @@ FROM #person/major AND #ohkyr_dominion
 
 | File                                                                                 | Title                                                                            | Political Leaning |
 | ------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------- | ----------------- |
-| [[Major Locations/Elisus/Ohkyr Dominion/People/Selvarin Marost.md\|Selvarin Marost]] | <ul><li>Archpontiff of Merstur</li><li>The Tideborn</li></ul>                    | Traditionalist    |
-| [[Major Locations/Elisus/Ohkyr Dominion/People/Seyra Damaris.md\|Seyra Damaris]]     | <ul><li>The Gilded Wave</li><li>High Admiral of the Azure Sanctum</li></ul>      | \-                |
-| [[Major Locations/Elisus/Ohkyr Dominion/People/Torren Valceri.md\|Torren Valceri]]   | <ul><li>Warmaster of Ogrun</li><li>Breaker of Storms</li></ul>                   | Expansionist      |
 | [[Major Locations/Elisus/Ohkyr Dominion/People/Velra Qoruun.md\|Velra Qoruun]]       | <ul><li>Mistress of the Hidden Rivers</li><li>Tidewarden of the Depths</li></ul> | Isolationist      |
+| [[Major Locations/Elisus/Ohkyr Dominion/People/Torren Valceri.md\|Torren Valceri]]   | <ul><li>Warmaster of Ogrun</li><li>Breaker of Storms</li></ul>                   | Expansionist      |
+| [[Major Locations/Elisus/Ohkyr Dominion/People/Seyra Damaris.md\|Seyra Damaris]]     | <ul><li>The Gilded Wave</li><li>High Admiral of the Azure Sanctum</li></ul>      | \-                |
+| [[Major Locations/Elisus/Ohkyr Dominion/People/Selvarin Marost.md\|Selvarin Marost]] | <ul><li>Archpontiff of Merstur</li><li>The Tideborn</li></ul>                    | Traditionalist    |
 
 %% DATAVIEW_PUBLISHER: end %%
 ## The Choir
