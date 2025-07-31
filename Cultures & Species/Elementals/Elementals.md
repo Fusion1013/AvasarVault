@@ -4,8 +4,10 @@ A vast majority of naturally formed elementals originate from the [[Elemental Pl
 ## Sprites
 Small elementals are relatively common, appearing close to any sufficiently large concentration of elemental energies. Elementals of this size are known as [[Sprites]]. [[Sprites]] come in a variety of different forms, but they are always influenced by their environment. A Fire Sprite given form from a campfire might appear playful, lazily hopping around in the fire. A Fire Sprite formed during a house fire on the other hand might appear more aggressive, spreading the fire, fanning the flames.
 
+As long as a sprite is in physical contact with their element their life will be sustained. As soon as they leave their element they will start deteriorating, the speed depending on the size of the [[Sprites|Sprite]]. Normal size sprites can last outside of their element for only around 30 seconds before fading.
+### Water Sprites
 The most common type of [[Sprites|Sprite]] are Water [[Sprites]], forming in bodies of water of a sufficient size. They can commonly be found along coastlines, among docks, or following ships. They can take the form of fish, small sea serpents, or other ocean-dwelling fauna.
-
+### Fire Sprites
 Fire [[Sprites]] can be found in smaller fires, such as fireplaces or bonfires.
 ## Creating Elementals
 Elementals can also be created through magical means. Most spells that create elementals do not pull an existing one from the [[Elemental Plane of Chaos]]. Instead, it pulls elemental energies from the surrounding area, concentrating it into a new elemental being. When creating a Stone Elemental for example, rock might be pulled from a nearby cliff. For more powerful spells, energy might be pulled from the [[Elemental Plane of Chaos]] itself. When creating an elemental through these means, a small part of the casters soul is imbued into the created elemental, binding it to the caster. Removing the soul without banishing the elemental can have different effects depending on the nature of the spell.
