@@ -59,6 +59,8 @@ SORT file.link ASC
 %% DATAVIEW_PUBLISHER: end %%
 # Planar Metals
 Almost all planes have a Planar Metal associated with it. Three notable exceptions to this rule are the [[Material Plane]], [[Shadow Plane]] and [[Vibrant Plane]]. Instead, these three planes contain traces of all other Planar Metals.
+
+Each Planar Metal is an aspect o
 %% DATAVIEW_PUBLISHER: start
 ```dataview
 TABLE WITHOUT ID
