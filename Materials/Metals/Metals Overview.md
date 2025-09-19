@@ -27,7 +27,7 @@ SORT file.link ASC
 | [[Aururum\|Aururum]]                             | <ul><li>[[Materials/Properties/Vital.md\|Vital]]</li></ul>                                                                                                                                      | Rare      |
 | [[Chlorophyte\|Chlorophyte]]                     | <ul><li>[[Materials/Properties/Vital.md\|Vital]]</li><li>[[Materials/Properties/Psychic.md\|Psychic]]</li><li>[[Materials/Properties/Chaotic.md\|Chaotic]]</li></ul>                            | Legendary |
 | [[Materials/Metals/Cold Iron.md\|Cold Iron]]                         | <ul><li>[[Materials/Properties/Cold.md\|Cold]]</li><li>[[Materials/Properties/Phantasmal.md\|Phantasmal]]</li></ul>                                                                             | Uncommon  |
-| [[Materials/Metals/Entropium.md\|Entropium]]                         | <ul><li>[[Materials/Properties/Zephyrous.md\|Zephyrous]]</li><li>[[Materials/Properties/Void.md\|Void]]</li></ul>                                                                               | Uncommon  |
+| [[Entropium\|Entropium]]                         | <ul><li>[[Materials/Properties/Zephyrous.md\|Zephyrous]]</li><li>[[Materials/Properties/Void.md\|Void]]</li></ul>                                                                               | Uncommon  |
 | [[Materials/Metals/Fevrus.md\|Fevrus]]                               | <ul><li>[[Materials/Properties/Fiery.md\|Fiery]]</li></ul>                                                                                                                                      | Uncommon  |
 | [[Materials/Metals/Greenweave.md\|Greenweave]]                       | <ul><li>[[Materials/Properties/Psychic.md\|Psychic]]</li></ul>                                                                                                                                  | Uncommon  |
 | [[Materials/Metals/Hartwood.md\|Hartwood]]                           | <ul><li>[[Materials/Properties/Radiant.md\|Radiant]]</li></ul>                                                                                                                                  | Rare      |
@@ -60,7 +60,9 @@ SORT file.link ASC
 # Planar Metals
 Almost all planes have a Planar Metal associated with it. Three notable exceptions to this rule are the [[Material Plane]], [[Shadow Plane]] and [[Vibrant Plane]]. Instead, these three planes contain traces of all other Planar Metals.
 
-Each Planar Metal is an aspect o
+Each Planar Metal is an aspect of the god that inhabits the plane. Some believe that the metal is a piece of the gods body, though there is evidence pointing towards the metal merely being a manifestation of the gods power on the plane. Nevertheless, these metals can be found in varying concentrations on the appropriate plane, as well as in small amounts on the material plane and its shadows.
+
+Planar metals all inhabit special properties tied to its god.
 %% DATAVIEW_PUBLISHER: start
 ```dataview
 TABLE WITHOUT ID
