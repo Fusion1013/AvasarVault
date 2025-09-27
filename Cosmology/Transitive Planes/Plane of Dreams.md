@@ -39,7 +39,11 @@ In order to reach other Inner Planes from the [[Plane of Dreams]] reliably, some
 Its strong connection to [[The Dark Beyond]] makes it even more favourable to use if attempting to reach the plane. The [[Plane of Dreams]] is also what newly dead souls need to traverse to reach the afterlife.
 
 It is possible to, purposely or accidentally, enter the Plane of Death through deep meditation or sleep. Most of the time this manifests as especially vivid dreams, and are of no harm to the dreamer. However, in certain circumstances, people have been recorded slipping into the [[Plane of Dreams]] and never waking up. What happened to them in there to cause them to not wake up is unknown.
-# Voidnavigators
+# Inhabitants
+All inhabitants native to the plane of dreams were once concepts brought to life from the collective unconsciousness.
+## Githyanki
+The Githyanki are one of the oldest known native inhabitants of the [[Plane of Dreams|Astral Realm]].
+## Voidnavigators
 There is an order of scholars who have dedicated themselves to understanding and navigating the [[Plane of Dreams]], known as the Voidnavigators. They have discovered that they can attune themselves to the plane, gaining a greater understanding of it. During this process they lose parts of themselves to the void, with a high risk of madness.
 
 The order is organized by what they call Rings, a measure of how attuned an individual is to the plane. A member of the First Ring, for example, is someone who has completely embraced the influence of the plane, but managed to regain individuality. Such individuals are exceptionally rare, only three people have been documented having achieved this ability. On the other hand, beginners start at 5 Rings, the lowest level of Attunement. The Ring with the most members is the Fourth, with members having taken a second step towards Attunement.
