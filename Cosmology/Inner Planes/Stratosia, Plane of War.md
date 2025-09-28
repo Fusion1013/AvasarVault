@@ -7,13 +7,14 @@ celestial_body: "[[Cosmology Overview#Stryka (War)|Stryka]]"
 attuned_god: "[[Ogrun - the Scarlet Champion]]"
 draft: true
 ---
-*"QUOTE"*
-```dataviewjs
-var p = dv.current();
-dv.paragraph("**Attuned God:** " + p.attuned_god);
-dv.paragraph("**Celestial Body:** " + p.celestial_body);
-dv.paragraph("**Alternative Names:** " + p.aliases);
-```
-## Overview
+> [!infobox|right]
+> # Stratosia, Plane of War
+> ![[IMAGE HERE]]
+> ###### Overview
+> | **Aliases** | - |
+> | - | - |
+> | **Attuned God** | [[Ogrun - the Scarlet Champion]] |
+> | **Celestial Body** | Stryka |
+# Overview
 
 [[Planes Overview]]
