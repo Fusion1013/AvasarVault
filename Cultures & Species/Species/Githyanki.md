@@ -4,3 +4,4 @@ The Githyanki originate from the [[Plane of Dreams|Astral Realm]], formed from t
 The Githyanki have gained an innate ability to exist on the [[Plane of Dreams]] without shifting into other planes. As a result of this they always feel a sense of lacking when they are off the plane, and feel a strange pull to return to it that only grows stronger they are away from the plane.
 
 The Githyanki are a warrior race sworn to the destruction of their mortal enemies, the [[Mindflayers]].
+# 
