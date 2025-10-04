@@ -4,7 +4,11 @@ Within the world of Avasar, there are a total of 5 different prime deities and 1
 
 These deities are former mortals who were able to be bound to one of the original major planes. Some even tried to attune to a plane that already had a deity, causing the domain, along with the plane and the planet representing it, to be split. However, the secrets to ascend have long been lost.
 
-No singular deity is good or evil. Instead, they are pure representations of the domain they control. This includes any of the positive and negative aspects within that domain. While none of the Pantheon are considered good or evil, certain events can mean their more positive or negative aspects have more influence within the Material Plane.
+No singular deity is good or evil. Instead, they are pure representations of the domain they control. This includes any of the positive and negative aspects within that domain. While none of the Pantheon are considered good or evil, certain events can mean their more positive or negative aspects have more influence within the Material Plane. Each god is in turn divided into multiple aspects, or Shards.
+# Shards
+A shard is a piece or an aspect of a god given form. A singular god can have hundreds or sometimes thousands of shards, each with their own personality and subdomain. They are a part of a whole, and together they make up the true representation of the god. One shard is always more powerful of the others, containing the majority of the gods willpower. It holds control over the others.
+
+A majority of people worship the god as a whole, accepting all of the shards as one entity. Others choose a specific shard to worship. Not all shards are known, though some are more prominent than others. For example, the small sect known as [[The Scarlet Hand]] worship a shard of [[Saheir - the Enchantress]] known as The Bloodweaver.
 # The Pantheon
 ## Prime Deities
 %% DATAVIEW_PUBLISHER: start

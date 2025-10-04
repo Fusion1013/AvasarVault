@@ -42,7 +42,7 @@ It is possible to, purposely or accidentally, enter the [[The Dark Beyond|Plane 
 # Inhabitants
 All inhabitants native to the plane of dreams were once concepts brought to life from the collective unconsciousness.
 ## Githyanki
-The [[Githyanki]] are one of the oldest known native inhabitants of the [[Plane of Dreams|Astral Realm]]. They have gained an innate ability to travel the plane, being able to stay there without shifting into other planes. Numerous [[Githyanki]] settlements are hidden throughout the plane, drifting in the endless sea.
+The [[Gith]] are one of the oldest known native inhabitants of the [[Plane of Dreams|Astral Realm]]. They have gained an innate ability to travel the plane, being able to stay there without shifting into other planes. Numerous [[Gith]] settlements are hidden throughout the plane, drifting in the endless sea.
 ## Voidnavigators
 There is an order of scholars who have dedicated themselves to understanding and navigating the [[Plane of Dreams]], known as the Voidnavigators. They have discovered that they can attune themselves to the plane, gaining a greater understanding of it. During this process they lose parts of themselves to the void, with a high risk of madness.
 
