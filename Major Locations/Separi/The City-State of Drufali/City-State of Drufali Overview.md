@@ -1,10 +1,12 @@
 ---
 tags:
-- city
-- nation
+  - city
+  - nation
 todo: Need to finish filling out the notes on Drufali
 editors:
-- Daniel
+  - Daniel
+aliases:
+  - Drufali
 ---
 *"We Stand Alone Against the Raging Storm"*
 
