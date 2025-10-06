@@ -41,7 +41,7 @@ Its strong connection to [[The Dark Beyond]] makes it even more favourable to us
 It is possible to, purposely or accidentally, enter the [[The Dark Beyond|Plane of Death]] through deep meditation or sleep. Most of the time this manifests as especially vivid dreams, and are of no harm to the dreamer. However, in certain circumstances, people have been recorded slipping into the [[Plane of Dreams]] and never waking up. What happened to them in there to cause them to not wake up is unknown.
 # Inhabitants
 All inhabitants native to the plane of dreams were once concepts brought to life from the collective unconsciousness.
-## Githyanki
+## Gith
 The [[Gith]] are one of the oldest known native inhabitants of the [[Plane of Dreams|Astral Realm]]. They have gained an innate ability to travel the plane, being able to stay there without shifting into other planes. Numerous [[Gith]] settlements are hidden throughout the plane, drifting in the endless sea.
 ## Voidnavigators
 There is an order of scholars who have dedicated themselves to understanding and navigating the [[Plane of Dreams]], known as the Voidnavigators. They have discovered that they can attune themselves to the plane, gaining a greater understanding of it. During this process they lose parts of themselves to the void, with a high risk of madness.

@@ -1,6 +1,6 @@
 *"Beware our red mark"*
 # Overview
-The Scarlet Hand is an extremist group of followers of one of the shards of the god [[Saheir - the Enchantress|Saheir]], who they call The Bloodweaver. They have been known to make extensive use of blood magic, through figurines of power. Their symbol is a red hand.
+The Scarlet Hand is an extremist group of followers that worship one of the shards of [[Saheir - the Enchantress|Saheir]], known as The Bloodweaver. They have been known to make extensive use of blood magic, through figurines of power. Their symbol is a red hand.
 # Notable Members
 Members of the sect tend to stay quiet, avoiding attention. They usually form groups in smaller towns, where they can conduct their rituals and ceremonies without attracting attention from the authorities. Most of the members are therefore unknown to the public.
 ## [[The Bloodmoon Brotherhood]]
