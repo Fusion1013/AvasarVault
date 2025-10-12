@@ -44,7 +44,7 @@ SORT order ASC
 | 3: [[Inora]]    | [[Pantheon/Minor Gods/Isoroa - the Shadowed Mask.md\|Isoroa - the Shadowed Mask]]                           |
 | 4: [[Scarnoc]]  | [[Pantheon/Minor Gods/Ogrun - the Scarlet Champion.md\|Ogrun - the Scarlet Champion]]                       |
 | 5: [[Orzen]]    | [[Pantheon/Minor Gods/Vuzen - the Law Baron.md\|Vuzen - the Law Baron]]                                     |
-| 6: [[Verra]]    | [[Pantheon/Major Gods/Anvarra - the Soulless Mistress.md\|Anvarra - the Soulless Mistress]]                 |
+| 6: [[Verra]]    | [[Anvarra - the Soulless Mistress\|Anvarra - the Soulless Mistress]]                 |
 | 7: [[Nerduva]]  | [[Pantheon/Minor Gods/Verdus - the Earthweaver.md\|Verdus - the Earthweaver]]                               |
 | 8: [[Sensari]]  | [[Pantheon/Major Gods/Mau'Sari - the Divine Essence.md\|Mau'Sari - the Divine Essence]]                     |
 | 9: [[Zermid]]   | [[Pantheon/Minor Gods/Midar - the Unshackled.md\|Midar - the Unshackled]]                                   |
