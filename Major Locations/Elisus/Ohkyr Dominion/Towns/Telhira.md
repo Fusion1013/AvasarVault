@@ -6,7 +6,7 @@ draft: true
 ---
 ![[telhira.png]]
 # Overview
-[[Telhira]] is a small, oceanside town in the [[Ohkyr Dominion Overview|Ohkyr Dominion]]. It is built along the coastline, west of [[Velmira, City of Watchful Waters|Velmira]], with large hills surrounding it.
+[[AvasarVault/Major Locations/Elisus/Ohkyr Dominion/Towns/Telhira]] is a small, oceanside town in the [[Ohkyr Dominion Overview|Ohkyr Dominion]]. It is built along the coastline, west of [[Velmira, City of Watchful Waters|Velmira]], with large hills surrounding it.
 
 %%
 The town is old, lots of older style buildings. It has recently seen more development though. They have started expanding the docks to allow for more ships to dock. Renovations are taking place around the city.
@@ -19,7 +19,7 @@ How have these activities affected the town? What do people in the town think ab
 
 The towns' name roughly translates to **Waveborn Haven** in [[Thüma]].
 # History
-The history of [[Telhira]] goes far back, to before the founding of the [[Ohkyr Dominion Overview|Ohkyr Dominion]]. It is believed that the town is built on the same ground as the first settlement on this continent, with ruins and artefacts found dating back to before the [[0APC - Planar Concordance|Planar Concordance]].
+The history of [[AvasarVault/Major Locations/Elisus/Ohkyr Dominion/Towns/Telhira]] goes far back, to before the founding of the [[Ohkyr Dominion Overview|Ohkyr Dominion]]. It is believed that the town is built on the same ground as the first settlement on this continent, with ruins and artefacts found dating back to before the [[0APC - Planar Concordance|Planar Concordance]].
 
 The town itself was originally founded somewhere around [[170 APC]]. It was initially built as an outpost for [[Velmira, City of Watchful Waters|Velmira]], but settlers and traders quickly followed. It was built along the cliffs, as a means of protecting the town from land borne threats. A small wall was built along the ocean, remnants of which can still be seen today.
 
