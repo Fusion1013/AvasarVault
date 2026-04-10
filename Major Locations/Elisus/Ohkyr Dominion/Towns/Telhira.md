@@ -35,6 +35,16 @@ Today, the town is but a shadow of its former self. The seawall still lay in rui
 # Geography
 The town is surrounded on all sides by bush-covered hills. The [[Dragonback Mountains]] loom not far to the west. The land surrounding the city is scarred and cracked due to earthquakes caused by the [[1167APC - Taundor Cataclysm|Taundor Cataclysm]]. Deep chasms split the land closer to the mountains. Small, narrow islands dot the coastline, formed when the land was displaced.
 # Landmarks
+## Kirel Pazeth
+A small market square at the centre of the city. Has the majority of all shops in town. Translates to Kirel's Market. Kirel is said to be the founder of the town, and has a statue at the centre of the square.
+
+The general market is open Taidar through Epidar, with people selling their wares in pop-up stands.
+### The Salt & Stem
+A small herbalist shop. Owned by an adventurer known as Velran Tashor, though he has gone missing lately. The shop is now managed by an old elven woman known as Erisma.
+### Telhira General Goods
+Does not get a lot of business, so they might not have a lot of things. They are open Taidar through Epidar. It is run by a group of halflings.
+### Salt & Steel
+A blacksmith. Run by a younger man named Kaelor Thane. Specialized in creating stuff for ships, but can create other things but not of the best quality.
 ## The Docks
 These docks are small and unremarkable, allowing for a maximum of three ships to dock at a time. At the same time these wooden boards are what allow the town to continue its existence, allowing fishermen and traders to enter the town. Expansions to the docks started construction a year ago, but has yet to be completed.
 ## Cliffside

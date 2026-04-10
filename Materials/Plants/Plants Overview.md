@@ -13,7 +13,8 @@ TABLE WITHOUT ID
 file.link AS "Material",
 description AS "Description",
 properties AS "Properties",
-rarity AS "Rarity"
+rarity AS "Rarity",
+cost_plant AS Cost
 FROM #material AND #plant
 WHERE description != null
 SORT file.link ASC
