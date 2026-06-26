@@ -1,0 +1,202 @@
+{
+  "main": {
+    "id": "f85d75dec73a2aab",
+    "type": "split",
+    "children": [
+      {
+        "id": "f9090e5c83c09f63",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b24658934262d4c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Major Locations/Separi/The City-State of Drufali/City-State of Drufali Overview.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "City-State of Drufali Overview"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8cb92eb2bf292e37",
+    "type": "split",
+    "children": [
+      {
+        "id": "61af2459d7ce882c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ea64f18f2315c53e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "77b3cd049a06ede0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "6208e2f44c549dd7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7451ca33e4d394f9",
+    "type": "split",
+    "children": [
+      {
+        "id": "32be0cab0f7b8981",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "741b9179408e872b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "1321856f0de15658",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "a7df5db654893352",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "6fb7ecdb100805ba",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "be12019bbd1f4384",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "system3-relay:Relay": false
+    }
+  },
+  "active": "b24658934262d4c1",
+  "lastOpenFiles": [
+    "Major Locations/Separi/The City-State of Drufali/Organizations/The Shadow Guild.md",
+    "Major Locations/Separi/The City-State of Drufali/People/Guild Masters.md",
+    "Major Locations/Separi/The City-State of Drufali/Organizations/The RoundTable.md",
+    "Major Locations/Separi/The City-State of Drufali/Organizations/The Navigators' Guild.md",
+    "Major Locations/Separi/The City-State of Drufali/Organizations/Stoneswords' Guild.md",
+    "Major Locations/Separi/The City-State of Drufali/Organizations/House Thunderstep.md",
+    "Major Locations/Separi/The City-State of Drufali/Organizations/House Linway.md",
+    "Major Locations/Separi/The City-State of Drufali/Organizations/House Drufali.md",
+    "Major Locations/Separi/The City-State of Drufali/Organizations/Highstrider's Guild.md",
+    "Major Locations/Separi/The City-State of Drufali/Organizations/Fabricators' Guild.md",
+    "Major Locations/Elisus/Ohkyr Dominion/People/Velra Qoruun.md",
+    "Major Locations/Elisus/Ohkyr Dominion/People/Torren Valceri.md",
+    "Major Locations/Elisus/Ohkyr Dominion/People/Seyra Damaris.md",
+    "Major Locations/Elisus/Ohkyr Dominion/People/Selvarin Marost.md",
+    "Major Locations/Elisus/Elisus Overview.md"
+  ]
+}
