@@ -1,3 +1,14 @@
 {
+  "accentColor": "",
+  "cssTheme": "Minimal",
+  "enabledCssSnippets": [
+    "img",
+    "table_warp",
+    "icons",
+    "S - Callouts"
+  ],
+  "showViewHeader": true,
+  "translucency": false,
+  "baseFontSize": 14,
   "theme": "obsidian"
 }

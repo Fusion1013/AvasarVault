@@ -1,3 +1,26 @@
 [
-  "system3-relay"
+  "obsidian-icon-folder",
+  "dataview",
+  "better-word-count",
+  "novel-word-count",
+  "obsidian-image-toolkit",
+  "obsidian-image-gallery",
+  "fantasy-calendar",
+  "obsidian-5e-statblocks",
+  "table-editor-obsidian",
+  "find-unlinked-files",
+  "obsidian-leaflet-plugin",
+  "obsidian-banners",
+  "3d-graph",
+  "obsidian-dangling-links",
+  "obsidian-icons-plugin",
+  "templater-obsidian",
+  "obsidian-git",
+  "obsidian-mind-map",
+  "dataview-serializer",
+  "webpage-html-export",
+  "dataview-publisher",
+  "obsidian-style-settings",
+  "obsidian-tasks-plugin",
+  "smart-composer"
 ]

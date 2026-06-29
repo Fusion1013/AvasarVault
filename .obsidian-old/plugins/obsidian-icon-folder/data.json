@@ -1,0 +1,53 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "FarStar",
+      "IbCalendar",
+      "FarImage",
+      "RiNewspaperFill",
+      "IbLocked"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false,
+    "useInternalPlugins": false
+  },
+  "Private": "IbLocked",
+  "Private/Campaigns/Drufali Campaign/00 - Player Characters/00 - Damien Brinir.md": "FarStar",
+  "Index.md": "IbHouse",
+  "Cosmology": "IbEarth",
+  "Environment": "RiLeafLine",
+  "History": "RiHistoryLine",
+  "Languages": "IbMessageBubble",
+  "Major Locations": "RiGlobalLine",
+  "Materials": "SiMaterialdesignicons",
+  "Pantheon": "FarHandPointUp",
+  "Templates": "RiNewspaperFill",
+  "Attachements": "FarImage",
+  "TO-DO.md": "RiListCheck",
+  "Ideas.md": "IbLightBulb",
+  "Cultures & Species": "IbClarusTheDogcow",
+  "Magic": "IbShoppingCartEmpty"
+}

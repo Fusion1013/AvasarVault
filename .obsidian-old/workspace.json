@@ -1,46 +1,74 @@
 {
   "main": {
-    "id": "f85d75dec73a2aab",
+    "id": "bb159c0800d7cde8",
     "type": "split",
     "children": [
       {
-        "id": "f9090e5c83c09f63",
-        "type": "tabs",
+        "id": "e24985f7aaaf73a1",
+        "type": "split",
         "children": [
           {
-            "id": "b24658934262d4c1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Major Locations/Separi/The City-State of Drufali/City-State of Drufali Overview.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "City-State of Drufali Overview"
-            }
+            "id": "e12468197ba40b17",
+            "type": "tabs",
+            "dimension": 71.08843537414967,
+            "children": [
+              {
+                "id": "7ed5ec5e3cf3d19d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Major Locations/Elisus/Turochan Kingdom/Turochan Kingdom Overview.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Turochan Kingdom Overview"
+                }
+              }
+            ]
+          },
+          {
+            "id": "a3b8b2706b334caa",
+            "type": "tabs",
+            "dimension": 28.91156462585034,
+            "children": [
+              {
+                "id": "879e864d83044f3f",
+                "type": "leaf",
+                "state": {
+                  "type": "file-properties",
+                  "state": {
+                    "file": "Major Locations/Elisus/Turochan Kingdom/Turochan Kingdom Overview.md"
+                  },
+                  "icon": "lucide-info",
+                  "title": "File properties for Turochan Kingdom Overview"
+                }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "vertical"
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "8cb92eb2bf292e37",
+    "id": "9d057b479c2c4c74",
     "type": "split",
     "children": [
       {
-        "id": "61af2459d7ce882c",
+        "id": "b36ccc9ac8eadc3e",
         "type": "tabs",
+        "dimension": 65.95547309833024,
         "children": [
           {
-            "id": "ea64f18f2315c53e",
+            "id": "16744e13985ce8b2",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "alphabeticalReverse",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -48,7 +76,7 @@
             }
           },
           {
-            "id": "77b3cd049a06ede0",
+            "id": "9f68723934a0fc6c",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +93,7 @@
             }
           },
           {
-            "id": "6208e2f44c549dd7",
+            "id": "159eae17b42b67fe",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -75,52 +103,63 @@
             }
           }
         ]
+      },
+      {
+        "id": "2f681183d511527c",
+        "type": "tabs",
+        "dimension": 34.044526901669755,
+        "children": [
+          {
+            "id": "c1fd364ea57440f7",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {},
+              "icon": "FANTASY_CALENDAR",
+              "title": "Fantasy Calendar"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 419.5
   },
   "right": {
-    "id": "7451ca33e4d394f9",
+    "id": "69d883f56dedf0af",
     "type": "split",
     "children": [
       {
-        "id": "32be0cab0f7b8981",
+        "id": "49cb35d328e2091f",
         "type": "tabs",
+        "dimension": 56.395348837209305,
         "children": [
           {
-            "id": "741b9179408e872b",
+            "id": "d7e8c7bc8b189356",
             "type": "leaf",
             "state": {
-              "type": "backlink",
-              "state": {
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks"
+              "type": "smtcmp-chat-view",
+              "state": {},
+              "icon": "wand-sparkles",
+              "title": "Smart composer chat"
             }
           },
           {
-            "id": "1321856f0de15658",
+            "id": "ca61cba363db5bd3",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Major Locations/Elisus/Turochan Kingdom/Turochan Kingdom Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Turochan Kingdom Overview"
             }
           },
           {
-            "id": "a7df5db654893352",
+            "id": "576bde7f09ca0cbd",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -135,7 +174,32 @@
             }
           },
           {
-            "id": "6fb7ecdb100805ba",
+            "id": "9a740681194b928f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Campaigns/Campaign 2 - Shadows of Ohkyr/Locations/Tanüera.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Tanüera"
+            }
+          },
+          {
+            "id": "8eeaf15e4fd37701",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "advanced-tables-toolbar"
+            }
+          },
+          {
+            "id": "15857e3d6d9905e8",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -149,54 +213,163 @@
             }
           },
           {
-            "id": "be12019bbd1f4384",
+            "id": "004fd5f05da4e0b3",
             "type": "leaf",
             "state": {
-              "type": "outline",
-              "state": {
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline"
+              "type": "dangling-links",
+              "state": {},
+              "icon": "broken-link",
+              "title": "Dangling links"
             }
           }
-        ]
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "2c0f02d578929e9d",
+        "type": "tabs",
+        "dimension": 43.604651162790695,
+        "children": [
+          {
+            "id": "9dc994e37f2e5639",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Campaigns/Campaign 2 - Shadows of Ohkyr/Session Notes/Session 16 - Below the Shipwreck.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.7132754626224462,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of Session 16 - Below the Shipwreck"
+            }
+          },
+          {
+            "id": "572d0f34557974f3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Major Locations/Elisus/Turochan Kingdom/Turochan Kingdom Overview.md",
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Turochan Kingdom Overview"
+            }
+          }
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 231.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false,
+      "fantasy-calendar:Open Large Fantasy Calendar": false,
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "3d-graph:3D Graph": false,
+      "obsidian-dangling-links:Show dangling links panel": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-git:Open Git source control": false,
+      "webpage-html-export:Export Vault to HTML": false,
+      "smart-composer:Open smart composer": false,
       "system3-relay:Relay": false
     }
   },
-  "active": "b24658934262d4c1",
+  "active": "7ed5ec5e3cf3d19d",
   "lastOpenFiles": [
-    "Major Locations/Separi/The City-State of Drufali/Organizations/The Shadow Guild.md",
-    "Major Locations/Separi/The City-State of Drufali/People/Guild Masters.md",
-    "Major Locations/Separi/The City-State of Drufali/Organizations/The RoundTable.md",
-    "Major Locations/Separi/The City-State of Drufali/Organizations/The Navigators' Guild.md",
-    "Major Locations/Separi/The City-State of Drufali/Organizations/Stoneswords' Guild.md",
-    "Major Locations/Separi/The City-State of Drufali/Organizations/House Thunderstep.md",
-    "Major Locations/Separi/The City-State of Drufali/Organizations/House Linway.md",
-    "Major Locations/Separi/The City-State of Drufali/Organizations/House Drufali.md",
-    "Major Locations/Separi/The City-State of Drufali/Organizations/Highstrider's Guild.md",
-    "Major Locations/Separi/The City-State of Drufali/Organizations/Fabricators' Guild.md",
-    "Major Locations/Elisus/Ohkyr Dominion/People/Velra Qoruun.md",
-    "Major Locations/Elisus/Ohkyr Dominion/People/Torren Valceri.md",
-    "Major Locations/Elisus/Ohkyr Dominion/People/Seyra Damaris.md",
-    "Major Locations/Elisus/Ohkyr Dominion/People/Selvarin Marost.md",
-    "Major Locations/Elisus/Elisus Overview.md"
+    "Major Locations/Elisus/Elisus Overview.md",
+    "Major Locations/Elisus/Turochan Kingdom/Turochan Kingdom Overview.md",
+    "Major Locations/Elisus/Ohkyr Dominion/Ohkyr Dominion Overview.md",
+    "TO-DO.md",
+    "Campaigns/Avasar - Shadows of Ohkyr/Locations/Tanüera.md",
+    "Campaigns/Avasar - Night Sky Unceasing/Destabilizing Ohkyr and Drufali.md",
+    "Campaigns/Avasar - Night Sky Unceasing/Overview.md",
+    "Campaigns/Avasar - Shadows of Ohkyr/Session Notes/Session 19 - Yuanti Encounter.md",
+    "Campaigns/Avasar - Shadows of Ohkyr/Session Notes/Session 18 - Travel to Tanüera - Travel and Arrival.md",
+    "Campaigns/Avasar - Shadows of Ohkyr/Session Notes/Session 15 - Travel to Tanüera - Day 3.md",
+    "Campaigns/Avasar - Shadows of Ohkyr/Locations/Ghost - Ship.md",
+    "Campaigns/Avasar - Shadows of Ohkyr/Locations/Nytheris.md",
+    "Campaigns/Avasar - Shadows of Ohkyr/Session Notes/Session 14 - Nytheris.md",
+    "Campaigns/Avasar - Shadows of Ohkyr/Session Notes/Session 16 - Below the Shipwreck.md",
+    "Campaigns/Avasar - Shadows of Ohkyr/Session Notes/Session 17 - The Sea Hag.md",
+    "Campaigns/Avasar - Shadows of Ohkyr/Session Notes/Session Notes Overview.md",
+    "Campaigns/Shades in the Dark/Session Notes/Session uhhh.md",
+    "Campaigns/The Hand.md",
+    "Campaigns/Stories of Avasar - Box Heist/Overview.md",
+    "00 - Sources/AvasarVault/Languages/Language Map.canvas",
+    "00 - Sources/AvasarVault/Languages/The Taundorian Languages/Old Taundorian.md",
+    "Campaigns/Avasar - Shadows of Ohkyr/Artifacts/Metal Crates.md",
+    "00 - Sources/AvasarVault/Languages/The Wandering Languages/Thüma.md",
+    "Campaigns/Stories of Avasar - Box Heist",
+    "00 - Sources/AvasarVault/Languages/Khra/Kharinthi.md",
+    "01 - Templates/Avasar/Language Template.md",
+    "01 - Templates/Avasar",
+    "Campaigns/Upcoming Sessions.md",
+    "Campaigns/Avasar - Night Sky Unceasing",
+    "00 - Sources/AvasarVault/Materials/Metals/Planar Metals/Targath.md",
+    "Campaigns/Shades in the Dark/Session Notes",
+    "Campaigns/Shades in the Dark",
+    "PrivateDnD/Campaigns/Campaign 2 - Shadows of Ohkyr/Artifacts",
+    "Attachements/NPC/Zeyren.png",
+    "Attachements/NPC/Generic.jpg",
+    "Attachements/NPC",
+    "2. Mechanics/Non-Player Characters",
+    "2. Mechanics",
+    "PrivateDnD/Templates/Templater JS",
+    "AvasarVault/Attachements/Maps/OhkyrDominionV1.png",
+    "AvasarVault/Attachements/Maps/OhkyrDominionV3.png",
+    "Attachements/Pasted image 20251208181518.png",
+    "Attachements/33d2980b0ad634569a5b826c2aeddf09 1.jpg",
+    "Attachements/33d2980b0ad634569a5b826c2aeddf09.jpg",
+    "AvasarVault/Languages/Language Map.canvas",
+    "PrivateDnD/Campaigns/Campaign 2 - Shadows of Ohkyr/Act 1 - The Smugglers/Act 1 Overview Map.canvas",
+    "Attachements/Maps/SepariMap.jpg",
+    "Attachements/Maps/SepariElisus.jpg",
+    "Attachements/Maps/OhkyrDominionV3.png",
+    "Languages/Language Map.canvas",
+    "Cosmology/Planetary Map.canvas",
+    "Private/WIP/Preia Noble Houses.canvas",
+    "Private/WIP/Preia Noble House Connections.canvas",
+    "Untitled.canvas"
   ]
 }

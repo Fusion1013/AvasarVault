@@ -1,0 +1,81 @@
+/* -------------------------------------------------------
+   ⚓ Nautical Themed Headings for Obsidian – Minimal Theme
+   ------------------------------------------------------- */
+
+/* General heading look */
+.markdown-preview-view h1,
+.markdown-preview-view h2,
+.markdown-preview-view h3,
+.markdown-preview-view h4,
+.markdown-preview-view h5,
+.markdown-preview-view h6 {
+  font-family: "Garamond", "Georgia", serif;
+  letter-spacing: 0.5px;
+  margin-top: 1.4em;
+  margin-bottom: 0.4em;
+  padding-bottom: 0.15em;
+}
+
+/* H1 – Captain’s Log */
+.markdown-preview-view h1 {
+  font-size: 2.0em;
+  border-bottom: 2px solid var(--interactive-accent);
+  padding-bottom: 6px;
+  color: var(--interactive-accent);
+  text-shadow: 0px 0px 3px rgba(0,0,0,0.25);
+  background: linear-gradient(
+    to bottom,
+    rgba(210,180,140,0.25),
+    rgba(0,0,0,0)
+  );
+}
+
+/* H2 – Ship’s Log Entry */
+.markdown-preview-view h2 {
+  font-size: 1.6em;
+  border-bottom: 1px dashed var(--text-accent);
+  color: var(--text-accent);
+  position: relative;
+}
+
+.markdown-preview-view h2::before {
+  content: "⚓";
+  margin-right: 8px;
+  opacity: 0.85;
+}
+
+/* H3 – Nautical Rope Tag */
+.markdown-preview-view h3 {
+  font-size: 1.35em;
+  border-left: 4px double var(--text-muted);
+  padding-left: 8px;
+  color: var(--text-normal);
+}
+
+/* H4 – Ship’s Notation */
+.markdown-preview-view h4 {
+  font-size: 1.15em;
+  letter-spacing: 0.3px;
+  color: var(--text-muted);
+}
+
+/* H5 – Chart Label */
+.markdown-preview-view h5 {
+  font-size: 1em;
+  font-style: italic;
+  color: var(--text-muted);
+}
+
+/* H6 – Faint Deck Scribble */
+.markdown-preview-view h6 {
+  font-size: 0.9em;
+  opacity: 0.6;
+  font-style: italic;
+}
+
+/* Optional: Rope Divider Rule (.hr) */
+.markdown-preview-view hr {
+  border: none;
+  border-top: 2px dashed var(--text-muted);
+  margin: 1.5em 0;
+}

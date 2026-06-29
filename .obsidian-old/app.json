@@ -1,1 +1,7 @@
-{}
+{
+  "attachmentFolderPath": "Attachements",
+  "spellcheckLanguages": null,
+  "showInlineTitle": false,
+  "alwaysUpdateLinks": true,
+  "propertiesInDocument": "hidden"
+}
