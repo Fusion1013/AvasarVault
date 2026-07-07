@@ -21,10 +21,6 @@ A [[The Wandering Languages|Wandering Language]] spoken mainly in [[Ohkyr Domini
 - Dead - Olu
 - God - Tanür
 - Metal - Mera
-
-```
-Give a list of names in the language Thüma. The language is inspired by Turkish.
-```
 # Characters
 ş - sh
 ü - y
