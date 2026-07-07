@@ -17,10 +17,10 @@ A [[The Wandering Languages|Wandering Language]] spoken mainly in [[Ohkyr Domini
 - Bas - Head
 - Pazeth - Market
 - Gişi - Ghost
-- Body - Tenür
-- Dead - Olu
-- God - Tanür
-- Metal - Mera
+- Tenür - Body
+- Olu - Dead
+- Tanür - God
+- Mera - Metal
 # Characters
 ş - sh
 ü - y
