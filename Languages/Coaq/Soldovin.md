@@ -11,7 +11,7 @@ Soldovin is a Agglutinative Language, meaning that single words change meaning t
 
 For example, the prefix 'So' can be added to the word 'Dar', to create So'Dar, meaning 'The One True'.
 ## Sentence Structure
-Soldovin uses SOV-order (Subject-Verb-Object). For example, So'dar'ian va'dar'en han, meaning 'The one true people built the great land'.
+Soldovin uses SVO-order (Subject-Verb-Object). For example, So'dar'ian va'dar'en han, meaning 'The one true people built the great land'.
 ## Prefixes
 | Prefix | Meaning            | Example               |
 | ------ | ------------------ | --------------------- |
