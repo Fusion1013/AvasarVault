@@ -7,4 +7,4 @@ Plant life on the surface is sparse, with little to no forests. Low bushes dot t
 # Structures
 Ruins from some old [[Ohkyr Dominion Overview|Ohkyr]] cities can be found dotting the landscape, both on the land above and in some of the ravines.
 
-A maintained highway runs through the region, linking the [[Ohkyr Dominion Overview|Ohkyr Dominion]] and the [[Saxum Sovereignty Overview|Saxum Sovereignty]]. The highway winds across the region, seeking thinner ravines that are easier to cross using permanent bridges.
+A maintained highway runs through the region, linking the [[Ohkyr Dominion Overview|Ohkyr Dominion]] and the [[Saxum Sovereignty Overview|Saxum Sovereignty]]. The highway winds across the region, seeking thinner ravines that are easier to cross using permanent bridges. The tiles that make up the highway are crafted by the [[Sigilwright Conclave]] in [[Halzarin]], the process of which is a highly guarded secret.

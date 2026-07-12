@@ -35,16 +35,16 @@ Sheltered from the rest of the world by the towering [[Dragonback Mountains]] an
 The Saxum Sovereignty was [[1185 APC - Saxum Sovereignty Founding|founded in 1185 APC]], not long after the cataclysm that formed the now Turochan Kingdom. Due to the new nation's anti-magic stance, practitioners of magic were hunted and banished from the kingdom. Some of these people undertook the perilous journey through the Fracrish Mountains, to the valley that now forms the Saxum Sovereignty. With the founding of the capital, this valley soon became a safe haven for practitioners of arcane and divine magic.
 
 Relations with the Turochan Kingdom are still tense, but have significantly calmed since the earlier days. Trade has started to open up more and more over the last 20 years, as Turochan has started to relax their anti-magic policies. The construction of a major trade route through the mountains has significantly aided in these efforts. Information of magical nature is still being kept behind closed doors however.
-# Major Cities
+# Cities
 There are only four major cities in Saxum.
 ```dataview
 TABLE description AS "Description" FROM #city WHERE nation = "Saxum"
 ```
-# Major People
+# People
 ```dataview
 TABLE description AS "Description", race AS "Race", (age + " years") AS "Age" FROM #major_person AND #saxum_sovereignty AND #alive
 ```
-# Major Organizations
+# Organizations
 ```dataview
 TABLE description AS "Description" FROM #organization/major WHERE contains(nation, "Saxum Sovereignty")
 ```
