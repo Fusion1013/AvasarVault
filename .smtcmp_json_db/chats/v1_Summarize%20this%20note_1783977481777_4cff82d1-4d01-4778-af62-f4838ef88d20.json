@@ -1,0 +1,56 @@
+{
+  "id": "4cff82d1-4d01-4778-af62-f4838ef88d20",
+  "title": "Summarize this note",
+  "messages": [
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Summarize this note",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\nSummarize this note\n\n"
+        }
+      ],
+      "id": "15d1588e-642a-432b-b4b3-63c37844217a",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "Languages/Coaq/Soldovin.md"
+        }
+      ]
+    }
+  ],
+  "createdAt": 1783977481777,
+  "updatedAt": 1783977481777,
+  "schemaVersion": 1
+}
