@@ -9,12 +9,12 @@ meta-links:
   - "[[Nations]]"
 ---
 > [!infobox|right]
-> # NATION NAME
+> # So'Dar Empire
 > ![[placeholder.png]]
 > ###### Geography
 > | **Aliases** |  |
 > | - | - |
-> | **Region** | [[Elisus Overview|Elisus]] |
+> | **Region** | [[Elisus Overview]] |
 > | **Capital** | [[Capital City of Iglice]] |
 > ###### Society
 > | **Demonym** |  |
