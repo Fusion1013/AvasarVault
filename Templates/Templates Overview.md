@@ -14,7 +14,7 @@
 [[God]]
 ## Regions
 [[Templates/Templates/Regions/City]]
-[[Nation]]
+[[Templates/Templates/Regions/Nation]]
 ## Other
 [[Formatted Image]]
 [[Plane]]

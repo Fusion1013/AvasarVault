@@ -4,6 +4,9 @@ banner: "![[PurpleLantern.jpg]]"
 ---
 banner: "![[PurpleLantern.jpg]]"
 ---
+---
+banner: "![[PurpleLantern.jpg]]"
+---
 # Usage
 A shadow lantern contains tiny bits of [[Targath]], suspended in a thick, translucent fluid. The sides of the lantern can be rotated to either cover or uncover the contents. While uncovered, the lantern creates an area of darkness within 60 feet of the lantern.
 
