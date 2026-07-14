@@ -46,9 +46,15 @@ Pronouns have their own prefixes
 | Or     | Person          | Dar'or - Truthkeeper   |
 | Ath    | State / Concept | Dar'ath - Truthfulness |
 | Ik     | Tool / Object   | Dar'ik -               |
+| Heva   | Home / Origin   | Dar'Heva - True Home   |
 ## Words
 | Word | Meaning |
 | ---- | ------- |
 | Dar  | True    |
 | Kor  | Fight   |
 | Han  | Build   |
+| Thar | Port    |
+| Kou  | South   |
+| Dur  | North   |
+Li'Kor'Heva
+Likova'En
