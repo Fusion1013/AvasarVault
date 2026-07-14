@@ -1,6 +1,6 @@
 ## Creatures
 [[Creature]]
-[[Person]]
+[[Templates/Templates/Creatures/Person]]
 [[Worldbeast]]
 ## Events
 [[Event]]
