@@ -48,13 +48,14 @@ Pronouns have their own prefixes
 | Ik     | Tool / Object   | Dar'ik -               |
 | Heva   | Home / Origin   | Dar'Heva - True Home   |
 ## Words
-| Word | Meaning |
-| ---- | ------- |
-| Dar  | True    |
-| Kor  | Fight   |
-| Han  | Build   |
-| Thar | Port    |
-| Kou  | South   |
-| Dur  | North   |
-Li'Kor'Heva
-Likova'En
+| Word | Meaning        |
+| ---- | -------------- |
+| Dar  | True           |
+| Kor  | Fight          |
+| Han  | Build          |
+| Thar | Port           |
+| Kou  | South          |
+| Dur  | North          |
+| For  | Fort           |
+| Ton  | Town           |
+| Roth | Mine / To Mine |
