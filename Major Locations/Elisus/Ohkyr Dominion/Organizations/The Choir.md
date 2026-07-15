@@ -48,4 +48,4 @@ The leaders of [[The Choir]]. Its three members are chosen by [[The Grand Synod 
 ### The Psalmkeeper
 Records naval engagements as sacred scripture, inscribing battles into holy text. Every naval encounter is part of the divine narrative and must be remembered as such. The texts are brought back to the [[Chalayan, The city of a Thousand Rivers|Capital]] and transcribed into the [[Volumes of Ogrun]], and stored within the [[Holy Archive]].
 # Establishments
-It is thought that [[The Choir]] operate out of [[Chalayan, The city of a Thousand Rivers|Chalayan]], as they are tasked with performing inv
+It is thought that [[The Choir]] operate out of [[Chalayan, The city of a Thousand Rivers|Chalayan]], as they are tasked with performing investigations into [[The Grand Synod of Ohkyr]], though nobody knows for sure where they are based.
