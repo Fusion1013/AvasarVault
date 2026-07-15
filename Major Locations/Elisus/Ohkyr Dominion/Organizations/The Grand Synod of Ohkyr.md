@@ -47,7 +47,7 @@ Head of the merchant fleet and oversees trade alliances. Acts as a middleman bet
 ### 4. ?
 ## The Pillars of Ogrun
 These are high up members of [[The Sanctified Host]].
-### 1. Warmaster of Ogrun
+### 1. [[Warmaster of Ogrun]]
 Leader of [[The Sanctified Host]]. Commands their forces and enforces martial law.
 ### 2. Voice of the Choir
 Represents the elite naval order known as [[The Choir]]. Oversees naval strategy.
