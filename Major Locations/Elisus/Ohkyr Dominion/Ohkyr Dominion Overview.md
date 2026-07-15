@@ -15,7 +15,6 @@ editors: Fusion
 > ###### Geography
 > | **Aliases** |  |
 > | - | - |
-> | **Type** | Nation |
 > | **Region** | [[Elisus Overview\|Elisus]] |
 > | **Capital** | [[Chalayan, The city of a Thousand Rivers]] |
 > ###### Society
@@ -24,10 +23,11 @@ editors: Fusion
 > | **Races** | Humans, Halflings, Dwarves |
 > | **Languages** | [[Thüma]] |
 > | **Religions** | [[Merstur - the Unbroken Tide\|Merstur]], [[Ogrun - the Scarlet Champion\|Ogrun]] |
+> | **Estimated Population** | 00 |
 > ###### Politics
 > | **Type** | Polytheocratic Republic |
 > | - | - |
-> | **Ruler** |  |
+> | **Ruler** | [[The Grand Synod of Ohkyr]] |
 > | **Allegiances** |  |
 
 *"QUOTE"*
@@ -43,12 +43,8 @@ To cement this unity, this alliance of faith, the two commissioned a citadel for
 The [[1167APC - Taundor Cataclysm|Taundor Cataclysm in 1167APC]] rocked the nation. Many cities and towns on the western side of the continent were affected by the disaster, many destroyed, many more abandoned. The force of the collision caused mountains to rise and cracks to form in the ground. Earthquakes wracked the western regions of the nation for many years after, making the area close to the newly formed mountains uninhabitable. It took over half a century for the land to settle, and people could begin to venture west once more.
 
 When people from the nation begun exploring the new lands west of the mountains, they found a new people inhabiting the region. They found the [[Saxum Sovereignty Overview|Saxum Sovereignty]]. As [[Ohkyr Dominion Overview|Ohkyr]] was still dealing with the consequences from the cataclysm, they made the decision to forge an alliance. It took them until [[1276 APC - Invasion of Saxum|1276APC]] to attempt to claim the new land, when the [[Ohkyr Dominion Overview|Ohkyr Dominion]] attempted an invasion of [[Saxum Sovereignty Overview|Saxum]] using their superior fleet. They managed to take [[Havdal, City of Pearls]], but was pushed back after they laid siege to [[Gulstad, City of Gold|Gulstad]]. The invasion ended in a failure, and [[Saxum Sovereignty Overview|Saxum]] pushed back to the original borders. In the years to follow, [[Saxum Sovereignty Overview|Saxum]] conducted raids into [[Ohkyr Dominion Overview|Ohkyr]], in an attempt to deter the nation to attempt further attacks. In the year [[1279APC]] a treaty was signed between [[Ohkyr Dominion Overview|Ohkyr]] and [[Saxum Sovereignty Overview|Saxum]]. This treaty was heavily in favour of [[Saxum Sovereignty Overview|Saxum]], preventing any further attacks and forcing [[Ohkyr Dominion Overview|Ohkyr]] to help with restorations.
-# Religion
-The two main religions of [[Ohkyr Dominion Overview|Ohkyr]] are dedicated to [[Merstur - the Unbroken Tide|Merstur]] and [[Ogrun - the Scarlet Champion|Ogrun]]. Other faiths are not strictly outlawed, though they are extremely uncommon and frowned at among the general populace.
-
-The theological background of these two faiths make up the ruling body of [[Ohkyr Dominion Overview|Ohkyr]].
+# Culture
 # Cities
-%% DATAVIEW_PUBLISHER: start
 ```dataview
 TABLE 
 population AS "Population",
@@ -57,25 +53,34 @@ FROM #city
 WHERE nation = "Ohkyr"
 SORT file.name ASC
 ```
-%%
+# People
+```dataview
+TABLE description AS "Description", race AS "Race", (age + " years") AS "Age" FROM #major_person AND #alive
+WHERE nation = "Ohkyr Dominion"
+```
+# Organizations
+```dataview
+TABLE 
+leaders AS "Leaders",
+members AS "Members",
+formed AS "Date Formed"
+FROM #organization
+WHERE nation = "Ohkyr Dominion"
+```
+# Economy
 
-| File                                                                                                                                 | Population | Size       |
-| ------------------------------------------------------------------------------------------------------------------------------------ | ---------- | ---------- |
-| [[Major Locations/Elisus/Ohkyr Dominion/Cities/Chalayan, The city of a Thousand Rivers.md\|Chalayan, The city of a Thousand Rivers]] | 130000     | Metropolis |
-| [[Major Locations/Elisus/Ohkyr Dominion/Cities/Deyruk.md\|Deyruk]]                                                                   | 37000      | Metropolis |
-| [[Major Locations/Elisus/Ohkyr Dominion/Cities/Gelthurun, Eye of the North.md\|Gelthurun, Eye of the North]]                         | 5600       | Small City |
-| [[Major Locations/Elisus/Ohkyr Dominion/Cities/Halimeth.md\|Halimeth]]                                                               | 3200       | Large Town |
-| [[Major Locations/Elisus/Ohkyr Dominion/Cities/Halzarin.md\|Halzarin]]                                                               | 7800       | Small City |
-| [[Major Locations/Elisus/Ohkyr Dominion/Cities/Kesiyra.md\|Kesiyra]]                                                                 | 42000      | Metropolis |
-| [[Major Locations/Elisus/Ohkyr Dominion/Cities/Meztara.md\|Meztara]]                                                                 | 24000      | Large City |
-| [[Major Locations/Elisus/Ohkyr Dominion/Cities/Sarhuna.md\|Sarhuna]]                                                                 | 7800       | Small City |
-| [[Major Locations/Elisus/Ohkyr Dominion/Cities/Seyvarin.md\|Seyvarin]]                                                               | 10300      | Small City |
-| [[Major Locations/Elisus/Ohkyr Dominion/Cities/Uskedram.md\|Uskedram]]                                                               | 12400      | Large City |
-| [[Major Locations/Elisus/Ohkyr Dominion/Cities/Velmira, City of Watchful Waters.md\|Velmira, City of Watchful Waters]]               | 48000      | Metropolis |
+## Currency
 
-%% DATAVIEW_PUBLISHER: end %%
+# Religion
+The two main religions of [[Ohkyr Dominion Overview|Ohkyr]] are dedicated to [[Merstur - the Unbroken Tide|Merstur]] and [[Ogrun - the Scarlet Champion|Ogrun]]. Other faiths are not strictly outlawed, though they are extremely uncommon and frowned at among the general populace.
+
+The theological background of these two faiths make up the ruling body of [[Ohkyr Dominion Overview|Ohkyr]].
 # Military Power
 ![[LargeBattleship.jpg]]
 Ohkyr has one of the largest navies on the continent and dominates a large part of the surrounding ocean. They have trained clerics specialized on taming the ocean to their will. The people of Ohkyr are signed into the army at an early age, forcing them to complete a mandatory period of military service. The living conditions of army life are not great; though not terrible either.
 # Language
 Main language is called [[Thüma]]. Use Turkish references when naming things.
+# Timeline
+```dataview
+TABLE WITHOUT ID "[[" + file.name + "]]" + choice(contains(file.etags, "#city_founding"), " `far:Flag`", "") + choice(contains(file.etags, "#discovery"), " `far:Lightbulb`", "") + choice(contains(file.etags, "#nation_founding"), " `ris:Flag`", "") + choice(contains(file.etags, "#law"), " `ris:Book2`", "") AS "Event", description AS "Description" FROM #timeline_event WHERE contains(nation, "NATION") SORT date DESC
+```
