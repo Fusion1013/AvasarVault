@@ -3,6 +3,7 @@ tags:
   - organization
 nation: Ohkyr Dominion
 leaders:
+  - "[[Warmaster of Ogrun]]"
 members:
 formed: 214 APC
 meta-links:
@@ -15,9 +16,9 @@ meta-links:
 > | **Aliases** |  |
 > | - | - |
 > | **Base of Operations** | [[Chalayan, The city of a Thousand Rivers\|Chalayan]] |
-> | **Formed** | 0 APC |
+> | **Formed** | 214 APC |
 > ###### Membership
-> | **Leaders** | |
+> | **Leaders** | [[Warmaster of Ogrun]] |
 > | - | - |
 > | **Members** | 0 |
 > ###### Relationships
@@ -29,10 +30,11 @@ The Sanctified Host is the divine military of the [[Ohkyr Dominion Overview|Ohky
 # History
 The formation of the Sanctified Host is closely tied to the formation of the [[Ohkyr Dominion Overview|Dominion]]. One of the conditions for [[The Concord of Salt and Steel]] put forth by [[Warlord Kezrah Ironwake]] was that he would be put in charge of reforging the military of the new nation. He united the militaries of the city states under one banner, which he named [[The Sanctified Host]]. This process took around 2 years after the formation of the [[Ohkyr Dominion Overview|Dominion]] before the military was fully operational. While the organization has evolved significantly since its formation, its leadership structure has mostly stayed the same.
 
-The first major change to the organization came in 308 APC, shortly after [[The ]]
+The first major change to the organization came in 308 APC, shortly after [[The Synod Destabilization of 307 APC]]. This caused the [[The Grand Synod of Ohkyr|Synod]] to order the formation of an auxiliary order tied to the military with the power to perform investigations into the [[The Grand Synod of Ohkyr|Synod]] itself. This new order became known as [[The Choir]].
 # Members
 ## Leaders
 ### [[Warmaster of Ogrun]]
 Leader of [[The Sanctified Host]]. Commands their forces and enforces martial law. The person who holds this position is also one of the pillars of [[The Grand Synod of Ohkyr]].
 ## Other
 # Establishments
+[[The Sanctified Host]] has its main headquarters in [[Chalayan, The city of a Thousand Rivers|Chalayan]], but it has established bases in all major cities in [[Ohkyr Dominion Overview|Ohkyr]]. They also have a smaller branch that unofficially operates out of [[City-State of Drufali Overview|Drufali]].

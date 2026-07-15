@@ -18,7 +18,7 @@ meta-links:
 > | **Aliases** |  |
 > | - | - |
 > | **Base of Operations** | [[Chalayan, The city of a Thousand Rivers\|Chalayan]] |
-> | **Formed** | 0 APC |
+> | **Formed** | 212 APC |
 > ###### Membership
 > | **Leaders** | The Pillars |
 > | - | - |

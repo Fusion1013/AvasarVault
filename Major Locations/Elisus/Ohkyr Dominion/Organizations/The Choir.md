@@ -4,9 +4,9 @@ tags:
   - organization
 nation: Ohkyr Dominion
 leaders:
-  - The Cantor Admiral
+  - "[[The Cantor Admiral]]"
 members:
-formed: "? APC"
+formed: 308 APC
 meta-links:
   - "[[Ohkyr Dominion Overview|Ohkyr Dominion]]"
 ---
@@ -17,9 +17,9 @@ meta-links:
 > | **Aliases** |  |
 > | - | - |
 > | **Base of Operations** | [[Chalayan, The city of a Thousand Rivers\|Chalayan]] |
-> | **Formed** | 0 APC |
+> | **Formed** | 308 APC |
 > ###### Membership
-> | **Leaders** | The Cantor Admiral |
+> | **Leaders** | [[The Cantor Admiral]] |
 > | - | - |
 > | **Members** | 0 |
 > ###### Relationships
@@ -48,4 +48,4 @@ The leaders of [[The Choir]]. Its three members are chosen by [[The Grand Synod 
 ### The Psalmkeeper
 Records naval engagements as sacred scripture, inscribing battles into holy text. Every naval encounter is part of the divine narrative and must be remembered as such. The texts are brought back to the [[Chalayan, The city of a Thousand Rivers|Capital]] and transcribed into the [[Volumes of Ogrun]], and stored within the [[Holy Archive]].
 # Establishments
-
+It is thought that [[The Choir]] operate out of [[Chalayan, The city of a Thousand Rivers|Chalayan]], as they are tasked with performing inv
