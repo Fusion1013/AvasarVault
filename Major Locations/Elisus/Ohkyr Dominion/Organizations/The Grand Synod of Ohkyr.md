@@ -1,13 +1,41 @@
 ---
 aliases:
   - Synod
+tags:
+  - organization
+nation: Ohkyr Dominion
+leaders:
+  - The Pillars
+members: 13
+formed: "? APC"
+meta-links:
+  - "[[Ohkyr Dominion Overview|Ohkyr Dominion]]"
 ---
+> [!infobox|right]
+> # ORGANIZATION NAME
+> ![[placeholder.png]]
+> ###### Basic Information
+> | **Aliases** |  |
+> | - | - |
+> | **Base of Operations** |  |
+> | **Formed** | 0 APC |
+> ###### Membership
+> | **Leaders** | |
+> | - | - |
+> | **Members** | 0 |
+> ###### Relationships
+> | **Allegiances** | |
+> | - | - |
+> | **Rivals** | |
+
 *"Where the Salt and Iron of the Gods converge"*
 # Overview
 The ruling body of the [[Ohkyr Dominion Overview|Ohkyr Dominion]]. It is a republican body where power is divided among a council of high priests, military officials, and representatives from different trade guilds.
 
 The Synod is composed of thirteen seats, each representing one of the sacred pillars of [[Ohkyr Dominion Overview|Ohkyr]]. Their main seat of power is located in [[Chalayan, The city of a Thousand Rivers|Chalayan]], within [[Chalayan, The city of a Thousand Rivers#The Hall of Echoes|The Hall of Echoes]].
-# Pillars
+# History
+# Members
+The members of the Synod are known as the Pillars. There are 13 in total.
 ## The Pillars of Merstur
 These members are meant to represents the Dominion's spiritual connection to the sea. These seats are held through divine right. When one member passes, their successor is appointed through divine signs, rituals, and prayers.
 ### 1. Archpontiff of Merstur
@@ -38,3 +66,6 @@ Oversees taxation, food distribution, and general trade regulation.
 Archivist and historian.
 ## The Thirteenth Seat
 A sacred mystery. One of the highest guarded secret of the nation. This seat is always filled, yet the identity of its holder is unknown to the public. It is said they only speak when the gods demand it. Some say they are an oracle, others say they are a former general.
+## Leaders
+## Other
+# Establishments
