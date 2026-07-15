@@ -4,6 +4,7 @@ tags:
   - ohkyr_dominion
   - ohkyr_synod
   - person
+  - alive
 honorary:
   - Archpontiff of Merstur
   - The Tideborn

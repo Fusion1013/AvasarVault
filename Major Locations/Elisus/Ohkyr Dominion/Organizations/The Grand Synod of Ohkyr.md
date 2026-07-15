@@ -7,7 +7,7 @@ nation: Ohkyr Dominion
 leaders:
   - The Pillars
 members: 13
-formed: "? APC"
+formed: 212 APC
 meta-links:
   - "[[Ohkyr Dominion Overview|Ohkyr Dominion]]"
 ---

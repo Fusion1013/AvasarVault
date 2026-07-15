@@ -4,6 +4,7 @@ tags:
   - ohkyr_dominion
   - ohkyr_synod
   - person
+  - alive
 honorary:
   - The Gilded Wave
   - High Admiral of the Azure Sanctum

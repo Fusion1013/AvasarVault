@@ -4,6 +4,7 @@ tags:
   - ohkyr_dominion
   - ohkyr_synod
   - person
+  - alive
 honorary:
   - Mistress of the Hidden Rivers
   - Tidewarden of the Depths

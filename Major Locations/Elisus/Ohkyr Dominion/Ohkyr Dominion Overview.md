@@ -55,7 +55,10 @@ SORT population DESC
 ```
 # People
 ```dataview
-TABLE description AS "Description", race AS "Race", (age + " years") AS "Age" FROM #major_person AND #alive
+TABLE 
+race AS "Race", 
+(age + " years") AS "Age" 
+FROM #person AND #alive
 WHERE nation = "Ohkyr Dominion"
 ```
 # Organizations
@@ -72,7 +75,7 @@ WHERE nation = "Ohkyr Dominion"
 ## Currency
 
 # Religion
-The two main religions of [[Ohkyr Dominion Overview|Ohkyr]] are dedicated to [[Merstur - the Unbroken Tide|Merstur]] and [[Ogrun - the Scarlet Champion|Ogrun]]. Other faiths are not strictly outlawed, though they are extremely uncommon and frowned at among the general populace.
+The two main religions of [[Ohkyr Dominion Overview|Ohkyr]] are dedicated to [[Merstur - the Unbroken Tide|Merstur]] and [[Ogrun - the Scarlet Champion|Ogrun]]. Other faiths are not strictly outlawed, though they are extremely uncommon and frowned upon among the general populace.
 
 The theological background of these two faiths make up the ruling body of [[Ohkyr Dominion Overview|Ohkyr]].
 # Military Power

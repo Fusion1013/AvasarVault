@@ -4,6 +4,7 @@ tags:
   - ohkyr_dominion
   - ohkyr_synod
   - person
+  - alive
 honorary:
   - Warmaster of Ogrun
   - Breaker of Storms
