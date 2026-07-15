@@ -51,7 +51,7 @@ population AS "Population",
 choice(population <= 80, "Thorp", choice(population <= 400, "Hamlet", choice(population <= 900, "Village", choice(population <= 2000, "Small Town", choice(population <= 5000, "Large Town", choice(population <= 12000, "Small City", choice(population <= 25000, "Large City", choice(population > 25000, "Metropolis", "Unknown")))))))) AS "Size"
 FROM #city
 WHERE nation = "Ohkyr"
-SORT file.name ASC
+SORT population DESC
 ```
 # People
 ```dataview

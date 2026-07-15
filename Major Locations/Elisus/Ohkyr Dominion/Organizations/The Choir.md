@@ -8,6 +8,7 @@ leaders:
 members:
 formed: "? APC"
 meta-links:
+  - "[[Ohkyr Dominion Overview|Ohkyr Dominion]]"
 ---
 > [!infobox|right]
 > # The Choir
@@ -15,10 +16,10 @@ meta-links:
 > ###### Basic Information
 > | **Aliases** |  |
 > | - | - |
-> | **Base of Operations** |  |
+> | **Base of Operations** | [[Chalayan, The city of a Thousand Rivers\|Chalayan]] |
 > | **Formed** | 0 APC |
 > ###### Membership
-> | **Leaders** | |
+> | **Leaders** | The Cantor Admiral |
 > | - | - |
 > | **Members** | 0 |
 > ###### Relationships

@@ -12,17 +12,17 @@ meta-links:
   - "[[Ohkyr Dominion Overview|Ohkyr Dominion]]"
 ---
 > [!infobox|right]
-> # ORGANIZATION NAME
+> # The Grand Synod of Ohkyr
 > ![[placeholder.png]]
 > ###### Basic Information
 > | **Aliases** |  |
 > | - | - |
-> | **Base of Operations** |  |
+> | **Base of Operations** | [[Chalayan, The city of a Thousand Rivers\|Chalayan]] |
 > | **Formed** | 0 APC |
 > ###### Membership
-> | **Leaders** | |
+> | **Leaders** | The Pillars |
 > | - | - |
-> | **Members** | 0 |
+> | **Members** | 13 |
 > ###### Relationships
 > | **Allegiances** | |
 > | - | - |

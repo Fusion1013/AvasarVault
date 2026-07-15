@@ -8,14 +8,13 @@ formed: "? APC"
 meta-links:
   - "[[Ohkyr Dominion Overview|Ohkyr Dominion]]"
 ---
-
 > [!infobox|right]
 > # The Sanctified Host
 > ![[placeholder.png]]
 > ###### Basic Information
 > | **Aliases** |  |
 > | - | - |
-> | **Base of Operations** |  |
+> | **Base of Operations** | [[Chalayan, The city of a Thousand Rivers\|Chalayan]] |
 > | **Formed** | 0 APC |
 > ###### Membership
 > | **Leaders** | |

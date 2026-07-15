@@ -18,7 +18,7 @@ aliases:
 > | **Demonym** | ? |
 > | - | - |
 > | **Races** |  |
-> | **Religions** | [[Merstur - the Unbroken Tide]], [[Ogrun - the Scarlet Champion]] |
+> | **Religions** | [[Merstur - the Unbroken Tide\|Merstur]], [[Ogrun - the Scarlet Champion\|Ogrun]] |
 > ###### Commerce
 > | **Imports** |  |
 > | - | - |
