@@ -1,12 +1,12 @@
 ---
 tags:
-  - city/major
   - city
-nation: Ohkyr
+nation: Ohkyr Dominion
 population: 48000
 aliases:
   - Velmira
 meta-links:
+  - "[[Ohkyr Dominion Overview|Ohkyr Dominion]]"
 ---
 > [!infobox|right]
 > # Velmira, City of Watchful Waters

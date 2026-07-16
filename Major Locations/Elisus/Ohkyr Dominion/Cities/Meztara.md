@@ -1,22 +1,25 @@
 ---
 tags:
-  - city/major
-nation: Ohkyr
+  - city
+nation: Ohkyr Dominion
 population: 24000
+meta-links:
+  - "[[Ohkyr Dominion Overview|Ohkyr Dominion]]"
 ---
 > [!infobox|right]
 > # Meztara
-> ![[IMAGE HERE]]
+> ![[placeholder.png]]
 > ###### Geography
-> | **Aliases** |  |
+> | **Aliases** | ? |
 > | - | - |
-> | **Region** | [[Ohkyr Dominion Overview\|Ohkyr Dominion]] |
+> | **Region** | ? |
 > | **Size** | Metropolis |
+> | **Terrain** | ? |
 > ###### Society
 > | **Demonym** | ? |
 > | - | - |
 > | **Races** | 48% Humans, 18% Dwarves, 12% Elves, 9% Gnomes |
-> | **Religions** |  |
+> | **Religions** | ? |
 > ###### Commerce
 > | **Imports** | Raw Metal, Lumber, Spice, Fabric |
 > | - | - |
@@ -24,11 +27,32 @@ population: 24000
 > ###### Politics
 > | **Type** | ? |
 > | - | - |
-> | **Ruler** | ? |
-> | **Legislative** | ? |
 > | **Allegiances** | ? |
 > ###### History
-> | **Population** | 24000 |
+> | **Population** | 24.000 in 1376 APC |
 > | - | - |
+
+*"QUOTE"*
 # Overview
-A city located south-east of [[Chalayan, The city of a Thousand Rivers|Chalayan]], along the Highroad towards [[Deyruk]].
+# History
+# Culture
+# Geography
+## Landmarks
+# Locations
+# Organizations
+```dataview
+TABLE 
+leaders AS "Leaders",
+members AS "Members",
+formed AS "Formed"
+FROM #organization
+WHERE base_of_operations = "CITY NAME"
+SORT formed DESC
+```
+# People
+```dataview
+TABLE 
+age AS "Age"
+FROM #person
+WHERE home = "CITY NAME"
+```

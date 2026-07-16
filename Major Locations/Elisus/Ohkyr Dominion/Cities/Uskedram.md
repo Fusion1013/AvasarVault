@@ -1,34 +1,59 @@
 ---
 tags:
-  - city/major
-nation: Ohkyr
+  - city
+nation: Ohkyr Dominion
 population: 12400
+meta-links:
+  - "[[Ohkyr Dominion Overview|Ohkyr Dominion]]"
 ---
 > [!infobox|right]
 > # Uskedram
-> ![[IMAGE HERE]]
+> ![[placeholder.png]]
 > ###### Geography
-> | **Aliases** |  |
+> | **Aliases** | ? |
 > | - | - |
 > | **Region** | [[Ohkyr Dominion Overview\|Ohkyr Dominion]] |
 > | **Size** | Large City |
+> | **Terrain** | ? |
 > ###### Society
 > | **Demonym** | ? |
 > | - | - |
 > | **Races** | 48% Humans, 17% Half-Orcs, 10% Dwarves |
-> | **Religions** |  |
+> | **Religions** | ? |
 > ###### Commerce
-> | **Imports** |  |
+> | **Imports** | ? |
 > | - | - |
-> | **Exports** |  |
+> | **Exports** | ? |
 > ###### Politics
 > | **Type** | ? |
 > | - | - |
-> | **Ruler** | ? |
-> | **Legislative** | ? |
 > | **Allegiances** | ? |
 > ###### History
-> | **Population** | 12400 |
+> | **Population** | 12.400 in 1376 APC |
 > | - | - |
+
+*"QUOTE"*
 # Overview
 A city located in the island cluster known as the [[Uzmedir Isles]].
+# History
+# Culture
+# Geography
+## Landmarks
+# Locations
+# Organizations
+```dataview
+TABLE 
+leaders AS "Leaders",
+members AS "Members",
+formed AS "Formed"
+FROM #organization
+WHERE base_of_operations = "CITY NAME"
+SORT formed DESC
+```
+# People
+```dataview
+TABLE 
+age AS "Age"
+FROM #person
+WHERE home = "CITY NAME"
+```
