@@ -12,7 +12,7 @@ aliases:
 > ###### Geography
 > | **Aliases** | City of Watchful Waters |
 > | - | - |
-> | **Region** | [[Ohkyr Dominion]] |
+> | **Region** | [[Ohkyr Dominion Overview\|Ohkyr Dominion]] |
 > | **Size** | Metropolis |
 > ###### Society
 > | **Demonym** | ? |
