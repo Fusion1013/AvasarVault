@@ -70,3 +70,9 @@ WHERE base_of_operations = "CITY NAME"
 SORT formed DESC
 ```
 # People
+```dataview
+TABLE 
+age AS "Age"
+FROM #person
+WHERE home = "Velmira"
+```
