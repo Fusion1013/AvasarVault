@@ -1,9 +1,51 @@
 ---
 tags:
-  - city/major
-nation: Ohkyr
+  - city
+nation: Ohkyr Dominion
 population: 7800
+meta-links:
+  - "[[Ohkyr Dominion Overview|Ohkyr Dominion]]"
 ---
+> [!infobox|right]
+> # CITY NAME
+> ![[placeholder.png]]
+> ###### Geography
+> | **Aliases** | ? |
+> | - | - |
+> | **Region** | ? |
+> | **Size** | Small City |
+> | **Terrain** | ? |
+> ###### Society
+> | **Demonym** | ? |
+> | - | - |
+> | **Races** | ? |
+> | **Religions** | ? |
+> ###### Commerce
+> | **Imports** | ? |
+> | - | - |
+> | **Exports** | ? |
+> ###### Politics
+> | **Type** | ? |
+> | - | - |
+> | **Allegiances** | ? |
+> ###### History
+> | **Population** | ? in ? APC |
+> | - | - |
+
+*"QUOTE"*
+# Overview
+# History
+# Culture
+# Geography
+## Landmarks
+# Locations
+# Organizations
+# People
+
+
+
+
+
 > [!infobox|right]
 > # Halzarin
 > ![[IMAGE HERE]]
