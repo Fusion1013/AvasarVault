@@ -3,6 +3,7 @@ tags:
   - organization
 nation: Ohkyr Dominion
 leaders:
+  - "[[Thiera Dor]]"
 members:
 formed: "? APC"
 meta-links:
