@@ -30,7 +30,7 @@ editors: Fusion
 > | **Ruler** | [[The Grand Synod of Ohkyr]] |
 > | **Allegiances** |  |
 
-*"QUOTE"*
+*"A nation of salt and steel, waging a war across the unforgiving waves in the name of their gods. But after all these years, one can't help but ask themselves - are the gods truly listening? - Eofen Trifo, Researcher of the First Generation"*
 # Overview
 Ohkyr is a coastal nation occupying the northern coasts of [[Elisus Overview|Elisus]], bordering the [[City-State of Drufali Overview|City-State of Drufali]], the [[Saxum Sovereignty Overview|Saxum Sovereignty]] as well as [[Storms Reach Overview|Storms Reach]]. Its capital is [[Chalayan, The city of a Thousand Rivers]]. The nation is a Polytheocratic Republic, with a majority of the population dedicated to [[Merstur - the Unbroken Tide]], or [[Ogrun - the Scarlet Champion]]. Ohkyr is a nation known for its powerful militia and navy, known as [[The Sanctified Host]].
 # History
