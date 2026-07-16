@@ -1,8 +1,7 @@
 ---
 tags:
   - city/major
-nation: Ohkyr
-description: The capital of Ohkyr
+nation: Ohkyr Dominion
 aliases:
   - Chalayan
 population: 130000

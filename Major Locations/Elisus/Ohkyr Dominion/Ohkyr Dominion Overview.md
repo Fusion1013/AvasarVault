@@ -30,7 +30,8 @@ editors: Fusion
 > | **Ruler** | [[The Grand Synod of Ohkyr]] |
 > | **Allegiances** |  |
 
-*"A nation of salt and steel, waging a war across the unforgiving waves in the name of their gods. But after all these years, one can't help but ask themselves - are their gods truly listening? - Eofen Trifo, Researcher of the First Generation"*
+*"A nation of salt and steel, waging a war across the unforgiving waves in the name of their gods. But after all these years, one can't help but ask themselves - are their gods truly listening?"
+-**Eofen Trifo**, Researcher of the First Generation*
 # Overview
 Ohkyr is a coastal nation occupying the northern coasts of [[Elisus Overview|Elisus]], bordering the [[City-State of Drufali Overview|City-State of Drufali]], the [[Saxum Sovereignty Overview|Saxum Sovereignty]] as well as [[Storms Reach Overview|Storms Reach]]. Its capital is [[Chalayan, The city of a Thousand Rivers]]. The nation is a Polytheocratic Republic, with a majority of the population dedicated to [[Merstur - the Unbroken Tide]], or [[Ogrun - the Scarlet Champion]]. Ohkyr is a nation known for its powerful militia and navy, known as [[The Sanctified Host]].
 # History
@@ -50,7 +51,7 @@ TABLE
 population AS "Population",
 choice(population <= 80, "Thorp", choice(population <= 400, "Hamlet", choice(population <= 900, "Village", choice(population <= 2000, "Small Town", choice(population <= 5000, "Large Town", choice(population <= 12000, "Small City", choice(population <= 25000, "Large City", choice(population > 25000, "Metropolis", "Unknown")))))))) AS "Size"
 FROM #city
-WHERE nation = "Ohkyr"
+WHERE nation = "Ohkyr Dominion"
 SORT population DESC
 ```
 # People
@@ -73,7 +74,7 @@ WHERE nation = "Ohkyr Dominion"
 # Economy
 
 ## Currency
-
+The Dominion only has two different types of coins, one for [[Ogrun - the Scarlet Champion|Ogrun]] and one for [[Merstur - the Unbroken Tide|Merstur]].
 # Religion
 The two main religions of [[Ohkyr Dominion Overview|Ohkyr]] are dedicated to [[Merstur - the Unbroken Tide|Merstur]] and [[Ogrun - the Scarlet Champion|Ogrun]]. Other faiths are not strictly outlawed, though they are extremely uncommon and frowned upon among the general populace.
 
