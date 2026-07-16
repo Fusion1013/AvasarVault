@@ -34,15 +34,20 @@ meta-links:
 
 *"QUOTE"*
 # Overview
-A small city located on the main Highroad from [[Velmira, City of Watchful Waters|Velmira]] to [[Chalayan, The city of a Thousand Rivers|Chalayan]]. [[Halzarin]] is the sole producer of the enchanted tiles that make up the Highroad that spans the width of the country.
+A small city located on the main Highroad from [[Velmira, City of Watchful Waters|Velmira]] to [[Chalayan, The city of a Thousand Rivers|Chalayan]]. [[Halzarin]] has been almost completely taken over by the [[Sigilwright Conclave]], who are the sole producers of the enchanted tiles that make up the Highroad that spans the width of the country.
 # History
 # Culture
 # Geography
 ## Landmarks
 # Locations
 # Organizations
-## Tile Production
-The tiles that make up the Highroads contain a type of volcanic stone that can only be found in the [[Akhalun Isles]]. The stone is crushed into a fine powder and mixed with red clay dust, which is then pressed into moulds. After the tiles have dried, they are brought into large kilns and heated to high temperatures. Charcoal is used to heat the kilns and forges in the city. The charcoal is primarily sourced from the forest just north of [[Halzarin]].
-
-After the base tiles have been made the process of enchanting them can begin. The actual process of enchanting the tiles is a highly guarded secret, only known by the [[Sigilwright Conclave]].
+```dataview
+TABLE 
+leaders AS "Leaders",
+members AS "Members",
+formed AS "Formed"
+FROM #organization
+WHERE base_of_operations = "Halzarin"
+SORT formed DESC
+```
 # People
