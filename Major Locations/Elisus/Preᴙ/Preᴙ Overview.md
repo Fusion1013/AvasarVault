@@ -47,42 +47,21 @@ Since then there has been a tentative peace with the [[So'Dar Empire Overview|So
 
 The nation is now only known as Preᴙ and is run by an oligarchy of nobles, all belonging to a handful of [[Preᴙ Overview#Noble Houses|Noble Houses]]. The past few hundred years since the [[So'Dar Empire Overview|So'Dar]] invasion have been plagued by civil wars and internal conflicts, as the different factions struggle and clash with each other in an attempt to gain more power. However, [[House Dorofei]] has managed to stay in power through a series of strategic alliances, acquisitions, and political assassinations.
 # Major Cities
-%% DATAVIEW_PUBLISHER: start
 ```dataview
 TABLE population AS "Population"
 FROM #city
 WHERE nation = "Preia"
 SORT population DESC
 ```
-%%
-
-| File                                                         | Population |
-| ------------------------------------------------------------ | ---------- |
-| [[Major Locations/Elisus/Preᴙ/Cities/Wrᴎgord.md\|Wrᴎgord]]   | 48100      |
-| [[Major Locations/Elisus/Preᴙ/Cities/Ozᴎrgrod.md\|Ozᴎrgrod]] | 19600      |
-| [[Major Locations/Elisus/Preᴙ/Cities/Zalessk.md\|Zalessk]]   | \-         |
-| [[Major Locations/Elisus/Preᴙ/Cities/Sukhodol.md\|Sukhodol]] | \-         |
-
-%% DATAVIEW_PUBLISHER: end %%
 # Factions
 Various factions have their roots in Preᴙ.
 ## Noble Houses
 Preᴙ is home to a lot of powerful Noble Houses. Together they hold power over Preᴙ, with members placed within the various branches of government and other positions of power. The current ruling house is [[House Dorofei]].
-%% DATAVIEW_PUBLISHER: start
 ```dataview
 LIST
 FROM #noblehouse
 WHERE nation = "Preia"
 ```
-%%
-
-- [[Major Locations/Elisus/Preᴙ/Organizations/House Vikentiv.md|House Vikentiv]]
-- [[Major Locations/Elisus/Preᴙ/Organizations/House Terenti.md|House Terenti]]
-- [[Major Locations/Elisus/Preᴙ/Organizations/House Oxana.md|House Oxana]]
-- [[Major Locations/Elisus/Preᴙ/Organizations/House Gerasim.md|House Gerasim]]
-- [[Major Locations/Elisus/Preᴙ/Organizations/House Dorofei.md|House Dorofei]]
-
-%% DATAVIEW_PUBLISHER: end %%
 # Religion
 The religious practices varies from city to city in [[Preᴙ Overview|Preᴙ]]. The officially recognized religions according to the ruling body in the capital are [[Vuzen - the Law Baron]], [[Isoroa - the Shadowed Mask]], [[Saheir - the Enchantress]], and [[Veda - the Elder Scribe]]. This is only heavily enforced in the capital however, and other regions have their own rules and regulations regarding religion.
 # Currency

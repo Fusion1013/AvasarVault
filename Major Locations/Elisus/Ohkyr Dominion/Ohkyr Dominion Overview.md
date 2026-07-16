@@ -75,6 +75,11 @@ WHERE nation = "Ohkyr Dominion"
 
 ## Currency
 The Dominion only has two different types of coins, one for [[Ogrun - the Scarlet Champion|Ogrun]] and one for [[Merstur - the Unbroken Tide|Merstur]].
+
+| Coin Type | Name | Pronunciation | Appearance                                                                              |
+| --------- | ---- | ------------- | --------------------------------------------------------------------------------------- |
+| Ogrun     |      |               | Large and square, round hole in the middle. Has sword-and-shield motifs along the edges |
+| Merstur   |      |               | Small and round, square hole in the middle. Has wave motifs along the edges             |
 # Religion
 The two main religions of [[Ohkyr Dominion Overview|Ohkyr]] are dedicated to [[Merstur - the Unbroken Tide|Merstur]] and [[Ogrun - the Scarlet Champion|Ogrun]]. Other faiths are not strictly outlawed, though they are extremely uncommon and frowned upon among the general populace.
 
