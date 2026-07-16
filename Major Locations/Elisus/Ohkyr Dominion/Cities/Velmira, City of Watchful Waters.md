@@ -1,10 +1,12 @@
 ---
 tags:
   - city/major
+  - city
 nation: Ohkyr
 population: 48000
 aliases:
   - Velmira
+meta-links:
 ---
 > [!infobox|right]
 > # Velmira, City of Watchful Waters
@@ -14,24 +16,25 @@ aliases:
 > | - | - |
 > | **Region** | [[Ohkyr Dominion Overview\|Ohkyr Dominion]] |
 > | **Size** | Metropolis |
+> | **Terrain** | Coastal |
 > ###### Society
 > | **Demonym** | ? |
 > | - | - |
-> | **Races** |  |
+> | **Races** | ? |
 > | **Religions** | [[Merstur - the Unbroken Tide\|Merstur]], [[Ogrun - the Scarlet Champion\|Ogrun]] |
 > ###### Commerce
-> | **Imports** |  |
+> | **Imports** | ? |
 > | - | - |
 > | **Exports** | Rare Dyes & Pigments, Scholarly Manuscripts |
 > ###### Politics
 > | **Type** | ? |
 > | - | - |
-> | **Ruler** | ? |
-> | **Legislative** | ? |
 > | **Allegiances** | ? |
 > ###### History
-> | **Population** | 48.000 |
+> | **Population** | 48.000 in 1360 APC |
 > | - | - |
+
+*"QUOTE"*
 # Overview
 Velmira is located where the wide river known as the [[Silver Vein]] spreads into a broad, slow-moving estuary. The city is built upon the small islands that dot the area, connecting them ornate bridges of white stone. The river is considered sacred, and many shrines dot its banks. Velmira is home to the [[Ohkyr Dominion Overview|Dominion]]'s most prestigious academies. The city has an air of mystery to it, the quiet twin to [[Chalayan, The city of a Thousand Rivers|Chalayan]]'s bustling energy.
 # History
@@ -45,13 +48,25 @@ During the attack, pirate ships swarmed the estuary, quickly taking control of t
 Eventually the [[The Tidecallers|Tidecallers]] of the city were able to repel the attack, but the city suffered heavy losses. Many of the temples saw heavy damage on the interiors, and many holy relics were broken or stolen. [[The Grand Synod of Ohkyr|Synod]] forces were able to use the city's submerged chain system to isolate pirates in the canals, taking them down one small group at a time.
 
 In response to this attack, the [[The Grand Synod of Ohkyr|Grand Synod]] tightened religious oversight further. They established direct control over the temples in the city, appointing loyal priests to watch over them.
+# Culture
+## Local Traditions
+There are many traditions and rites relating to the history the city has with the river and the spirits that dwell there.
+### Festival of Remembrance
+This day is dedicated to remembering the many lives that were lost during the attack in [[1121 APC]]. During this day, thousands of colorful paper boats are constructed and floated down the river. The festival takes place during the first week of [[Verra]].
 # Geography
 Estuarine marshes and winding waterways dominate the landscape, splitting it into many smaller islands. Many of the buildings have been constructed on pylons.
-# Landmarks
+## Landmarks
+# Locations
 ## Temple of Shifting Waters
 An old temple dedicated to [[Merstur - the Unbroken Tide|Merstur]] built close to where the river joins with the ocean. During high tide the temple partially floods, making accessible only during high tide.
 # Organizations
-# Local Traditions
-There are many traditions and rites relating to the history the city has with the river and the spirits that dwell there.
-## Festival of Remembrance
-This day is dedicated to remembering the many lives that were lost during the attack in [[1121 APC]]. During this day, thousands of colorful paper boats are constructed and floated down the river. The festival takes place during the first week of [[Verra]].
+```dataview
+TABLE 
+leaders AS "Leaders",
+members AS "Members",
+formed AS "Formed"
+FROM #organization
+WHERE base_of_operations = "CITY NAME"
+SORT formed DESC
+```
+# People
