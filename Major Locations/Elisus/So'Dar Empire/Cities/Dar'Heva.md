@@ -32,7 +32,7 @@ meta-links:
 
 *"QUOTE"*
 # Overview
-Dar'Heva or true home in [[Soldovin]] is the capital city of [[So'Dar Empire Overview\| So'Dar]]. It is the newest city in the nation being the only city built by the nation after the Civil War 
+Dar'Heva or true home in [[Soldovin]] is the capital city of [[So'Dar Empire Overview\| So'Dar]]. It is the newest city in the nation being the only city built by the nation after the 
 # History
 # Culture
 # Geography
