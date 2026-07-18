@@ -8,15 +8,15 @@ meta-links:
 > # Dar'Heva
 > ![[placeholder.png]]
 > ###### Geography
-> | **Aliases** | The City of Frozen Tears, The Home of the Lost|
+> | **Aliases** | The City of Frozen Tears, The Home of the Lost |
 > | - | - |
 > | **Region** | [[So'dar Empire Overview\|So'Dar]] |
 > | **Size** | Metropolis |
-> | **Terrain** | Costal Flatlands |
+> | **Terrain** | Costal Plains |
 > ###### Society
 > | **Demonym** | ? |
 > | - | - |
-> | **Races** | ? |
+> | **Races** | Elf, Human, Orc |
 > | **Religions** | ? |
 > ###### Commerce
 > | **Imports** | ? |
@@ -32,7 +32,7 @@ meta-links:
 
 *"QUOTE"*
 # Overview
-
+Dar'Heva or true home in [[Soldovin]] 
 # History
 # Culture
 # Geography
