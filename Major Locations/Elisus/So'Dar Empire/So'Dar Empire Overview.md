@@ -14,8 +14,8 @@ meta-links:
 > ###### Geography
 > | **Aliases** |  |
 > | - | - |
-> | **Region** | [[Elisus Overview]] |
-> | **Capital** | [[Capital City of Iglice]] |
+> | **Region** | [[Elisus Overview\|Elisus]] |
+> | **Capital** | [[Dar'Heva]] |
 > ###### Society
 > | **Demonym** |  |
 > | - | - |
@@ -124,7 +124,7 @@ Group of powerful mages who live and work within the Ice Tower of Iglice. They a
 ### Ironheart Guild
 The Ironheart Guild is a group of expert smiths that specialize in crafting weapons and armor from Mithril and Cold Iron. They are highly respected throughout the So'Dar Empire for their skill and craftsmanship, and their products are highly sought after by warriors and adventurers alike.
 
-The guild operates out of a large workshop in the capital city of [[Capital City of Iglice|Iglice]], where they have access to the finest materials and tools. They are known to take on apprentices and train them in the art of smithing, passing down their knowledge and techniques to the next generation.
+The guild operates out of a large workshop in the capital city of [[Capital City of Iglice - old|Iglice]], where they have access to the finest materials and tools. They are known to take on apprentices and train them in the art of smithing, passing down their knowledge and techniques to the next generation.
 
 The members of the Ironheart Guild are known for their dedication to their craft, and they take great pride in the quality of their work. They are fiercely protective of their trade secrets and will go to great lengths to prevent their techniques from falling into the wrong hands.
 
