@@ -6,7 +6,7 @@ meta-links:
 ---
 > [!infobox|right]
 > # Dar'Heva
-> ![[placeholder.png]]
+> ![[Dar'Heva.jpg]]
 > ###### Geography
 > | **Aliases** | The City of Frozen Tears, The Home of the Lost |
 > | - | - |
@@ -32,7 +32,7 @@ meta-links:
 
 *"Ice Time Baby"*
 # Overview
-Dar'Heva or true home in [[Soldovin]] is the capital city of [[So'Dar Empire Overview\| So'Dar]]. It is the newest city in the nation being the only city built by the Soldovian people after the great migration. This city is built with little in mind for beauty. Its wall stand unbroken and untested
+Dar'Heva or true home in [[Soldovin]] is the capital city of [[So'Dar Empire Overview\| So'Dar]]. It is the newest city in the nation being the only city built by the Soldovian people after the House Wars. This city is built with little in mind for beauty. Its wall stand unbroken and untested. Located in by the Glacier Bay.
 # History
 # Culture
 # Geography
