@@ -3,7 +3,7 @@ tags:
   - culture/humanoid
 ---
 # Overview
-**So'Darian** is a culture of (type:: [[Humans]]) originating from the (origin:: [[So'Dar Empire Overview|So'Dar Empire]]). People from there are often called **So'Darians**.
+**So'Darian** is a culture of (type:: [[Elves]]) originating from the (origin:: [[So'Dar Empire Overview|So'Dar Empire]]). People from there are often called **So'Darians**.
 # Origins
 # Appearance
 # Religion

@@ -39,12 +39,13 @@ The city that was built in 1340 APC after the House Wars that weakened So'Dar si
 ## House Kin'Dirth'Al
 After the civil war House Kin'Dirth'Al wanted to show that they were the new central power of the nation and started building Dar'Heva moving away from there past and the old capital [[Kou'Thar]] and making the new Capital at the center of their family estate by the Glacier Bay converting the town of Al'Heva to the city it is today.    
 # Culture 
-## 
+## So'Darian Nobles
+Following the destruction  
 # Geography
 ## Landmarks
 # Locations
 ## The Court of Swords
-A court yard with the swords of all those who have fallen in battle in service to the nation. It is a place were funerals happen for fallen warrior who has earned a 
+A court yard with the swords of all those who have fallen in battle in service to the nation. It is a place were funerals happen for fallen warrior who has earned a enough renown to have a sword placed and their body the eternal flame. 
 
 # Organizations
 ## Ela'Dovn
