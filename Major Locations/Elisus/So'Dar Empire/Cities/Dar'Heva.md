@@ -21,7 +21,7 @@ meta-links:
 > ###### Commerce
 > | **Imports** | Grain, Vegetables, Iron, and Coal| 
 > | - | - |
-> | **Exports** | ? |
+> | **Exports** | Weapons, Ice, and Pelts |
 > ###### Politics
 > | **Type** | ? |
 > | - | - |
@@ -40,7 +40,7 @@ The city that was built in 1340 APC after the House Wars that weakened So'Dar si
 After the civil war House Kin'Dirth'Al wanted to show that they were the new central power of the nation and started building Dar'Heva moving away from there past and the old capital [[Kou'Thar]] and making the new Capital at the center of their family estate by the Glacier Bay converting the town of Al'Heva to the city it is today.    
 # Culture 
 ## So'Darian Nobles
-Following the destruction  
+Following the destruction of the other noble houses after the civil war  
 # Geography
 ## Landmarks
 # Locations
