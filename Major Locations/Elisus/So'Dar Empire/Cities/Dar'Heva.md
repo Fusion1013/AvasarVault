@@ -44,8 +44,10 @@ After the civil war House Kin'Dirth'Al wanted to show that they were the new cen
 ## Landmarks
 # Locations
 ## The Court of Swords
+A court yard with the swords of all those who have fallen in battle 
 
 # Organizations
 ## Ela'Dovn
+A circle of druids that keep the lore of So'Darian people and their traditions they have a grove on the outskirts of the city and they collect stories and myths. 
 
 # People
