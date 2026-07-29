@@ -44,7 +44,7 @@ After the civil war House Kin'Dirth'Al wanted to show that they were the new cen
 ## Landmarks
 # Locations
 ## The Court of Swords
-A court yard with the swords of all those who have fallen in battle in service to the nation. It is a place were funerals happen  
+A court yard with the swords of all those who have fallen in battle in service to the nation. It is a place were funerals happen for fallen warrior who has earned a 
 
 # Organizations
 ## Ela'Dovn
