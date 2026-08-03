@@ -2,13 +2,14 @@
 The Children of Liberation is the state-sponsored religion of the [[Turochan Kingdom Overview|Turochan Kingdom]]. Unlike most religions within Avasar, the Children of Liberation are not tied to any deity. Practitioners reject the divine authority of deities and believe in the self-determination of an individual, both throughout their life and in death.
 # Tenants and Beliefs
 
+
 # Organizational Structure
 
-# Notable Members
+## Notable Members
 
-# Player Mechanics
+# Game Mechanics
 
-Below is some important information for players wishing to make a character following this religion
+Below is some important information for players wishing to make a character following this religion.
 
 ## Dungeons and Dragons 5 / 5.5 E
 
