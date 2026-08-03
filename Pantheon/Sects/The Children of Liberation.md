@@ -23,6 +23,6 @@ Recommended domains are those that fit the religion best, but any domain excludi
 *Divine Font:* Heal or Harm
 *Divine Sanctification:* can choose Holy or Unholy
 *Divine Skill:* Society
-Favored Weapon: ??
-*Domains:* Freedom, Introspection, Naga, Nothingness
+*Favored Weapon:* Spear or Longspear
+*Domains:* Freedom, Introspection, Confidence, Perfection, Ambition
 Cleric Spells: ??
