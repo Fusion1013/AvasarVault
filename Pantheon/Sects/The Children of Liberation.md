@@ -24,5 +24,6 @@ Recommended domains are those that fit the religion best, but any domain excludi
 *Divine Sanctification:* can choose Holy or Unholy
 *Divine Skill:* Society
 *Favored Weapon:* Spear or Longspear
-*Domains:* Freedom, Introspection, Confidence, Perfection, Ambition
-Cleric Spells: ??
+*Domains:* Freedom, Introspection, Perfection
+*Alternate Domains:* Confidence, Knowledge, Ambition
+*Cleric Spells:* 1st: Endure 5th: Rallying Banner 7th: Defy the Gods
