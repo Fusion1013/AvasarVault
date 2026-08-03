@@ -15,7 +15,7 @@ Below is some important information for players wishing to make a character foll
 *Recommended Domains:* Order, Knowledge, Grave
 *Incompatible Domains:* Arcana
 
-Recommended domains are those that fit the religion best, but any domain excluding incompatible ones can be used.
+Recommended domains are those that fit the religion best, but any domain excluding incompatible ones can be used in this instance.
 ## Pathfinder 2E
 
 *Divine Attribute:* Intelligence
