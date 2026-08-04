@@ -14,24 +14,31 @@ Soldovin uses SOV-order (Subject-Object-Verb). For example, TODO
 ## Morpheme Order
 - Nominalization Prefix
 - Noun Modifiers
-## Nominalization Prefix
+- Root Word
+- Noun Modifiers
+## Nominalization (Prefix)
 Prefix that changes a verb into a noun. Always goes at the start of a word.
-- **So** - The Object/Entity defined by (verb)
+- **So** - The (singular, definite) Object/Entity defined by (verb)
 - **??** - Object/Entity that does (verb)
 - **??** - Object/Entity (verb) is done to
 - **Ta** - Place where (verb) is done
 - **??** - Object/Entity used to do (verb)
-## Noun Modifiers
-Modify the noun. This is where a large part of the Soldovin language is, there are a lot of modifiers that modify the meaning of a noun.
+## Noun Modifiers (Prefix & Suffix)
+Modify the noun. This is where a large part of the Soldovin language is, there are a lot of modifiers that modify the meaning of a noun. Noun modifiers go either right before or right after the root word. If it is a prefix, it is separated from the root with an apostrophe. Suffixes are usually not separated.
+### Prefixes
 - **Ka** - False/Corrupted
-- **Va** - Great
-- **Li** - Small/Lesser
 - **Na** -  Without
-- **Re** - Again/Renewed
+- **L** - Augmentative. Great/Big
+- **I** - Diminutive. Small/Lesser
+### Suffixes
+- **In** - 
+- **Ian** - Refers to a 
 # Syntax
 # Lexicon
 ## Verbs
-- **Dar** - 
+- **Dar** - Performing truth. Important concept for the So'Darian people, the act of performing something in the true way. They believe that their goals and ideologies are the true way of doing things, they are *performing truth*.
+## Nouns
+- **Dov** - Language
 # Semantics
 # Pragmatics
 # History
