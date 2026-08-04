@@ -12,9 +12,26 @@ regions:
 Soldovin uses SOV-order (Subject-Object-Verb). For example, TODO
 # Morphology
 ## Morpheme Order
-
+- Nominalization Prefix
+- Noun Modifiers
+## Nominalization Prefix
+Prefix that changes a verb into a noun. Always goes at the start of a word.
+- **So** - The Object/Entity defined by (verb)
+- **??** - Object/Entity that does (verb)
+- **??** - Object/Entity (verb) is done to
+- **Ta** - Place where (verb) is done
+- **??** - Object/Entity used to do (verb)
+## Noun Modifiers
+Modify the noun. This is where a large part of the Soldovin language is, there are a lot of modifiers that modify the meaning of a noun.
+- **Ka** - False/Corrupted
+- **Va** - Great
+- **Li** - Small/Lesser
+- **Na** -  Without
+- **Re** - Again/Renewed
 # Syntax
 # Lexicon
+## Verbs
+- **Dar** - 
 # Semantics
 # Pragmatics
 # History
