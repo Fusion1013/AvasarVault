@@ -5,6 +5,30 @@ regions:
 - So'Dar
 ---
 # Overview
+# Phonology
+# Writing System
+# Grammar
+## Sentence Structure
+Soldovin uses SOV-order (Subject-Object-Verb). For example, TODO
+# Morphology
+## Morpheme Order
+
+# Syntax
+# Lexicon
+# Semantics
+# Pragmatics
+# History
+# Dialects
+# Sample Texts
+# References
+
+
+# OLD THINGS BELOW
+
+
+
+
+# Overview
 Soldovin is one of the [[Coaq]] languages. It is the national language of the [[So'Dar Empire Overview|So'Dar Empire]] and originates in the frozen southern forests of the continent. It is commonly spoken throughout the Empire, but is mostly concentrated to the south. It is not the only language spoken in the region, though it is the empire’s official language. It has its roots within the [[Unnamed Soldovin Root Language]], though it has been heavily influenced by [[Aquan Child Language]] to the point where it has more similarities to it than from its root language.
 # Phonology
 |           | Labial | Alveolar Central | Alveolar Lateral | Post-alveolar | Velar | Glottal |
