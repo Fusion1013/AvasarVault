@@ -27,7 +27,7 @@ Prefix that changes a verb into a noun. Always goes at the start of a word.
 Modify the noun. This is where a large part of the Soldovin language is, there are a lot of modifiers that modify the meaning of a noun. Noun modifiers go either right before or right after the root word. If it is a prefix, it is separated from the root with an apostrophe. Suffixes are usually not separated.
 ### Prefixes
 - **Ka** - False/Corrupted
-- **Na** -  Without
+- **Na** - Without
 - **L** - Augmentative. Great/Big
 - **I** - Diminutive. Small/Lesser
 ### Suffixes
@@ -35,7 +35,7 @@ Modify the noun. This is where a large part of the Soldovin language is, there a
 ## Pronouns
 Can be put at the end of a word.
 - **Ane** - Female.
-- **Eno** - Male.
+- **Ena** - Male.
 # Syntax
 # Lexicon
 ## Verbs
