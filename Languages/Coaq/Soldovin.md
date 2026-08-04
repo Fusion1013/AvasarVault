@@ -31,14 +31,18 @@ Modify the noun. This is where a large part of the Soldovin language is, there a
 - **L** - Augmentative. Great/Big
 - **I** - Diminutive. Small/Lesser
 ### Suffixes
-- **In** - 
-- **Ian** - Refers to a 
+- **Ian** - In reference to a large group of people.
+## Pronouns
+Can be put at the end of a word.
+- **Ane** - Female.
+- **Eno** - Male.
 # Syntax
 # Lexicon
 ## Verbs
 - **Dar** - Performing truth. Important concept for the So'Darian people, the act of performing something in the true way. They believe that their goals and ideologies are the true way of doing things, they are *performing truth*.
 ## Nouns
-- **Dov** - Language
+- **Dovin** - Language
+- **Heva** - Home, house.
 # Semantics
 # Pragmatics
 # History
