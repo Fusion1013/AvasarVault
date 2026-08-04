@@ -8,7 +8,7 @@ regions:
 # Phonology
 # Writing System
 # Grammar
-## Sentence Structure
+## Word Order
 Soldovin uses SOV-order (Subject-Object-Verb). For example, TODO
 # Morphology
 ## Morpheme Order
