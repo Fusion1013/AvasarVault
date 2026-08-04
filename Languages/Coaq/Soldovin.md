@@ -17,10 +17,12 @@ Soldovin uses SOV-order (Subject-Object-Verb). For example, TODO
 - Noun Modifiers
 - Root Word
 - Noun Modifiers
+- Pronouns
+- Gender
 ## Nominalization (Prefix)
 Prefix that changes a verb into a noun. Always goes at the start of a word.
 - **So** - The (singular, definite) Object/Entity defined by (verb)
-- **??** - Object/Entity that does (verb)
+- **Da** - Object/Entity that does (verb)
 - **??** - Object/Entity (verb) is done to
 - **Ta** - Place where (verb) is done
 - **??** - Object/Entity used to do (verb)
@@ -31,9 +33,20 @@ Modify the noun. This is where a large part of the Soldovin language is, there a
 - **Na** - Without
 - **L** - Augmentative. Great/Big
 - **I** - Diminutive. Small/Lesser
+- **Rila** - Of/Related to the Object/Entity
 ### Suffixes
 - **Ian** - In reference to a large group of people.
 ## Pronouns
+- **I/Me** - 
+- **You** - 
+- **He/She/They** - 
+- **They/Them/You** - 
+- **We/Us** - 
+- **It** - 
+- **Him/Her/They** - 
+- **Who** - 
+- **What** - 
+## Gender
 Can be put at the end of a word.
 - **Ane** - Female
 - **Ena** - Male
