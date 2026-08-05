@@ -1,0 +1,2 @@
+![[Pasted image 20260806003426.png]]
+Plant that spends most of its lifecycle hidden underground. During certain periods the stem extends into the air and grows glowing sacks filled with spores that burst to spread the plant.
