@@ -1,2 +1,4 @@
-![[Pasted image 20260806003426.png]]
-Plant that spends most of its lifecycle hidden underground. During certain periods the stem extends into the air and grows glowing sacks filled with spores that burst to spread the plant.
+![[Pasted image 20260806005838.png]]
+The Shystalk is a massive plant that hides most of its structure underground, in order to protect itself from the powerful storms that ravage the region where it mostly lives. The plant gets its nutrient from a system of thin roots that grow from the central structure of the plant.
+
+The plant spreads using spores, which are released during the early fall. During this time, the Shystalk will extend into the sky over a period of 36 hours, reaching hights of up to 20-30 meters. The extended plant will grow glowing blue bulbous sacks that burst when fully grown, releasing spores into the air.
