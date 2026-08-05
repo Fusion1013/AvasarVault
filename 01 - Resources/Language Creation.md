@@ -1,0 +1,6 @@
+[Vulgarlang - Glossary of Linguistic Terms](https://www.vulgarlang.com/glossary/)
+[Vulgarlang - Learning About Grammar](https://www.vulgarlang.com/learning-about-grammar/)
+[Vulgarlang - Fantasy Language Generator](https://www.vulgarlang.com/)
+[Morphological Typology of Human Languages](https://www.reddit.com/r/languagelearning/comments/13goqhs/knowing_whether_a_language_is_isolating/#lightbox)
+[The Big Scary Document](https://www.eva.mpg.de/lingua/tools-at-lingboard/questionnaire/linguaQ.php#syntax)
+[Language Creation Template 2.0](https://docs.google.com/document/d/1ntEtbRGDBVKGBy6sJK64wwGdYz8Q17_9Q-Tz7UUrcxI/edit?tab=t.0)
