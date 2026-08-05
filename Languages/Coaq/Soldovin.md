@@ -55,15 +55,12 @@ Soldovin has the three basic tenses: past, present and future.
 Gender is always at the end of a word, if present.
 - **Female** - Ane
 - **Male** - Ena
-# Syntax
 # Lexicon
 ## Verbs
 - **Dar** - Performing truth. Important concept for the So'Darian people, the act of performing something in the true way. They believe that their goals and ideologies are the true way of doing things, they are *performing truth*.
 ## Nouns
 - **Dovin** - Language
 - **Heva** - Home, house.
-# Semantics
-# Pragmatics
 # History
 # Dialects
 # Sample Texts
