@@ -46,10 +46,15 @@ Modify the noun. This is where a large part of the Soldovin language is, there a
 - **Him/Her/They** - 
 - **Who** - 
 - **What** - 
+## Tense
+Soldovin has the three basic tenses: past, present and future.
+- **Past** - 
+- **Present** - 
+- **Future** - 
 ## Gender
-Can be put at the end of a word.
-- **Ane** - Female
-- **Ena** - Male
+Gender is always at the end of a word, if present.
+- **Female** - Ane
+- **Male** - Ena
 # Syntax
 # Lexicon
 ## Verbs
