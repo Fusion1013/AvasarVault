@@ -23,9 +23,9 @@ Soldovin uses SOV-order (Subject-Object-Verb). For example, TODO
 Prefix that changes a verb into a noun. Always goes at the start of a word.
 - **So** - The (singular, definite) Object/Entity defined by (verb)
 - **Da** - Object/Entity that does (verb)
-- **??** - Object/Entity (verb) is done to
+- **Pa** - Object/Entity (verb) is done to
 - **Ta** - Place where (verb) is done
-- **??** - Object/Entity used to do (verb)
+- **Fa** - Object/Entity used to do (verb)
 ## Noun Modifiers (Prefix & Suffix)
 Modify the noun. This is where a large part of the Soldovin language is, there are a lot of modifiers that modify the meaning of a noun. Noun modifiers go either right before or right after the root word. If it is a prefix, it is separated from the root with an apostrophe. Suffixes are usually not separated.
 ### Prefixes
