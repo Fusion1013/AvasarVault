@@ -11,6 +11,8 @@ Soldovin is one of the [[Coaq]] languages. It is the national language of the [[
 # Grammar
 ## Word Order
 Soldovin uses SOV-order (Subject-Object-Verb). For example, TODO
+### Adjective, Determiner and Noun Order
+Determiner-Noun-Adjective
 # Morphology
 ## Morpheme Order
 - Nominalization Prefix
