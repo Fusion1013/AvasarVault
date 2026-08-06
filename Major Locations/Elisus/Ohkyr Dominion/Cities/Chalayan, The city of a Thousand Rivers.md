@@ -36,7 +36,7 @@ population: 130000
 *"From the heights of Chalayan, the world bows to the sea. Tread carefully, for even the winds here serve the gods."
 -**Sister Relian**, Pilgrim of the Azure Order*
 # Overview
-The city of Chalayan is situated on a large cliff overlooking the ocean. It is a bustling port city with grand temples dedicated to the gods of the pantheon. Intricate marble buildings climb the cliffs towards the ocean, colorful banners with patterns of the different gods fly in the wind. The capital is home to a number of marketplaces where sailors and merchants from around the world converge. The city gets the nickname "The City of a Thousand Rivers" from the numerous underground rivers located in and around the city region.
+The city of Chalayan is situated on a large cliff overlooking the ocean. It is a bustling port city with grand temples dedicated to the gods of the pantheon. Intricate marble buildings climb the cliffs towards the ocean, colourful banners with patterns of the different gods fly in the wind. The capital is home to a number of marketplaces where sailors and merchants from around the world converge. The city gets the nickname "The City of a Thousand Rivers" from the numerous underground rivers located in and around the city region.
 # History
 ## The Siege of the Hall (764 APC)
 This historic event was the first time [[The Grand Synod of Ohkyr]] was besieged internally. This was able to occur due to [[Chancellor Denek]]'s attempted power grab. Even today, a crimson stained pillar stands in the Hall's lower courtyard where many defenders fell.

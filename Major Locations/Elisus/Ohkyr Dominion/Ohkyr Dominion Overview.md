@@ -45,7 +45,10 @@ The [[1167APC - Taundor Cataclysm|Taundor Cataclysm in 1167APC]] rocked the nati
 
 When people from the nation begun exploring the new lands west of the mountains, they found a new people inhabiting the region. They found the [[Saxum Sovereignty Overview|Saxum Sovereignty]]. As [[Ohkyr Dominion Overview|Ohkyr]] was still dealing with the consequences from the cataclysm, they made the decision to forge an alliance. It took them until [[1276 APC - Invasion of Saxum|1276APC]] to attempt to claim the new land, when the [[Ohkyr Dominion Overview|Ohkyr Dominion]] attempted an invasion of [[Saxum Sovereignty Overview|Saxum]] using their superior fleet. They managed to take [[Havdal, City of Pearls]], but was pushed back after they laid siege to [[Gulstad, City of Gold|Gulstad]]. The invasion ended in a failure, and [[Saxum Sovereignty Overview|Saxum]] pushed back to the original borders. In the years to follow, [[Saxum Sovereignty Overview|Saxum]] conducted raids into [[Ohkyr Dominion Overview|Ohkyr]], in an attempt to deter the nation to attempt further attacks. In the year [[1279APC]] a treaty was signed between [[Ohkyr Dominion Overview|Ohkyr]] and [[Saxum Sovereignty Overview|Saxum]]. This treaty was heavily in favour of [[Saxum Sovereignty Overview|Saxum]], preventing any further attacks and forcing [[Ohkyr Dominion Overview|Ohkyr]] to help with restorations.
 # Culture
+## Names
+Names are important in Ohkyrian culture. Cities are often named after significant individuals, and parents names are often inherited by their children.
 # Cities
+Most large cities in [[Ohkyr Dominion Overview|Ohkyr]] are named after people significant to the foundation of that city. [[Chalayan, The city of a Thousand Rivers|Chalayan]] and [[Velmira, City of Watchful Waters|Velmira]] are both examples of this. Smaller cities and towns on the contrary are often named in a more practical way, after the geography or some other significant attribute of the area where the city or town is located. [[Telhira]] for example, roughly translates to Haven by the Waves, because of its close relationship to the ocean by the town.
 ```dataview
 TABLE 
 population AS "Population",
