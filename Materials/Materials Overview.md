@@ -6,10 +6,10 @@ FROM #material_overview
 ```
 %%
 
-- [[Materials/Crystals/Crystals Overview.md|Crystals Overview]]
-- [[Materials/Gases/Gases Overview.md|Gases Overview]]
-- [[Materials/Plants/Plants Overview.md|Plants Overview]]
+- [[Crystals Overview|Crystals Overview]]
+- [[Gases Overview|Gases Overview]]
+- [[Plants Overview|Plants Overview]]
 - [[Materials/Properties/Properties Overview.md|Properties Overview]]
-- [[Materials/Metals/Metals Overview.md|Metals Overview]]
+- [[Metals Overview|Metals Overview]]
 
 %% DATAVIEW_PUBLISHER: end %%
