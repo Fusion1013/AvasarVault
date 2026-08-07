@@ -10,4 +10,4 @@ properties:
 rarity: Very Rare
 cost_plant: gp
 ---
-A type of [[Plants Overview|Plant]]. Can give a person strange abilities after ingestion, similar to wild magic. Has been outlawed and forbidden to use, hence its name. Very addictive but hard to find.
+A type of [[Plants|Plant]]. Can give a person strange abilities after ingestion, similar to wild magic. Has been outlawed and forbidden to use, hence its name. Very addictive but hard to find.

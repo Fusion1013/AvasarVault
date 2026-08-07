@@ -11,4 +11,4 @@ properties:
 rarity: Very Rare
 cost_plant: gp
 ---
-A type of [[Plants Overview|Plant]]. Unassuming looking leafy vine that when uprooted reveals a large, red root. With certain reagents it can be a powerful antitoxin, but by itself is very dangerous.
+A type of [[Plants|Plant]]. Unassuming looking leafy vine that when uprooted reveals a large, red root. With certain reagents it can be a powerful antitoxin, but by itself is very dangerous.

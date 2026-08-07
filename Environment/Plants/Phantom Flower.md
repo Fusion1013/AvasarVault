@@ -10,4 +10,4 @@ properties:
 rarity: Very Rare
 cost_plant: gp
 ---
-A type of [[Plants Overview|Plant]]. Able to project ghostly copies of itself
+A type of [[Plants|Plant]]. Able to project ghostly copies of itself

@@ -8,7 +8,7 @@ FROM #material_overview
 
 - [[Crystals Overview|Crystals Overview]]
 - [[Gases Overview|Gases Overview]]
-- [[Plants Overview|Plants Overview]]
+- [[Plants|Plants Overview]]
 - [[Materials/Properties/Properties Overview.md|Properties Overview]]
 - [[Metals Overview|Metals Overview]]
 

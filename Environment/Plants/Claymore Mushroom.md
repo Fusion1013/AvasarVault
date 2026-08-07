@@ -10,4 +10,4 @@ properties:
 rarity: Very Rare
 cost_plant: gp
 ---
-A type of [[Plants Overview|Plant]]. Explodes when stepped on.
+A type of [[Plants|Plant]]. Explodes when stepped on.

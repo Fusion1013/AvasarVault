@@ -10,4 +10,4 @@ properties:
 rarity: 
 cost_plant: gp
 ---
-[[Plants Overview]]
+[[Plants]]

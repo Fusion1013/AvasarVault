@@ -10,4 +10,4 @@ properties:
 rarity: Uncommon
 cost_plant: 1.00gp
 ---
-A type of [[Plants Overview|Plant]]. Green plant with red berries that grows on certain trees.
+A type of [[Plants|Plant]]. Green plant with red berries that grows on certain trees.
