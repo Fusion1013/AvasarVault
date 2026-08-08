@@ -4,9 +4,7 @@ tags:
   - plant
 aliases:
   - Saku
-family:
-genus:
-species:
+family: "[[Velmoriths]]"
 meta-links:
   - "[[Plants]]"
 ---

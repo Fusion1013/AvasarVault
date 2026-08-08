@@ -1,7 +1,7 @@
 ---
 tags:
   - material
-  - plant
+  - plant-family
 aliases:
   - Chtoflora
   - Gizbitki
