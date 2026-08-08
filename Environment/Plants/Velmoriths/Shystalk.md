@@ -1,3 +1,11 @@
+---
+tags:
+  - material
+  - plant
+aliases:
+meta-links:
+  - "[[Plants]]"
+---
 ![[Pasted image 20260806005838.png]]
 # Overview
 The Shystalk is a massive plant that hides most of its structure underground, in order to protect itself from the powerful storms that ravage the region where it mostly lives. The plant gets its nutrient from a system of thin roots that grow from the central structure of the plant.

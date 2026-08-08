@@ -1,3 +1,11 @@
+---
+tags:
+  - material
+  - plant
+aliases:
+meta-links:
+  - "[[Plants]]"
+---
 RENAME
 ![[Pasted image 20260806010839.png]]
 # Overview
