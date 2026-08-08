@@ -1,13 +1,13 @@
 ---
 tags:
-- material
-- plant
-
+  - material
+  - plant
 description: A fine silver vine that hangs off ledges. It will often weave itself together and looks a lot like spider web but much stronger.
-
 properties:
-- "[[Zephyrous]]"
+  - "[[Zephyrous]]"
 rarity: Rare
 cost_plant: gp
+meta-links:
+  - "[[Plants]]"
 ---
 A type of [[Plants|Plant]]. A fine silver vine that hangs off ledges. It will often weave itself together and looks a lot like spider web but much stronger.

@@ -1,13 +1,13 @@
 ---
 tags:
-- material
-- plant
-
+  - material
+  - plant
 description: Green plant with red berries that grows on certain trees.
-
 properties:
-- "[[Poisonous]]"
+  - "[[Poisonous]]"
 rarity: Uncommon
 cost_plant: 1.00gp
+meta-links:
+  - "[[Plants]]"
 ---
 A type of [[Plants|Plant]]. Green plant with red berries that grows on certain trees.

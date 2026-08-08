@@ -1,14 +1,14 @@
 ---
 tags:
-- material
-- plant
-
+  - material
+  - plant
 description: Grows in deserts. Highly nutritious roots and contain a lot of water. Tastes awful
-
 properties:
-- "[[Mercurial]]"
-- "[[Vital]]"
+  - "[[Mercurial]]"
+  - "[[Vital]]"
 rarity: Very Rare
 cost_plant: gp
+meta-links:
+  - "[[Plants]]"
 ---
 A type of [[Plants|Plant]]. Grows in deserts. Highly nutritious roots and contain a lot of water. Tastes awful

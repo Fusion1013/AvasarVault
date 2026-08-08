@@ -1,13 +1,13 @@
 ---
 tags:
-- material
-- plant
-
+  - material
+  - plant
 description: Explodes when stepped on
-
 properties:
-- "[[Thundering]]"
+  - "[[Thundering]]"
 rarity: Very Rare
 cost_plant: gp
+meta-links:
+  - "[[Plants]]"
 ---
 A type of [[Plants|Plant]]. Explodes when stepped on.

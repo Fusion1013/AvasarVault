@@ -1,13 +1,13 @@
 ---
 tags:
-- material
-- plant
-
+  - material
+  - plant
 description: Large white flowers encased in a delicate bubble. If popped, it shrivels and dies. The nectar is known for its healing properties.
-
 properties:
-- "[[Vital]]"
+  - "[[Vital]]"
 rarity: Very Rare
 cost_plant: gp
+meta-links:
+  - "[[Plants]]"
 ---
 A type of [[Plants|Plant]]. Large white flowers encased in a delicate bubble. If popped, it shrivels and dies. The nectar is known for its healing properties.

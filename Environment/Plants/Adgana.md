@@ -1,13 +1,13 @@
 ---
 tags:
-- material
-- plant
-
+  - material
+  - plant
 description: Flat green leaves that grow in tiers along the tall stem. If the leaves are ground up and eaten the skin of the imbiber gets slightly harder.
-
 properties:
-- "[[Mercurial]]"
+  - "[[Mercurial]]"
 rarity: Uncommon
 cost_plant: gp
+meta-links:
+  - "[[Plants]]"
 ---
 A type of [[Plants|Plant]]. Flat green leaves that grow in tiers along the tall stem. If the leaves are ground up and eaten the skin of the imbiber gets slightly harder.

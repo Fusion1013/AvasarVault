@@ -1,13 +1,13 @@
 ---
 tags:
-- material
-- plant
-
+  - material
+  - plant
 description: A kind of weed that causees minor prickling and rashes. When grilled the flesh can be eaten, causing minor hallucinations and a tingly "static electricity" kind of feeling across the skin.
-
 properties:
-- "[[Lightning]]"
+  - "[[Lightning]]"
 rarity: Common
 cost_plant: 8.00gp
+meta-links:
+  - "[[Plants]]"
 ---
 A type of [[Plants|Plant]]. A kind of weed that causees minor prickling and rashes. When grilled the flesh can be eaten, causing minor hallucinations and a tingly "static electricity" kind of feeling across the skin.

@@ -1,13 +1,13 @@
 ---
 tags:
-- material
-- plant
-
+  - material
+  - plant
 description: A pale green plant that grows on the edges of rivers. The leaves are rough in texture and have tiny horns all along their edges. Can give the sensation of drowning if ingested.
-
 properties:
-- "[[Phantasmal]]"
+  - "[[Phantasmal]]"
 rarity: Uncommon
 cost_plant: gp
+meta-links:
+  - "[[Plants]]"
 ---
 A type of [[Plants|Plant]]. A pale green plant that grows on the edges of rivers. The leaves are rough in texture and have tiny horns all along their edges. Can give the sensation of drowning if ingested.

@@ -1,13 +1,13 @@
 ---
 tags:
-- material
-- plant
-
+  - material
+  - plant
 description: Pollinated by arachnids. Spiders and spider-like creatures are drawn to the plant. Purpulish-blue flowers.
-
 properties:
-- "[[Poisonous]]"
+  - "[[Poisonous]]"
 rarity: Common
 cost_plant: 2.00gp
+meta-links:
+  - "[[Plants]]"
 ---
 A type of [[Plants|Plant]]. Pollinated by arachnids. Spiders and spider-like creatures are drawn to the plant. Purpulish-blue flowers.

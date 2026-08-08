@@ -1,13 +1,13 @@
 ---
 tags:
-- material
-- plant
-
+  - material
+  - plant
 description: Bright red mushrooms commonly used to make healing potions
-
 properties:
-- "[[Vital]]"
+  - "[[Vital]]"
 rarity: Common
 cost_plant: 15.00gp
+meta-links:
+  - "[[Plants]]"
 ---
 A type of [[Plants|Plant]]. Bright red mushrooms commonly used to make healing potions

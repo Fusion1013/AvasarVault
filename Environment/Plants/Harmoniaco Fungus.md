@@ -7,5 +7,7 @@ properties:
   - "[[Mercurial]]"
 rarity: Rare
 cost_plant: gp
+meta-links:
+  - "[[Plants]]"
 ---
 A type of [[Plants|Plant]]. Harmoniaco mushrooms have a unique ability to enhance flavors when cooked with other ingredients, making them a culinary delight. However, it has a short shelf life and are sensitive to environmental changes.

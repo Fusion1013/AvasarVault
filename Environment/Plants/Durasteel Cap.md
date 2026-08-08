@@ -8,5 +8,7 @@ properties:
   - "[[Mercurial]]"
 rarity: Uncommon
 cost_plant: gp
+meta-links:
+  - "[[Plants]]"
 ---
 A type of [[Plants|Plant]]. The Durasteel Cap is a tough and resilient mushroom with a metallic sheen. It's prized for its resistance to pests and diseases. Has a long shelf life. Tough texture when cooked, requiring longer preparation; bland flavor.

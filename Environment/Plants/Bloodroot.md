@@ -1,14 +1,14 @@
 ---
 tags:
-- material
-- plant
-
+  - material
+  - plant
 description: Unassuming looking leafy vine that when uprooted reveals a large, red root. With certain reagents it can be a powerful antitoxin, but by itself is very dangerous.
-
 properties:
-- "[[Inert]]"
-- "[[Poisonous]]"
+  - "[[Inert]]"
+  - "[[Poisonous]]"
 rarity: Very Rare
 cost_plant: gp
+meta-links:
+  - "[[Plants]]"
 ---
 A type of [[Plants|Plant]]. Unassuming looking leafy vine that when uprooted reveals a large, red root. With certain reagents it can be a powerful antitoxin, but by itself is very dangerous.

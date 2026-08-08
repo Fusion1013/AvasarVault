@@ -1,13 +1,13 @@
 ---
 tags:
-- material
-- plant
-
+  - material
+  - plant
 description: Can give a person strange abilities after ingestion, similar to wild magic. Has been outlawed and forbidden to use, hence its name. Very addictive but hard to find.
-
 properties:
-- "[[Chaotic]]"
+  - "[[Chaotic]]"
 rarity: Very Rare
 cost_plant: gp
+meta-links:
+  - "[[Plants]]"
 ---
 A type of [[Plants|Plant]]. Can give a person strange abilities after ingestion, similar to wild magic. Has been outlawed and forbidden to use, hence its name. Very addictive but hard to find.
