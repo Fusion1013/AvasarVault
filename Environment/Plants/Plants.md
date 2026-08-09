@@ -3,9 +3,11 @@ tags:
   - material_overview
 aliases:
   - Plant
+meta-links:
+  - "[[Materials Overview]]"
 ---
 # Overview
-This documents contain a variety of different plants, which is a type of [[Materials Overview|Material]].
+This documents contain a variety of different plants.
 # List of Plants
 ```dataview
 TABLE WITHOUT ID
@@ -16,4 +18,5 @@ rarity AS "Rarity",
 cost_plant AS Cost
 FROM #material AND #plant
 SORT file.link AND family ASC
+WHERE file.link != "Plant"
 ```

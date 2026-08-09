@@ -3,6 +3,7 @@ tags:
   - material
   - plant
 aliases:
+family: "[[Velmoriths]]"
 meta-links:
   - "[[Plants]]"
 ---
