@@ -30,6 +30,8 @@ Sporadic islands float lazily along the smoky surface. Inhabitants of the plane 
 ## The Mist
 The white mists are ever-present, blanketing the plane in its entirety. The density of it varies in pockets, but usually visibility is at a few kilometres.
 
-The mists have a dampening effect on sound as well as magic. Sound never travels more than a few hundred metres, no matter the thickness of the mist. 
+The mists have a dampening effect on sound, magic and on living beings. Sound never travels more than a few hundred metres, no matter the thickness of the mist. When in a dense area sound can get completely absorbed after only a few metres, making normal conversations difficult. Lower tiers of magic get completely absorbed, and higher tiers have a noticeably dampened effect. Communication using magic is completely impossible by any known means. Teleportation is extremely risky, with a high chance of ending up in the wrong location, or only partially arriving at your target.
+
+The mists also have a blanket dampening on living beings. Thoughts come slower while on the plane, and the longer you stay there the worse it gets.
 ## Blazing Light
 The mists that permeate the plane protects the surface from a blazing light above. Sometimes, when the mists clear, the light can reach the surface in a fury. It burns away at the smoky oceans, creating pockets of nothing, threatening to plunge unsuspecting travellers into the depths.
