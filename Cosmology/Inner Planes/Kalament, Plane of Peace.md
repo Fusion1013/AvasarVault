@@ -27,6 +27,8 @@ Air travel is also possible, but made difficult due to the white mist that perme
 
 Sporadic islands float lazily along the smoky surface. Inhabitants of the plane have found ways to use smaller islands as transportation, attaching arcane engines that propel them at surprising speeds through the mists. Larger islands are sometimes tied together, to form floating settlements. The islands can't take much weight, so construction material must be light.
 # Environment
+## Oceans of Smoke
+Oceans cover most of the plane, composed of a greyish gas that looks like smoke on the surface. It continues down until gravity compresses the strange gas into a solid. The gas does not act as a liquid. Nothing solid will float on the surface, it will simply fall through. At some point deep in the depths it will reach an equilibrium, somewhere where light does not reach. Creatures do live inside the oceans, having evolved to sail on the currents with their light bodies.
 ## The Mist
 The white mists are ever-present, blanketing the plane in its entirety. The density of it varies in pockets, but usually visibility is at a few kilometres.
 
