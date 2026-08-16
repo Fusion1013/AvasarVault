@@ -42,4 +42,3 @@ The mists also have a blanket dampening on living beings. Thoughts come slower w
 The mists that permeate the plane protects the surface from a blazing light above. Sometimes, when the mists clear, the light can reach the surface in a fury. It burns away at the smoky oceans, creating pockets of nothing, threatening to plunge unsuspecting travellers into the depths.
 # Inhabitants
 The oceans are not empty. They house a variety of megafauna, from sea-serpents to large fish-like creatures.
-## Worldbeast
