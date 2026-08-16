@@ -29,7 +29,9 @@ Sporadic islands float lazily along the smoky surface. Inhabitants of the plane 
 ## Oceans of Smoke
 Oceans cover most of the plane, composed of a greyish gas that looks like smoke on the surface. It continues down until gravity compresses the strange gas into a solid. The gas does not act as a liquid. Nothing solid will float on the surface, it will simply fall through. At some point deep in the depths it will reach an equilibrium, somewhere where light does not reach. Creatures do live inside the oceans, having evolved to sail on the currents with their light bodies.
 ## Wandering Islands
-Smaller islands dot the oceans, supporting a semblance of life on this plane. The islands have large sack-like organisms growing on the underside, filled with a lighter-than air gas that allows them to float on the surface. Most settlements on the plane are built on some of the larger islands. Sometimes, islands are chained together into larger island groups, allowing for larger settlements. Creating larger such groups is dangerous however, as the organisms growing on the underside of the islands will start fighting for access to nutrients. This might cause some of them to burst, causing the island to sink.
+Smaller islands of white and grey rock dot the oceans, supporting a semblance of life on this plane. The islands have large sack-like organisms growing on the underside, filled with a lighter-than air gas that allows them to float on the surface. Most settlements on the plane are built on some of the larger islands. Sometimes, islands are chained together into larger island groups, allowing for larger settlements. Creating larger such groups is dangerous however, as the organisms growing on the underside of the islands will start fighting for access to nutrients. This might cause some of them to burst, causing the island to sink.
+
+The islands are usually covered in dull moss or shorter types of grass. They pull moisture from the misty air.
 ## The Mist
 The white mists are ever-present, blanketing the plane in its entirety. The density of it varies in pockets, but usually visibility is at a few kilometres.
 
