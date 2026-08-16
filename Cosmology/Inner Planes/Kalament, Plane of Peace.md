@@ -18,7 +18,7 @@ meta-links:
 > | **Celestial Body** | [[Cosmology Overview#Calmara (Peace)\|Calmara]] |
 
 *"I had a name for these waters once. I think. Beautiful place though. Quiet, peaceful. I came here to sell.. something. Bells? Cloth perhaps? No matter, the goods can wait. I find myself quite tired lately, and every day seems shorter than the last. Still, there is no need to hurry. There is never any need to hurry here."
--Hadrik Venn, Merchant of the Outer Routes*
+-Hadrik Venn, Merchant of the Inner Routes*
 # Overview
 [[Kalament, Plane of Peace|Kalament]] is an endless, still ocean of light grey smoke. Sailing on the seas is impossible with regular means as anything solid will simply pass straight through. Travel below the surface also proves a challenge, due to the immense depth and pressure. Magical means have been developed to allow objects to float on the surface, though such vessels are difficult and expensive to make.
 
@@ -41,4 +41,4 @@ The mists also have a blanket dampening on living beings. Thoughts come slower w
 ## Blazing Light
 The mists that permeate the plane protects the surface from a blazing light above. Sometimes, when the mists clear, the light can reach the surface in a fury. It burns away at the smoky oceans, creating pockets of nothing, threatening to plunge unsuspecting travellers into the depths.
 # Inhabitants
-The oceans are not empty. They house a variety of megafauna, from sea-serpents to large fish-like creatures.
+The oceans are not empty. They house a variety of megafauna, from sea-serpents to large fish-like creatures. The skies are also home to a variety of birds and other flying creatures, such as the [[Samsier]].
