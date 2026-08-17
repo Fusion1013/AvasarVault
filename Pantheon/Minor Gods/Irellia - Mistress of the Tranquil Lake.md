@@ -2,8 +2,10 @@
 tags:
   - god
   - minor_god
+aliases:
+  - Irellia
 dtitle: Mistress of the Tranquil Lake
-secondary_titles: 
+secondary_titles:
 essence:
   - Cooperation
   - Indifference
