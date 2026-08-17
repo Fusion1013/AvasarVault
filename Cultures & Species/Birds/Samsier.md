@@ -12,7 +12,8 @@ The [[Samsier]] originate from [[Kalament, Plane of Peace|Kalament]]. They are b
 # Climate
 The species thrives in temperate climates, though they can survive in warmer climates. They are sensitive to cold.
 # Diet
-
-# Reproduction
+In [[Kalament, Plane of Peace|Kalament]] they mostly survive off of seeds found on the larger islands. If there is a source of magic nearby, they do not need to eat, instead slowly feeding off of the magic.
 # Lifespan
+There is only one gender of [[Samsier]], and they reproduce asexually. A [[Samsier]] will lay 1-2 eggs when they reach a certain age, after which they will turn a dull grey colour. Their magical dampening abilities will slowly fade, and after a while they will simply stop eating. If nothing else kills them, all [[Samsier]] eventually die of starvation.
 # Abilities
+They have an innate ability to dampen any magical abilities in an area around them.
