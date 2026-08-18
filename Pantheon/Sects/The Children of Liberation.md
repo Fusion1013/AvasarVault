@@ -39,3 +39,6 @@ Week-long celebration of the time when peoples belief passed a certain threshold
 
 Day where the first person ever reached self-actualization. Commonly used as a start day for pilgrimages
 
+Levels of self-actualization can be seen in the most devoted. Their presence physically changes their surroundings, causing lights to burn brighter
+
+Their Creeds:
