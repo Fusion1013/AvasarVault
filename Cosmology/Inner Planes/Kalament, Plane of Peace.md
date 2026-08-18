@@ -5,7 +5,7 @@ aliases:
   - Kalament
 celestial_body: "[[Cosmology Overview#Calmara (Peace)|Calmara]]"
 attuned_god: "[[Irellia - Mistress of the Tranquil Lake]]"
-planar_metal:
+planar_metal: "[[Sesmite]]"
 meta-links:
   - "[[Planes Overview]]"
 ---
