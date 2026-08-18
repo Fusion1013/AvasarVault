@@ -37,3 +37,5 @@ Holiday:
 
 Week-long celebration of the time when peoples belief passed a certain threshold and began to produce divine powers
 
+Day where the first person ever reached self-actualization. Commonly used as a start day for pilgrimages
+
