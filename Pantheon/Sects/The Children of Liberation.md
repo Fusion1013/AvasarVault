@@ -13,7 +13,7 @@ Below is some important information for players wishing to make a character foll
 
 ## Dungeons and Dragons 5 / 5.5 E
 
-*Recommended Domains:* Order, Knowledge, Grave
+*Recommended Domains:* Order, Knowledge
 *Incompatible Domains:* Arcana
 
 Recommended domains are those that fit the religion best, but any domain excluding incompatible ones can be used in this instance.
