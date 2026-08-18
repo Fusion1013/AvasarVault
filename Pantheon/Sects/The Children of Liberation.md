@@ -42,3 +42,6 @@ Day where the first person ever reached self-actualization. Commonly used as a s
 Levels of self-actualization can be seen in the most devoted. Their presence physically changes their surroundings, causing lights to burn brighter
 
 Their Creeds:
+
+1. We refute the idea that the gods are deserving of the worship of mortals. We reject their Wisdom, their Ancient Oaths, and their sole claim to the power of Divinity
+2. 
