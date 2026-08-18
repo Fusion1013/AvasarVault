@@ -44,4 +44,5 @@ Levels of self-actualization can be seen in the most devoted. Their presence phy
 Their Creeds:
 
 1. We refute the idea that the gods are deserving of the worship of mortals. We reject their Wisdom, their Ancient Oaths, and their sole claim to the power of Divinity
-2. 
+2. We believe that all mortals can reach self-actualization through their own Merits and Achievements. We believe that one is capable of become their most authentic self without the intervention of higher beings.
+3.  We believe that those who have realized their own potential should assist others in becoming their truest self.
