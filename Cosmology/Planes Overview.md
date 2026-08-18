@@ -30,7 +30,8 @@ SORT file.name ASC
 TABLE
 celestial_body AS "Celestial Body", 
 attuned_god AS "Attuned God", 
-aliases AS "Alternative Names" 
+aliases AS "Alternative Names",
+planar_metal AS "Planar Metal"
 FROM #plane/inner 
 SORT file.name ASC
 ```
