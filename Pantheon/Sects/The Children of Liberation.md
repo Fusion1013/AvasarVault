@@ -27,3 +27,8 @@ Recommended domains are those that fit the religion best, but any domain excludi
 *Domains:* Freedom, Introspection, Perfection
 *Alternate Domains:* Confidence, Knowledge, Ambition
 *Cleric Spells:* 1st: Endure 5th: Rallying Banner 7th: Defy the Gods
+
+
+Originally, the Children of Liberation was not a religious sect, but a group of intellectuals formed by high-profile Turochan revolutionaries from the founding of the nation. As time passed and their ideals spread throughout the new nation, people began to believe in the organization's ideals so strongly that they would gain divine powers without the intervention of a god
+
+The religion has no person or being that it worships. Followers worship the ideals of freedom and self-actualization. However, some locations further from the capital 
