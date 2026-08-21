@@ -10,7 +10,7 @@ rarity: Rare
 cost_kg: 230gp
 cost_lb:
 plane:
-  - "[[Kalament, Plane of Peace]]"
+  - "[[Kalament, The Empty Sea]]"
 meta-links:
   - "[[Metals Overview]]"
 ---

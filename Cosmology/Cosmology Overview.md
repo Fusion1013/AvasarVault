@@ -88,7 +88,7 @@ This planet is a shiny, black orb with swirling clouds of dark gray, locked in a
 
 A watery planet with a temperature similar to that of Avasar. Contains large seas covered in algae, which is what gives it the greenish-yellow coloration. It is the brightest planet, which means it can easily be spotted in the night sky with the naked eye.
 #### Calmara (Peace)
-**Corresponding Plane:** [[Kalament, Plane of Peace]]
+**Corresponding Plane:** [[Kalament, The Empty Sea]]
 **Appearance:** The surface is covered in a thick, white fog.
 
 The fog, which is called [[Foscastein]], that covers the planet is said to give a calming effect to anyone who breathes it in. If someone were to breathe in the gas for too long, they would eventually fall into a deep sleep, entering a comatose state.

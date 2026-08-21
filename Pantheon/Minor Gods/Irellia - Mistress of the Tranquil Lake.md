@@ -14,11 +14,11 @@ essence:
 todo:
   - Populate sections for domain, symbology and worship
 plane:
-  - "[[Kalament, Plane of Peace]]"
+  - "[[Kalament, The Empty Sea]]"
 draft: false
 ---
 # Overview
-One of the minor [[Pantheon Overview|Gods]], attuned to [[Kalament, Plane of Peace|Kalament]].
+One of the minor [[Pantheon Overview|Gods]], attuned to [[Kalament, The Empty Sea|Kalament]].
 # Domain
 Irellia is the embodiment of peace, stillness, and unity, but also of apathy and inaction. She represents the calm waters that soothe the soul, the silence that follows conflict, and the serenity that comes from balance.
 
