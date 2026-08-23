@@ -10,7 +10,7 @@ rarity: Rare
 cost_kg: 230gp
 cost_lb:
 plane:
-  - "[[Kalament, The Silent Sea]]"
+  - "[[Kalament - The Silent Sea]]"
 meta-links:
   - "[[Metals Overview]]"
 ---
