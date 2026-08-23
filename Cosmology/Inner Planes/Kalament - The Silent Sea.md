@@ -42,5 +42,7 @@ The mists have a dampening effect on sound, magic and on living beings. Sound ne
 The mists also have a blanket dampening on living beings. Thoughts come slower while on the plane, and the longer you stay there the worse it gets. Memories start to fade, until you are only a husk of what you once were. Some use this property of the plane as an opportunity to escape from who they used to be, others use it as a punishment unto others.
 ## Blazing Light
 The mists that permeate the plane protects the surface from a blazing light above. Sometimes, when the mists clear, the light can reach the surface in a fury. It burns away at the smoky oceans, creating pockets of nothing, threatening to plunge unsuspecting travellers into the depths.
+## Obsidian Pillars
+The landscape is sometimes interrupted by massive obsidian pillars that rise up through the ocean. The pillars are usually hexagonal in shape, with slight variations. The pillars are weathered and worn, but solid. They vary greatly in size, with the smallest ones only a few meters across, while the larger ones can span up to 60 meters in diameter. They are the only permanent natural structures, which have made them useful for navigation. Outpost are often built upon them and settlement islands often anchor to them.
 # Inhabitants
-The oceans are not empty. They house a variety of megafauna, from sea-serpents to large fish-like creatures. The skies are also home to a variety of birds and other flying creatures, such as the [[Samsier]].
+The oceans are not empty. They house a variety of megafauna, from sea-serpents to large fish-like creatures. The skies are home to a variety of birds and other flying creatures, such as the [[Samsier]].
