@@ -1,14 +1,14 @@
 ---
 tags:
   - magic_item
-rarity:
+rarity: Very Rare
 cost_sac:
 meta-links:
   - "[[Magic Items]]"
 ---
 > [!infobox|right]
 > # Magic Supressing Bracelet
-> ![[placeholder.png]]
+> ![[MagicSupressingBraceletCropped.png]]
 > ###### Basic Information
 > | **Type** | Bracelet |
 > | - | - |
