@@ -8,7 +8,7 @@ meta-links:
 ---
 > [!infobox|right]
 > # Magic Supressing Bracelet
-> ![[MagicSupressingBraceletCropped.png]]
+> ![[Pasted image 20260913144414.png]]
 > ###### Basic Information
 > | **Type** | Bracelet |
 > | - | - |
