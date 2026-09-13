@@ -15,7 +15,7 @@ meta-links:
 > | **Rarity** | Very Rare |
 > | **Cost** | 0 SAC |
 
-*"Magic is a part of every living soul. To detach one from the source is to detach a part of oneself."*
+*"Separating another being from the very fabric of what makes the world move is a brutal, unnatural, and excruciating process. It requires tampering with the very soul of that creature."*
 # Overview
 A pair of bracelets that supress magic. A bracelet is in two parts, a thin metal rod made from [[Sesmite]], and a ring made from interlocking metal parts.
 # History
