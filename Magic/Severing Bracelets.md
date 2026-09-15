@@ -7,7 +7,7 @@ meta-links:
   - "[[Magic Items]]"
 ---
 > [!infobox|right]
-> # Magic Supressing Bracelet
+> # Severing Bracelets
 > ![[Pasted image 20260913144414.png]]
 > ###### Basic Information
 > | **Type** | Bracelet |
