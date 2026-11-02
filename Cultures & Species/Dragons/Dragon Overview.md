@@ -10,3 +10,5 @@ Every dragon will get its own document, stored in the same folder, that will sho
 This first section is for information that does not fit in the other subsections, such as populace and the aforementioned changes between the settings. Each dragon will have its own subsection in this document, which you can select on the left. The two main subsets of dragons will also have details, such as where they came from, their general makeup, and stuff like that. 
 ## Dragon Populace
 While the singular documents show groups of dragons that will always be in one particular area, like the [[Skywing Transport|Shipment Dragons]] on the [[Dragonback Mountains]], there are always going to be other individuals in other places.
+# Ideas
+PUT CANNONS ON DRAGONS
